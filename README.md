@@ -62,4 +62,10 @@ For decoding the data, refer to `decode.py`, which requires as input:
 
 # Research
 
-Soon to upload...
+Please see `Human_Grover_LDA_News.ipynb` and `Human_Grover_LDA_Reddit.ipynb` to observe the research I have been working on. Each notebook preproesses its respective dataset (i.e. News or Reddit), runs an LDA model utilizing pretrained models (outlined in notebook), and performs multiple statistical analyses on the human and computer-generated texts in the respective order:
+- Average word counts across topics
+- Difference in average word counts across topics
+- Number of documents with 50% or higher threshold than uniform distribution
+- Single-most/least representative documents across datasets
+- (Unique) topic words analysis
+- Visual analysis of LDA model
