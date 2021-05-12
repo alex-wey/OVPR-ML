@@ -1,0 +1,35 @@
+This is an adorable bundle of love ##BASIC STATE
+ that is going to need very , very care . ##COERCED STATE (SPECIFIC)
+Fox News News reporter Dan Schnur notes ##UNBOUNDED EVENT (SPECIFIC) //1
+ that drugs are on the brain ##GENERIC SENTENCE (HABITUAL)
+ of parents ##OTHER
+ as their kids reach a lot of anxiety and depression . ##GENERIC SENTENCE (DYNAMIC)*
+Talk about not answering the phone : ##IMPERATIVE
+Meanwhile , ##OTHER
+Wapping is preparing for the long term . ##UNBOUNDED EVENT (GENERIC)* //1
+Via Talking Points Memo : ##OTHER
+ This baby is the first American child with an umbilical cord stem . ##BASIC STATE
+The umbilical cord connects the mother to her childs umbilical cord . ##GENERIC SENTENCE (HABITUAL) //4
+It is said ##GENERIC SENTENCE (DYNAMIC)
+ that the childs umbilical cord becomes almost severed ##GENERIC SENTENCE (DYNAMIC)
+ when the other part of the umbilical cord has been severed . ##PERFECT COERCED STATE (GENERIC)
+Pushing the cord can make the child prone to his or her own blood clots ##COERCED STATE (GENERIC)
+ that can survive in the blood-splattered shell of his or her body . ##COERCED STATE (GENERIC)
+The umbilical cord is being taken out . ##UNBOUNDED EVENT (SPECIFIC) //4
+An eardrum hemorrhage occurs ##GENERIC SENTENCE (DYNAMIC)
+ when a red substance of blood starts coming out of the outer layer of the babys chest , ##GENERIC SENTENCE (DYNAMIC)
+a cause that will allow the skin to thicken more quickly and needlessly . ##COERCED STATE (GENERIC)
+The odds of the baby ##OTHER
+ dying ##UNBOUNDED EVENT (SPECIFIC)
+ before he or she has been discovered ##PERFECT COERCED STATE (GENERIC)
+ are very high . ##GENERIC SENTENCE (STATIC)
+A study recently found ##BOUNDED EVENT (SPECIFIC)
+ that infants with a healthy , normal umbilical cord are four times as likely to die from disease ##GENERIC SENTENCE (STATIC)
+ as babies born with a defective one . ##GENERIC SENTENCE (STATIC)
+The Wisconsin State Journal , ##OTHER
+ speaking with Schnurs boss at Fox News , ##UNBOUNDED EVENT (SPECIFIC)
+ has plans to have a " cotton milkshake " ##BASIC STATE
+ made of peanut butter and eggs in the next days magazine . ##BASIC STATE
+Schnur writes ##UNBOUNDED EVENT (SPECIFIC)
+ that it is not " socially appropriate . " ##BASIC STATE //4
+***0 3 1 0 0 0 0 0 NO NA YES 0 0 0 0 ALGORITHM

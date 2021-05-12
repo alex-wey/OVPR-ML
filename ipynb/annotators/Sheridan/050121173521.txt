@@ -1,0 +1,28 @@
+On August 31 , ##OTHER
+ the U.S. Court of Appeals for the Ninth Circuit ruled ##BOUNDED EVENT (SPECIFIC)
+ that the ban on gun sales to marijuana card holders is constitutional . ##BASIC STATE
+The lawsuit was filed by S. Rowan Wilson , ##BOUNDED EVENT (SPECIFIC)
+a Nevada resident ##OTHER
+ who was denied a firearm purchase in 2011 ##BOUNDED EVENT (SPECIFIC)
+ after obtaining a medical marijuana card . ##BOUNDED EVENT (SPECIFIC)
+According to the Associated Press , ##BASIC STATE
+the gun store told Wilson ##BOUNDED EVENT (SPECIFIC)
+ she could not purchase the gun because of a federal law ##COERCED STATE (SPECIFIC)
+ barring marijuana card holders from purchasing firearms . ##UNBOUNDED EVENT (GENERIC)
+Although some states have legalized marijuana whether for recreational use or as a medical aide the drug ##PERFECT COERCED STATE (GENERIC)
+ remains illegal on the federal level . ##GENERIC SENTENCE (STATIC)
+And the Bureau of Alcohol , Tobacco , Firearms and Explosives has told gun sellers ##PERFECT COERCED STATE (SPECIFIC)
+ they can assume a person ##COERCED STATE (GENERIC)
+ with a medical marijuana card uses the drug , ##GENERIC SENTENCE (DYNAMIC)
+ which means ##BASIC STATE
+ they cannot pass a federal background check for a gun purchase . ##COERCED STATE (GENERIC)
+Form 4473 of the background check process asks ##UNBOUNDED EVENT (SPECIFIC)
+ if the would-be firearm purchaser is an unlawful user of marijuana . ##GENERIC SENTENCE (STATIC)
+No one ##OTHER
+ who answers yes to that question can purchase a gun . ##GENERIC SENTENCE (DYNAMIC) //4
+The Ninth Circuit panel ruled unanimously in favor of the gun ban . ##BOUNDED EVENT (SPECIFIC)
+Senior District Judge Jed Rakoff said ##BOUNDED EVENT (SPECIFIC)
+ banning firearms sales to marijuana users is reasonable ##GENERIC SENTENCE (STATIC)
+ because using the drug raises the risk of irrational or unpredictable behavior ##GENERIC SENTENCE (DYNAMIC)
+ with which gun use should not be associated . ##GENERIC SENTENCE (STATIC)
+***0 5 5 2 5 5 5 1 YES ML YES 0 0 0 0 HUMAN

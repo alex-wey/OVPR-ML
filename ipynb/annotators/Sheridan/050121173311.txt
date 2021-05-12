@@ -1,0 +1,51 @@
+Scientists in Israel are exploring another medical use for marijuana : ##UNBOUNDED EVENT (SPECIFIC) //4
+ Their research indicates ##BASIC STATE
+ that a compound in the plant helps heal bone fractures . ##GENERIC SENTENCE (DYNAMIC)
+The new study , ##OTHER
+ published in the Journal of Bone and Mineral Research , ##BASIC STATE
+ found ##BOUNDED EVENT (SPECIFIC)
+ that broken bones healed faster and stronger ##GENERIC SENTENCE (DYNAMIC)
+ when the patient received the non-psychoactive compound cannabidiol , ##GENERIC SENTENCE (DYNAMIC) //4
+or CBD . ##OTHER
+"We found ##BOUNDED EVENT (SPECIFIC)
+ that CBD alone makes bones stronger during healing , ##GENERIC SENTENCE (DYNAMIC)
+ enhancing the maturation of the collagenous matrix , ##GENERIC SENTENCE (DYNAMIC) 
+ which provides the basis ##GENERIC SENTENCE (DYNAMIC)
+ for new mineralization of bone tissue ," ##OTHER
+said Dr. Yankel Gabet , ##BOUNDED EVENT (SPECIFIC)
+one of the lead researchers , ##OTHER
+in a statement . ##OTHER
+"After being treated with CBD , ##BOUNDED EVENT (GENERIC)
+ the healed bone will be harder to break in the future . " ##GENERIC SENTENCE (HABITUAL) //4
+Researchers administered CBD to a group of rats with mid-femoral fractures . ##BOUNDED EVENT (SPECIFIC)
+After just eight weeks , ##OTHER
+ they saw marked improvement in the broken bones . ##BOUNDED EVENT (SPECIFIC)
+They injected another group of rats with a mixture of CBD and THC , ##BOUNDED EVENT (SPECIFIC)
+marijuana 's psychoactive ingredient . ##OTHER
+Comparing the results , ##UNBOUNDED EVENT (SPECIFIC)
+ they concluded ##BOUNDED EVENT (SPECIFIC)
+ that CBD alone was an effective treatment . ##GENERIC SENTENCE (STATIC)
+Researchers explained ##BOUNDED EVENT (SPECIFIC)
+ that humans have a naturally occurring endocannabinoid system , ##GENERIC SENTENCE (STATIC)
+ which regulates a number of physiological processes as well as the skeleton . ##GENERIC SENTENCE (DYNAMIC)
+The human brain and body are thus prepped to be responsive to cannabinoids , ##GENERIC SENTENCE (STATIC)
+even those from an outside source like marijuana . ##OTHER
+Gabet of the Bone Research Laboratory at Tel Aviv University and the late professor Itai Bab of the Bone Laboratory at Hebrew University led the research . ##BOUNDED EVENT (SPECIFIC)
+A number of studies in recent years have demonstrated the medical potential of marijuana . ##PERFECT COERCED STATE (GENERIC) //4
+Purified forms of cannabis ##OTHER
+ have been tied to better blood sugar control ##PERFECT COERCED STATE (GENERIC)
+ and may help slow the spread of HIV . ##COERCED STATE (GENERIC)
+A growing body of research suggests ##GENERIC SENTENCE (STATIC)
+ CBD may also be effective in reducing inflammation ##GENERIC SENTENCE (STATIC)
+ brought on by multiple sclerosis , ##GENERIC SENTENCE (DYNAMIC)
+ stopping metastasis in many kinds of aggressive cancer , ##GENERIC SENTENCE (DYNAMIC)
+ killing cancerous cells in people with leukemia ##GENERIC SENTENCE (DYNAMIC)
+ and serving as an alternative antipsychotic treatment . ##GENERIC SENTENCE (HABITUAL) //4
+"The clinical potential of cannabinoid-related compounds is simply undeniable at this point , " ##GENERIC SENTENCE (STATIC)
+Gabet said . ##BOUNDED EVENT (SPECIFIC)
+Seventeen U.S. states have legalized CBD for limited medical use or research , ##PERFECT COERCED STATE (SPECIFIC)
+ and 23 other states have more broadly legalized marijuana for medical purposes . ##PERFECT COERCED STATE (SPECIFIC)
+Still , ##OTHER
+the federal government continues to ban the plant , ##UNBOUNDED EVENT (SPECIFIC)
+ classifying it as one of the " most dangerous " drugs with " no currently accepted medical use . " ##UNBOUNDED EVENT (GENERIC) //4
+***0 5 5 1 5 5 5 1 YES ML YES 5 2 5 5 HUMAN

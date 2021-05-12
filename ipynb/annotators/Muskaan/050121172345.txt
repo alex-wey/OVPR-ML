@@ -1,0 +1,41 @@
+Robert Garrigus , ##OTHER
+ who finished in a tie for third at the U.S. Open at Congressional Country Club recently , ##BOUNDED EVENT (SPECIFIC)
+ said ##BOUNDED EVENT (SPECIFIC)
+ he and other golfers used to smoke marijuana ##GENERIC SENTENCE (DYNAMIC)
+ while they were on the course ##GENERIC SENTENCE (HABITUAL)
+ playing in Nationwide Tour . ##GENERIC SENTENCE (DYNAMIC)
+Garrigus , ##OTHER
+33 , ##OTHER
+went through a rehab program ##BOUNDED EVENT (SPECIFIC)
+ as he battled substance abuse issues early in his career . ##UNBOUNDED EVENT (SPECIFIC)
+As a player the Nationwide Tour , ##OTHER
+the PGAs developmental circuit , ##OTHER
+ he and other golfers would sneak off ##GENERIC SENTENCE (DYNAMIC)
+ to smoke often in portable toilets . ##GENERIC SENTENCE (DYNAMIC)
+Oh , ##OTHER
+yeah , ##OTHER
+there were plenty of guys on the Nationwide Tour ##GENERIC SENTENCE (STATIC)
+ who smoked in the middle of the round , ##GENERIC SENTENCE (DYNAMIC)
+ Garrigus told Golf Digest . ##BOUNDED EVENT (SPECIFIC)
+We always talked about it . ##GENERIC SENTENCE (DYNAMIC)
+You could go in the Porta John ##COERCED STATE (GENERIC)
+ and take your drags . ##COERCED STATE (GENERIC)
+Garrigus said ##BOUNDED EVENT (SPECIFIC)
+ his drug use was limited ##BASIC STATE
+ and began during college at Arizona . ##BOUNDED EVENT (SPECIFIC)
+The PGA began drug testing in 2008 . ##BOUNDED EVENT (SPECIFIC)
+It was all golf and partying , ##GENERIC SENTENCE (STATIC)
+ he said . ##BOUNDED EVENT (SPECIFIC)
+I never did hard drugs . ##GENERALIZING SENTENCE (DYNAMIC)
+I never did coke or LSD . ##GENERALIZING SENTENCE (DYNAMIC)
+It was just smoking and drinking and hanging out with friends . ##GENERIC SENTENCE (STATIC)
+The smoking got to be habitual : ##UNBOUNDED EVENT (GENERIC)
+five , 10 , maybe 20 times a day . ##OTHER
+I did n't keep track of how much . ##GENERALIZING SENTENCE (DYNAMIC)
+I constantly needed to be high . ##BASIC STATE
+And I took it to the max . ##UNBOUNDED EVENT (SPECIFIC)
+Every single day . ##OTHER
+Mostly just smoking , smoking , smoking . ##OTHER
+
+
+***0 5 5 0 0 0 0 0 YES ML NO 0 0 0 0 HUMAN

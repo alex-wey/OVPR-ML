@@ -1,0 +1,16 @@
+The youngest child of reggae legend Bob Marley has admitted growing marijuana in her Philadelphia-area home . ##PERFECT COERCED STATE (SPECIFIC)
+The Daily Local News of West Chester reports ##BASIC STATE
+ 29-year-old Makeda Jahnesta Marley pleaded guilty Tuesday to having nearly a dozen large marijuana plants inside her home west of Philadelphia . ##BOUNDED EVENT (SPECIFIC)
+Marley was arrested in 2008 ##BOUNDED EVENT (SPECIFIC)
+ after police say ##BASIC STATE
+ they found her ##BOUNDED EVENT (SPECIFIC)
+ removing plants from the basement ##UNBOUNDED EVENT (SPECIFIC)
+ when officers arrived on a domestic dispute call . ##BOUNDED EVENT (SPECIFIC)
+At a February hearing , ##OTHER
+ Marley told the court ##BOUNDED EVENT (SPECIFIC)
+ she had exhausted a trust fund ##PERFECT COERCED STATE (SPECIFIC)
+ she received from her father 's estate ##BOUNDED EVENT (SPECIFIC)
+ when she turned 18 . ##BOUNDED EVENT (SPECIFIC)
+Sentencing is scheduled for October . ##BASIC STATE
+
+***0 5 5 4 5 5 4 1 YES ML NO 0 0 0 0 HUMAN

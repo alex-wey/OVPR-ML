@@ -1,0 +1,64 @@
+Americas marijuana growers will continue to benefit from supply shortages . ##COERCED STATE (GENERIC)
+Since feds began cracking down on legalized shipments of cannabis back in September , ##BOUNDED EVENT (GENERIC)
+ state-run pot shops have been producing 50-liter batches of 2-liter , high-quality , increasingly potent , dark-skinned marijuana . ##PERFECT COERCED STATE (GENERIC)
+But growers are still able to import hundreds of thousands of ounces of the drug from California . ##GENERIC SENTENCE (STATIC)
+Of the nearly 40 million ounce marijuana thats ##OTHER
+ destined for California now and then , ##GENERIC SENTENCE (HABITUAL)
+12.5 million or more of those are illegally kept illegally on the shelves of border states , ##GENERIC SENTENCE (STATIC)
+ making the market business volatile ##GENERALIZING SENTENCE (DYNAMIC)
+ and breaking down in twists and turns ##GENERALIZING SENTENCE (DYNAMIC)
+ along the way . ##OTHER
+The bitter conflict ##OTHER
+ between illegal and permitted marijuana use has resulted in the U.S. Customs and Border Protection taking marijuana stocks directly from growers to retailers ##BOUNDED EVENT (GENERIC)
+ and eventually pushing companies under the influence of hundreds of federal laws and regulations . ##UNBOUNDED EVENT (GENERIC)
+This is truly a financial gap for growers , ##BASIC STATE
+ Trump State Department Director Michael Barone told reporters this summer . ##BOUNDED EVENT (SPECIFIC)
+The annual report ##OTHER
+ released this fall with the American Cannabis Industry Association ##BOUNDED EVENT (SPECIFIC)
+ estimates ##BASIC STATE
+ that the major pharmaceutical companies are remaining cautious about distributing marijuana , ##GENERIC SENTENCE (STATIC)
+ fearing the importation of 24.6 million ounces of the drug into the United States . ##GENERIC SENTENCE (STATIC)
+The report identifies 12 major U.S. companies ##BASIC STATE
+ that pay hundreds of millions of dollars a year in fees 
+ to grow and sell marijuana . ##GENERALIZING SENTENCE (DYNAMIC)
+The international marijuana market , ##OTHER
+ including most notably Canada , ##BASIC STATE
+holds the largest total of its kind in the world , ##BASIC STATE
+ and it was profitable , ##BASIC STATE
+ according to the report . ##BASIC STATE
+But the reports dont include the analysis of federal laws ##BASIC STATE 
+ governing the exports of marijuana to other countries , ##GENERIC SENTENCE (STATIC)
+ including the U.S. DEA , ##GENERIC SENTENCE (STATIC)
+ which maintains a solid track record ##BASIC STATE
+ of dealing with US companies . ##GENERALIZING SENTENCE (DYNAMIC)
+At the time of this article , ##OTHER
+the agency wasnt divulging much information about its successful marijuana use efforts ##BASIC STATE
+ with growing , ##OTHER
+ for example , ##OTHER
+ indicating ##UNBOUNDED EVENT (SPECIFIC)
+ that US growers were still operating operations to the exclusion of the government ##GENERIC SENTENCE (STATIC)
+ but the report shows ##BASIC STATE
+ that those efforts arent dead , ##GENERIC SENTENCE (STATIC)
+in part ##OTHER
+ because the feds dont actively enforce marijuana laws against California growers . ##GENERIC SENTENCE (DYNAMIC)
+When choosing growers , ##GENERIC SENTENCE (DYNAMIC)
+ growers typically pick from the nations best , most sophisticated cannabis , ##GENERIC SENTENCE (DYNAMIC)
+ using plenty of medications . ##GENERIC SENTENCE (DYNAMIC)
+Nationally , ##OTHER
+however , ##OTHER
+ the U.S. ranks fourth in overall marijuana availability in terms of drug intoxication severity , ##BASIC STATE
+ according to the DEA , ##BASIC STATE
+ which sources the biggest , most unpredictable part of the countrys marijuana market . ##GENERALIZING SENTENCE (DYNAMIC)
+Producers can still find and collect a good share of revenue from the legal cannabis industry outside their borders , ##GENERIC SENTENCE (STATIC)
+ the report says . ##BASIC STATE
+While growers of US exports were nowhere near the top of the list of affected sectors , ##GENERIC SENTENCE (STATIC)
+ many suggested other pathways . ##UNBOUNDED EVENT (GENERIC)
+In the meantime , ##OTHER
+growers are still getting a share of the illicit profits 
+ going to a lot of U.S. drug stores . ##GENERIC SENTENCE (HABITUAL)
+Thats because of the large number of illegal drugs ##GENERIC SENTENCE (STATIC)
+ being exported to five different states ##GENERIC SENTENCE (HABITUAL)
+ including Georgia , South Carolina , Texas , Florida , and Oklahoma ##BASIC STATE
+ which makes marijuana smuggling easily hazardous for any one person . ##GENERIC SENTENCE (STATIC)
+
+***1 5 5 0 0 0 0 0 YES ML YES 4 0 0 0 ALGORITHM

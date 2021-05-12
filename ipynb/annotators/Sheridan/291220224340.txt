@@ -1,0 +1,24 @@
+If no pot ##OTHER
+ is found , ##COERCED STATE (GENERIC)
+ just plant some from your personal stash. ##IMPERATIVE //3
+* Make sure to make lots of noise and use sirens and flashing lights throughout the raid , ##IMPERATIVE //3
+ so that all the neighbors ##OTHER
+ see ##UNBOUNDED EVENT (GENERIC)
+ what 's happening. ##UNBOUNDED EVENT (GENERIC)
+* Once the raid is finished , ##BOUNDED EVENT (GENERIC)
+ return to the precinct , ##IMPERATIVE //3
+ where we all strip down ##UNBOUNDED EVENT (GENERIC)
+ and have sex with each other , ##UNBOUNDED EVENT (GENERIC)
+ rolling around in the sweet testosterone. ##UNBOUNDED EVENT (GENERIC)
+* Once the raid is finished , ##BOUNDED EVENT (GENERIC)
+ return to the precinct , ##IMPERATIVE //3
+ where we all strip down ##UNBOUNDED EVENT (GENERIC)
+ and have sex with each other , ##UNBOUNDED EVENT (GENERIC)
+ rolling around in the sweet testosterone . ##UNBOUNDED EVENT (GENERIC)
+James Simons is active in the legal cannabis movement , ##BASIC STATE
+ having since moved out of his teens . ##PERFECT COERCED STATE (SPECIFIC)
+Although his level of pot use is now relatively under-reported ##BASIC STATE*
+ and no longer associated with random drug raids , ##BASIC STATE
+ Mr Simons will probably go into hiding for a little while . ##COERCED STATE (SPECIFIC)
+But from the episode you 'll get to know him well . ##COERCED STATE (GENERIC) //4
+***0 2 0 0 0 0 0 0 YES ML NO UNCLEAR4 1 1 1 ALGORITHM

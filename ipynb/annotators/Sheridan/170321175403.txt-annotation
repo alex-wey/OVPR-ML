@@ -1,0 +1,41 @@
+1 2 0 0 elab
+3 3 4 5 attr
+2 2 1 1 elab
+3 5 0 2 deg
+5 5 4 4 elab
+
+6 7 0 5 elabx
+7 7 6 6 elab
+
+8 9 4 5 elab
+8 8 9 9 sim
+
+10 10 11 13 attr
+12 12 11 11 elab
+11 12 13 13 contr
+10 13 0 0 elab
+
+14 16 11 13 contr
+15 15 14 14 elab
+16 16 14 15 elab
+
+10 10 17 20 attr
+17 17 18 20 elab
+19 19 18 18 elab
+18 19 20 20 contrx
+20 20 18 19 deg
+
+21 23 17 20 contr
+21 21 22 23 elab
+22 22 23 23 contr
+
+24 26 17 23 contr
+25 26 24 24 elab
+25 25 26 26 contr
+
+27 30 0 0 elab
+28 28 27 27 elab
+27 28 29 30 contr
+29 29 30 30 attr
+
+

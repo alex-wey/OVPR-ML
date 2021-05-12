@@ -1,0 +1,112 @@
+Drug addiction and mental health are receiving plenty of medical scrutiny lately . ##UNBOUNDED EVENT (GENERIC)
+When dental braces help cut one 's teeth , ##UNBOUNDED EVENT (GENERIC)
+ they can improve skeletal health . ##COERCED STATE (GENERIC)
+Last year Michigan lawmakers approved three treatments : ##BOUNDED EVENT (GENERIC)
+ a benign bacterial stench ##OTHER
+ that can be deadly on the patient 's teeth ; ##GENERIC SENTENCE (STATIC)
+ a perforated bone with a patch ##OTHER
+ that can stop popping ##COERCED STATE (GENERIC)
+ and cause pain ; ##COERCED STATE (GENERIC)
+ and a new patient 's teeth ##OTHER
+ that take up less oxygen . ##GENERIC SENTENCE (DYNAMIC)*
+Seven straight years of new tests will help state medical doctors determine ##COERCED STATE (GENERIC)
+ if a patient with a lifelong debilitating condition could be a candidate for drug-free treatment , ##GENERIC SENTENCE (STATIC)
+ thanks to new research at Michigan State University and Medical School . ##OTHER
+Scientists hope ##GENERIC SENTENCE (STATIC)
+ these new treatments will prevent the worst cases of medical marijuana abuse . ##COERCED STATE (GENERIC)
+" It looks ##GENERIC SENTENCE (STATIC)
+ like there 's a real recognition of how serious the problem is , ##GENERIC SENTENCE (STATIC)
+ and where we can impact these people in the future , " ##COERCED STATE (GENERIC)
+said Dr. Marc Ceglia , ##BOUNDED EVENT (SPECIFIC)
+the school 's director of medical marijuana . ##OTHER
+Researchers trained 6,000 Kent State University and Michigan State University medical students to analyze the possibility ##BOUNDED EVENT (SPECIFIC)
+ of marijuana " preventing " access to certain classes of medical marijuana . ##UNBOUNDED EVENT (GENERIC)*
+After analyzing the data , ##BOUNDED EVENT (GENERIC)
+ the researchers recruited 6,000 dental patients and 66 doctors ##BOUNDED EVENT (SPECIFIC)
+ who treated 50,000 patients . ##BOUNDED EVENT (SPECIFIC)
+Sixteen patients died after being prescribed either prescription drugs or marijuana by their doctors . ##BOUNDED EVENT (SPECIFIC)
+Researchers determined ##BOUNDED EVENT (SPECIFIC)
+ that drug addicts had more problems ##GENERIC SENTENCE (STATIC)
+ -- such as learning to use marijuana less efficiently , ##GENERIC SENTENCE (DYNAMIC)*
+ getting lost , ##GENERIC SENTENCE (DYNAMIC)
+ or becoming disorientated by the use of painkillers -- ##GENERIC SENTENCE (DYNAMIC)
+ than previous patients . ##OTHER
+" The clinical research shows ##BASIC STATE //3
+ cannabis is no longer a hallucinogenic drug , ##GENERIC SENTENCE (STATIC)
+ and it 's now a once-in-a-lifetime treat , " ##GENERIC SENTENCE (STATIC)
+Ceglia said . ##BOUNDED EVENT (SPECIFIC)
+In Michigan , ##OTHER
+doctors at Ampathe and West Michigan Medical Hospitals were given information from the tests ##BOUNDED EVENT (SPECIFIC)
+ they used to determine ##BOUNDED EVENT (SPECIFIC)
+ whether patients were a potential candidate for potential marijuana use . ##BASIC STATE
+The tests showed ##BOUNDED EVENT (SPECIFIC)
+ that 24 percent of patients ##OTHER
+ -- or 1,378 people -- ##OTHER
+ were thinking about getting a marijuana-free hand . ##UNBOUNDED EVENT (SPECIFIC)
+That put off many more patients ##BOUNDED EVENT (SPECIFIC) //4
+ who could n't go into a complicated upper body chair , ##COERCED STATE (SPECIFIC) //4
+ which was considered the case for 11 percent of the 51 patients , ##BOUNDED EVENT (SPECIFIC) //3
+or 990 patients . ##OTHER
+The study was sponsored by the American Medical Association and the Medical Society of Michigan . ##BOUNDED EVENT (SPECIFIC)
+Research on medical marijuana was focused on patients with drug-induced medical conditions ##GENERIC SENTENCE (STATIC)
+ who had never been on it ##GENERIC SENTENCE (STATIC)
+ -- and thus could n't help it . ##COERCED STATE (GENERIC)
+" Using the clinical researchers ' findings , ##UNBOUNDED EVENT (SPECIFIC)
+ we can re-evaluate the intent of medical marijuana laws ##COERCED STATE (SPECIFIC)
+ and expand their scope of benefits , " ##UNBOUNDED EVENT (SPECIFIC)
+said Dr. Carol Henry , ##BOUNDED EVENT (SPECIFIC)
+a neurologist at University Hospitals and Children 's Hospital ##OTHER
+ who was n't involved in the research . ##BASIC STATE
+Despite MSA 's vaccine skepticism about medical marijuana , ##OTHER
+the group 's estimates were accurate . ##BASIC STATE
+" They 've offered treatment ##COERCED STATE (SPECIFIC)
+ that can meet two-thirds of the patients ' needs . ##COERCED STATE (SPECIFIC)
+It makes sense ##BASIC STATE
+ that there was one person ##BASIC STATE
+ who needed it , ##BASIC STATE
+ and it made sense ##BASIC STATE
+ that a 10-day treatment could be best ##BASIC STATE
+ -- and we did n't have a clear signal , " ##BASIC STATE
+Henry said . ##BOUNDED EVENT (SPECIFIC)
+So MSA and the American College of Physicians are leading the way with a collaboration between two Michigan clinics ##UNBOUNDED EVENT (SPECIFIC)
+ that is testing ##UNBOUNDED EVENT (SPECIFIC)
+ what can be done with marijuana . ##COERCED STATE (SPECIFIC)
+" We 're going to concentrate on the multiple aims . ##COERCED STATE (SPECIFIC)
+We 're going to keep experimenting with new technologies , " ##COERCED STATE (SPECIFIC)
+said Dr. Susan McMillan , ##BOUNDED EVENT (SPECIFIC)
+a clinician at three ClearPath clinics at St. Charles Hospital in Detroit and Fort Wayne . ##OTHER
+Michigan 's most recent update this year excluded all marijuana-free clinical trials , ##BASIC STATE //4
+ but McMillan said ##BOUNDED EVENT (SPECIFIC)
+ marijuana users could still get a long-term benefit in the face of costs , ##COERCED STATE (GENERIC)
+less harm to the patient and less obvious harm to the patients . ##OTHER*
+" We 're excited to see ##BASIC STATE
+ that the two-thirds reduction , ##OTHER
+ which could have been just been dropped now in two , three studies , ##COERCED STATE (SPECIFIC)
+ is coming out of a research phase , " ##UNBOUNDED EVENT (SPECIFIC)
+McMillan said . ##BOUNDED EVENT (SPECIFIC)
+For patients ##OTHER
+ who find themselves constantly stopped from getting a marijuana-free hand , ##GENERIC SENTENCE (DYNAMIC)
+ experts say ##GENERIC SENTENCE (STATIC)
+ there 's a worthwhile role for research . ##GENERIC SENTENCE (STATIC)
+" We want to help patients make decisions ##BASIC STATE
+ that are responsible for long-term recovery . ##GENERIC SENTENCE (STATIC)
+If people are safe from use , ##GENERIC SENTENCE (STATIC)
+ they 're healthier and more comfortable , " ##GENERIC SENTENCE (STATIC)
+Ceglia said . ##BOUNDED EVENT (SPECIFIC)
+On Thursday , ##OTHER
+supporters will be hearing about the new Kent State case ##COERCED STATE (GENERIC)
+ where a patient ##OTHER
+ recovering from a medical marijuana overdose ##UNBOUNDED EVENT (SPECIFIC)
+ is using 1,000 new drugs every day . ##UNBOUNDED EVENT (SPECIFIC)
+Another patient ##OTHER
+ whose diagnosis of epilepsy ##OTHER
+ has helped her get a course of antibiotics ##PERFECT COERCED STATE (SPECIFIC)
+ was using too many medications . ##BOUNDED EVENT (SPECIFIC)
+" While it 's important to address the issues ##GENERIC SENTENCE (STATIC)
+ about marijuana ##OTHER
+ on a patient 's own terms , ##OTHER
+ studies like this in Michigan suggest ##GENERIC SENTENCE (DYNAMIC)
+ there 's a big difference between general-use and general-use medicine ##GENERIC SENTENCE (STATIC)*
+ -- patients should be prepared for the consequences , " ##GENERIC SENTENCE (STATIC)
+McMillan said . ##BOUNDED EVENT (SPECIFIC)
+***0 5 5 1 1 4 1 1 YES ML YES 0 0 0 0 ALGORITHM

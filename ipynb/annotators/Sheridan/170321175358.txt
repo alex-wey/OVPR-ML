@@ -1,0 +1,56 @@
+Oliver Stone on Friday opened up about a debate ##BOUNDED EVENT (SPECIFIC)
+ he was having over the practice ##UNBOUNDED EVENT (SPECIFIC) 
+ of illegal drugs on Jimmy Kimmel Live . ##OTHER
+While discussing his Live podcast Fire And Fury , ##UNBOUNDED EVENT (SPECIFIC)
+ Stone said ##BOUNDED EVENT (SPECIFIC)
+ that ##OTHER
+ when President Bush used marijuana during the 1960s ##BOUNDED EVENT (SPECIFIC)
+ he knew ##BASIC STATE
+ exactly what he was talking about : ##UNBOUNDED EVENT (SPECIFIC)
+ Its worse than slavery . ##GENERIC SENTENCE (STATIC)
+The former FBI Director and journalist recently opened up about Godless Slavery , ##BOUNDED EVENT (SPECIFIC)
+and the movement ##OTHER
+ that led to the death of Rodney King , ##BOUNDED EVENT (SPECIFIC)
+ calling the action indiscriminate . ##UNBOUNDED EVENT (SPECIFIC)
+As Stone put it , ##BOUNDED EVENT (SPECIFIC)
+ King was one of the real violent men ##BASIC STATE
+ that did not get killed by alcohol . ##COERCED STATE (GENERIC)
+Stone emphasized ##BOUNDED EVENT (SPECIFIC)
+ that everything ##OTHER
+ Bill Clinton did during his Presidency was illegal ##BOUNDED EVENT (SPECIFIC)
+ because it represented free riders ##BASIC STATE
+ which meant ##BASIC STATE
+ anyone ##OTHER
+ who performed a dirty job like destroying synagogues ##GENERIC SENTENCE (DYNAMIC)
+ was not serving ##COERCED STATE (GENERIC)
+ and was being punished . ##UNBOUNDED EVENT (GENERIC)
+It was like Hitler , ##BASIC STATE 
+ the immigrant in the ghetto is somebody ##GENERIC SENTENCE (STATIC)
+ you know , ##GENERIC SENTENCE (STATIC)
+ theyre like mad . ##GENERIC SENTENCE (STATIC) //3
+Theyre not whipping people . ##COERCED STATE (SPECIFIC) //2
+We made that country illegal ##BOUNDED EVENT (GENERIC)*
+ for people to get paid to go out , ##GENERIC SENTENCE (DYNAMIC)
+ Stone said . ##BOUNDED EVENT (SPECIFIC)
+Stone says ##BASIC STATE
+ he never heard ##COERCED STATE (SPECIFIC)
+ himself preach righteousness or quackery , ##COERCED STATE (SPECIFIC)
+ but he wishes ##BASIC STATE
+ he could preach righteousness in the bedroom under the guise of being a boss . ##COERCED STATE (SPECIFIC)
+I love these human beings ##BASIC STATE
+ like the history books say , ##GENERIC SENTENCE (STATIC)
+ but is the way ##QUESTION
+ they live live real good ? ##UNBOUNDED EVENT (GENERIC)* //3
+Just go walk on the sidewalk , ##IMPERATIVE
+ dont run over people , ##IMPERATIVE
+ dont take drugs , ##IMPERATIVE
+ dont take crack , ##IMPERATIVE
+ Stone said . ##BOUNDED EVENT (SPECIFIC)
+We should turn our drugs into good people . ##COERCED STATE (GENERIC)
+Stone raised the idea ##BOUNDED EVENT (SPECIFIC)
+ that the illegal use of cocaine may amount to terrorist stings ##COERCED STATE (GENERIC)
+ and said ##BOUNDED EVENT (SPECIFIC)
+ that he thinks the largest tax loopholes available ##BASIC STATE
+ today are related to the amnesty program , an idea ##GENERIC SENTENCE (STATIC)
+ that echoed Stones bigoted words of criticism of President Barack Obama . ##BOUNDED EVENT (SPECIFIC)
+***0 4 3 1 3 4 1 2 YES ML NO 2UNCLEAR 1 1 2 ALGORITHM 

@@ -1,0 +1,84 @@
+Mexican-American actor Richard Anthony " Cheech " Marin is slamming the Arizona immigration law as little more than an attempt to hold on to white culture . ##UNBOUNDED EVENT (SPECIFIC)
+Its ridiculous ; ##BASIC STATE
+its the last ##BASIC STATE
+ gasp of white culture , ##OTHER
+ he told Pop Tarts at the Los Angeles launch last week ##BOUNDED EVENT (SPECIFIC)
+ of Disney Pixar 's online " World of Cars . " ##OTHER
+Reactionaries and Congress ( are to blame ) ##GENERIC SENTENCE (STATIC)
+ only ##OTHER
+ because they think ##GENERIC SENTENCE (STATIC)
+ that 's the way ##BASIC STATE
+ of getting votes . ##GENERIC SENTENCE (DYNAMIC)
+We 'll stir up the rabble ! ##COERCED STATE (GENERIC)
+If you take the Mexicans out of Arizona , ##COERCED STATE (GENERIC)
+ Arizona is going to collapse the next day . ##COERCED STATE (SPECIFIC)
+But its not only the immigration law ##GENERIC SENTENCE (STATIC)
+ with which Marin takes issue . ##BASIC STATE
+The " Up in Smoke " star would also like to see marijuana legalized . ##COERCED STATE (SPECIFIC)
+According to Marin , ##BASIC STATE
+President Obama is doing enough to support the fight for marijuana legalization ##UNBOUNDED EVENT (SPECIFIC)
+ by " not prosecuting " those ##GENERALIZING SENTENCE (DYNAMIC)
+ who use medical marijuana , ##GENERIC SENTENCE (DYNAMIC)
+ but he 'd like to see the president live up to his campaign of " hope " ##COERCED STATE (SPECIFIC)
+ and devote some attention to America 's economic crisis . ##UNBOUNDED EVENT (SPECIFIC)
+" In ( Obama 's ) administration , ##OTHER
+ I 'd like to see marijuana ##COERCED STATE (SPECIFIC)
+ legalized and I 'd like to see him keep working ##COERCED STATE (SPECIFIC)
+ to straighten out the economy , ##UNBOUNDED EVENT (SPECIFIC)
+ because at the end of the day , ##OTHER
+no matter ##OTHER
+ how highfalutin your philosophy is , ##GENERIC SENTENCE (STATIC)
+ if the economy is n't working , ##BASIC STATE
+ then the country is n't happening ," ##BASIC STATE
+Marin said . ##BOUNDED EVENT (SPECIFIC)
+Its no surprise Marin is advocating the legalization of marijuana , ##BASIC STATE
+ considering ##BASIC STATE
+ he achieved international stardom for his pot-promoting antics as one half of the " Cheech & Chong " comedy duo . ##UNBOUNDED EVENT (SPECIFIC)
+And now that the legalization of marijuana is becoming a very real possibility , ##GENERIC SENTENCE (STATIC)
+the 64-year-old is convinced ##BASIC STATE
+ everyone else shares his passion . ##GENERIC SENTENCE (STATIC)
+" Vote ! ##IMPERATIVE
+Just vote , ##IMPERATIVE
+ because if everyone thinks ##GENERIC SENTENCE (STATIC)
+ marijuana should be legalized , ##COERCED STATE (GENERIC)
+ it 'll pass with flying colors ," ##COERCED STATE (SPECIFIC)
+Marin said of Proposition 19 , ##BOUNDED EVENT (SPECIFIC)
+ which would legalize the drug . ##COERCED STATE (SPECIFIC)
+Marin believes ##BASIC STATE
+ that the drug has yet to become legal across the country due to lobbying from law enforcement officials ##GENERIC SENTENCE (STATIC)
+ who fear ##GENERIC SENTENCE (STATIC)
+ that , ##OTHER
+ without it being considered a criminal offense , ##GENERIC SENTENCE (STATIC)
+ they will be unemployed . ##COERCED STATE (GENERIC)
+And anyone ##OTHER
+ who opposes the recreational use of his favorite herb ? ##QUESTION
+" Do n't do it , ##IMPERATIVE
+ do n't vote ! ##IMPERATIVE
+It 's a democratic process , ##BASIC STATE
+ and nobody is forcing marijuana down anybody 's throats , ##GENERIC SENTENCE (HABITUAL) %% GENERIC SENTENCE (STATIC)
+ and nobody is forcing beer down anybody 's throat , ##GENERIC SENTENCE (HABITUAL) %% GENERIC SENTENCE (STATIC)
+ he said . ##BOUNDED EVENT (SPECIFIC)
+They can go ##GENERIC SENTENCE (STATIC)
+ and have a beer or martini , ##GENERIC SENTENCE (DYNAMIC) 
+ so I should be able to smoke a joint ##BASIC STATE
+ if I want one . ##BASIC STATE
+In a report ##OTHER
+ authored by the National Organization to Reform Marijuana Laws , ##BASIC STATE
+ reliable scientific research has concluded ##PERFECT COERCED STATE (SPECIFIC)
+ that driving while under the influence of pot impairs vision and slows reaction time . ##GENERIC SENTENCE (DYNAMIC)
+But unlike alcohol detection , ##OTHER
+law enforcement currently lacks the technology to accurately determine offenders . ##GENERIC SENTENCE (STATIC)
+And ##OTHER
+ while Marin doesnt advocate driving ##BASIC STATE
+ while smoking , ##GENERIC SENTENCE (DYNAMIC)
+ he says ##BASIC STATE
+ he should be able to enjoy it at home ##BASIC STATE
+ if he wants . ##BASIC STATE
+If I want to sit home ##BASIC STATE
+ and smoke a joint and play guitar ##UNBOUNDED EVENT (SPECIFIC)
+ or watch TV , ##UNBOUNDED EVENT (SPECIFIC)
+ I should be able to do that , ##BASIC STATE
+ he said . ##BOUNDED EVENT (SPECIFIC)
+
+
+***0 5 5 1 5 5 5 1 YES ML/IM YES 4 0 0 0 HUMAN

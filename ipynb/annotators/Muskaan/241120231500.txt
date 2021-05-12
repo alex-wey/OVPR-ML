@@ -1,0 +1,35 @@
+" Gossip Girl " star Chace Crawford was busted in Florida for possession of marijuana Thursday . ##BOUNDED EVENT (SPECIFIC)
+Police issued a felony warrant for Crawford ##BOUNDED EVENT (SPECIFIC)
+ after he was spotted with a gun in the backyard of his home . ##BOUNDED EVENT (SPECIFIC)
+The 5-foot-8 , 180-pound Crawford ##OTHER
+ -- who appears in the TV series in a recurring role as Colleen DeFrancesco -- ##GENERALIZING SENTENCE (DYNAMIC)
+ is reportedly wanted on a warrant ##BASIC STATE
+ alleging ##BASIC STATE
+ he sent a distress distress call to a 911 dispatcher the night before . ##BOUNDED EVENT (SPECIFIC)
+Authorities believe ##GENERIC SENTENCE (STATIC)
+ he had been fighting a fight with his neighbor , ##PERFECT COERCED STATE (SPECIFIC)
+a former prisoner from Georgia ##OTHER
+ who had arranged to meet Crawford to seek help for his wounds . ##PERFECT COERCED STATE (SPECIFIC)
+An investigation has been launched , ##PERFECT COERCED STATE (SPECIFIC)
+ but authorities have not provided any additional details about what occurred . ##PERFECT COERCED STATE (GENERIC)
+Crawford , ##OTHER
+ who turns 21 next month , ##COERCED STATE (SPECIFIC)
+ is no stranger to the big screen . ##BASIC STATE
+His big screen film debut " Killer Confidential " starred as the great-grandson of Ben Affleck 's character . ##BOUNDED EVENT (SPECIFIC)
+He also did a cameo in the 1988 superhero film " Superman " ##BOUNDED EVENT (SPECIFIC)
+ for franchise producer Legendary Pictures . ##OTHER
+" I have my own theories on what happened to Ben Affleck and Zach Galifianakis , and Galifianakis , ##BASIC STATE
+ and , more recently , Charlie Sheen , " ##OTHER
+Crawford recently said of Sheen . ##BOUNDED EVENT (SPECIFIC)
+" We do have theories , ##GENERIC SENTENCE (STATIC)
+ especially when it comes to Charlie and this whole fiasco . ##GENERIC SENTENCE (STATIC)
+I think ##BASIC STATE
+ he 's certainly worth the wait . " ##BASIC STATE
+Crawford has had a series of problems recently including a second DUI last month . ##GENERALIZING SENTENCE (STATIVE)
+He spent the night at a drug rehab center in January ##BOUNDED EVENT (SPECIFIC)
+ after police came across him ##BOUNDED EVENT (SPECIFIC)
+ and taken him to jail for driving under the influence of alcohol ##BOUNDED EVENT (SPECIFIC)
+ and possessing cocaine . ##BASIC STATE
+
+
+***0 5 3 5 3 4 2 YES ML NO 0 0 0 0 ALGORTHM

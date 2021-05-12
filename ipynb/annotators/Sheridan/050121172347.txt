@@ -1,0 +1,57 @@
+Doug Fines recent piece , ##OTHER
+Five myths about legalizing marijuana , ##OTHER //4
+ which promotes the legalization of the drug , ##UNBOUNDED EVENT (SPECIFIC)
+received a lot of attention . ##BOUNDED EVENT (SPECIFIC)
+In his column , ##OTHER
+ Fine states five common-sensical assertions ##UNBOUNDED EVENT (SPECIFIC)
+ regarding marijuana use in our country ##BASIC STATE
+ that he wishes werent true , ##BASIC STATE
+ labels them as myths , ##UNBOUNDED EVENT (SPECIFIC)
+and presto , ##OTHER
+ concludes ##UNBOUNDED EVENT (SPECIFIC)
+ that legalizing weed will actually help solve a lot of problems . ##COERCED STATE (GENERIC)
+Oh , ##OTHER
+really ? ##QUESTION
+Call me old-fashioned , ##IMPERATIVE
+ but also call me realistic . ##IMPERATIVE
+Advocates of legalizing marijuana are making this debate harder than it has to be . ##UNBOUNDED EVENT (GENERIC)
+Simply put : ##OTHER
+What current problems of ours might be solved ##QUESTION
+ if we had more inebriated people wandering among us ? ##GENERIC SENTENCE (STATIC)
+The first thing pot promoters want us to do is deny the obvious , ##GENERIC SENTENCE (STATIC)
+ as if we are all stoned . ##GENERIC SENTENCE (STATIC)
+They want us to believe ##GENERIC SENTENCE (STATIC)
+ that the known consequences ##OTHER
+ associated with being on the loose with degraded senses in an open society would simply not occur ##GENERIC SENTENCE (STATIC)
+ or at the very least , ##OTHER
+ would not increase ##COERCED STATE (GENERIC)
+ if marijuana use were to become more widespread . ##COERCED STATE (GENERIC)
+In Fines case , ##OTHER
+myth number one is that , ##BASIC STATE
+ If pot is legal , ##GENERIC SENTENCE (STATIC)
+ more people will use it . ##COERCED STATE (GENERIC)
+To rebut that statement , ##UNBOUNDED EVENT (SPECIFIC)
+ Fine cites something or another about drug use in Portugal between the years 2002 and 2006 . ##UNBOUNDED EVENT (SPECIFIC)
+Im not kidding , ##COERCED STATE (SPECIFIC)
+ this is the best theyve got . ##BASIC STATE
+I dont know ##BASIC STATE
+ what it is about modern life in Portugal ##GENERIC SENTENCE (STATIC) //3
+ that we should seek to emulate ##COERCED STATE (GENERIC)
+ or why Portuguese drug use should serve as a model for drug use in the United States . ##COERCED STATE (GENERIC)
+But , ##OTHER
+ you get my point . ##GENERIC SENTENCE (STATIC)
+Read Fines piece . ##IMPERATIVE
+Anyway , ##OTHER
+this is an issue ##BASIC STATE
+ where Republicans should be clear ##GENERIC SENTENCE (STATIC)
+ and speak with one voice . ##UNBOUNDED EVENT (GENERIC)
+At a base level , ##OTHER
+our politics should seek to promote a more sober , safe and virtuous society , ##COERCED STATE (GENERIC)
+and nothing about making pot use more widespread ##UNBOUNDED EVENT (GENERIC) //4
+ than it already is serves the common interest . ##UNBOUNDED EVENT (GENERIC)
+I can hear the left rolling their eyes ##COERCED STATE (SPECIFIC)
+ at this quaint notion . ##OTHER
+We should not think ##GENERIC SENTENCE (STATIC)
+ we can appeal to a segment of voters particularly young voters ##COERCED STATE (GENERIC)
+ by embracing destructive misbehavior as desirable public policy . ##UNBOUNDED EVENT (GENERIC)
+***0 5 0 0 0 0 0 0 YES ML YES 1 3 4 5 HUMAN

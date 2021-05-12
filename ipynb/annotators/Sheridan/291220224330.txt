@@ -1,0 +1,92 @@
+More than a century ago , ##OTHER
+ I wrote an article about California 's constitutional obligation to fight the drug epidemic , ##BOUNDED EVENT (SPECIFIC)
+ in which my writing partner asked , ##BOUNDED EVENT (SPECIFIC)
+ " Is it really a country 's responsibility ##QUESTION
+ to protect its population from the cancer of pot ? " ##UNBOUNDED EVENT (GENERIC)
+The answer was not . ##BASIC STATE
+Let me explain . ##IMPERATIVE
+Given the repeated reminders from government doctors , hospitals and their civil liberties activists in California ##OTHER //3
+ that a majority of us still believe ##GENERIC SENTENCE (STATIC)
+ that most illegal drug is " good ," ##GENERIC SENTENCE (STATIC)*
+as On the Line and Two Studies put it , ##BOUNDED EVENT (SPECIFIC)
+ "Our living standards are deteriorating for people with very high-quality drugs ," ##UNBOUNDED EVENT (GENERIC)
+ the efficacy of the plagues-infested public square has long been doubted . ##PERFECT COERCED STATE (GENERIC)*
+The populace has still failed to comprehend the true medical benefits of such psychoactive drug abuse . ##PERFECT COERCED STATE (GENERIC)
+But , ##OTHER
+ as members of the California State Assembly put it last November , ##BOUNDED EVENT (GENERIC)
+ " It is not legitimate for officials ##GENERIC SENTENCE (STATIC)
+ who are in the public square to hold themselves accountable for drug abuse . ##GENERIC SENTENCE (STATIC)
+It is not their responsibility , ##BASIC STATE //4
+which puts them above the law . " ##UNBOUNDED EVENT (GENERIC) //4
+Under its law , ##OTHER
+the CCC looks after such matters . ##GENERALIZING SENTENCE (DYNAMIC)
+But Forcing law enforcement to confiscate and use drugs against local residents ##GENERIC SENTENCE (DYNAMIC)
+ is exactly the kind of way ##GENERIC SENTENCE (STATIC)
+ the federal government and courts have barred local marijuana arrests ##PERFECT COERCED STATE (GENERIC)
+ and that federal government has retaliated by preventing local governments from conducting drug monitoring programs ##PERFECT COERCED STATE (SPECIFIC) //4
+ that enforce federal law . ##UNBOUNDED EVENT (GENERIC)
+In " Raid on Robberies , " ##OTHER
+a small Colorado town made a lot less attractive to police by raiding ##BOUNDED EVENT (SPECIFIC)*
+ a nearby marijuana grow operation , ##OTHER
+ the Journal of State Law and Policy reported ##BOUNDED EVENT (SPECIFIC)
+ that the Denver Police Department had actually been investigating successful robberies in the town 's neighborhoods , ##PERFECT COERCED STATE (SPECIFIC)
+ saying , ##UNBOUNDED EVENT (SPECIFIC)
+ "We were as vigilant ##BASIC STATE
+ as we could be ##BASIC STATE
+ and we did n't turn up any crack . " ##COERCED STATE (SPECIFIC)
+The suggestion ##OTHER
+ that a local government might be unwilling to protect the people of America from drug-impaired behavior at the expense ##GENERIC SENTENCE (STATIC)
+ of local law enforcement ##OTHER
+ is deflected by the allegation ##BOUNDED EVENT (SPECIFIC) //3
+ that federal officials were dragging their feet on drug monitoring in some smaller cities ##UNBOUNDED EVENT (GENERIC)
+ that have since resolved their civil liberties issues ##PERFECT COERCED STATE (SPECIFIC)
+ with allowing local police to monitor residents ' traffic , home crimes and other activities . ##GENERIC SENTENCE (HABITUAL)
+A prohibition on marijuana in America makes no sense in light of the American very public-private partnership in drugs , prison and background checks ##GENERIC SENTENCE (STATIC)
+ for new marijuana sellers , ##OTHER
+ which involve public dollars , ##GENERIC SENTENCE (STATIC)
+ to be directed from a joint of cities and states . ##COERCED STATE (GENERIC)
+And with little regard for the accountability of local policymakers , ##OTHER
+ local governments should demand more accountability . ##COERCED STATE (GENERIC)
+The solution to the problem of Oregon and Washington 's marijuana legalization efforts , ##OTHER
+ devised by our movement movement movement , ##BOUNDED EVENT (SPECIFIC)*
+ is to focus a bit more on the province of individual states ##BASIC STATE
+ and to think about the proper response to legalization and the issue of marijuana in general . ##UNBOUNDED EVENT (GENERIC) //3
+Three hundred sixty-seven of our movement members from five states ##OTHER
+ proposed a resolution to federal courts last year ##BOUNDED EVENT (SPECIFIC)
+ declaring ##UNBOUNDED EVENT (SPECIFIC)
+ that local governments can still coerce local governments to monitor their residents ' drug use : ##COERCED STATE (GENERIC)
+ "To ensure ##UNBOUNDED EVENT (GENERIC)
+ federal law enforcement conducts its full , mandatory surveillance of the legalization of marijuana , ##COERCED STATE (SPECIFIC) //2
+ that local governments not knowingly engage in government-sanctioned drug monitoring , ##COERCED STATE (GENERIC)
+ states must establish a clear and pervasive obligation ##COERCED STATE (GENERIC)
+ to prohibit citizens from selling any material marijuana with intent ##UNBOUNDED EVENT (GENERIC)
+ to endanger , purchase , possession , ##NONSENSE //3
+ or deliver it on any controlled substance , ##COERCED STATE (GENERIC) //2
+ and address such criminal activity if necessary. " ##COERCED STATE (GENERIC)
+These are lofty undertakings . ##BASIC STATE
+Though marijuana was present in Colorado , ##GENERIC SENTENCE (STATIC)
+ it was far less popular for the plebiscite . ##GENERIC SENTENCE (STATIC)
+As a result , ##OTHER
+combined federal and state efforts were stalled , ##BOUNDED EVENT (GENERIC)
+ while local political squabbles ##OTHER
+ deepened in California over whether , ##BOUNDED EVENT (GENERIC)
+in November 2006 , ##OTHER
+ to overturn Measure T-- ##UNBOUNDED EVENT (SPECIFIC)
+ the city-federal initiative ##OTHER
+ that decriminalized marijuana possession for small but intimate use -- ##BOUNDED EVENT (GENERIC)
+ got its second reading by a larger margin , ##BOUNDED EVENT (SPECIFIC)
+ leaving just 31 % to 38 % . ##UNBOUNDED EVENT (SPECIFIC) //3
+As politicians wrestled over just how many voters in the two California cities would support the proposition , ##UNBOUNDED EVENT (GENERIC)
+ a protest by a grass-roots group started out collecting signatures ##BOUNDED EVENT (SPECIFIC)
+ and later broadened to reaching out to local officials . ##BOUNDED EVENT (SPECIFIC)
+That group then received 75,000 signatures , ##BOUNDED EVENT (SPECIFIC)
+ demanding a written law ##UNBOUNDED EVENT (SPECIFIC)
+ that recognized marijuana by the statutory definition . ##GENERIC SENTENCE (STATIC) //4
+In a similar vein , ##OTHER
+Measure T also ##OTHER
+ established what was described as a state-sanctioned " drug abuse assessment " review program ##BOUNDED EVENT (SPECIFIC)
+ that worked " effectively after the initial raid on an expanded operation ##BOUNDED EVENT (GENERIC) //3
+ that resulted in the prohibition of certain types of marijuana . " ##BOUNDED EVENT (GENERIC) //3
+The backers of the proposal included former Gov. Arnold Schwarzenegger ##GENERIC SENTENCE (STATIC)
+ ( now out of office ) , health officials , and state Supreme Court Justice Mon ##OTHER
+***0 3 0 2 3 2 2 4 YES ML NO 1UNCLEAR 3 1 1 ALGORITHM

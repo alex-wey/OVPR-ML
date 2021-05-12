@@ -1,0 +1,37 @@
+you mention ##UNBOUNDED EVENT (SPECIFIC)
+ that alcohol is as old as human civilization ... ##GENERIC SENTENCE (STATIC)
+ ancient Mayans used mushrooms , ayahuasca , and salvia. ##GENERIC SENTENCE (DYNAMIC)
+ ancient Egyptian tombs had cannabis in them. ##GENERIC SENTENCE (HABITUAL)
+ several other ancient cultures have used a wide range of intoxicants , ##PERFECT COERCED STATE (GENERIC)
+ not just alcohol. ##OTHER
+as for your argument about crime rates ##OTHER
+ during the prohibition era- ##OTHER
+ prohibition ##OTHER
+ is what allowed organized crime to gain a foothold in modern society. ##BOUNDED EVENT (GENERIC)
+ there were more illegal drinking establishments and speak-easies in NYC at that time ##GENERIC SENTENCE (STATIC)
+ than there are liquor stores ##GENERIC SENTENCE (STATIC)
+ today. ##OTHER
+ there will always be supply ##GENERIC SENTENCE (STATIC)
+ if there is a demand. ##GENERIC SENTENCE (STATIC)
+ it was true then , ##BASIC STATE
+the same is true now. ##BASIC STATE
+ if pot were legal , ##GENERIC SENTENCE (STATIC)
+ though , ##OTHER
+ the government and society writ-large would be benefiting instead of criminals flying below the radar. ##COERCED STATE (GENERIC)
+finally , ##OTHER
+ yes there have been major crack downs on drunk driving , ##GENERIC SENTENCE (STATIC)
+ but it is certainly NOT vilified in modern movies or television . ##COERCED STATE (GENERIC)
+The Hangover series certainly proves that. ##UNBOUNDED EVENT (SPECIFIC)
+ if you want to use an example ##GENERIC SENTENCE (STATIC)
+ that works , ##GENERALIZING SENTENCE (DYNAMIC)
+ take ##IMPERATIVE
+ cigarettes. ##OTHER
+modern smoking rates are way down from several decades ago . ##GENERIC SENTENCE (STATIC)
+This is because of public health awareness campaigns as well as limiting tobacco advertisements , ##BASIC STATE
+and disallowing tobacco use in public spaces . ##GENERIC SENTENCE (DYNAMIC)
+If cannabis was made legal , ##COERCED STATE (GENERIC)
+ and was done so with a similar public health awareness campaign , ##COERCED STATE (GENERIC)
+ rather than the misinformation ##OTHER
+ we have now , ##GENERIC SENTENCE (STATIC)
+ where would the problem be ? ##QUESTION
+***0 5 0 0 0 0 0 0 YES ML YES 5 3 5 5 HUMAN

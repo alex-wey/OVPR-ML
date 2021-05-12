@@ -1,0 +1,89 @@
+This is the reason why . ##BASIC STATE
+Like a boiled egg ##OTHER
+ cooked on a granola bar ##GENERIC SENTENCE (STATIC)
+ the enemy is a mix of 88 % THC and 80 % CBD , ##GENERIC SENTENCE (STATIC)
+ so if those conditions are imaginable ##COERCED STATE (GENERIC)
+ we would n't have half the problems ##GENERIC SENTENCE (STATIC)
+ we have today being a criminal environment . ##GENERIC SENTENCE (STATIC)
+There is some substance ##GENERIC SENTENCE (STATIC)
+ we do not need , ##GENERIC SENTENCE (STATIC)
+mostly for health reasons ; ##OTHER
+ we do n't realise ##GENERIC SENTENCE (STATIC)
+ how many people grow it . ####GENERIC SENTENCE (HABITUAL)
+It is also quite simply wrong to say ##BASIC STATE
+ they are a freedom in a society ##GENERIC SENTENCE (STATIC)
+ where making it into law ##UNBOUNDED EVENT (GENERIC)
+ rather than teaching ##UNBOUNDED EVENT (GENERIC)
+ it is actually a virtue . ##GENERIC SENTENCE (STATIC)
+Bill Muirson , ##OTHER
+Bolton University ##OTHER
+We do n't just have two kinds of cannabis per citizen ##GENERIC SENTENCE (STATIC)
+ we do have the knowledge ##GENERIC SENTENCE (STATIC)
+ that they can grow a number of cannabis plants at home . ##GENERIC SENTENCE (STATIC)
+But there are a lot of practical difficulties . ##GENERIC SENTENCE (STATIC)
+For one thing , ##OTHER
+among many others the military use of marijuana has not been detected by science . ##GENERIC SENTENCE (STATIC)
+It is a potentially dangerous substance ##GENERIC SENTENCE (STATIC)
+ which , ##OTHER
+rather than being decriminalised , ##UNBOUNDED EVENT (GENERIC)
+is likely to have many negative effects . ##GENERIC SENTENCE (STATIC)
+The Home Rule Act since 1998 has seen almost 100,000 cases dismissed , ##PERFECT COERCED STATE (SPECIFIC)
+ although when those cases were conducted ##BOUNDED EVENT (GENERIC)
+ this has now declined to only about 30,000 . ##PERFECT COERCED STATE (GENERIC)
+Storyline for this ##NONSENSE
+After John Robinson 's Rebellion a number of years ##OTHER
+ ago he suffered heart attacks at a relative 's house ##BOUNDED EVENT (SPECIFIC)
+ so they thought ##BASIC STATE
+ he would have to be allowed to eat ##COERCED STATE (SPECIFIC)
+ cannabis may well be a decent way ##GENERIC SENTENCE (STATIC)
+ of ending things . ##OTHER
+In the press one thing is surely clear , ##BASIC STATE
+though : ##OTHER
+ we have a very moral society ##GENERIC SENTENCE (STATIC)
+ and need to recognise that for all the harm and ill and evil that come with what we are doing ##GENERIC SENTENCE (STATIC)
+ we must not place our trust in a country ##COERCED STATE (GENERIC)
+ led by racists . ##BASIC STATE
+Personally , ##OTHER
+ I think ##BASIC STATE
+ that many are ignoring ##GENERIC SENTENCE (STATIC)
+ that the struggle to legalize marijuana in this country is a lot more complicated ##BASIC STATE
+ than we are imagining . ##GENERIC SENTENCE (STATIC)
+While the new law might have some problems , ##BASIC STATE
+ it still allows people to grow their own . ##BASIC STATE
+That 's a very good idea . ##BASIC STATE
+We have a lot of small businesses in , ##GENERIC SENTENCE (STATIC)
+ what are , ##GENERIC SENTENCE (STATIC)
+ 92,000 wells in the British Isles alone ##OTHER
+ but this legalisation will probably kill all those already registered businesses . ##COERCED STATE (SPECIFIC)
+There will be no revenues as a result of the new law . ##COERCED STATE (GENERIC)
+Scotland should see the cannabis law as part of an overall prohibition against human error . ##COERCED STATE (SPECIFIC)
+There has been a very strong argument for it , ##BASIC STATE 
+ and not only from David Cameron , ##OTHER
+the current PM . ##OTHER
+On the other hand , ##OTHER
+earlier this year the Lords showed us something totally different than the rousing self-interest of the Puritans or our press politicians . ##UNBOUNDED EVENT (GENERIC)
+In the hope ##OTHER
+ that the new version will be seen as a battle against our own leaders , ##COERCED STATE (SPECIFIC)
+ we have to bring this spirit to our new government ##COERCED STATE (GENERIC)
+ and see ##COERCED STATE (GENERIC)
+ how this piece of legislation could actually be fought . ##COERCED STATE (SPECIFIC)
+Paul Slade , ##OTHER
+Horsham University ##OTHER
+Just talking to people ##UNBOUNDED EVENT (GENERIC)
+ who grow pot , ##GENERIC SENTENCE (DYNAMIC)
+ I was wondering ##BASIC STATE
+ if they would like this argument . ##COERCED STATE (GENERIC)
+I mean ##BASIC STATE
+ marijuana is illegal in 15 states , ##GENERIC SENTENCE (STATIC)
+ so I could understand ##BASIC STATE
+ why they would want to claim ##COERCED STATE (GENERIC)
+ they know ##GENERIC SENTENCE (STATIC)
+ what they are doing ##OTHER
+ and they should n't ; ##COERCED STATE (GENERIC)
+ but like I said , ##BOUNDED EVENT (SPECIFIC)
+ are they simply looking at recreational cannabis or are they just being rational ? ##QUESTION
+I would like to know ##BASIC STATE
+ if these people have actually considered the harms ##COERCED STATE (GENERIC)
+ associated with early decomposition as harmful to the planet , the environment and even the health of the human body . ##GENERIC SENTENCE (STATIC)
+
+***0 3 0 0 0 0 0 0 YES ML 4 2 1 1 ALGORITHM

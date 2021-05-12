@@ -1,0 +1,24 @@
+Note to drug dealers : ##OTHER
+ throwing bags of pot out of your car wont ##UNBOUNDED EVENT (GENERIC)
+ make it fast enough to outrun the law . ##UNBOUNDED EVENT (GENERIC)
+A Maine State Police aerial unit spotted a red BMW ##BOUNDED EVENT (SPECIFIC)
+ speeding down the Maine Turnpike through city of Saco on the morning of January 20 th , ##UNBOUNDED EVENT (SPECIFIC)
+ then sent a highway patrol car in pursuit , ##BOUNDED EVENT (SPECIFIC)
+ police said in a Facebook post . ##BOUNDED EVENT (SPECIFIC)
+According to the trooper on the ground , ##BASIC STATE
+ the car initially refused to stop ##BOUNDED EVENT (SPECIFIC)
+ as its occupants began tossing bags of marijuana out of the window . ##BOUNDED EVENT (SPECIFIC)
+A Maine State Police public information officer could not confirm ##BASIC STATE
+ how fast the car was going at the time . ##QUESTION
+It finally pulled over ##BOUNDED EVENT (SPECIFIC)
+ after about two miles and police discovered 3.7 pounds of marijuana in it . ##BOUNDED EVENT (SPECIFIC)
+The driver , ##OTHER
+23-year-old Brandon Joseph Dagnese , ##OTHER
+was arrested and charged with unlawful trafficking , ##BOUNDED EVENT (SPECIFIC)
+ failing to stop for a law enforcement officer , ##BOUNDED EVENT (SPECIFIC)
+ and violating bail ##UNBOUNDED EVENT (SPECIFIC)
+ stepping from previous drug charges . ##BASIC STATE
+The new charges carry penalties ##BASIC STATE
+ that range from a maximum of three to five years in jail . ##BASIC STATE
+
+***0 5 5 5 5 5 5 1 YES ML NO 0 0 0 0 HUMAN

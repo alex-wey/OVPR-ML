@@ -1,0 +1,63 @@
+> This cripplekid - wheelchair jockey , ##OTHER
+muscular dystrophy patient , ##OTHER
+ whatever you want to call him ##GENERIC SENTENCE (STATIC)
+First off , ##OTHER
+ this is a * man * ##BASIC STATE
+ who has gone his entire life ##PERFECT COERCED STATE (SPECIFIC)
+ never being able to develop substantial muscle mass , ##GENERIC SENTENCE (STATIC)
+and unless science intervenes , ##COERCED STATE (GENERIC)
+ he is going to have to spend the rest of his days ##COERCED STATE (SPECIFIC)
+ with his body consuming itself ##UNBOUNDED EVENT (SPECIFIC) //4
+ until he dies a painful death . ##BOUNDED EVENT (SPECIFIC)
+He 's a man , ##BASIC STATE
+a human being , ##OTHER
+ and that 's how you should think of him. ##COERCED STATE (SPECIFIC)
+> is at best completely indifferent to and at worst detrimental to the cause of legalization . ##BASIC STATE
+You 're making a pretty large conclusion ##UNBOUNDED EVENT (SPECIFIC)
+ based on a little bit of information . ##BASIC STATE
+This man is going out ##UNBOUNDED EVENT (SPECIFIC)
+ and getting candidates ##UNBOUNDED EVENT (SPECIFIC)
+ * on film * ##OTHER
+ stating their opinions ##UNBOUNDED EVENT (GENERIC)
+ specifically on the issue of medical marijuana , ##OTHER
+ for everyone to see . ##OTHER
+That is incredibly helpful on one front to the case ##BASIC STATE
+ for legalization for medicinal purposes . ##OTHER
+Any medical marijuana activist can tell you ##COERCED STATE (GENERIC)
+ that most conservatives love to sideline the debate on medical marijuana... ##GENERIC SENTENCE (STATIC)
+ bringing up the availability of drugs like marinol , ##UNBOUNDED EVENT (SPECIFIC)
+ the larger " slippery slope " argument of what federal medical marijuana legalization will do ##COERCED STATE (GENERIC)
+(" Uh... ##OTHER
+ we 'll then have to legalize marijuana for everybody ! ##COERCED STATE (GENERIC)
+Then we 'll have to legalize all drugs ! ##COERCED STATE (GENERIC)
+Then all of our children will become raging dope addicts ! " etc ) ##COERCED STATE (GENERIC)
+ so in order to cut short that argument ##BOUNDED EVENT (SPECIFIC)
+ before it can even start , ##COERCED STATE (SPECIFIC)
+ I would n't be surprised ##BASIC STATE
+ if this man was only saying ##COERCED STATE (SPECIFIC)
+ that to keep the conversation focus on the issue of medicinal legalization in the very short space of time ##BOUNDED EVENT (SPECIFIC)*
+ that he had . ##BASIC STATE
+And given the ambiguity of his statement , ##OTHER
+ who is to say ##QUESTION
+ he does n't feel ##BASIC STATE
+ it should be illegal for children ##GENERIC SENTENCE (STATIC)
+ but not consented adults ? ##OTHER
+Have you spoken with him directly ? ##QUESTION 
+> I certainly would rather see people like him ##BASIC STATE
+ ( although not him in particular ) ##OTHER
+ be able to use ##GENERIC SENTENCE (STATIC)
+ whatever medication they need to relieve their symptoms ##GENERIC SENTENCE (STATIC) //3
+ before I 'd like to see legalization . ##BASIC STATE
+Somebody * may * not agree exactly with you on * part * of marijuana policy , ##GENERIC SENTENCE (STATIC)
+ so you think ##BASIC STATE
+ it 's okay ##BASIC STATE
+ for them to spend the rest of their life in agonizing pain ? ##BOUNDED EVENT (GENERIC)
+Does it not strike you ##QUESTION
+ that that sentiment is just as extremist and thoughtless as some of the opinions ##BASIC STATE
+ held by anti-drug activists ? ##GENERIC SENTENCE (STATIC)
+You do n't know this guy , ##BASIC STATE
+ nor what he 's been through , ##PERFECT COERCED STATE (SPECIFIC)
+ and you do a disservice to everyone in the legalization movement ##UNBOUNDED EVENT (SPECIFIC) 
+ by resorting to disrespectful name-calling of a hurting individual ##UNBOUNDED EVENT (SPECIFIC)
+ that you disagree with . ##BASIC STATE
+***0 5 0 0 0 0 0 0 YES ML YES 5 3 4 5 HUMAN

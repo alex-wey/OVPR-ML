@@ -1,0 +1,58 @@
+Hollywood star Corey Feldman has spoken publicly about an apparent altercation on the Internet ##PERFECT COERCED STATE (SPECIFIC)
+ involving marijuana . ##BASIC STATE
+The actor tells XXX in an upcoming interview ##UNBOUNDED EVENT (SPECIFIC)
+ that hes undergoing a procedure ##UNBOUNDED EVENT (SPECIFIC)
+to remove some of the marijuana from his body . ##UNBOUNDED EVENT (SPECIFIC)
+Im in it again , ##BASIC STATE*
+ Feldman says . ##BASIC STATE
+For somebody to say that at a time like this , ##BOUNDED EVENT (GENERIC) //4
+ I just wish ##BASIC STATE
+ I could lock myself up ##COERCED STATE (SPECIFIC)
+ and not let them have anything to say about me . ##COERCED STATE (SPECIFIC)
+A further statement from Feldman on Wednesday ##OTHER
+ sent to XXX ##BOUNDED EVENT (SPECIFIC) 
+ says ##BASIC STATE
+ his doctor has diagnosed him with a medical condition . ##PERFECT COERCED STATE (SPECIFIC)
+My doctor has referred me to the help-desk for certain findings , ##PERFECT COERCED STATE (SPECIFIC)
+as well as other proactive matters ##OTHER
+ related to prior meds and complications , ##BASIC STATE 
+ Feldman said . ##BOUNDED EVENT (SPECIFIC)
+I feel ##BASIC STATE
+ that I am within my rights to engage in the treatment ##BASIC STATE
+ that has been recommended by my doctor . ##PERFECT COERCED STATE (SPECIFIC)
+Feldman also insisted ##BOUNDED EVENT (SPECIFIC)
+ that his body has never been consumed with drugs . ##COERCED STATE (SPECIFIC)
+It was no mistake , ##BASIC STATE //4
+ I thought . ##BASIC STATE
+I thought . ##BASIC STATE
+Its all about human beings , ##GENERIC SENTENCE (STATIC) //3
+Feldman said . ##BOUNDED EVENT (SPECIFIC)
+They never , ever could have . ##COERCED STATE (GENERIC) //3
+That wasnt ##BASIC STATE //4
+ how it was delivered . ##BOUNDED EVENT (SPECIFIC) //4
+They were out of sync with the human body . ##GENERIC SENTENCE (STATIC) //3
+Feldman , ##OTHER
+a relatively young actor , ##OTHER
+filed for bankruptcy in 2006 , ##BOUNDED EVENT (SPECIFIC)
+ citing bankruptcy following an arrest in 2006 ##UNBOUNDED EVENT (SPECIFIC)
+ that charged him with marijuana possession . ##BOUNDED EVENT (SPECIFIC)
+A plea deal had been reached ##PERFECT COERCED STATE (SPECIFIC)
+ that allowed him to repay his debt to the child ##BASIC STATE
+ in case he ever again violated the terms of his probation . ##COERCED STATE (SPECIFIC)
+I understand ##BASIC STATE
+ that this is an all-or-nothing situation , ##BASIC STATE
+ Feldman said of the legal situations ##BOUNDED EVENT (SPECIFIC)
+ surrounding his recent arrest . ##BASIC STATE
+I understand ##BASIC STATE
+ my life has taken a huge turn for the worse . ##PERFECT COERCED STATE (SPECIFIC)
+One could argue ##COERCED STATE (SPECIFIC)
+ that Feldman is suffering from a growing addiction to marijuana ##UNBOUNDED EVENT (SPECIFIC)
+ and would love to recover his body ##BASIC STATE
+ to help the heath . ##UNBOUNDED EVENT (SPECIFIC)* //2
+Im very grateful ##BASIC STATE
+ and have been greatly aided by the medical advances ##PERFECT COERCED STATE (SPECIFIC)
+ that Ive made in the last few years , ##PERFECT COERCED STATE (SPECIFIC)
+ Feldman said . ##BOUNDED EVENT (SPECIFIC)
+I want to thank my doctors for the tremendous response and treatment ##BASIC STATE
+ that they have given me . ##PERFECT COERCED STATE (SPECIFIC)
+***0 5 3 1 3 1 1 5 YES ML YES 2 0 0 0 ALGORITHM 

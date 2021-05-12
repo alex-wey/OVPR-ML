@@ -1,0 +1,36 @@
+WASHINGTON ##OTHER
+The Department of Veterans Affairs is planning to phase out using 25,000 veterans prescriptions ##UNBOUNDED EVENT (SPECIFIC)
+ to treat wounds ##UNBOUNDED EVENT (SPECIFIC)
+ from the December fall attack by the Taliban against the U.S. Armys prison camp in Afghanistan . ##OTHER
+That means ##BASIC STATE
+ that until the unit receives an adequate supply of the pills , ##BOUNDED EVENT (SPECIFIC)
+ it will be unable to administer them . ##COERCED STATE (SPECIFIC)
+Further , ##OTHER
+ if vets-on-us receive a prescription for four prescription opioids , ##COERCED STATE (SPECIFIC)
+ the VA says ##BASIC STATE
+ it will not allow them to use them ##COERCED STATE (SPECIFIC)
+ while in Afghanistan . ##OTHER
+The Army said , ##BOUNDED EVENT (SPECIFIC)
+as well , ##OTHER
+ that veterans will not be able to take all four or five prescriptions a week ##COERCED STATE (GENERIC)
+ to treat wounds such as PTSD and other mental illnesses . ##UNBOUNDED EVENT (GENERIC)
+So the VA is cutting off access to addiction services ##UNBOUNDED EVENT (SPECIFIC)
+ to treat veterans with several forms of mental illnesses , ##UNBOUNDED EVENT (GENERIC)
+ including addiction to opioids . ##OTHER
+After last weeks ##OTHER
+ deadly terrorists attack on US embassies and synagogues in Kenya and Tanzania , ##OTHER
+ the staff at the VA has requested ##PERFECT COERCED STATE (SPECIFIC)
+ that , ##OTHER
+ beginning July 1 , ##OTHER
+12,000 veterans will be able to be treated . ##COERCED STATE (GENERIC)
+The agency announced ##BOUNDED EVENT (SPECIFIC)
+ that it will put the groups liability insurance up to $20 million . ##COERCED STATE (SPECIFIC)
+Veterans ##OTHER
+ who lost their lives in the war ##UNBOUNDED EVENT (GENERIC)
+ will get an additional $14 million ##COERCED STATE (GENERIC)
+ while the administration predicts ##BASIC STATE
+ that 1.5 million veterans will receive treatment for lost limbs , ##COERCED STATE (GENERIC)
+ despite the care ##OTHER
+ they now receive in hospitals in the military-run facilities around the country . ##UNBOUNDED EVENT (GENERIC)
+
+***0 5 2 2 3 2 2 3 NO NA NO 0 0 0 0 ALGORITHM

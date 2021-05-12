@@ -1,0 +1,89 @@
+If you 're living in Morocco for the year , ##BOUNDED EVENT (GENERIC)
+ you can search for weed on the highway . ##COERCED STATE (GENERIC)
+And Morocco has plenty of places ##BASIC STATE
+ where it 's legal to find weed among the Muslim holy sites in the desert . ##GENERIC SENTENCE (STATIC)
+The reason ? ##QUESTION
+Only the fast-growing Andalusian drug Hillweed is technically illegal here . ##GENERIC SENTENCE (STATIC)
+Mr Raja is a think tank in the south of the country ##BASIC STATE
+ which teaches homegrown political language at the University of Salaheddin . ##UNBOUNDED EVENT (SPECIFIC)*
+As well as the Andalusian drug ##OTHER
+ known as Trichotill , ##GENERIC SENTENCE (HABITUAL)
+ he also has a different weed ##BASIC STATE
+ called 'Zagga Skatis , ' ##GENERIC SENTENCE (STATIC)
+ which is what imparts light , vitamins and alkaloids . ##GENERIC SENTENCE (DYNAMIC)*
+Hundreds of illegal drugs are found in the desert valley area ##GENERIC SENTENCE (DYNAMIC)
+ in southern Morocco . ##OTHER
+Here , ##OTHER
+roads in these valleys are increasingly scarce ##GENERIC SENTENCE (STATIC)
+ and traffic is so dense ##GENERIC SENTENCE (HABITUAL)
+ that in some places ##OTHER
+ it will take two weeks ##COERCED STATE (GENERIC)
+ to find a single 'doormat' a set of lungs , ##BOUNDED EVENT (GENERIC)*
+ used in making drugs on the roadside . ##GENERIC SENTENCE (DYNAMIC)
+They are where authorities collect a large amount of dirty and hard-to-clean substances ##GENERIC SENTENCE (HABITUAL)
+ when the roads are empty or passing by , ##GENERIC SENTENCE (HABITUAL)*
+ for many . ##OTHER
+So it 's not surprising ##BASIC STATE
+ that the illegal drugs were picked up at a religious festival in Afghanistan . ##BOUNDED EVENT (SPECIFIC)
+As well as the Andalusian drug , ##OTHER
+ a growing number of hashish is found in a highway park in Morocco a secluded place ##GENERIC SENTENCE (DYNAMIC)*
+ where a weedlover meets a girl or two in the middle of the desert . ##GENERIC SENTENCE (DYNAMIC)
+Head still edder on Sunday , ##NONSENSE
+ Daddyl is hidden by the desert ##BASIC STATE* //3
+ between Kap Nafay Al Salaheddin and Rufa 's Lahori Dari mountain . ##OTHER
+HAD SHE GOT TO US ? ##QUESTION
+Well there is very little rural police there . ##BASIC STATE //3
+They sniff the stuff at their checkpoints . ##GENERIC SENTENCE (DYNAMIC)
+But in this valley there is plenty of hemp , ##GENERIC SENTENCE (STATIC)
+a resource ##OTHER
+ that in Morocco is already illegal . ##GENERIC SENTENCE (STATIC)
+The road is built of thick , circular concrete columns ##BASIC STATE
+ that range along narrow alleys , ##BASIC STATE
+ through holes ##OTHER
+ made from flower straw and dossiers , ##BASIC STATE
+ worn ##UNBOUNDED EVENT (SPECIFIC)
+ and pierced as weeds . ##BASIC STATE //2
+The whole process takes about three weeks . ##GENERIC SENTENCE (DYNAMIC)
+A cannabis farm ##OTHER
+ is set up in Mirered , Morocco , ##BASIC STATE
+on a road trip between the towns of Nafay Al Salaheddin and Rufa 's Lahori Dari mountain , ##OTHER
+north of the Serena Mountains. - AFP ##OTHER
+The development is part of a trend in Morocco to develop the plant , ##BASIC STATE
+ as a lucrative source of money . ##OTHER
+Traditional restaurants in the area offer grilled food as well as medicinal and pot-infused caffeine pills . ##GENERIC SENTENCE (STATIC)
+On top of marijuana , ##OTHER
+ there are various alternative brews : ##GENERIC SENTENCE (STATIC)
+ laksa , branzino , Roma , sehiyag , clay pelagic and plantain . ##OTHER
+Another businessman , ##OTHER
+Abdullah Dhaliwal , ##OTHER
+38 , ##OTHER
+is currently researching the plant for possible growth , ##UNBOUNDED EVENT (SPECIFIC)
+ and is also putting a hybrid of Colombian weed , ##UNBOUNDED EVENT (SPECIFIC)
+ the most-common version on the Moroccan market , ##OTHER
+up for sale . ##OTHER
+Such an option has been long in the shadow of illegal drug use , ##GENERIC SENTENCE (STATIC)
+ which has also risen across the border in Sudan . ##PERFECT COERCED STATE (GENERIC)
+According to the Border Control Group ##BASIC STATE
+ ( BCG ) , ##OTHER
+a drug-trafficking alliance , ##OTHER
+street marijuana numbers have fallen from almost 1,000 in 1998 to almost 1,000 in 2010 . ##PERFECT COERCED STATE (GENERIC)
+The Nigerian government has banned the sale of homemade marijuana ##PERFECT COERCED STATE (SPECIFIC)
+ and has begun legalising the plant in its south . ##PERFECT COERCED STATE (SPECIFIC)
+Even if this continues , ##COERCED STATE (SPECIFIC)
+ most of the country 's largely indigenous people do not travel the desert ##COERCED STATE (GENERIC)
+ for recreational cannabis use . ##OTHER
+Having drunk ##NONSENSE
+ they believe ##GENERIC SENTENCE (STATIC)
+ they are the 'precious ' seeds of the east and west savannah , ##GENERIC SENTENCE (STATIC)
+ a large crop ##OTHER
+ which often stays planted on dry land ##GENERIC SENTENCE (HABITUAL)
+ until the seeds are red . ##GENERIC SENTENCE (STATIC)
+Human rights campaigners , ##OTHER
+ supported by Iran and the UN , ##GENERIC SENTENCE (STATIC)
+ have started a campaign to outlaw the practice ##PERFECT COERCED STATE (GENERIC)
+ and restrict access to marijuana . ##UNBOUNDED EVENT (GENERIC)
+The campaign proposes a publication code ##UNBOUNDED EVENT (SPECIFIC)
+ which would reveal the source of illegal drugs . ##COERCED STATE (GENERIC)
+It would also open up a database of illegal marijuana plants , ##COERCED STATE (GENERIC)
+ which is currently guarded by the authorities . ##UNBOUNDED EVENT (GENERIC)
+***0 3 1 0 0 0 0 0 YES ML NO UNCLEAR4 0 0 0 ALGORITHM

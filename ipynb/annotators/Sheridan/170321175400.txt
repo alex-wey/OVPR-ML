@@ -1,0 +1,53 @@
+During an appearance on Jimmy Kimmel Live , ##OTHER
+comedian Montel Williams criticized fellow radio talk show host Glenn Beck for supporting medical marijuana during his recent Fox News segment . ##BOUNDED EVENT (SPECIFIC)
+Williams said ##BOUNDED EVENT (SPECIFIC)
+ Beck has never taken a position ##COERCED STATE (SPECIFIC)
+ on legalizing marijuana , ##UNBOUNDED EVENT (GENERIC)
+ and has been so pleased with the way ##BASIC STATE
+ his treatment of the drug has improved ##PERFECT COERCED STATE (SPECIFIC)
+ that hes reportedly even offered an off-camera interview to Beck about the drug . ##PERFECT COERCED STATE (SPECIFIC)
+This is their last Thursday show ##BASIC STATE
+ and thats ##BASIC STATE //3
+ what I like to do , ##GENERALIZING SENTENCE (STATIVE) //2
+ and so Im not going to sit here ##COERCED STATE (SPECIFIC)
+ and get fracked up , ##COERCED STATE (SPECIFIC)
+ Williams said . ##BOUNDED EVENT (SPECIFIC)
+I went to the doctor in Ohio ##BOUNDED EVENT (SPECIFIC)
+ and they say ##BASIC STATE
+ they didnt know ##BASIC STATE
+ I had marijuana ##BASIC STATE
+ and I think ##BASIC STATE
+ they did it correctly . ##BOUNDED EVENT (SPECIFIC)
+They dont say ##COERCED STATE (SPECIFIC)
+ I have any , ##BASIC STATE
+ like , ##OTHER
+hardcore weed . ##OTHER
+Just I have compassion . ##BASIC STATE
+Williams said ##BOUNDED EVENT (SPECIFIC)
+ the staff at the Beck-covered radio program thinks its crazy ##BASIC STATE
+ that the president might even consider using medical marijuana , ##COERCED STATE (SPECIFIC)
+ according to the Huffington Post . ##BASIC STATE
+Ive been sick for 20 days now , ##BASIC STATE
+ Williams told Kimmel . ##BOUNDED EVENT (SPECIFIC)
+When I am sick , ##BASIC STATE
+ its almost like I must say ##COERCED STATE (SPECIFIC)
+ this feels like new medicine . ##BASIC STATE //4
+But ##OTHER
+ if Obama would let this happen , ##COERCED STATE (SPECIFIC)
+ hed know ##BASIC STATE
+ how much this affects people . ##GENERIC SENTENCE (DYNAMIC) //4
+Williams said ##BOUNDED EVENT (SPECIFIC)
+ Becks characterizations of medical marijuana are totally off base . ##BASIC STATE
+I think ##BASIC STATE
+ he might want to get familiar with it ##COERCED STATE (SPECIFIC)
+ and understand the big-picture problems ##BASIC STATE
+ that it would bring about , ##COERCED STATE (GENERIC)
+ Williams said . ##BOUNDED EVENT (SPECIFIC)
+Medical marijuana is a problem ##GENERIC SENTENCE (STATIC)
+ that the entire Obama-care biz had no way ##BASIC STATE
+ of fix itself . ##NONSENSE
+Lawmakers are considering regulating medical marijuana for recreational use , ##UNBOUNDED EVENT (GENERIC)
+ saying ##UNBOUNDED EVENT (GENERIC)
+ the drug could reduce abuse ##COERCED STATE (GENERIC)
+ and potentially help reduce mental illness rates . ##COERCED STATE (GENERIC)
+***0 5 5 1 1 4 1 2 YES ML YES 4 2 3 2 ALGORITHM

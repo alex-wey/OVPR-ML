@@ -1,0 +1,129 @@
+President Rodrigo Duterte of the Philippines , ##OTHER
+ who has adopted as his signature policy a violent nationwide crackdown on drug use , ##PERFECT COERCED STATE (SPECIFIC)
+ claimed in remarks on Monday ##BOUNDED EVENT (SPECIFIC)
+ that he uses marijuana ##GENERALIZING SENTENCE (DYNAMIC)
+ to stay awake . ##UNBOUNDED EVENT (SPECIFIC) //4
+Duterte later told reporters ##BOUNDED EVENT (SPECIFIC)
+ he was of course joking , ##UNBOUNDED EVENT (SPECIFIC)
+ trying to keep a rambling speech ##UNBOUNDED EVENT (SPECIFIC)
+ about how much he disliked the experience of attending this years Association of Southeast Asian Nations ##BASIC STATE
+ ( ASEAN ) summit ##OTHER
+ from ##OTHER
+ getting too boring . ##COERCED STATE (SPECIFIC) //4
+Duterte was speaking at an event ##BOUNDED EVENT (SPECIFIC)
+ celebrating the Philippine Organizing Committee ##UNBOUNDED EVENT (SPECIFIC)
+ that put together the countrys delegation to ASEAN . ##BOUNDED EVENT (SPECIFIC)
+The Philippine president typically deviates from the main themes of events ##GENERALIZING SENTENCE (DYNAMIC)
+ he attends in his remarks , ##GENERALIZING SENTENCE (DYNAMIC)
+ instead taking time ##GENERALIZING SENTENCE (DYNAMIC)
+ to discuss matters of interest to him , ##UNBOUNDED EVENT (SPECIFIC)
+ such as his distaste for the Catholic Church . ##OTHER
+Last week , ##OTHER
+ he threatened to decapitate a Philippine bishop for allegedly buying drugs , ##BOUNDED EVENT (SPECIFIC)
+a claim ##OTHER
+ Duterte did not back with evidence . ##COERCED STATE (SPECIFIC)
+At the ASEAN event in Manila Monday , ##OTHER
+Duterte took the time ##BOUNDED EVENT (SPECIFIC)
+ to detail his many complaints about the conference , ##UNBOUNDED EVENT (SPECIFIC)
+ calling it a killing activity , ##UNBOUNDED EVENT (SPECIFIC)
+ implying ##UNBOUNDED EVENT (SPECIFIC)
+ that the world leaders ##OTHER
+ who attend spend most of their time there ##GENERIC SENTENCE (DYNAMIC)
+ slowly dying inside . ##UNBOUNDED EVENT (GENERIC)
+Me , ##OTHER
+not so much , ##OTHER
+ he added , ##BOUNDED EVENT (SPECIFIC)
+ because I take marijuana ##GENERALIZING SENTENCE (DYNAMIC)
+ to stay awake . ##UNBOUNDED EVENT (SPECIFIC)
+It doesnt work , ##COERCED STATE (GENERIC)
+ with others . ##OTHER*
+Duterte used Sultan of Brunei Hassanal Bolkiah as an example of one of the world leaders ##BOUNDED EVENT (SPECIFIC)
+ who fell asleep during the event . ##BOUNDED EVENT (SPECIFIC)
+Just between us , ##OTHER
+ but Bolkiah slept during the events , ##BOUNDED EVENT (SPECIFIC)
+ Duterte said during the public speech at the presidential palace Monday . ##BOUNDED EVENT (SPECIFIC)
+He has a talent to make it appear ##BASIC STATE
+ that he was not sleeping , ##COERCED STATE (SPECIFIC)
+ so ##OTHER
+ it is as if he is contemplating his oil . ##BASIC STATE //4
+Duterte also complained about the awful food at the event , ##BOUNDED EVENT (SPECIFIC)
+ claiming ##UNBOUNDED EVENT (SPECIFIC)
+ he had to bring his own canned meats ##COERCED STATE (SPECIFIC)
+ and eat them in his hotel room ##COERCED STATE (SPECIFIC)
+ to avoid consuming ##UNBOUNDED EVENT (SPECIFIC) //3
+ catered ASEAN food for heads of state . ##OTHER
+The food sucked . ##BASIC STATE //4
+Jesus , Mary , and Joseph , its true , ##BASIC STATE
+ Duterte protested . ##BOUNDED EVENT (SPECIFIC)
+I have to bring Karne Norte and dried fish . ##COERCED STATE (SPECIFIC)
+He went on to complain ##BOUNDED EVENT (SPECIFIC)
+ that the heads of the ASEAN think were boy scouts and overbook each world leaders schedules . ##BASIC STATE
+I cant take it , ##COERCED STATE (SPECIFIC)
+ he added . ##BOUNDED EVENT (SPECIFIC)
+The ASEAN conference occurred last month in Papua New Guinea . ##BOUNDED EVENT (SPECIFIC)
+At the time , ##OTHER
+Duterte skipped several significant meetings at ASEAN ##BOUNDED EVENT (SPECIFIC)
+ and went on to skip four meetings ##BOUNDED EVENT (SPECIFIC)
+ scheduled at the Asia-Pacific Economic Cooperation ##BASIC STATE
+ ( APEC ) ##OTHER
+ conference in Singapore , ##OTHER
+ which occurred immediately after the ASEAN summit . ##BOUNDED EVENT (SPECIFIC)
+He also skipped the ASEAN gala , ##BOUNDED EVENT (SPECIFIC)
+ which he hosted in 2017 ##BOUNDED EVENT (SPECIFIC)
+ when the Philippines organized it . ##BOUNDED EVENT (SPECIFIC)
+Dutertes presidential spokesman , ##OTHER
+ Salvador Panelo , ##OTHER
+told reporters ##BOUNDED EVENT (SPECIFIC)
+ that Duterte skipped the meetings for power naps ##BOUNDED EVENT (SPECIFIC)
+ necessary due to the punishing schedule ##OTHER
+ he faced . ##BASIC STATE
+Dutertes remarks about marijuana have triggered the most outrage , ##PERFECT COERCED STATE (SPECIFIC)
+ as police have killed thousands of Philippine nationals in shootouts ##PERFECT COERCED STATE (GENERIC)
+ since Duterte took office in 2016 , ##BOUNDED EVENT (SPECIFIC)
+ vowing to kill the nations drug criminals ##UNBOUNDED EVENT (SPECIFIC)
+ and eradicate illicit drug use entirely . ##UNBOUNDED EVENT (SPECIFIC) //2
+Marijuana use is illegal in the Philippines . ##GENERIC SENTENCE (STATIC)
+An estimated 5,000 people have died ##PERFECT COERCED STATE (SPECIFIC)
+ since Duterte took office in incidents ##BOUNDED EVENT (SPECIFIC)
+ related to law enforcement against drug crime . ##BASIC STATE
+The first police convictions for wrongful killing of drug suspects occurred on Friday ; ##BOUNDED EVENT (SPECIFIC)
+ Duterte has vowed to pardon officers ##PERFECT COERCED STATE (SPECIFIC)
+ who kill Philippine citizens ##GENERIC SENTENCE (DYNAMIC)
+ suspected of using or trafficking in drugs . ##GENERIC SENTENCE (STATIC)
+Asked to clarify his remarks Monday , ##BOUNDED EVENT (SPECIFIC)
+ Duterte said , ##BOUNDED EVENT (SPECIFIC)
+ Of course I was joking . ##BOUNDED EVENT (SPECIFIC)
+I want to shake a tree in the middle of a [ speech ] . ##BASIC STATE
+He added ##BOUNDED EVENT (SPECIFIC)
+ that his speech would be boring ##BASIC STATE
+ if he did not make jokes ##COERCED STATE (SPECIFIC)
+ and that this was part of his style . ##BASIC STATE
+Its too late to change , ##BASIC STATE //3
+ he concluded , ##BOUNDED EVENT (SPECIFIC)
+ adding , ##UNBOUNDED EVENT (SPECIFIC)
+ If you believe it , ##GENERIC SENTENCE (STATIC)
+ you are stupid . ##GENERIC SENTENCE (STATIC)
+In an interview in 2016 , ##OTHER
+ Duterte issued support for legalizing medical marijuana , ##BOUNDED EVENT (SPECIFIC)
+ insisting ##UNBOUNDED EVENT (SPECIFIC)
+ that cannabis is really an ingredient of modern medicine now . ##GENERIC SENTENCE (STATIC)
+There are medicines ##GENERIC SENTENCE (STATIC)
+ right now being developed or already in the market ##UNBOUNDED EVENT (GENERIC)
+ that contains marijuana as a component ##GENERIC SENTENCE (STATIC)*
+ but used for medical purposes . ##GENERIC SENTENCE (DYNAMIC)
+Yet he rejected the idea ##BOUNDED EVENT (SPECIFIC)
+ of smoking cannabis recreationally , ##GENERIC SENTENCE (DYNAMIC)
+ warning ##UNBOUNDED EVENT (SPECIFIC)
+ that those ##OTHER
+ who fight the law ##UNBOUNDED EVENT (GENERIC)
+ by using it in the manner ##GENERIC SENTENCE (DYNAMIC)*
+ will die . ##COERCED STATE (GENERIC)
+Rappler added ##BOUNDED EVENT (SPECIFIC)
+ that Duterte has previously admitted , ##PERFECT COERCED STATE (SPECIFIC)
+ without claiming to be joking , ##COERCED STATE (SPECIFIC)
+ to the use of fentanyl , ##OTHER
+an extremely addictive and dangerous opioid ##OTHER
+ believed to have played a role in nearly half the opioid overdose deaths in the United States in 2017 . ##PERFECT COERCED STATE (GENERIC)
+Duterte claimed to use fentanyl in a patch form ##BOUNDED EVENT (SPECIFIC)
+ to relieve chronic back pain . ##UNBOUNDED EVENT (SPECIFIC)
+***0 5 5 3 5 4 5 2 YES ML YES 0 2 4 5 HUMAN

@@ -1,0 +1,40 @@
+A recent government pardon ##OTHER
+ ( yesterday 's paper Talking Notes ) ##OTHER
+ suggests ##BASIC STATE
+ that an old judge should n't decide ##COERCED STATE (GENERIC)
+ who gets to be the chief judge of a country . ##GENERIC SENTENCE (STATIC)
+They are not part of the guidelines . ##GENERIC SENTENCE (STATIC)
+There are basically no rules ##GENERIC SENTENCE (STATIC)
+ governing ##BASIC STATE
+ how a person can legitimately opine on the constitution or policies of a country . ##UNBOUNDED EVENT (GENERIC) //2
+And thus the federal guidelines are only applicable to court cases 
+ that are politically motivated . ##BASIC STATE
+When fighting for judges , ##UNBOUNDED EVENT (GENERIC)
+ you 're more likely to be found wanting by the public prosecutor ##COERCED STATE (GENERIC)
+ than the deputy chief judge of a state or city . ##OTHER
+A federal judge is only supposed to preside over a state or city case , ##GENERIC SENTENCE (STATIC) 
+ even if he 's a judge , ##GENERIC SENTENCE (STATIC)
+ meaning ##BASIC STATE
+ that he has the power to actually keep the drunk drunk drunk drunk drunk in a court , ##GENERIC SENTENCE (STATIC)
+ plus go through all the other things ##UNBOUNDED EVENT (GENERIC) //3
+ that the other judge presides over . ##GENERIC SENTENCE (STATIC)
+Sometimes it 's just really hard to read a decision ##GENERIC SENTENCE (STATIC)
+ when the case is so obvious to everyone ##GENERIC SENTENCE (STATIC)
+ and the law is so clear ##GENERIC SENTENCE (STATIC)
+ that you can get away with making it happen . ##GENERIC SENTENCE (STATIC)
+There are indeed no rules ##GENERIC SENTENCE (STATIC(
+ relating to dropping the landmark ban on " office smokers " and only a ban on substance abuse , ##GENERIC SENTENCE (STATIC)
+if any . ##OTHER
+But that does n't mean ##BASIC STATE
+ that all the people ##OTHER
+ who are trying to pass the ban ##GENERIC SENTENCE (STATIC)
+ are ignoring the fact ##UNBOUNDED EVENT (GENERIC)
+ that it 's an insulting choice . ##GENERIC SENTENCE (STATIC)
+And regardless of the law , ##OTHER
+ you probably do n't know ##GENERIC SENTENCE (STATIC)
+ what you 're getting into ##UNBOUNDED EVENT (GENERIC)
+ if you really want to succeed in the first place . ##GENERIC SENTENCE (STATIC)
+Good luck trying ! ##OTHER
+
+
+***0 5 3 0 0 0 0 0 NO YES UNCLEAR 2 0 0 ALGORITHM

@@ -1,0 +1,65 @@
+A North Carolina rancher threw a drug charge out of a case ##BOUNDED EVENT (SPECIFIC)
+ that led police to their chase . ##BOUNDED EVENT (SPECIFIC)
+The incident started ##BOUNDED EVENT (SPECIFIC)
+ when Lee County Sheriff 's deputies were trying to stop a man ##UNBOUNDED EVENT (SPECIFIC)
+ for driving a black Jeep Cherokee SUV , ##UNBOUNDED EVENT (SPECIFIC)
+ authorities said . ##BOUNDED EVENT (GENERIC)
+What started as a slinging argument ##BOUNDED EVENT (SPECIFIC)
+ turned into a car ##BOUNDED EVENT (SPECIFIC)
+ chase Monday night . ##OTHER
+Deputies said ##BOUNDED EVENT (GENERIC)
+ Lawrence Miller handed over information on a burglary in his company along Interstate 84 . ##BOUNDED EVENT (SPECIFIC)
+The chase led Miller into Kansas ##BOUNDED EVENT (SPECIFIC)
+ and led to a chase ##BOUNDED EVENT (SPECIFIC)
+ involving other people , vehicles and motorcycles . ##BOUNDED EVENT (SPECIFIC)
+The chase ended on Sunday near midnight ##BOUNDED EVENT (SPECIFIC)
+ when deputies were called to Miller 's own home , ##BOUNDED EVENT (SPECIFIC)
+ found ##BOUNDED EVENT (SPECIFIC)
+ that the house was not broken into , ##BASIC STATE
+ Sheriff 's Department officials said . ##BOUNDED EVENT (GENERIC)
+Miller was charged with one count of burglary , two counts of possession of marijuana , one count of speeding and one count of reckless driving . ##BOUNDED EVENT (SPECIFIC)
+Family , friends and neighbors said ##UNBOUNDED EVENT (GENERIC)
+ Miller is one of the hot suspects in an ongoing investigation of armed robberies at gunpoint . ##BASIC STATE
+Miller told officials ##BOUNDED EVENT (SPECIFIC)
+ he had cocaine in his system . ##UNBOUNDED EVENT (SPECIFIC)
+He added ##BOUNDED EVENT (SPECIFIC)
+ that he had just burned out so much in the last two years . ##UNBOUNDED EVENT (SPECIFIC)
+Authorities said ##BOUNDED EVENT (SPECIFIC)
+ the pursuit lasted more than an hour ##BOUNDED EVENT (SPECIFIC)
+ and was terminated after a " laborious armed pursuit ##BOUNDED EVENT (SPECIFIC)
+ " involving 20 separate cars and motorcycles . ##BASIC STATE
+Officials said ##BOUNDED EVENT (GENERIC)
+ some of those ##OTHER
+ involved in the pursuit chased cars . ##BOUNDED EVENT (SPECIFIC)
+Maj. Angelo Marcus issued the following statement about the impassive situation : ##BOUNDED EVENT (SPECIFIC)
+ " In the course of doing this pursuit , ##OTHER
+ Lee County Sheriff 's deputies followed the drivers vehicle from Oldsmobile ##BOUNDED EVENT (SPECIFIC)
+ that we all tried to turn ##BOUNDED EVENT (GENERIC)
+ and crashed the vehicle into the snow . ##BOUNDED EVENT (SPECIFIC)
+Law enforcement officers are grateful for their tireless effort to take the suspect vehicle down safely . ##GENERIC SENTENCE (STATIC)
+We also ca n't wait to see the result of their use in later court proceedings ##GENERIC SENTENCE (STATIC)
+ to determine ##UNBOUNDED EVENT (SPECIFIC)
+ if the suspect will receive a fair trial . ##COERCED STATE (SPECIFIC)
+We are shocked , disappointed and perplexed at the senseless attack on our family during this very difficult time . ##BASIC STATE
+We are all extremely concerned ##GENERIC SENTENCE (STATIC)
+ and we want our brother 's recovery to be all the longer desired ##GENERIC SENTENCE (STATIC)
+ and for that he is held in the custody of the county attorney . ##BASIC STATE
+We ask for prayers and support ##UNBOUNDED EVENT (GENERIC)
+ and wish him well . " ##GENERIC SENTENCE (STATIC)
+Barnett , ##OTHER
+ who provided a statement Monday , ##BOUNDED EVENT (SPECIFIC)
+ said ##BOUNDED EVENT (SPECIFIC)
+ that he also spoke to families . ##BOUNDED EVENT (SPECIFIC)
+While everyone is upset about what happened , ##GENERIC SENTENCE (STATIC)
+ we cannot do without the assistance of our law enforcement officers . ##GENERIC SENTENCE (STATIC)
+As of now , ##OTHER
+the driver of the car was released from custody on warrant ##BOUNDED EVENT (SPECIFIC)
+ and is now being led to the Juvenile Detention Center in Kansas . ##BASIC STATE
+Miller is being held without bond ##BASIC STATE
+ after his mugshot , ##OTHER
+the result of his deputies ##OTHER
+ pursuing him , ##BOUNDED EVENT (SPECIFIC)
+ was released Wednesday . ##BOUNDED EVENT (SPECIFIC)
+
+
+***0 5 5 5 3 2 2 5 NO NA NO 0 0 0 0 ALGORITHM

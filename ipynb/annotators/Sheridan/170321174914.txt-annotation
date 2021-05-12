@@ -1,0 +1,35 @@
+1 1 0 0 elabx
+2 2 0 1 elab
+
+3 6 2 2 elabx
+4 4 3 3 elab
+5 6 3 3 elab
+5 5 6 6 contr
+
+7 8 0 0 elabx
+8 8 7 7 elab
+
+9 13 0 0 elabx
+10 10 9 9 elab
+11 11 9 10 elabx
+9 9 12 13 sim
+13 13 12 12 elab
+
+14 14 0 2 elabx
+15 22 14 14 elabx
+
+15 15 19 22 attr
+16 17 15 15 elab
+17 17 16 16 elab
+18 18 17 17 elab
+20 20 19 19 elab
+21 21 20 20 elab
+22 22 21 21 elab
+
+23 24 19 22 elabx
+24 24 23 23 elabx
+
+23 24 25 25 cex
+26 26 27 27 elab
+25 25 26 27 ce
+

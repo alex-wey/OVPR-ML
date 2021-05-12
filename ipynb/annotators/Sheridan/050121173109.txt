@@ -1,0 +1,90 @@
+A recent insurance study links increased car crash claims to legalized recreational marijuana . ##BASIC STATE
+The Highway Loss Data Institute , ##OTHER
+a leading insurance research group , ##OTHER
+said in study results ##BOUNDED EVENT (SPECIFIC)
+ released Thursday ##BOUNDED EVENT (SPECIFIC)
+ that collision claims in Colorado , Washington , and Oregon went up 2.7 percent in the years ##BOUNDED EVENT (GENERIC)
+ since legal recreational marijuana sales began ##BOUNDED EVENT (GENERIC)
+ when compared with surrounding states . ##BOUNDED EVENT (GENERIC)
+Legal recreational pot sales in Colorado began in January 2014 , ##BOUNDED EVENT (GENERIC)
+ followed six months later in Washington , ##BOUNDED EVENT (SPECIFIC)
+ and in October 2015 in Oregon . ##OTHER
+" We believe ##BASIC STATE
+ that the data is saying ##UNBOUNDED EVENT (GENERIC)
+ that ##OTHER
+ crash risk has increased in these states ##PERFECT COERCED STATE (GENERIC)
+ and those crash risks are associated with the legalization of marijuana , " ##GENERIC SENTENCE (STATIC) 
+said Matt Moore , ##BOUNDED EVENT (SPECIFIC)
+senior vice president with the institute , ##OTHER
+ which analyzes insurance data ##GENERIC SENTENCE (DYNAMIC)
+ to observe emerging auto-safety trends . ##GENERIC SENTENCE (DYNAMIC)
+Mason Tvert , ##OTHER
+a marijuana legalization advocate and communications director with the Marijuana Policy Project , ##OTHER
+questioned the study 's comparison of claims in rural states such as Idaho , Wyoming , and Montana with Colorado , Oregon and Washington ##BOUNDED EVENT (SPECIFIC)
+ that have dense population centers ##GENERIC SENTENCE (STATIC)
+ and how that affected the study 's findings . ##BOUNDED EVENT (GENERIC)
+"The study raises more questions ##UNBOUNDED EVENT (SPECIFIC)
+ than it provides answers , ##UNBOUNDED EVENT (SPECIFIC)
+ and it 's an area ##BASIC STATE
+ that would surely receive more study , ##COERCED STATE (SPECIFIC)
+ and deservedly so , " ##OTHER
+Tvert said . ##BOUNDED EVENT (SPECIFIC)
+Researchers accounted for factors such as the number of vehicles on the road ##BOUNDED EVENT (SPECIFIC)
+ in the study and control states , age and gender of drivers , weather ##OTHER
+ and even whether the driver ##OTHER
+ making a claim was employed . ##GENERIC SENTENCE (DYNAMIC)
+Neighboring states with similar fluctuations in claims ##OTHER
+ were used for comparison . ##BOUNDED EVENT (SPECIFIC)
+Insurance industry groups have been keeping a close watch on claims ##PERFECT COERCED STATE (GENERIC)
+ when auto accidents across the country began to go up in 2013 ##BOUNDED EVENT (GENERIC)
+ after more than a decade of steady decline . ##OTHER
+Insurance companies found several possible factors ##BOUNDED EVENT (GENERIC)
+ at play in the spike ##UNBOUNDED EVENT (SPECIFIC)
+ that included distracted driving through texting or cellphone use , road construction , and an improved economy ##GENERIC SENTENCE (STATIC)
+ that has led to leisurely drives and more miles driven , ##PERFECT COERCED STATE (GENERIC)
+ as well as marijuana legalization . ##OTHER
+" It would appear , ##COERCED STATE (SPECIFIC)
+probably not to anyone 's surprise , ##OTHER
+ that the use of marijuana contributes to crashes ," ##GENERIC SENTENCE (DYNAMIC)
+said Kenton Brine , ##BOUNDED EVENT (SPECIFIC)
+president of the industry group Northwest Insurance Council ##OTHER
+ that represents companies in Washington , Oregon and Idaho . ##BASIC STATE
+He added : ##BOUNDED EVENT (SPECIFIC)
+ " It would be difficult to say ##COERCED STATE (GENERIC)
+ that marijuana is a definitive factor , ##GENERIC SENTENCE (STATIC)
+ lacking a citation , ##OTHER
+ in a significant number of crashes ##OTHER
+ to say ##UNBOUNDED EVENT (GENERIC) //3
+ that what we 're seeing here ##UNBOUNDED EVENT (SPECIFIC)
+ is a trend . " ##BASIC STATE
+The Highway Loss Data Institute said ##BOUNDED EVENT (SPECIFIC)
+ its study examined claims from January 2012 to October 2016 . ##BOUNDED EVENT (SPECIFIC)
+" The problem here ##OTHER
+ is that it 's a pretty new experience , " ##GENERIC SENTENCE (STATIC)
+said Carole Walker of the Rocky Mountain Insurance Information Association , ##BOUNDED EVENT (SPECIFIC)
+an industry group ##OTHER
+ that covers Colorado , Wyoming , Utah and New Mexico . ##BASIC STATE
+" This is the first study ##BASIC STATE
+ that has been able to isolate legal pot as one of the factors . " ##COERCED STATE (SPECIFIC)
+Eight states and Washington , D.C. , ##OTHER
+ have legalized recreational marijuana for adults . ##PERFECT COERCED STATE (SPECIFIC)
+Insurance Institute for Highway Safety spokesman Russ Rader adds ##UNBOUNDED EVENT (SPECIFIC)
+ that alcohol impairment remains one of the biggest concerns on the road . ##GENERIC SENTENCE (STATIC)
+"While we have proven countermeasures , ##GENERIC SENTENCE (STATIC)
+proven strategies for reducing alcohol impaired driving , ##GENERIC SENTENCE (DYNAMIC) //3
+ there are a lot of unanswered questions about marijuana and driving ," ##GENERIC SENTENCE (STATIC)
+Rader said . ##BOUNDED EVENT (SPECIFIC)
+A study ##OTHER
+ released last year ##BOUNDED EVENT (SPECIFIC)
+ by AAA 's safety foundation found ##BOUNDED EVENT (SPECIFIC)
+ legal THC limits ##OTHER
+ established by states with legal marijuana ##GENERIC SENTENCE (DYNAMIC)
+ have no scientific basis ##GENERIC SENTENCE (STATIC)
+ and can result in innocent drivers being convicted , ##COERCED STATE (GENERIC) 
+ and guilty drivers being released . ##COERCED STATE (GENERIC)
+Moore of the Highway Loss Data Institute said ##BOUNDED EVENT (SPECIFIC)
+ they hope ##BASIC STATE
+ the study 's findings will be considered by lawmakers and regulators in states ##COERCED STATE (SPECIFIC)
+ where marijuana legalization is under consideration ##UNBOUNDED EVENT (GENERIC)
+ or recently enacted . ##BOUNDED EVENT (GENERIC) //3
+***0 5 5 0 0 0 0 0 YES ML YES 2 0 0 0 HUMAN

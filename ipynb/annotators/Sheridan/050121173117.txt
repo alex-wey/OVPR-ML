@@ -1,0 +1,85 @@
+Creepy ? ##QUESTION
+Creepy ? ##QUESTION
+Creepy ? ##QUESTION
+A new CNN segment on drug-fueled pot-infused video is the most extreme by far , ##BASIC STATE
+thanks to a giant pot user 's PDA . ##OTHER
+Representatives from the Marijuana Policy Project released the video , ##BOUNDED EVENT (SPECIFIC)
+ which includes a shot of a pot-filled room of a couple . ##BASIC STATE
+Marijuana Policy Project co-director Judd Bielz tweeted the clip on Tuesday . ##BOUNDED EVENT (SPECIFIC)
+The feature includes a strip of marijuana ##BASIC STATE
+ that is apparently made ##BASIC STATE
+ to look like marijuana pipes or rather , ##OTHER
+pipes from urine , ##OTHER
+ as the story claims . ##UNBOUNDED EVENT (SPECIFIC)
+In the clip , ##OTHER
+Mike DeLuca of the Marijuana Policy Project claims ##UNBOUNDED EVENT (SPECIFIC)
+ that there were more children ##BASIC STATE
+ addicted to pot than parents in Georgia and Texas in 2016 ##OTHER
+ and blames drug addiction and abuse on pot . ##UNBOUNDED EVENT (SPECIFIC)
+" What these kids were living with ##BOUNDED EVENT (GENERIC)
+ before , after legalization , ##OTHER
+they just grew up addicted , " ##UNBOUNDED EVENT (GENERIC)
+he said . ##BOUNDED EVENT (SPECIFIC)
+"The only science ##OTHER
+ that proved ##BOUNDED EVENT (GENERIC)
+ that is the pot ##GENERIC SENTENCE (STATIC) //4
+ that kills you . " ##GENERIC SENTENCE (DYNAMIC) //2
+Just another day in the lives of marijuana users , ##OTHER
+children from zero to 30 , ##OTHER
+adult children . ##OTHER
+Judd Bielz ##OTHER
+ ( @ JuddBielz ) January 2 , 2018 ##OTHER
+Charlie Gasparino , ##OTHER
+Editor-in-Chief of Marijuana Business Daily , ##OTHER
+told XXX in an interview ##BOUNDED EVENT (SPECIFIC)
+ that the piece in the article proves ##UNBOUNDED EVENT (SPECIFIC)
+"that the best pot ideas are those ##GENERIC SENTENCE (HABITUAL)
+ that go nowhere for the very people ##GENERIC SENTENCE (DYNAMIC) //4
+ they 're trying to solve their problems. " ##UNBOUNDED EVENT (GENERIC) //3
+Gasparino also said ##BOUNDED EVENT (SPECIFIC)
+ the content of the clip " was n't free to us , ##BASIC STATE
+ but it was a successful experiment and 'smoke ##BASIC STATE
+ and mirrors ' was a hot potato at the time . " ##BASIC STATE
+Gasparino added ##BOUNDED EVENT (SPECIFIC)
+ that CNN was actually " willing to provide the public access to the marijuana images ##BASIC STATE
+ that might otherwise be accessed on the network ##COERCED STATE (SPECIFIC)
+ without your permission or disclosure . " ##OTHER
+This latest pot-infused video comes ##UNBOUNDED EVENT (SPECIFIC)
+ after the same group released a follow-up report earlier this week ##BOUNDED EVENT (SPECIFIC)
+ saying ##UNBOUNDED EVENT (SPECIFIC)
+ smoking pot by prescription is a sure fire way to pain relief , ##GENERIC SENTENCE (STATIC)
+ and as a legal way ##OTHER
+ to end dependence . ##GENERIC SENTENCE (DYNAMIC) //4
+Granted , ##OTHER
+since November ##OTHER
+ when marijuana became illegal nationwide , ##BOUNDED EVENT (GENERIC)
+ Americans have made it their number one voting bloc in U.S. elections . ##PERFECT COERCED STATE (GENERIC)
+The Marijuana Policy Project , ##OTHER
+ which has drawn the wrath of Democratic politicians over their " spilling in your vape pen " policy , ##PERFECT COERCED STATE (SPECIFIC)
+ remains steadfast in its stance against legalization . ##BASIC STATE
+Brian Flood , ##OTHER
+a former U.S. representative from southern California ##OTHER
+ who now serves as Editor-in-Chief of Marijuana Business Daily , ##UNBOUNDED EVENT (SPECIFIC)
+ and Devin Logan , ##OTHER
+a former U.S. senator from Utah , ##OTHER
+both told XXX ##BOUNDED EVENT (SPECIFIC)
+ they support enforcement of any drug law . ##BASIC STATE
+"It 's definitely not something ##GENERIC SENTENCE (STATIC) 
+ that you 'd take lightly , ##COERCED STATE (GENERIC)
+ but it 's something ##GENERIC SENTENCE (STATIC)
+ we ca n't take lightly . ##COERCED STATE (SPECIFIC)
+In a lot of ways we supported legalization not in a vacuum , ##BOUNDED EVENT (SPECIFIC)
+ but kind of from a political standpoint . ##OTHER
+I really believed ##BASIC STATE
+ that the second time around and in a very consequential way ##OTHER
+ it 's the best medicine for the American people ," ##GENERIC SENTENCE (STATIC)
+Logan said . ##BOUNDED EVENT (SPECIFIC)
+"If we wanted to stop somebody from getting drugs ##GENERIC SENTENCE (STATIC)
+ the second time ##OTHER
+ around it would take a lot more time ," ##COERCED STATE (GENERIC)
+Logan said , ##BOUNDED EVENT (SPECIFIC)
+ adding ##UNBOUNDED EVENT (SPECIFIC)
+ that marijuana use in " seriously dangerous ways " ##OTHER
+in the U.S. is an " attempt to stir distrust of the science and stupidity , and that 's why we support legalization . " ##GENERIC SENTENCE (STATIC)
+XXX 's Washington bureau chief Ben Domenech contributed to this report . ##BOUNDED EVENT (SPECIFIC)
+***0 4 5 0 0 0 0 0 YES ML YES UNCLEAR 0 0 0 ALGORITHM 

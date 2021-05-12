@@ -1,0 +1,64 @@
+Why is marijuana marijuana the only legal drug for adults over 21 ? ##QUESTION
+As we approach Nov. 7 , ##GENERIC SENTENCE (STATIC)
+ one group of Actors Against Mandatory Minimums advocates believe ##BASIC STATE
+ federal law requires states to comply with regulations ##GENERIC SENTENCE (STATIC)
+ to combat consumption of marijuana . ##GENERIC SENTENCE (DYNAMIC)
+Theyre getting this message from the Sons of the American Revolution . ##GENERIC SENTENCE (STATIC)
+Despite repeated warnings from the FBI , DEA , DEA and other law enforcement agencies ##OTHER
+ that the federal government , ##OTHER
+not SAD , ##OTHER
+ would enforce the law , ##COERCED STATE (SPECIFIC)
+the Brothers of the Wall stop demonstrations of youth ##GENERALIZING SENTENCE (DYNAMIC)*
+ and encourage only consumption of marijuana , ##GENERALIZING SENTENCE (DYNAMIC)
+ the advocacy group states . ##BASIC STATE
+So its the Sons of the American Revolution ##BASIC STATE
+ warning the federal government ##UNBOUNDED EVENT (SPECIFIC)
+ that the federal government will slow down ##COERCED STATE (SPECIFIC)
+ and make it harder ##COERCED STATE (SPECIFIC)
+ for youth to manufacture and bring marijuana back to American soil . ##GENERIC SENTENCE (DYNAMIC)
+The Sons of the American Revolution was the union ##UNBOUNDED EVENT (SPECIFIC)
+ representing police officers for the first time in the American civil rights movement . ##BOUNDED EVENT (SPECIFIC)
+The 1968 Equal Rights Amendment mandates ##BASIC STATE
+ that these two institutions , ##OTHER
+ which fought for womens suffrage and womens rights , ##UNBOUNDED EVENT (SPECIFIC)
+ obtain a federal consumption list from the Department of the Treasury , ##COERCED STATE (SPECIFIC)
+ as well as receive legal recognition from these states . ##COERCED STATE (SPECIFIC)
+But only states ##OTHER
+ that dont have such a list ##GENERIC SENTENCE (STATIC)
+ are required ##GENERIC SENTENCE (STATIC)
+ to submit an annual to federal law enforcement . ##GENERIC SENTENCE (DYNAMIC)
+In this day and age , ##OTHER
+alcohol also has a significant role to play . ##GENERIC SENTENCE (HABITUAL)
+Marijuanas growth has been driven in part by recent efforts to decriminalize it . ##PERFECT COERCED STATE (GENERIC)
+Legalization of marijuana could still be seen as advancing the federal governments cause , ##COERCED STATE (GENERIC)
+ but instead threatens to undo much of what it has accomplished in the past 40 years . ##GENERIC SENTENCE (STATIC)
+The Sons of the American Revolution finally acknowledge ##GENERALIZING SENTENCE (STATIVE)
+ that the federal government hasnt taken root in much of the country . ##BASIC STATE
+But political arguments about pot arent entirely driven by cultural differences . ##GENERIC SENTENCE (STATIC)
+Marijuana is technically illegal . ##BASIC STATE
+Under federal law , ##OTHER
+ people are legal to possess it ##GENERIC SENTENCE (STATIC)
+ when there is a public health risk . ##GENERIC SENTENCE (STATIC)*
+By contrast , ##OTHER
+humans have no legal right to have marijuana in their bodies . ##GENERIC SENTENCE (STATIC)
+But its not necessarily far-fetched to wonder ##GENERIC SENTENCE (STATIC)
+ why Americans havent embraced it far enough ##PERFECT COERCED STATE (SPECIFIC)
+ to protect its potential for abuse . ##GENERALIZING SENTENCE (DYNAMIC)
+Cannabis has significant health benefits . ##BASIC STATE
+Medical marijuana patients often have access to other treatment options ##GENERIC SENTENCE (HABITUAL)
+ to fight cancer ##GENERIC SENTENCE (DYNAMIC)
+ and weight loss . ##OTHER
+Its also marketed to a vast consumer base . ##GENERIC SENTENCE (DYNAMIC)
+So why not take this time ##QUESTION
+ to fight tooth ##QUESTION
+ and nail and get their product off the ground ? ##QUESTION
+Whether or not Congress will come up with a definitive answer is debatable . ##BASIC STATE
+A federal government bill is not likely to pass without testing marijuana , ##GENERIC SENTENCE (STATIC)
+ wrote David Goldman , ##BOUNDED EVENT (SPECIFIC)
+president of the Center for American Progress , ##OTHER
+a liberal nonprofit ##OTHER
+ based in Washington . ##BASIC STATE
+Consumers should not be scared , ##COERCED STATE (GENERIC)
+ supporters of marijuana advocates say . ##GENERIC SENTENCE (HABITUAL)
+
+***0 2 5 2 1 1 1 5 YES ML NO UNCLEAR(4) 2 1 2 ALGORITHM

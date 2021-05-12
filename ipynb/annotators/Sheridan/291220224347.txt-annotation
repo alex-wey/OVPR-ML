@@ -1,0 +1,50 @@
+1 3 0 0 elab
+1 2 3 3 cond
+1 1 2 2 attr
+4 6 3 3 ce
+5 6 4 4 elab
+5 5 6 6 attr
+
+7 8 4 6 gen //4
+8 8 7 7 elab
+
+9 10 7 8 elab
+10 10 9 9 elab
+
+11 16 7 8 elab
+12 13 11 11 elab
+13 13 12 12 elab
+11 13 14 16 contr //4
+15 15 14 14 elab
+16 16 14 15 ce
+
+17 18 3 3 elab
+17 17 18 18 ce
+
+? ? 19 24 attr
+20 20 19 19 elab
+19 20 21 24 contr
+22 24 21 21 elab
+23 24 22 22 elab
+23 23 24 24 same
+
+25 32 21 24 elab
+26 26 25 25 elab
+
+27 32 26 26 elab
+27 27 28 29 sim
+29 29 28 28 elab
+28 29 30 32 sim
+30 30 31 32 contr
+31 31 32 32 same
+
+25 33 34 34 contr
+35 36 33 33 elab
+36 36 35 35 elab
+
+37 40 25 26 elab
+38 40 37 37 elab
+39 40 38 38 elab
+40 40 39 39 elab
+
+

@@ -1,0 +1,44 @@
+More than half of doctors think ##GENERIC SENTENCE (STATIC)
+ that medical marijuana should be legalized nationally , ##COERCED STATE (GENERIC)
+ and two out of three doctors say ##GENERIC SENTENCE (STATIC)
+ patients should be given the medical option to use medical marijuana , ##COERCED STATE (GENERIC)
+ according to a new survey . ##BASIC STATE
+The survey was conducted by Medscape between Feb. 25 and March 3 , ##BOUNDED EVENT (SPECIFIC)
+ and is based on answers from 1,544 physicians from 12 different specialty areas . ##BASIC STATE
+Doctors in certain specialties seemed to better acknowledge the benefits of medical marijuana than others . ##GENERIC SENTENCE (DYNAMIC)
+Eighty-two percent of oncologists and hematologists , ##OTHER
+ for instance , ##OTHER
+ said ##BOUNDED EVENT (GENERIC)
+ patients can experience real benefits from medical marijuana ; ##COERCED STATE (GENERIC)
+ the same percentage of doctors in these two specialities also said ##BOUNDED EVENT (GENERIC)
+ they think ##GENERIC SENTENCE (STATIC)
+ patients should have medical marijuana as an option . ##GENERIC SENTENCE (STATIC)
+In states ##OTHER
+ where medical marijuana is not legal , ##GENERIC SENTENCE (STATIC)
+ about half of doctors ##OTHER
+ surveyed said ##BOUNDED EVENT (GENERIC)
+ it should be made legal ; ##COERCED STATE (GENERIC)
+ the results were about the same in states ##BASIC STATE
+ still considering legalizing medical marijuana . ##UNBOUNDED EVENT (GENERIC)
+However , ##OTHER
+more than half of doctors ##OTHER
+ -- 53 percent -- ##OTHER
+ did not support the legalization of recreational marijuana use . ##GENERIC SENTENCE (STATIC)
+In a companion consumer survey ##OTHER
+ conducted by WebMD , ##BOUNDED EVENT (SPECIFIC)
+ taken by 2,960 random visitors to the WebMD website between Feb. 23 and Feb. 26 , ##BOUNDED EVENT (SPECIFIC)
+ the percentages in support of the legalization of medical marijuana were similar . ##BASIC STATE
+Half supported its nationwide legalization , ##BASIC STATE
+ and for people ##OTHER
+ living in states ##UNBOUNDED EVENT (GENERIC)
+ where it 's not legalized , ##GENERIC SENTENCE (STATIC)
+ half said ##BOUNDED EVENT (SPECIFIC)
+ it should be made legal . ##COERCED STATE (GENERIC)
+Fifty-one percent of people from the WebMD survey said ##BOUNDED EVENT (SPECIFIC)
+ they do not support the legalization of recreational marijuana use . ##BASIC STATE
+Just last year , ##OTHER
+results of a poll ##OTHER
+ published in the New England Journal of Medicine showed ##BOUNDED EVENT (SPECIFIC)
+ that three out of four doctors would prescribe medical marijuana to a patient ##COERCED STATE (GENERIC)
+ experiencing painful symptoms from advanced breast cancer . ##UNBOUNDED EVENT (GENERIC)
+***0 5 5 0 0 0 0 0 YES ML YES 4 2 5 5 HUMAN

@@ -1,0 +1,101 @@
+The idea ##OTHER
+ of Wall Street boom and bust should not be taken as a belated bash of sour grapes . ##COERCED STATE (SPECIFIC)
+It is a calamity , ##BASIC STATE
+ say critics and economists , ##GENERIC SENTENCE (HABITUAL)
+ whose evidence so far at the home stretch has been mixed . ##PERFECT COERCED STATE (GENERIC)
+Many are bitterly loyal to the rotten excesses of the late 1930s and early 1940s . ##GENERIC SENTENCE (STATIC)
+But still others ##OTHER
+ -- loyal to the heavy betting tradition of Sorrento . ##OTHER
+On the surface , ##OTHER
+the residential mortgage-backed securities ring , ##OTHER
+ which , ##OTHER
+ advocates say , ##GENERIC SENTENCE (STATIC)
+ went down gracefully , ##BOUNDED EVENT (SPECIFIC)
+ is a sign of the subprime crisis . ##BASIC STATE
+But the lending practices of mid - ##OTHER
+ 1980s will be making their way into new forms of money , ##COERCED STATE (GENERIC)
+ and they must be brought down . ##GENERIC SENTENCE (STATIC)
+It is clear that the real estate bubble and entire economic mess is forecasted to be passed back to Washington . ##BASIC STATE
+Todays home price momentum has been horrific , ##PERFECT COERCED STATE (SPECIFIC)
+ but this robust economy doesnt trade a double-digit percentage gain in home values for the next several years . ##COERCED STATE (SPECIFIC)
+Nor does the 19 percent annual appreciation ##OTHER
+ that has been a prerequisite ##PERFECT COERCED STATE (SPECIFIC)
+ for most owner-occupiers to shop the farm for tomatoes . ##COERCED STATE (GENERIC)
+Unemployment is on the rise , ##GENERIC SENTENCE (STATIC)
+ as many economists expect , ##OTHER
+ and companies cannot afford to keep raising wages for their workers . ##GENERIC SENTENCE (STATIC)
+And while the president has suggested ##PERFECT COERCED STATE (SPECIFIC)
+ that the government may begin to bail out the financial sector ##COERCED STATE (SPECIFIC)
+ by putting $20 billion in reserve , ##COERCED STATE (SPECIFIC)
+ the thought of billions more ##OTHER
+ pouring into property banking ##COERCED STATE (SPECIFIC)
+ should perhaps satisfy all the economists ##COERCED STATE (GENERIC)
+ who believe ##GENERIC SENTENCE (STATIC)
+ that a bank can at least shift back to being a good investment . ##GENERIC SENTENCE (STATIC)
+Instead , ##OTHER
+hes suggested ##PERFECT COERCED STATE (SPECIFIC)
+ that the Securities and Exchange Commission should reclassify the securities 
+ that attract illegal buyers . ##COERCED STATE (SPECIFIC)
+The best-informed observer of the weak recovery , ##OTHER
+in any case , ##OTHER
+has no trouble ##GENERIC SENTENCE (HABITUAL)
+ finding support for the program ##COERCED STATE (GENERIC)
+ given the weather . ##OTHER
+For years , ##OTHER
+the politicians ##OTHER
+ who sponsored the housing law had long been inclined to see it as an attack on the property boom , ##PERFECT COERCED STATE (GENERIC)
+ and the trend at the heart of the financial crisis might be returned to a slower pace ##COERCED STATE (SPECIFIC)
+ if most property loans were reclassified as nonfraudulent . ##COERCED STATE (GENERIC)
+There were a couple of firefights inside the bureau in 1981 . ##BASIC STATE
+The failure of some key federal agencies never once triggered consumer fury because of arcane rules about how much outside investment money was allowed . ##UNBOUNDED EVENT (GENERIC)
+( This controversy was forever relegated to technology-fueled analyses of human beings and computer ) ##BOUNDED EVENT (SPECIFIC)
+So how can the severity of the problem be cut back ##QUESTION
+ if critics insist on delegating the blame for the financial crisis to what authority they are supposed to have at the federal level ? ##COERCED STATE (GENERIC)
+To be sure , ##OTHER
+ the current findings ##OTHER
+ that housing prices could be lower have nothing to do with statistical prowess . ##GENERIC SENTENCE (STATIC)
+Property buying nationwide has more than doubled since 1978 , ##PERFECT COERCED STATE (GENERIC)
+up to almost 4 percent of all residential transactions ##OTHER
+ -- though no home sales data exists . ##GENERIC SENTENCE (STATIC)
+( The real reserve number in January was essentially unchanged from the previous month . ) ##BASIC STATE
+A lack of mortgage writing has been especially devastating to home owners , ##PERFECT COERCED STATE (GENERIC)
+ who now own only a quarter of homes . ##GENERIC SENTENCE (STATIC)
+While the backhanders of the road ##OTHER
+ weve been talking about before are adept at spinning through the headlines to corporate-speak about the excitement of annuity insurance , low-interest rates , and mortgage refinancing , ##GENERIC SENTENCE (STATIC)
+ todays owners are loath to go out ##GENERIC SENTENCE (STATIC)
+ and find much value . ##COERCED STATE (GENERIC)
+Some do not think ##BASIC STATE
+ the asset bubble has been caught ##PERFECT COERCED STATE (SPECIFIC)
+ and its impact will dissipate very quickly . ##COERCED STATE (SPECIFIC)
+But officials say ##GENERIC SENTENCE (STATIC)
+ the forecast of weak home prices is really a projection of higher values . ##BASIC STATE
+They point to encouraging research , ##GENERIC SENTENCE (STATIC)
+particularly among teachers , ##OTHER
+ that supports the notion ##GENERIC SENTENCE (STATIC)
+ that an asset bubble is not the result of falling consumer confidence . ##BASIC STATE
+The only optimistic conclusion about the housing boom from all these reports ##OTHER
+ is that it is a downbirth , ##BASIC STATE
+especially for real estate holdings of this size . ##OTHER
+The home price report isnt pretty . ##BASIC STATE
+But home prices have added a bit of life to the house , ##PERFECT COERCED STATE (GENERIC)
+ even as they have plunged . ##PERFECT COERCED STATE (GENERIC)
+A reporter ##OTHER
+ who examined homes in Baltimore , Washington , and the East Coast ##UNBOUNDED EVENT (SPECIFIC)
+ recently bought his first house . ##BOUNDED EVENT (SPECIFIC)
+He considered a few neighbors and friends , ##BOUNDED EVENT (SPECIFIC)
+ but said ##BOUNDED EVENT (SPECIFIC)
+ he had no idea ##BASIC STATE
+ that the values of his own new home might be soaring . ##COERCED STATE (SPECIFIC)
+Sorrentos economists talk about a chance to influence prices like never before , 
+on Wall Street or in the annals of government . ##GENERIC SENTENCE (DYNAMIC)
+But can the hope of that difference ever turn a decade-long tradition of elevated house prices into a trend ##QUESTION
+ that is inevitable ? ##QUESTION
+The evidence is the longer the market condition of stocks and bond markets , ##GENERIC SENTENCE (STATIC)
+the stronger the effect is , ##COERCED STATE (GENERIC)
+especially in the years ##OTHER
+ following the third wild market bust . ##BASIC STATE
+One day , ##OTHER
+ as stock and bond prices converged , ##COERCED STATE (GENERIC)
+ this would occur . ##COERCED STATE (GENERIC)
+
+***0 5 5 2 3 1 3 4 NO NA NO 0 0 0 0 ALGORITHM

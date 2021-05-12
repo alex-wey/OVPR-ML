@@ -1,0 +1,36 @@
+I agree , ##BASIC STATE
+ although the low approval ratings and " taboo "-ness of the subject are fueled not by people 's hatred of the drug , ##GENERIC SENTENCE (STATIC)
+ but their half formulated opinions based on the shoddy science being produced . ##GENERIC SENTENCE (STATIC)
+When entities such as Above The Influence are active in their campaigns ##GENERIC SENTENCE (DYNAMIC)
+ they readily miseducate young children about drug use . ##GENERIC SENTENCE (DYNAMIC)
+For a school project I took their page on Marijuana ##BOUNDED EVENT (SPECIFIC)
+ and looked at every word ##BOUNDED EVENT (SPECIFIC)
+ on the page ##OTHER
+ ( read the citations too ) ##BOUNDED EVENT (SPECIFIC)
+ and found 6 full pages of error and outdated / disproven theories published . ##BOUNDED EVENT (SPECIFIC)
+If the education on the subjects was up to date and correct , ##GENERIC SENTENCE (STATIC)
+ there would be very little opposition to the legalization of Cannabis ##GENERIC SENTENCE (STATIC)
+ ( perhaps other drugs too ) . ##OTHER
+An example ##OTHER
+ I am going to use is the British Lung Foundation 's recent publication ##COERCED STATE (SPECIFIC)
+ where they claim ##BASIC STATE
+ that Marijuana usage causes cancer to be 20 ( ? ) times more likely in the user 's lungs . ##GENERIC SENTENCE (DYNAMIC)
+The study references various sources ##BASIC STATE
+ but fails to cite many updated or currently accepted studies . ##BASIC STATE
+In addition to this , ##OTHER
+two major studies ##OTHER
+ done with appropriate sample sizes ##UNBOUNDED EVENT (SPECIFIC)
+ came to an adverse conclusion . ##BOUNDED EVENT (SPECIFIC)
+Even worse , ##OTHER
+ the BLF cannot confirm a single case ##BASIC STATE
+ where marijuana caused lung cancer , ##UNBOUNDED EVENT (GENERIC)
+ but they can produce plenty ##BASIC STATE
+ where Tobacco did ( their counter-variable ) . ##UNBOUNDED EVENT (GENERIC)
+Not to mention ##OTHER
+ they fail to provide any evidence for their claim . ##BASIC STATE
+After long pages of data and scientific rambling a conclusion is poorly jumped to . ##BASIC STATE
+Studies like that ##OTHER
+ are what cause the anti-drug sentiment in the US , England , and the United Nations ##GENERIC SENTENCE (DYNAMIC)
+ ( SOCHUM ) . ##OTHER
+
+***0 5 0 1 5 5 5 5 YES ML YES 5 YES 3 5 5 HUMAN

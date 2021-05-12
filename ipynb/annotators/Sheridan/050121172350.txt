@@ -1,0 +1,43 @@
+When Frank Ocean performed at Fridays Dave Matthews Music Festival , ##BOUNDED EVENT (SPECIFIC)
+ he was confronted with the wave of creativity ##BOUNDED EVENT (SPECIFIC)
+ that greeted the New York City event and a less-than-enthusiastic response . ##BOUNDED EVENT (SPECIFIC)*
+Most people thought ##GENERIC SENTENCE (STATIC)
+ that he would be out in the festival , ##BASIC STATE
+ or close to it , ##OTHER
+the evening of it . ##OTHER
+Soon after the hour-long show , ##OTHER
+ he hit a chord as a whole , ##BOUNDED EVENT (SPECIFIC)*
+ with an anonymous 29-year-old youthbander getting arrested for alleged drug use . ##UNBOUNDED EVENT (SPECIFIC)
+And it still did that as part of the Radiohead songs singles Seann William Scott and No Love from the 1985 album ##BOUNDED EVENT (SPECIFIC)
+ Winding Down , ##UNBOUNDED EVENT (GENERIC) //2
+ and later Superfast by the Bjork-Australian pair of Limp Bizkit . ##OTHER
+Apparently I was arrested by police last night ##BOUNDED EVENT (SPECIFIC)
+ and they posted some evidence on the web , ##BOUNDED EVENT (SPECIFIC)
+ he said , ##BOUNDED EVENT (SPECIFIC)
+ noting ##UNBOUNDED EVENT (SPECIFIC)
+ that word of the incident was picked up at police headquarters . ##BOUNDED EVENT (GENERIC)
+The next day I got married , ##BOUNDED EVENT (SPECIFIC)
+ and I still havent found out ##COERCED STATE (SPECIFIC)
+ whether Im married ##BASIC STATE
+ or not yet . ##OTHER
+His response ? ##QUESTION
+I believe ##BASIC STATE
+ my music will grow . ##COERCED STATE (SPECIFIC)
+I believe its the future for everybody , ##BASIC STATE
+ and I still believe its the best music in the world . ##BASIC STATE
+Im still painting ; ##UNBOUNDED EVENT (SPECIFIC)
+ Im still trying to make the best album ##UNBOUNDED EVENT (SPECIFIC)
+ that I can in my career . ##OTHER
+If anybody wants to record me again , ##GENERIC SENTENCE (STATIC)
+ thats fine , ##GENERIC SENTENCE (STATIC)
+ Im in the studio somewhere . ##GENERALIZING SENTENCE (STATIVE)
+The intense reaction came during the encore , ##BOUNDED EVENT (SPECIFIC)
+ and when he watched the discussion on the big screen via social media , ##BOUNDED EVENT (SPECIFIC)
+ he couldnt help but comment on the whole thing . ##COERCED STATE (SPECIFIC)
+I was like , ##BASIC STATE
+ I think ##BASIC STATE
+ it was the first time in my life ##BASIC STATE
+ I went out ##BOUNDED EVENT (SPECIFIC)
+ and got arrested . ##BOUNDED EVENT (SPECIFIC)
+I feel very confident . ##BASIC STATE
+***0 4 3 2 1 1 2 3 NO NA YES 0 0 0 0 ALGORITHM

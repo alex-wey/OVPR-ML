@@ -1,0 +1,69 @@
+Less than a year ##OTHER
+ after Massachusetts voters approved legalizing marijuana ##BOUNDED EVENT (GENERIC)
+ and taxing it at a rate ##UNBOUNDED EVENT (GENERIC)
+ of 12 percent , ##OTHER
+ lawmakers already seek a larger take of the dealers cut . ##UNBOUNDED EVENT (GENERIC)
+In shifting marijuana from decriminalized to legal status , ##UNBOUNDED EVENT (GENERIC)
+ voters permitted a maximum tax of 12 percent on sales of the sweet leaf . ##BOUNDED EVENT (GENERIC)
+Seven months later , ##OTHER
+the state legislature seeks to grab more of pot profits ##UNBOUNDED EVENT (SPECIFIC)
+ by permitting taxes as high as 28 percent . ##UNBOUNDED EVENT (SPECIFIC)
+Its not as though those in the reefer business didnt see the state coming for their business . ##BASIC STATE //4
+Nine years ago , ##OTHER
+ I sat down with two longtime pot dealers in the Beacon Hill Pub a short walk from where the Great and General Court does business . ##BOUNDED EVENT (SPECIFIC)
+The sixtysomething sinsemilla sectaries viewed legalization as a way to corporatize a mom-and-pop enterprise . ##BASIC STATE
+Should it be legal ? ##QUESTION
+Yes . ##OTHER
+Do we want it legal ? ##QUESTION
+No , ##OTHER
+declared cue-balled Charlie , ##BOUNDED EVENT (SPECIFIC)
+ dealing for decades within eyeshot of the state capitol . ##UNBOUNDED EVENT (SPECIFIC)
+Mark , ##OTHER
+ sporting a Pancho Villa mustache , ##UNBOUNDED EVENT (SPECIFIC)
+ informed , ##BOUNDED EVENT (SPECIFIC)
+Every time ##OTHER
+ I go over to Hempfest , ##GENERALIZING SENTENCE (DYNAMIC)
+ I chant : ##GENERALIZING SENTENCE (DYNAMIC)
+ Keep Marijuana Illegal . ##IMPERATIVE
+At the time , ##OTHER
+a pot legalization proposal sought to impose a $150-an-ounce tax on the low-grade marijuana ##BASIC STATE
+ most commonly bought and smoked . ##GENERIC SENTENCE (DYNAMIC)
+In effect , ##OTHER
+the proposal aimed to double the price of a joint . ##BASIC STATE
+This go-around , ##OTHER
+the proposed law allows for an end-around on the taxes by smokers ##BASIC STATE
+ using medical marijuana , ##GENERIC SENTENCE (DYNAMIC)
+ which the bill exempts from the proposed taxation . ##BASIC STATE
+If you had to pay the licensing fee , ##COERCED STATE (GENERIC)
+ it wouldnt necessarily be cost prohibitive , ##BASIC STATE //4
+ Mark explained . ##BOUNDED EVENT (SPECIFIC)
+But with the taxes , ##OTHER
+your clientele is going to disappear . ##COERCED STATE (GENERIC)
+A lot of people would just balk at paying that . ##COERCED STATE (GENERIC)
+Apart from raising taxes , ##UNBOUNDED EVENT (SPECIFIC)
+ the 48-page omnibus bill currently before the Great and General Court seeks to expand a cannabis board to five members , ##BASIC STATE
+ prohibit localities from enforcing laws against the transportation or delivery of pot , ##UNBOUNDED EVENT (SPECIFIC)
+ maintain a database on people ##UNBOUNDED EVENT (SPECIFIC)
+ using medical marijuana , ##GENERIC SENTENCE (DYNAMIC)
+ and seize weed from those , ##GENERIC SENTENCE (DYNAMIC) //4
+such as Charlie and Mark , ##OTHER
+ not given the states imprimatur to sell . ##COERCED STATE (SPECIFIC)
+The proposed law authorizes investigations and audits of the pot dispensaries . ##BASIC STATE
+It imposes stringent testing on the product . ##UNBOUNDED EVENT (SPECIFIC)
+And it directs the authorized marijuana dealers ##UNBOUNDED EVENT (SPECIFIC)
+ to abide by an affirmative action program in hiring . ##UNBOUNDED EVENT (GENERIC)
+For pot dealers not keen on turning over their profits to the Commonwealth of Massachusetts or eager to undergo annual audits , ##GENERIC SENTENCE (STATIC)
+ the law establishes a division of cannabis enforcement in the attorney generals office ##UNBOUNDED EVENT (SPECIFIC)
+ regarding a product ##BASIC STATE //4
+ that voters just legalized ##BOUNDED EVENT (GENERIC)
+ and long ago decriminalized . ##BOUNDED EVENT (GENERIC)
+Ironically , ##OTHER
+veteran dealers such as Mark and Charlie face a government more eager to put them out of business now than when they peddled an illegal product ##GENERIC SENTENCE (STATIC)
+ as consumers may boost their business ##COERCED STATE (GENERIC)
+ by more enthusiastically turning to their cheaper , black-market pot . ##GENERIC SENTENCE (DYNAMIC)
+The more than 54 percent ##OTHER
+ who voted to legalize marijuana in Novembers election authorized a tax of no more than 12 percent . ##BOUNDED EVENT (SPECIFIC)
+The 28 percent tax represents a 133 percent increase over the initial rate . ##BASIC STATE 
+Legislators seek to hold a vote on Thursday . ##UNBOUNDED EVENT (GENERIC)
+Smoking citizens may counter by voting with their wallets . ##COERCED STATE (GENERIC)
+***0 5 5 0 0 0 0 0 YES ML NO 15 2 5 5 HUMAN

@@ -1,0 +1,49 @@
+Willie Nelson was fined a whopping $500 in legal fees ##BOUNDED EVENT (SPECIFIC)
+ when he pulled a carton of pot during an appearance at the South by Southwest Interactive Festival in Austin , Texas on Sunday . ##BOUNDED EVENT (SPECIFIC)
+The 45-year-old country singer was at the festival with musical guests Tinsley Mortimer and Dimitri Drazak ##BASIC STATE
+ after he visited a local dispensary . ##BOUNDED EVENT (SPECIFIC)
+The guitarist joined the event of artists ##BOUNDED EVENT (SPECIFIC)
+ who went on to win awards and new beginnings in the music business . ##UNBOUNDED EVENT (GENERIC)
+It was a big deal , ##BASIC STATE
+ you know , ##OTHER
+ for Willie Nelson to be named both a sponsor and the former , ##BOUNDED EVENT (SPECIFIC)
+Ronnie Holte , ##OTHER
+associate professor of business at George Washington University 
+ told the Associated Press . ##BOUNDED EVENT (SPECIFIC)
+We would have thought ##COERCED STATE (GENERIC)
+ he would probably be in his 60s to become a Fortune 500 company . ##COERCED STATE (SPECIFIC)
+And he is . ##BASIC STATE
+Holte said ##BOUNDED EVENT (SPECIFIC)
+ his employer , ##OTHER
+Johnson & Johnson , ##OTHER
+has given Nelson away its retail stores . ##PERFECT COERCED STATE (SPECIFIC)
+Allard Nix , ##OTHER
+Nelsons manager , ##OTHER
+said ##BOUNDED EVENT (SPECIFIC)
+ Nelson pulled the carton ##BOUNDED EVENT (SPECIFIC)
+ as he normally does . ##GENERALIZING SENTENCE (DYNAMIC)
+In an industry ##OTHER
+ where someone would pull a carton of marijuana ##COERCED STATE (GENERIC)
+ and no one would care , ##COERCED STATE (GENERIC)
+ this clearly shows the damage done to someone , ##BASIC STATE
+ Nix said , ##BOUNDED EVENT (SPECIFIC)
+ adding ##BOUNDED EVENT (SPECIFIC)
+ that Nelson was fine . ##BASIC STATE
+Harte-Hanks said ##BOUNDED EVENT (SPECIFIC)
+ he expects the singer to pay up for the fine . ##BASIC STATE
+I think theres a chance ##BASIC STATE
+ that hell turn around ##COERCED STATE (SPECIFIC)
+ and realize ##BOUNDED EVENT (SPECIFIC)
+ he was wrong , ##BASIC STATE
+ said Donald Fahey , ##BOUNDED EVENT (SPECIFIC)
+VP and general manager at the Johnson & Johnson Drugstore and North American Sales business in Nashville . ##OTHER
+Nelson was made aware of the fine earlier this week in accordance with Internal Revenue Service rules . ##BOUNDED EVENT (SPECIFIC)
+The singer was charged with grand theft over $125,000 , misdemeanor drug possession , reckless driving and misdemeanor possession of marijuana . ##BOUNDED EVENT (SPECIFIC)
+Nelson is blacklisted from playing music and touring in the United States and Canada , ##BASIC STATE
+ where many artists are white , ##GENERIC SENTENCE (STATIC)
+ but that role is unknown . ##BASIC STATE
+He is currently appearing on Oprah Winfreys The View ##UNBOUNDED EVENT (SPECIFIC)
+ on which he tells gay and transgender storytellers ##GENERALIZING SENTENCE (DYNAMIC)
+ what is going on . ##GENERIC SENTENCE (STATIC)
+
+***0 5 3 4 2 3 3 1 YES ML NO 0 0 0 0 ALGORITHM

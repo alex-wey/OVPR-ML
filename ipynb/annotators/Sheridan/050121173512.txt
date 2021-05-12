@@ -1,0 +1,51 @@
+Back in the 1960s , ##OTHER
+ it seemed like a glorious time to be a prankster . ##GENERIC SENTENCE (STATIC)
+This is where the two brothers ##BASIC STATE //4
+ involved in this video spoof of hoax callers from Doobie ##BASIC STATE
+ popped into pop culture the way ##BOUNDED EVENT (SPECIFIC)
+ Ronald Reagan seemed to step in ##COERCED STATE (SPECIFIC) //4
+ to save Rosie the Riveter from a serious illness . ##BOUNDED EVENT (SPECIFIC)
+Ron sold copies of the video ##BOUNDED EVENT (SPECIFIC)
+ and was dubbed one of the most famous doobie impersonators in the world . ##BOUNDED EVENT (SPECIFIC)
+Barney Happy Meal ONeal , ##OTHER
+ who starred in the prank of Doobie in the 1960s and 70s , ##BOUNDED EVENT (SPECIFIC)
+ responded to Ron with a group show ##BOUNDED EVENT (SPECIFIC)
+ called Doobie , ##BASIC STATE
+complete with sketches . ##OTHER
+( Hannibal Buress has since been named one of the most popular doobie prank artists in the history ##PERFECT COERCED STATE (SPECIFIC)
+ of the internet , ##OTHER
+ based on an American Public Access Project ) . ##BASIC STATE
+Later , ##OTHER
+that name changed to Doobie in the 1970s . ##BOUNDED EVENT (SPECIFIC)
+The men then teamed up with Ted Hughes and Jonathan Schachter ##BOUNDED EVENT (SPECIFIC)
+ to devise their smash hit spoof , ##UNBOUNDED EVENT (SPECIFIC)
+ Have a Papa Doobie Doobie , ##IMPERATIVE
+ and go up against each other ##UNBOUNDED EVENT (SPECIFIC)
+ to destroy their profession , color , ##UNBOUNDED EVENT (SPECIFIC)
+ and get the infamous Doobie fish out of my home . ##UNBOUNDED EVENT (SPECIFIC)
+( If you werent at the screening of Doobie ##GENERIC SENTENCE (STATIC)
+ and more than likely wore a helmet , ##GENERIC SENTENCE (HABITUAL) //3
+ wed say ##COERCED STATE (GENERIC)
+ your vinyl record piece is Doobie underneath this video.html ) ##GENERIC SENTENCE (STATIC)*
+ There are about 200 lines of the video ##BASIC STATE
+ directed by the two brothers , ##BASIC STATE //4
+ which they shot out of their Palo Alto studio , ##BOUNDED EVENT (SPECIFIC)
+ now called Laird ##BASIC STATE
+ ( 7 miles up ) ##OTHER
+ in New York . ##OTHER
+( The four friends donned ski masks ##BOUNDED EVENT (SPECIFIC)
+ to mimic a balloon-camera dangles over their heads ##NONSENSE*
+ as amateur stuntmen fly off into the sky , ##UNBOUNDED EVENT (SPECIFIC)
+ some goofing off with fireworks ##UNBOUNDED EVENT (SPECIFIC)
+ and some flying a bus . ##UNBOUNDED EVENT (SPECIFIC)
+Linda Smith , ##OTHER
+of the New York City studio ##OTHER
+ on which the three men worked , ##BOUNDED EVENT (SPECIFIC)
+ told Barbara Walters ##BOUNDED EVENT (SPECIFIC)
+ that the boys in the movie both in and out of the office ##OTHER
+ were genuinely surprised to hear of their roots . ##BOUNDED EVENT (SPECIFIC)
+I would say ##COERCED STATE (SPECIFIC)
+ they were really impressed by it , ##BASIC STATE
+ she said . ##BOUNDED EVENT (SPECIFIC)
+They worked really hard . ##BOUNDED EVENT (SPECIFIC)
+***0 5 1 3 1 4 2 4 NO NA YES 0 0 0 0 ALGORITHM

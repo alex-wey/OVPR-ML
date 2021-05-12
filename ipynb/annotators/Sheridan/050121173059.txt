@@ -1,0 +1,16 @@
+Marijuana potency increased last year to the highest level in more than 30 years , ##BOUNDED EVENT (GENERIC)
+ posing greater health risks to people ##UNBOUNDED EVENT (GENERIC)
+ who may view the drug as harmless , ##GENERIC SENTENCE (STATIC)
+ according to a report ##BASIC STATE
+ released Thursday ##BOUNDED EVENT (SPECIFIC)
+ by the White House . ##OTHER
+The latest analysis from the University of Mississippi 's Potency Monitoring Project tracked the average amount of THC , ##BOUNDED EVENT (SPECIFIC)
+the psychoactive ingredient in marijuana , ##OTHER
+ in samples ##OTHER
+ seized by law enforcement agencies from 1975 through 2007 . ##BOUNDED EVENT (GENERIC)
+It found ##BOUNDED EVENT (SPECIFIC)
+ that the average amount of THC reached 9.6 percent in 2007 , ##BOUNDED EVENT (GENERIC)
+ compared with 8.75 percent the previous year . ##OTHER
+The 9.6 percent level represents more than a doubling of marijuana potency since 1983 , ##BASIC STATE
+ when it averaged just under 4 percent . ##GENERIC SENTENCE (STATIC)
+***0 5 5 0 0 0 0 0 YES ML YES 0 0 0 0 HUMAN

@@ -1,0 +1,53 @@
+Cal Supreme Court Rules Prop ##BOUNDED EVENT (SPECIFIC)
+ 215 Caregivers ##OTHER
+ Must Do More Than Just Supply Marijuana ##GENERIC SENTENCE (STATIC)
+In a blow to medical marijuana providers , ##OTHER
+ the California Supreme Court ruled ##BOUNDED EVENT (SPECIFIC)
+ that defendants are not entitled to a defense ##GENERIC SENTENCE (STATIC)
+ as Prop 215 caregivers ##OTHER
+ if their primary role is only to supply marijuana to patients . ##COERCED STATE (GENERIC)
+The court unanimously overruled an appellate court decision in the case People v Roger Mentch " , ##BOUNDED EVENT (SPECIFIC)
+ writing : ##UNBOUNDED EVENT (SPECIFIC)
+ " We hold ##BASIC STATE
+ that a defendant ##OTHER
+ whose caregiving consisted principally ##GENERIC SENTENCE (STATIC)
+ of supplying marijuana ##GENERIC SENTENCE (DYNAMIC)
+ and instructing on its use , ##GENERIC SENTENCE (DYNAMIC)
+ and who otherwise only sporadically took some patients to medical appointments , ##GENERIC SENTENCE (DYNAMIC)
+ cannot qualify as a primary caregiver under the Act ##GENERIC SENTENCE (STATIC)
+ and was not entitled to an instruction on the primary caregiver affirmative defense . ##GENERIC SENTENCE (STATIC)
+We further conclude ##UNBOUNDED EVENT (SPECIFIC)
+ that nothing in the Legislature 's subsequent 2003 Medical Marijuana Program ##OTHER
+ ( Health & Safety Code ) ##OTHER
+ alters this conclusion ##GENERIC SENTENCE (STATIC)
+ or offers any additional defense on this record ." ##GENERIC SENTENCE (STATIC)
+Full text of the decision may be found at Prop 215 ##BASIC STATE
+ defines primary caregiver ##BASIC STATE
+ to be the " individual designated by the [ patient ] ##GENERIC SENTENCE (STATIC)
+ ... 
+ who has consistently assumed responsibility for the housing , health , or safety of that person . " ##PERFECT COERCED STATE (GENERIC)
+According to the Court , ##BASIC STATE
+these words " imply ##BASIC STATE
+ a caretaking relationship ##OTHER
+ directed at the core survival ##GENERIC SENTENCE (STATIC)
+ needs of a seriously ill patient , ##OTHER
+not just one single pharmaceutical need . ##OTHER
+" The Court concluded , ##BOUNDED EVENT (SPECIFIC)
+ "a defendant ##OTHER
+ asserting primary caregiver status must prove at a minimum 
+ that ##COERCED STATE (GENERIC)
+ he or she ( 1 ) ##OTHER
+ consistently provided caregiving , ##GENERIC SENTENCE (DYNAMIC)
+( 2 ) independent of any assistance in taking medical marijuana , ##OTHER
+ ( 3 ) 
+ at or before the time ##OTHER
+ he or she assumed responsibility for assisting with medical marijuana ." ##BOUNDED EVENT (GENERIC)
+The Court 's ruling effectively limits the caregiver defense to relatives , personal friends and attendants , nurses , etc . ##BASIC STATE
+In particular , ##OTHER
+ it excludes its use by medical marijuana ##BASIC STATE
+ " buyers ' clubs , " retail dispensaries and delivery services . ##OTHER
+The remaining legal defense for medical marijuana providers is to organize as patient cooperatives and collectives , ##BASIC STATE
+ which are legal under SB 420 . ##GENERIC SENTENCE (STATIC)
+
+
+***5 5 5 4 5 5 5 1 YES ML NO 0 0 0 0 HUMAN

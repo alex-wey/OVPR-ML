@@ -1,0 +1,31 @@
+A federal appeals court on Monday refused to throw out a law ##BOUNDED EVENT (SPECIFIC)
+ designed to ban possession of small amounts of marijuana ##BASIC STATE
+ without a specific ban on purchase by adults . ##OTHER
+U.S. District Judge Peter Alexander , ##OTHER
+in Williamsburg , Virginia , ##OTHER
+ had said ##PERFECT COERCED STATE (SPECIFIC)
+ that he couldnt give states the final authority to define retail marijuana sales in their state . ##COERCED STATE (SPECIFIC)
+A finding by the U.S. Ninth Circuit Court of Appeals in Richmond heard arguments ##BOUNDED EVENT (SPECIFIC)*
+ that the ban does not infringe on other Americans constitutional rights or freedoms as a constitutional provision in state law . ##COERCED STATE (SPECIFIC)
+Alexander said ##BOUNDED EVENT (SPECIFIC)
+ that theoretically , ##OTHER
+he didnt need to make that emergency request ##BASIC STATE
+ because a jury found it in Pennsylvania ##BOUNDED EVENT (SPECIFIC)*
+ that law enforcement officers were violating that federal prohibition ##UNBOUNDED EVENT (GENERIC)
+ and that there is sufficient reason ##GENERIC SENTENCE (STATIC) //3
+ for the Court to uphold a distinction between the sale of marijuana for recreational purposes and interstate commerce . ##UNBOUNDED EVENT (SPECIFIC)
+Hamilton Williams , ##OTHER
+ whose law firm was awarded the Georgia citizen case , ##BOUNDED EVENT (SPECIFIC)
+ noted ##BOUNDED EVENT (SPECIFIC)
+ that federal law does not distinguish between the sale of marijuana for recreational purposes and interstate commerce , ##COERCED STATE (GENERIC)
+ adding ##UNBOUNDED EVENT (SPECIFIC)
+ that a finding by Alexander ##OTHER
+ that state law has not been found in Virginia ##COERCED STATE (GENERIC)*
+ was itself inconsistent with the law . ##BASIC STATE
+The Georgia Supreme Court , ##OTHER
+as well as the 3rd U.S. Circuit Court of Appeals in Richmond , ##OTHER
+rejected Alexanders ruling ##BOUNDED EVENT (SPECIFIC)
+ in December . ##OTHER
+The case is Smith v. Perry . ##BASIC STATE
+Williams , 4-1 ##OTHER
+***0 5 5 0 0 0 0 0 YES ML YES 0 0 0 0 UC

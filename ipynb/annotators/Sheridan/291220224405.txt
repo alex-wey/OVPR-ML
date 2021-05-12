@@ -1,0 +1,56 @@
+Can I throw my thoughts in here ? ##QUESTION
+Thanks guys . ##OTHER
+I enjoy GJ 's stance on medical Cannabis . ##BASIC STATE
+But almost everything else , ##OTHER
+ I do n't agree with . ##BASIC STATE
+So it 's hard to vote for a man ##GENERIC SENTENCE (STATIC)
+ who I disagree with 9/10 times . ##GENERALIZING SENTENCE (HABITUAL) //4
+But let 's look at BO from another point . ##IMPERATIVE //4
+He has called for a few DEA raids on dispensaries , ##PERFECT COERCED STATE (SPECIFIC)
+ yes , ##OTHER
+this is true . ##BASIC STATE
+But this is an election year , ##BASIC STATE
+ and he is more concerned with getting reelected . ##BASIC STATE
+So if he knows ##BASIC STATE
+ that he needs to call for a few raids , ##COERCED STATE (SPECIFIC)
+ and not push for decriminalization ##COERCED STATE (SPECIFIC)
+ in order to gain a few moderate Repub voters , ##UNBOUNDED EVENT (GENERIC)
+ or swing voters ##UNBOUNDED EVENT (GENERIC) //4
+ ( not sure of the exact term here ) ; ##OTHER
+ he 's going to do that . ##COERCED STATE (SPECIFIC)
+Long story short , ##OTHER
+ I think ##BASIC STATE
+ he 's taking it easy . ##UNBOUNDED EVENT (SPECIFIC)
+No use shooting himself in the foot . ##GENERIC SENTENCE (STATIC) //4
+Now let 's look at the next four years , ##IMPERATIVE //4
+ supposing BO wins . ##OTHER //3
+He cannot be reelected , ##COERCED STATE (SPECIFIC)
+ so I think ##BASIC STATE
+ there 's a MUCH bigger chance ##GENERIC SENTENCE (STATIC) //4
+ for him to go along with decrim measures , ##UNBOUNDED EVENT (SPECIFIC)
+and legalization issues . ##OTHER
+He 's younger , ##BASIC STATE
+ he was a smoker , ##BASIC STATE
+ and he knows people care about the issue . ##BASIC STATE
+The man is n't dumb , ##BASIC STATE
+ he knows ##BASIC STATE
+ how popular legalization is . ##GENERIC SENTENCE (STATIC)
+But in his first term , ##OTHER
+ and in an election year , ##OTHER
+ he wo n't risk losing it ##COERCED STATE (SPECIFIC)
+ by implementing those things . ##UNBOUNDED EVENT (GENERIC)
+Let 's get BO back in office for another 4 years , ##IMPERATIVE
+ and see ##UNBOUNDED EVENT (GENERIC)
+ if we can get something out of him . ##COERCED STATE (GENERIC)
+With less pressure to get back in office , ##OTHER
+ I would be EXTREMELY surprised ##BASIC STATE
+ if he did n't take the first major steps towards decriminalization or legalization . ##COERCED STATE (SPECIFIC)
+He has a better shot of winning than Johnson , ##BASIC STATE
+ and Obama seems to be ahead of Romney . ##BASIC STATE
+Also , ##OTHER
+do n't be dumb stoners . ##IMPERATIVE
+Go out ##IMPERATIVE
+ and vote . ##IMPERATIVE
+I just got my application for absentee ballet while at school . ##BOUNDED EVENT (SPECIFIC)
+I hope others follow through as well . : ) ##BASIC STATE
+***0 5 0 0 0 0 0 0 YES ML YES 5 3 5 5 HUMAN

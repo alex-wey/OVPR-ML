@@ -1,0 +1,98 @@
+A federal program ##OTHER
+ that has provided free marijuana to the seriously ill ##PERFECT COERCED STATE (SPECIFIC)
+ is being phased out by Health and Human Services officials ##UNBOUNDED EVENT (SPECIFIC)
+ who have concluded ##PERFECT COERCED STATE (SPECIFIC)
+ it undercuts official Bush administration policy against the use of illegal drugs , ##GENERALIZING SENTENCE (DYNAMIC)
+ according to HHS officials . ##BASIC STATE
+While a small number of patients ##OTHER
+ already receiving marijuana ##GENERALIZING SENTENCE (DYNAMIC)
+ will continue to do so , ##COERCED STATE (SPECIFIC)
+ new applicants will be encouraged ##COERCED STATE (GENERIC)
+ to try synthetic forms ##UNBOUNDED EVENT (GENERIC)
+ of delta-9-THC , ##OTHER
+the psychoactive ingredient in marijuana , ##OTHER
+rather than the weed itself , ##OTHER
+ according to a new policy directive due to be signed by James O. Mason , ##BASIC STATE
+chief of the Public Health Service . ##OTHER
+Mason said yesterday ##BOUNDED EVENT (SPECIFIC)
+ he was concerned about a surge in new applications ##BASIC STATE
+ in recent months , ##OTHER
+especially from AIDS patients , ##OTHER
+ and the message it would send ##COERCED STATE (SPECIFIC)
+ if HHS were to approve them . ##COERCED STATE (SPECIFIC)
+" If it 's perceived ##COERCED STATE (GENERIC)
+ that the Public Health Service is going around giving marijuana to folks , ##UNBOUNDED EVENT (SPECIFIC)
+ there would be a perception ##GENERIC SENTENCE (STATIC)
+ that this stuff ca n't be so bad ," ##GENERIC SENTENCE (STATIC)
+said Mason . ##BOUNDED EVENT (SPECIFIC)
+" It gives a bad signal . ##GENERALIZING SENTENCE (DYNAMIC)
+I do n't mind doing that ##BASIC STATE
+ if there 's no other way ##GENERIC SENTENCE (STATIC)
+ of helping these people . ##UNBOUNDED EVENT (GENERIC)
+But there 's not a shred of evidence ##GENERIC SENTENCE (STATIC)
+ that smoking marijuana assists a person with AIDS . " ##GENERIC SENTENCE (DYNAMIC)
+But his decision drew angry criticism from pro-marijuana activists ##BOUNDED EVENT (GENERIC)
+ who contended ##BOUNDED EVENT (GENERIC)
+ that many AIDS and cancer patients have found the drug invaluable in combating the nausea ##PERFECT COERCED STATE (GENERIC)
+ caused by their treatments . ##GENERIC SENTENCE (DYNAMIC)
+" This is ludicrous ," ##BASIC STATE
+said Kevin Zeese , ##BOUNDED EVENT (SPECIFIC)
+vice president of the Drug Policy Foundation , ##OTHER
+a group ##OTHER
+ that has promoted the use of marijuana for medical purposes . ##PERFECT COERCED STATE (SPECIFIC)
+" What they are going to do is deny medicine to very sick Americans for political reasons . ##BASIC STATE
+This shows the cruelty of the war on drugs . " ##BASIC STATE
+Zeese noted ##BOUNDED EVENT (SPECIFIC)
+ that Herbert D. Kleber , ##OTHER
+deputy national drug control policy director , ##OTHER
+had touted the program on national television as a " compassionate " option ##PERFECT COERCED STATE (SPECIFIC)
+ that was available to seriously ill patients . ##BASIC STATE
+But ##OTHER
+ while the new HHS policy has been in the works for more than two months , ##PERFECT COERCED STATE (SPECIFIC)
+ officials said this week ##BOUNDED EVENT (GENERIC)
+ they did not believe ##GENERIC SENTENCE (STATIC)
+ the drug control policy office had been consulted . ##PERFECT COERCED STATE (SPECIFIC)
+Kleber was out of town yesterday ##BASIC STATE
+ and could not be reached for comment . ##COERCED STATE (SPECIFIC)
+The new policy is the latest development in a debate about marijuana 's classification under the drug laws . ##BASIC STATE
+The Drug Enforcement Administration has denied ##PERFECT COERCED STATE (SPECIFIC)
+ that marijuana has any therapeutic value ##GENERIC SENTENCE (STATIC)
+ and has classified it as a Schedule I drug , ##PERFECT COERCED STATE (SPECIFIC)
+the same as heroin , ##OTHER
+ forbidding doctors to prescribe it . ##UNBOUNDED EVENT (SPECIFIC) //4
+But last April , ##OTHER
+the U.S. Court of Appeals for the D.C. Circuit ordered the DEA ##BOUNDED EVENT (SPECIFIC)
+to reconsider its stand ##UNBOUNDED EVENT (SPECIFIC)
+ after concluding ##BOUNDED EVENT (SPECIFIC)
+ that the agency had acted unreasonably in evaluating the drug 's possible effectiveness . ##PERFECT COERCED STATE (SPECIFIC)
+In addition , ##OTHER
+a recent survey by Harvard University researchers found ##BOUNDED EVENT (SPECIFIC)
+ that nearly half of 1,035 cancer specialists ##OTHER
+ who responded reported ##BOUNDED EVENT (SPECIFIC)
+ that they would prescribe marijuana to their patients ##COERCED STATE (SPECIFIC)
+ if it were legal to do so . ##GENERIC SENTENCE (STATIC)
+For the past 15 years , ##OTHER
+pre-rolled cigarettes of marijuana ##OTHER
+ -- grown at a National Institute on Drug Abuse ##BOUNDED EVENT (GENERIC)
+ ( NIDA ) research farm in Oxford , Miss. -- ##OTHER
+ have been provided to a handful of such patients . ##PERFECT COERCED STATE (GENERIC)
+But officials said ##BOUNDED EVENT (GENERIC)
+ applications began to increase markedly following publicity over the case of Kenneth and Barbra Jenks , ##BOUNDED EVENT (GENERIC)
+a Florida couple ##OTHER
+ suffering from AIDS . ##UNBOUNDED EVENT (SPECIFIC)
+Convicted of violating the state 's drug laws last year , ##BOUNDED EVENT (SPECIFIC)
+ the Jenkses applied ##BOUNDED EVENT (SPECIFIC)
+ and won Food and Drug Administration approval ##BOUNDED EVENT (SPECIFIC)
+ to use the drug as an " investigative new drug . " ##UNBOUNDED EVENT (SPECIFIC)
+While only six people had received marijuana under the program ##PERFECT COERCED STATE (SPECIFIC)
+ before last summer , ##OTHER
+ the FDA has received 28 applications in the past year , ##PERFECT COERCED STATE (SPECIFIC)
+ and was concerned ##BASIC STATE
+ that it would be swamped with hundreds more in coming months , ##COERCED STATE (SPECIFIC)
+ officials said . ##BOUNDED EVENT (SPECIFIC)
+Pro-marijuana activists " were beginning to promote this. ##BOUNDED EVENT (GENERIC) //2
+ it was becoming a kind of 'write in ##BOUNDED EVENT (GENERIC) //2
+ and here 's how you do it' kind of thing , " ##BASIC STATE //4
+said Jeffrey A. Nesbit , ##BOUNDED EVENT (SPECIFIC)
+an FDA spokesman . ##OTHER
+***0 5 5 1 5 5 5 1 YES ML YES 0 0 0 0 HUMAN

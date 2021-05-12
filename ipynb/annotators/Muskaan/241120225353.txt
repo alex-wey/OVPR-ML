@@ -1,0 +1,75 @@
+President Barack Obama brushed off a question ##BOUNDED EVENT (SPECIFIC)
+ about legalizing marijuana in his online town hall last month , ##OTHER
+ but guitar god Carlos Santana says ##BASIC STATE
+ he wishes ##BASIC STATE
+ he would seriously consider it . ##COERCED STATE (SPECIFIC)
+" Legalize marijuana and take all that money ##IMPERATIVE
+ and invest it in teachers and in education ," ##IMPERATIVE
+Santana said in an interview this week . ##BOUNDED EVENT (SPECIFIC)
+" You will see a transformation in America . " ##COERCED STATE (SPECIFIC)
+During his online town hall on March 26 , ##OTHER
+ Obama fielded a question ##BOUNDED EVENT (SPECIFIC)
+ about whether legalization of the illicit drug would help pull the nation out of recession . ##QUESTION
+Obama said ##BOUNDED EVENT (SPECIFIC)
+ he did n't think ##BASIC STATE
+ it was good economic policy , ##BASIC STATE
+ and also joked : ##BOUNDED EVENT (SPECIFIC)
+ " I do n't know ##BASIC STATE
+ what this says about the online audience . " ##QUESTION
+But Santana said ##BOUNDED EVENT (SPECIFIC)
+ making pot legal is " really way overdue , ##GENERIC SENTENCE (STATIC)
+ like the prohibition with the alcohol and stuff like that." ##OTHER
+I really believe ##BASIC STATE
+ that as soon ##OTHER
+ as we legalize and decriminalize marijuana we can actually afford a really good governor ##COERCED STATE (GENERIC)
+ who wo n't keep taking money away from education and from teachers 
+ and send him back to Hollywood ##COERCED STATE (GENERIC)
+ where he can do 'D' movies ##COERCED STATE (GENERIC)
+ and we can get an 'A' governor ," ##COERCED STATE (GENERIC)
+referring to former movie action hero and California Gov. Arnold Schwarzenegger . ##BOUNDED EVENT (SPECIFIC)
+Santana made the comments ##BOUNDED EVENT (SPECIFIC)
+ as he was promoting his upcoming rock residency in Las Vegas at the Hard Rock Hotel & Casino . ##UNBOUNDED EVENT (SPECIFIC)
+The show debuts May 27 ##BASIC STATE
+ and runs through 2010 . ##BASIC STATE
+" It 's a milestone for me ##BASIC STATE
+ because I always said ##GENERALIZING SENTENCE (DYNAMIC)
+ I would never do certain things , " ##COERCED STATE (SPECIFIC)
+Santana said , ##BOUNDED EVENT (SPECIFIC)
+ adding ##BOUNDED EVENT (SPECIFIC)
+ that the list included staying in one place for too long . ##BASIC STATE
+" Yet ##OTHER
+ what is very different is this is the year ##BASIC STATE
+ I decided to do all the things ##UNBOUNDED EVENT (SPECIFIC)
+ that I said ##UNBOUNDED EVENT (SPECIFIC)
+ I would never do . ##COERCED STATE (SPECIFIC)
+It 's a way ##BASIC STATE
+ of coming into a room ##UNBOUNDED EVENT (GENERIC)
+ that I thought ##BASIC STATE
+ was dark ##GENERIC SENTENCE (STATIC)
+ and I would be afraid ##BASIC STATE
+ and I actually bring my light to it . " ##BASIC STATE
+Santana , ##OTHER
+ whose hits vary from " Evil Ways " to " Maria Maria ," ##GENERIC SENTENCE (STATIC)
+said ##BOUNDED EVENT (SPECIFIC)
+ he is also working on two upcoming albums . ##UNBOUNDED EVENT (SPECIFIC)
+While the 61-year-old has previously talked about a possible retirement , ##PERFECT COERCED STATE (SPECIFIC)
+ he 's decided to be more careful about predicting the future . ##PERFECT COERCED STATE (SPECIFIC)
+" Every time ##OTHER
+ I tell God my plans ##GENERALIZING SENTENCE (DYNAMIC)
+ he cracks up , ##GENERALIZING SENTENCE (DYNAMIC)
+ he starts laughing . ##GENERALIZING SENTENCE (DYNAMIC)
+So I just decided to be quiet for a while ##UNBOUNDED EVENT (SPECIFIC)
+ and not say ##GENERALIZING SENTENCE (DYNAMIC)
+ that I am going to retire and go to Maui ##COERCED STATE (SPECIFIC)
+ and become a minister , " ##COERCED STATE (SPECIFIC)
+he said . ##BOUNDED EVENT (SPECIFIC)
+" God was cracking up . ##UNBOUNDED EVENT (SPECIFIC)
+He thought ##BASIC STATE
+ it was a good joke . ##BASIC STATE
+So I said , ##BOUNDED EVENT (SPECIFIC)
+ 'OK .' ##OTHER
+Every time I want to make him laugh I tell him my plans . ##GENERALIZING SENTENCE (DYNAMIC)
+So we 'll see . " ##COERCED STATE (GENERIC)
+
+
+***0 3 5 3 5 4 5 3 YES ML YES 4 0 0 0 HUMAN

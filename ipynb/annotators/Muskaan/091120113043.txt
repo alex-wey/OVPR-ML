@@ -1,0 +1,39 @@
+The number of hemp use in the state 's living room jumped to 40 percent , ##UNBOUNDED EVENT (SPECIFIC)
+ less than one-third of that recorded five years ago . ##OTHER
+That somewhat surprising occurrence is very much in line with the figures for Pennsylvania , Oregon , and Washington . ##BASIC STATE
+While hemp sales wo n't be numbers to measure , ##COERCED STATE (GENERIC)
+ solid economic benefits and state and national statistics will likely be reported , ##COERCED STATE (GENERIC)
+ analysts say . ##GENERIC SENTENCE (STATIC)
+Hemp is widely known to be the most reliable and versatile source of electricity for the grain ##BASIC STATE
+ being sold daily in the growing supply chain . ##GENERALIZING SENTENCE (STATIVE)
+States such as Pennsylvania , Oregon , and Washington are taking note . ##UNBOUNDED EVENT (GENERIC)
+The state legislature is trying to use hemp as a medical therapy or rather as an educational tool ##UNBOUNDED EVENT (SPECIFIC)
+ in improving mental health in schools . ##COERCED STATE (GENERIC)
+The bill , ##OTHER
+ sponsored by Sen. Charles W. Runwater ##BASIC STATE
+ ( R-Montgomery ) , ##OTHER
+ directs the state Department of Labor to approve the suspension of Hemp Products and Machines ##BASIC STATE
+ and must be confirmed by the governor by an equal majority vote in both houses . ##COERCED STATE (SPECIFIC)
+The National Hemp Association has endorsed the bill as well . ##COERCED STATE (SPECIFIC)
+Laura W. Brown , ##OTHER
+a union spokeswoman , ##OTHER
+said ##BOUNDED EVENT (SPECIFIC)
+ Hemp officially belongs to the state of Pennsylvania ##GENERIC SENTENCE (STATIC)
+ but reported ##BOUNDED EVENT (SPECIFIC)
+ that it is being used for marijuana use instead of hemp . ##GENERIC SENTENCE (DYNAMIC)
+The agriculture trade group , ##OTHER
+ the Association of American Products Companies , ##OTHER
+sent a letter in July to Maryland ##BOUNDED EVENT (SPECIFIC)
+ asking ##BOUNDED EVENT (SPECIFIC)
+ that the state Department of Agriculture reject hemp sales in that state . ##COERCED STATE (SPECIFIC)
+Massachusetts , New York , and Maine also are among the states ##BASIC STATE
+ authorizing the manufacture and importation of hemp in that state . ##GENERALIZING SENTENCE (STATIVE)
+Cells in the home economy are extremely valuable for people on non-traded goods , drug testing , or just plain old easy business . ##GENERIC SENTENCE (STATIC)*
+Illinois states ##OTHER
+ including New York are on the lookout for potentially more lucrative hemp business , ##GENERIC SENTENCE (STATIC)*
+ and are considering the use of Hemp-derived pharmaceuticals in the animal nutrition industries . ##GENERIC SENTENCE (STATIC)*
+Meanwhile statehouses , ##OTHER
+like Pennsylvania , Massachusetts , and Maryland , ##OTHER
+ are considering similar recommendations . ##GENERIC SENTENCE (STATIC)
+
+***0 5 5 3 4 2 1 3 YES ML NO 0 0 0 0 ALGORITHM

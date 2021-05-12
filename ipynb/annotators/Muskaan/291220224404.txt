@@ -1,0 +1,69 @@
+In a research study ##OTHER
+ funded by the US Government Accountability Office , ##BASIC STATE
+ we found ##BOUNDED EVENT (GENERIC)
+ that 16 percent of people currently agree with that statement . ##GENERIC SENTENCE (STATIC)
+They would wish ##GENERIC SENTENCE (STATIC)
+ they were in completely different roles from us ##GENERIC SENTENCE (STATIC)
+ if we understood ##GENERIC SENTENCE (STATIC)
+ how to spread the word about their rights . ##QUESTION
+Voters know their rights ##GENERIC SENTENCE (STATIC)
+ and support them much better ##GENERIC SENTENCE (DYNAMIC)
+ than they do today . ##GENERIC SENTENCE (DYNAMIC)
+Of those ##OTHER
+ who pay attention , ##GENERIC SENTENCE (DYNAMIC)
+85 percent know about them . ##BASIC STATE
+Why ? ##QUESTION
+Because we all want this stuff , ##GENERIC SENTENCE (STATIC)
+ especially for our kids , ##OTHER
+ where others understand the impact ##GENERIC SENTENCE (STATIC)
+ we can have . ##GENERIC SENTENCE (STATIC)
+The payoffs to these users are primarily due to demand for weed-based weed . ##GENERIC SENTENCE (STATIC)
+As demographics change , ##GENERIC SENTENCE (DYNAMIC)
+ nearly half of likely voters say ##BASIC STATE
+ they get a free high-quality weed . ##GENERIC SENTENCE (HABITUAL)*
+Of these 75,000 young adults in the US alone , ##OTHER
+ they 'll likely be shopping for weed ##COERCED STATE (GENERIC)
+ when they go through school . ##UNBOUNDED EVENT (GENERIC)
+So if they 're willing to pay a visit to school ##GENERIC SENTENCE (STATIC)
+ for a learning process and opportunities for weed from a weed treatment , ##OTHER
+ more likely to get involved in a recreational weed habit ##UNBOUNDED EVENT (GENERIC)
+ should they be required to purchase it . ##GENERIC SENTENCE (STATIC)
+It 's hard to argue with that . ##BASIC STATE
+However , ##OTHER
+one can argue ##GENERIC SENTENCE (STATIC)
+ that the level of demand in the US for weed is astronomical . ##BASIC STATE
+As parents are forced to pay for such things at home , ##GENERIC SENTENCE (HABITUAL)
+ many adults really do n't understand ##GENERIC SENTENCE (STATIC)
+ what 's involved in a weed experience . ##GENERIC SENTENCE (STATIC)
+The best we can hope ##GENERIC SENTENCE (STATIC)
+ for is that for the majority of teenagers and young adults , ##OTHER
+ they take their kids to the doctor ##GENERIC SENTENCE (DYNAMIC)
+ and have a medical visit ##GENERIC SENTENCE (DYNAMIC)
+ to get a medical marijuana supply . ##UNBOUNDED EVENT (GENERIC)
+The presence of this aphysician , ##OTHER
+but not for recreational , ##OTHER
+could cause more delays in obtaining a drug . ##COERCED STATE (GENERIC)
+They also want to get drugs out of their bodies quicker than possible . ##GENERIC SENTENCE (STATIC)
+This is how they price things . ##BASIC STATE
+In 2008 , ##OTHER
+ the NHS bill became the " Public Health Act " , ##BOUNDED EVENT (SPECIFIC)
+a document ##OTHER
+ that pre-empted public health procedures until today . ##BASIC STATE
+That causes many young people to overdo their doctor 's visits . ##BASIC STATE
+Indeed , ##OTHER
+public health professionals believe ##GENERIC SENTENCE (STATIC)
+ this is one of the greatest problems of their profession , ##BASIC STATE
+ having reached the peak of their powers at the beginning of the 20th century , ##GENERIC SENTENCE (STATIC)
+ when a single physician could not collect enough needles ##GENERIC SENTENCE (STATIC)
+ and a nurse could not help people . ##GENERIC SENTENCE (STATIC)
+That 's why big-market outlets like the US Food and Drug Administration and Central America Drug Advocacy Agency have come together ##PERFECT COERCED STATE (GENERIC)
+ to develop recommendations on legalizing all recreational weed or anyone else . ##UNBOUNDED EVENT (GENERIC)
+These drugs are supposed to help people ##GENERIC SENTENCE (STATIC)
+ by helping them live a low-impact lifestyle ##GENERIC SENTENCE (DYNAMIC)
+ that helps them " affirm , elevate and commit to themselves . " ##GENERIC SENTENCE (DYNAMIC)
+They can make " meaningful " difference in people 's lives ##GENERIC SENTENCE (STATIC)
+ and can bring shame to a drug addict ##GENERIC SENTENCE (STATIC)
+ who might otherwise get help . ##COERCED STATE (GENERIC)
+This approach will hopefully lead to a healthy mainstream acceptance of recreational use . ##COERCED STATE (GENERIC)
+
+***0 5 5 1 4 3 3 2 YES ML YES 5 2 1 2 ALGORITHM

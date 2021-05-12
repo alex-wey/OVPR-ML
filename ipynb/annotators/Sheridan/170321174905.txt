@@ -1,0 +1,58 @@
+This isnt your average herb-infused drink . ##BASIC STATE
+Nearly two months after recreational marijuana sales started in Washington , ##BOUNDED EVENT (GENERIC)
+ drinkable forms of the drug have hit store shelves . ##PERFECT COERCED STATE (GENERIC)
+Produced by Washington-based company Mirth Provisions , ##UNBOUNDED EVENT (SPECIFIC)
+ an aptly titled beverage line ##BASIC STATE
+ called Legal is currently available at eight of the states 22 recreational marijuana stores , ##BASIC STATE
+ according to Fortune . ##BASIC STATE
+The drinks come in five different flavors , ##BASIC STATE
+ including sparkling pomegranate and cold brew with milk and sugar . ##BASIC STATE
+Though all Legal beverages are infused with 22 milligrams of THC ##GENERIC SENTENCE (STATIC)
+ -- " enough to know ##OTHER
+ that you 're high , ##GENERIC SENTENCE (STATIC)
+ but not so much ##OTHER
+ as to overwhelm , " ##UNBOUNDED EVENT (GENERIC)
+Mirth Provisions founder Adam Stites told XXX -- ##BOUNDED EVENT (SPECIFIC) 
+ each flavor touts a slightly different high . ##BASIC STATE
+The high ##OTHER
+ produced by the cold brew with milk and sugar , ##GENERALIZING SENTENCE (DYNAMIC) //4
+ for example , ##OTHER
+ is described on the companys website as an uplifting , euphoric head high and a gentle body buzz . ##BASIC STATE
+Were particularly fond of the description for the sparkling lemon ginger flavor : ##GENERIC SENTENCE (STATIC)
+Couch , meet butt . ##OTHER
+This delicious fusion of tangy lemon and spicy ginger is so ridiculously relaxing ##BASIC STATE
+ that you may find yourself becoming one with your furniture . ##COERCED STATE (GENERIC)
+Whether youre melting into a beach blanket ##UNBOUNDED EVENT (GENERIC)
+ or parked on the sofa , ##GENERIC SENTENCE (STATIC)
+ prepare for many glorious hours of doing absolutely nothing . ##IMPERATIVE
+Stites says ##BASIC STATE
+" drinkables " dont carry as much of a taboo as other forms of marijuana . ##GENERIC SENTENCE (STATIC)
+" Its much more approachable , ##GENERIC SENTENCE (STATIC)
+ as opposed to ##OTHER
+Hey , mom and dad , do you want a joint ?' ##QUESTION
+Stites told Portland , Oregon , news outlet KGW-TV . ##BOUNDED EVENT (SPECIFIC)
+Mirth Provisions had previously announced ##PERFECT COERCED STATE (SPECIFIC)
+ that the beverages would hit store shelves in July , ##COERCED STATE (GENERIC)
+ but the company faced some minor setbacks ##BOUNDED EVENT (SPECIFIC)
+ that pushed back the product 's release date . ##BOUNDED EVENT (SPECIFIC)
+Stites says ##BASIC STATE
+ his company has learned a lot from observing Colorado 's struggle with implementing recreational marijuana sales . ##PERFECT COERCED STATE (SPECIFIC)
+" Washington is learning from some of the challenges ##UNBOUNDED EVENT (SPECIFIC) //4
+ Colorado has seen , ##PERFECT COERCED STATE (SPECIFIC)
+ we 're slower , more deliberate , more regulated ##BASIC STATE //4
+ ( we had to get city approvals , Liquor Control Board approvals , and approvals from the Washington State Department of Agriculture ) , ##COERCED STATE (SPECIFIC)
+ and in the end , ##OTHER
+ I believe ##BASIC STATE
+ we 'll have a strong sustainable legalized marijuana system , " ##GENERIC SENTENCE (STATIC)
+ he told XXX . ##BOUNDED EVENT (SPECIFIC)
+He says ##BASIC STATE
+ green beverages are an amazing , untapped new market , ##GENERIC SENTENCE (STATIC)
+ and he 's happy to be able to " create a product ##BASIC STATE
+ that allows others to enjoy their new freedoms . " ##GENERIC SENTENCE (DYNAMIC)
+It 's an opportunity to make an amazing , unique , unusual , and delicious product ##GENERIC SENTENCE (STATIC)
+ while also making history , ##UNBOUNDED EVENT (SPECIFIC) //4
+ Stites said . ##BOUNDED EVENT (SPECIFIC)
+I think ##BASIC STATE
+ my grand-kids will be amazed to know ##BASIC STATE
+ that people used to go to jail for having a plant . ##GENERIC SENTENCE (DYNAMIC)
+***0 5 5 0 0 0 0 0 YES ML YES 5 2 4 5 HUMAN

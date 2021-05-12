@@ -1,0 +1,72 @@
+Oklahoma voters have approved a medical marijuana ballot measure for June 2018 , ##PERFECT COERCED STATE (SPECIFIC)
+ giving doctors a say over some of the more than 1,100 patients ##BOUNDED EVENT (GENERIC)
+ who are currently required to undergo medical marijuana ##GENERIC SENTENCE (STATIC)
+ and find relief for their condition . ##GENERIC SENTENCE (STATIC)
+This was the first state to pass a medical marijuana ballot measure . ##BASIC STATE
+Colorado and Washington state ##OTHER
+ do have medical marijuana initiatives on their ballots , ##BASIC STATE
+ and in several states , ##OTHER
+voters may have modified or repealed that status in a variety of ways . ##COERCED STATE (GENERIC)
+Corker Kit ( Kansas City ) ##OTHER
+ Residents got an endorsement for a ballot measure ##BOUNDED EVENT (SPECIFIC)
+ that would require proof ##BASIC STATE
+ that over 90 percent of marijuana patients ##OTHER
+ can benefit from medical marijuana . ##COERCED STATE (GENERIC)
+The measure calls for two things : ##BASIC STATE
+ The Office of Health Care Policy and Coordination ##OTHER
+ for Medicaid to maintain its oversight of all patients . ##GENERALIZING SENTENCE (DYNAMIC)
+Proponents say ##GENERIC SENTENCE (DYNAMIC)
+ the measure improves health care for patients with addictions to marijuana , ##BASIC STATE
+ and provides the marijuana without the added burden of annual medical fees . ##BASIC STATE
+Opponents say ##GENERIC SENTENCE (DYNAMIC)
+ the measure leaves too much discretion over patients with addictions to marijuana for the state . ##BASIC STATE
+The opponents also say ##GENERIC SENTENCE (DYNAMIC)
+ the measure provides more people with the health care ##BASIC STATE
+ they need more protections against the use of pot , ##GENERIC SENTENCE (STATIC)
+and the removal of medication errors ##OTHER
+ that people with addictions are not currently paying for , ##GENERIC SENTENCE (DYNAMIC)
+ and that given the overwhelming federal funding for the legislation , ##OTHER
+ it is not likely ##BASIC STATE
+ that eligible patients will feel any benefit from it . ##UNBOUNDED EVENT (GENERIC)
+Dr. Rick Jacobson of Independence Medical Association , ##OTHER
+ which proposed the measure as an idea ##BOUNDED EVENT (SPECIFIC)
+ in the Oklahoma report ##OTHER
+ which said ##BASIC STATE
+ that people with addictions to marijuana could easily benefit from it ##COERCED STATE (GENERIC)
+ said ##BASIC STATE
+ that since the states new system of registries had limited participation by patients , ##BASIC STATE
+ it was not consistent with the clinic standard ##BASIC STATE
+ set forth by the federal government . ##BASIC STATE
+However , ##OTHER
+the provisions in the ballot measure ##OTHER
+ arent likely to add to the costs ##BASIC STATE
+ of compliance with the new system ##OTHER
+ and are unlikely to discourage people from seeking help . ##BASIC STATE
+Sponsored by the College of Physicians and Surgeons of Oklahoma , ##BASIC STATE 
+ the statewide measure aims to decrease instances of addiction among patients ##BASIC STATE
+ by restoring "evidence-based medical-marijuana prescriptions ," ##UNBOUNDED EVENT (GENERIC)
+allowing patients to simply go to the doctor ##UNBOUNDED EVENT (GENERIC)
+ if they are prescribed medical marijuana . ##COERCED STATE (GENERIC)
+This little piece of the medical marijuana experiment is an innovative , scientific way ##BASIC STATE
+to help patients in Oklahoma overcome chronic pain , ##UNBOUNDED EVENT (GENERIC)
+ said Dr. Dave Bedada , ##BOUNDED EVENT (SPECIFIC)
+director of the Oklahoma Clinical Research Center . ##OTHER
+Patients will be better off ##COERCED STATE (GENERIC)
+ if they do receive medication ##COERCED STATE (GENERIC)
+ that allows them to meet patients at an appropriate pace . ##GENERIC SENTENCE (STATIC)
+Kady McCune of the National Association of Broadcasters , ##OTHER
+ which has opposed similar medical marijuana plans in other states , ##PERFECT COERCED STATE (SPECIFIC)
+ said ##BOUNDED EVENT (SPECIFIC)
+ she found the measure easy to understand and understandable ##BASIC STATE
+ because there are no significant restrictions on whether a patient can use marijuana . ##GENERIC SENTENCE (GENERIC)
+Nevertheless , ##OTHER
+ she added , ##BOUNDED EVENT (SPECIFIC)
+ There are many pot smokers and painters ##GENERIC SENTENCE (STATIC)
+ that are ninja , ##GENERIC SENTENCE (STATIC)*
+ but it is best ##BASIC STATE
+ if they avoid the devastation ##COERCED STATE (GENERIC)
+ caused by exposure to the active elements ##BASIC STATE
+ and see medical marijuana as a legitimate alternative to harmful chemicals and dangerous medications . ##GENERIC SENTENCE (STATIC)
+
+
+***0 4 5 3 4 3 3 4 YES ML NO 0 0 0 0 ALGORITHM

@@ -1,0 +1,99 @@
+Black farmers in Florida say ##GENERIC SENTENCE (STATIC)
+ they are being shut out from the state 's emerging medical marijuana trade , ##GENERIC SENTENCE (HABITUAL)
+ and are pushing for changes in the law ##UNBOUNDED EVENT (GENERIC)
+ that would let them break into the limited , legal pot market . ##COERCED STATE (GENERIC)
+Though Sunshine State voters last fall rejected a broad medical marijuana ballot proposal , ##BOUNDED EVENT (GENERIC)
+ a more narrow measure ##OTHER
+ ( Senate Bill 1030 ) ##OTHER
+ was signed by Gov. Rick Scott nearly a year ago . ##BOUNDED EVENT (SPECIFIC)
+The " Compassionate Medical Cannabis Act of 2014 " allows some nurseries to grow " low-THC " pot ##BASIC STATE
+ and distribute to " qualified patients " ##GENERIC SENTENCE (DYNAMIC)
+suffering from cancer , seizures and muscle spasms . ##GENERIC SENTENCE (STATIC)
+But for black growers in the state , ##OTHER
+" It 's a bad thing , " ##BASIC STATE
+said Florida Black Farmers and Agriculturalists Association President Howard Gunn Jr . ##BOUNDED EVENT (SPECIFIC)
+Gunn is referencing one line in the law ##UNBOUNDED EVENT (SPECIFIC)
+ that is creating controversy . ##UNBOUNDED EVENT (SPECIFIC)
+It states farmers must have a license ##BASIC STATE
+ to cultivate " more than 400,000 plants " and must have operated " as a registered nursery in [ Florida ] for at least 30 continuous years . " ##GENERIC SENTENCE (STATIC)
+According to Gunn , ##BASIC STATE
+hardly any black farmers meet that criteria . ##GENERIC SENTENCE (STATIC)
+" There were n't that many black farmers 30 years ago in the nursery business , " ##GENERIC SENTENCE (STATIC)
+he said . ##BOUNDED EVENT (SPECIFIC)
+" We say ##GENERIC SENTENCE (DYNAMIC)
+ they were n't there because of the discriminatory practices 
+ set by the USDA . " ##GENERIC SENTENCE (STATIC)
+Gunn is talking about a case ##UNBOUNDED EVENT (SPECIFIC)
+ called " Pigford v. Glickman , " ##BASIC STATE
+ which started in the 1980s ##BOUNDED EVENT (SPECIFIC)
+ -- it led to one of the largest civil rights settlements in history , ##BOUNDED EVENT (SPECIFIC)
+worth $1.3 billion . ##BASIC STATE
+The USDA agreed to compensate thousands of black farmers ##BOUNDED EVENT (SPECIFIC)
+ who allegedly suffered racial discrimination from the USDA 's farm loan program . ##GENERIC SENTENCE (STATIC)
+Gunn points to that history ##UNBOUNDED EVENT (SPECIFIC)
+ in explaining ##UNBOUNDED EVENT (SPECIFIC)
+ why few , ##OTHER
+if any , ##OTHER
+ black farmers would meet the criteria today ##GENERIC SENTENCE (STATIC)
+ to legally grow medical marijuana . ##GENERIC SENTENCE (DYNAMIC)
+" Because of that , ##OTHER
+ we were n't able to produce as much ##UNBOUNDED EVENT (GENERIC)
+ or be as profitable as [ other ] farmers , " ##GENERIC SENTENCE (STATIC)
+he said . ##BOUNDED EVENT (SPECIFIC)
+" If we found one [ black ] farmer ##COERCED STATE (GENERIC)
+ growing that many plants , ##UNBOUNDED EVENT (SPECIFIC)
+ it would be surprising . " ##BASIC STATE
+There 's an effort afoot in the legislature to address these concerns , ##BASIC STATE
+ but it got off to a rocky start . ##UNBOUNDED EVENT (SPECIFIC)
+After an outcry from black farmers ##OTHER
+ opposing the " unobtainable " requirement to grow pot , ##BASIC STATE
+ Sen. Oscar Braynon , ##OTHER
+a black Democrat from Miami , ##OTHER
+proposed an amendment to a separate bill ##BOUNDED EVENT (SPECIFIC)
+ to get rid of the 30-year , 400,000-plant requirement . ##COERCED STATE (SPECIFIC)
+The underlying bill ##OTHER
+ -- which would end legal challenges ##COERCED STATE (SPECIFIC)
+ associated with the 2014 version -- ##GENERIC SENTENCE (STATIC)
+ was authored by Senate Regulated Industries Chairman Rob Bradley , ##BOUNDED EVENT (SPECIFIC)
+a Republican ##OTHER
+ who played a major role in passing the 2014 law . ##BOUNDED EVENT (SPECIFIC)
+Bradley reportedly asked Braynon ##BOUNDED EVENT (SPECIFIC)
+ to withdraw the amendment ##COERCED STATE (SPECIFIC)
+ -- promising ##BOUNDED EVENT (SPECIFIC)
+ he would work on changing the " discriminatory " language in the bill . ##COERCED STATE (SPECIFIC)
+But that plan did not work out . ##UNBOUNDED EVENT (SPECIFIC)
+The session ended prematurely , ##BOUNDED EVENT (SPECIFIC)
+ and neither the bill nor the amendment won approval . ##BOUNDED EVENT (SPECIFIC)
+" Unfortunately , ##OTHER
+ the bill did not make it across the finish line , " ##BOUNDED EVENT (SPECIFIC)
+Bradley told XXX , ##BOUNDED EVENT (SPECIFIC)
+ He said ##BOUNDED EVENT (SPECIFIC)
+ they will work to address the issue ##COERCED STATE (GENERIC)
+ when lawmakers return . ##COERCED STATE (GENERIC)
+" I think ##BASIC STATE
+ [ black farmers ] have a legitimate issue ##GENERIC SENTENCE (STATIC)
+ and it 's something ##BASIC STATE
+ that we will certainly continue to try and address ##COERCED STATE (GENERIC)
+ when we 're back in session next year , " ##GENERIC SENTENCE (STATIC)
+he said . ##BOUNDED EVENT (SPECIFIC)
+Meanwhile , ##OTHER
+the sponsor of the original 2014 bill , ##OTHER
+state Rep. Matt Caldwell , ##OTHER
+said ##BOUNDED EVENT (SPECIFIC)
+ he was not aware of the potential effects ##BASIC STATE
+ the requirements would have on black farmers . ##COERCED STATE (SPECIFIC)
+"I thought ##BASIC STATE
+ the ones ##OTHER
+ who 've been here the longest should be the first in line , " ##GENERIC SENTENCE (STATIC)
+ he told The News Service of Florida . ##BOUNDED EVENT (SPECIFIC)
+Florida is n't the only state ##BASIC STATE
+ working on changing marijuana laws . ##UNBOUNDED EVENT (GENERIC)
+Georgia 's governor recently signed a bill ##BOUNDED EVENT (SPECIFIC)
+ that will legalize low-THC cannabis oil for certain patients with illnesses . ##COERCED STATE (SPECIFIC)
+Around the same time , ##OTHER
+the state of Washington ##OTHER
+ -- where smoking pot is legal -- ##GENERIC SENTENCE (STATIC)
+ created a law ##BOUNDED EVENT (SPECIFIC)
+ that implements a voluntary registry of patients and cracks down on illegal pot gardens . ##BASIC STATE
+
+***0 5 5 4 5 5 5 1 YES ML YES 5 0 0 0 HUMAN

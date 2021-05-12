@@ -1,0 +1,169 @@
+Pot is different from growing , distributing and selling potatoes , beef , salmon or cars , common commodities with of course complex forces at work . ##GENERIC SENTENCE (STATIC)
+But cannabis takes complexity to a whole new level , comparable to tobacco and alcohol - ##UNBOUNDED EVENT (GENERIC)
+ which have been among the principal killers of Americans . ##GENERIC SENTENCE (STATIC)
+Yet the US is ablaze with cannabis : ##UNBOUNDED EVENT (SPECIFIC) //4
+ It is our # 1 illicit drug ##GENERIC SENTENCE (STATIC)
+ and medical marijuana ##OTHER
+ ( MJ ) ##OTHER
+ is legalized in 29 states and recreational marijuana legal in 8 states ##GENERIC SENTENCE (STATIC)
+ ( DC permits both ) . ##BASIC STATE //4
+63 % of Americans live in states with medical or recreational MJ or both . ##GENERIC SENTENCE (STATIC)
+The flame is everywhere and picking up intensity . ##GENERIC SENTENCE (STATIC)
+Over 22 million Americans ##OTHER
+ ( 12 and older ) ##OTHER
+ reported using MJ in the past month . ##BOUNDED EVENT (GENERIC)
+While some die-hards may imagine prohibiting the use of ( especially ) ##COERCED STATE (GENERIC)
+ recreational marijuana ##OTHER
+ and using law enforcement ##GENERIC SENTENCE (DYNAMIC)
+ to make that happen ##UNBOUNDED EVENT (GENERIC)
+ that seems an extremely unlikely , ##GENERIC SENTENCE (STATIC)*
+ not to mention a futile , ##OTHER
+ path for this country . ##OTHER
+Informed and candid cops know ##GENERIC SENTENCE (STATIC)
+ that arrest and incarceration cannot solve problems of drug use and dependence . ##COERCED STATE (GENERIC)
+So we face questions like : Should cannabis be fully decriminalized ? ##GENERIC SENTENCE (STATIC)
+Should medical and recreational MJ be legalized in all states ? ##QUESTION
+Should production and sales be limited ? ##QUESTION
+Should the market be allowed its sway ? ##QUESTION
+If you as a state feel the heat ##GENERIC SENTENCE (STATIC)
+ and it is not if but when , ##BASIC STATE
+ what design logic would be a useful guide ? ##QUESTION
+Will it be individual freedom ##QUESTION
+ ( for adults ) , free or regulated markets , or the health of the collective , ##OTHER
+ as shaped by public health goals ? ##GENERIC SENTENCE (DYNAMIC) //1
+Who will benefit therapeutically and financially ? ##QUESTION
+Who will suffer ? ##QUESTION
+What are the least worst options , given the well-known public health principle ##QUESTION
+ that increased access results in greater use ? ##BOUNDED EVENT (GENERIC)* //4
+These questions are for your consideration as a citizen ##BASIC STATE
+ ( and tax payer ) , ##OTHER
+ consumer , parent , co-worker , business owner or state or federal official . ##OTHER
+We need to shine some light on a poorly lit set of data ##COERCED STATE (GENERIC)
+ ( mostly from when MJ was 1/60th as potent ##GENERIC SENTENCE (STATIC)
+ as it is today ) ##GENERIC SENTENCE (STATIC)
+ and experience ##COERCED STATE (GENERIC)
+ ( which is not at all uniform or robust from the states ##BASIC STATE* //1
+ having gone ahead ) ##PERFECT COERCED STATE (SPECIFIC)
+ to make decisions now . ##UNBOUNDED EVENT (GENERIC)
+The cannabis fire will rapidly outpace ##COERCED STATE (GENERIC)
+ what science and practice may reveal in the years ##COERCED STATE (GENERIC)
+ to come . ##COERCED STATE (GENERIC)
+To examine ##UNBOUNDED EVENT (GENERIC)
+ what we know ##GENERIC SENTENCE (STATIC)
+ and what we can do in a clear and sensible way ##COERCED STATE (GENERIC)
+ a 3-day , National Cannabis Summit was held in Denver , ##BOUNDED EVENT (SPECIFIC)
+ CO , in late August , convened by three organizations . ##BOUNDED EVENT (SPECIFIC)
+It was the brainchild of Neal Shifman , CEO of Advocates for Human Potential , a human services research , consulting and training organization . ##BASIC STATE
+He joined forces with The National Council for Behavioral Health , ##BOUNDED EVENT (SPECIFIC)
+ constituted of 2900 member mental health and addictions treatment organizations , ##BASIC STATE
+ and the Addiction Technology Transfer Center Network , ##OTHER
+ which promotes adoption and implementation of what works for people with Substance Use Disorders . ##GENERALIZING SENTENCE (DYNAMIC)
+Advocates for Human Potential 2017 National Cannabis Summit The conference smartly assembled a diverse group of government and private stakeholders . ##BOUNDED EVENT (SPECIFIC)
+In practical ways , it crisply reported ##BOUNDED EVENT (SPECIFIC)
+ and discussed state implementation efforts to date , therapeutic effects and health risks of cannabis , legal and clinical knowledge , and the neuroscience of cannabinoids ##BOUNDED EVENT (SPECIFIC)
+ ( the term for the class of diverse chemical compounds ##OTHER
+ that act on our brain and body nerve receptors ) . ##GENERIC SENTENCE (DYNAMIC)
+Here are my take-away messages . ##BASIC STATE
+Start small , ##IMPERATIVE
+ as a state or county . ##OTHER
+Build slowly . ##IMPERATIVE
+There is no going back from full recreational legalization , ##GENERIC SENTENCE (STATIC)
+ especially when for-profit companies are financing its implementation . ##UNBOUNDED EVENT (GENERIC)
+Imagine ##IMPERATIVE
+ when Anheiser-Busch and RJ Reynolds Tobacco Company start promoting and distributing cannabis . ##COERCED STATE (SPECIFIC)
+Remember This Buds For You , The Marlboro Man and Joe Camel ? ##QUESTION
+Hence , also ban advertising . ##IMPERATIVE
+Separate out the growers from the distributors and those two from the retail sellers . ##IMPERATIVE
+Do not permit ##IMPERATIVE
+ what is called vertical integration , ##GENERIC SENTENCE (STATIC)
+ where one entity ##OTHER
+ controls the supply chain , ##UNBOUNDED EVENT (GENERIC)
+ which can foster monopoly . ##COERCED STATE (GENERIC)
+Pursue a harm reduction strategy , ##IMPERATIVE
+ as Canada is doing nationally under its progressive Prime Minister , Justin Trudeau . ##UNBOUNDED EVENT (SPECIFIC)
+Identify ##IMPERATIVE
+ and work to prevent or delay use by pregnant mothers or teenagers , ##IMPERATIVE
+ where brains are under development . ##GENERIC SENTENCE (HABITUAL) //3
+Add other highly vulnerable populations ##IMPERATIVE
+ to that strategy , ##OTHER
+ including those with known predispositions to or with family histories of a substance use or mental health disorder . ##UNBOUNDED EVENT (GENERIC)
+Dont smoke cannabis . ##IMPERATIVE
+Vape or eat it : ##IMPERATIVE
+ Smoking is really bad for the lungs . ##GENERIC SENTENCE (STATIC)
+Decriminalize cannabis . ##IMPERATIVE
+Limit access . ##IMPERATIVE
+Make the minimal age 21 , ##IMPERATIVE
+ set limits of quantities for legal possession and number of home grown plants ##IMPERATIVE
+ ( which can become a black / grey market cottage industry ) , ##COERCED STATE (GENERIC)
+ set limits ##IMPERATIVE
+ on dosages because potency counts ##OTHER
+ ( e.g. , 10 mg for edibles ) , ##OTHER
+ require minimum prices so MJ does not become cheap ( as it has in Washington State ) , ##IMPERATIVE
+ and contain production quotas and retail outlets . ##UNBOUNDED EVENT (GENERIC)
+Enforce the laws about Driving Under The Influence ##IMPERATIVE
+ ( DUI ) ##OTHER 
+ and underage sales . ##OTHER
+Dont permit public consumption . ##IMPERATIVE
+Require childproof packaging . ##IMPERATIVE
+Ensure that cannabidiol ##IMPERATIVE
+ ( CBD ) ##OTHER
+ - the second most common cannabinoid in MJ ##OTHER
+ after THC , ##OTHER
+ and without psychoactive properties - ##OTHER
+ is present in MJ products in significant amounts ##GENERIC SENTENCE (STATIC)
+ ( we still dont know ##GENERIC SENTENCE (STATIC)
+ what that is ##GENERIC SENTENCE (STATIC)
+ but it is not near zero ) ##GENERIC SENTENCE (STATIC)
+ because it appears protective against psychosis . ##GENERIC SENTENCE (STATIC)
+Direct state ( or federal , ##IMPERATIVE
+ if that ever happens ) ##COERCED STATE (GENERIC) //4
+ cannabis taxes to fund health insurance , as well as prevention ##UNBOUNDED EVENT (GENERIC)
+ ( especially for youth ) and public information campaigns . ##OTHER
+Allocate a percentage of taxes ##IMPERATIVE
+ to fund de-identified ##UNBOUNDED EVENT (GENERIC)
+ ( i.e. , privacy protected ) ##OTHER
+ state registries ##OTHER
+ and use them ##IMPERATIVE
+ to evaluate the impact of legalization on health and public safety - both for its therapeutic value and its harm to the brain and body ##UNBOUNDED EVENT (GENERIC)
+ ( including diseases and traffic accidents ) . ##GENERIC SENTENCE (STATIC) //2
+Get the FDA to declare cannabis a Schedule 2 drug , not its current hugely deterring Schedule 1 status , ##IMPERATIVE
+ so our country can actually study this drug . ##COERCED STATE (SPECIFIC) //4
+Expect over 40 % of current MJ users ##IMPERATIVE
+ to ingest 20 or more days / month . ##GENERIC SENTENCE (DYNAMIC)
+Recognize ##IMPERATIVE
+ that the predominance of regular users appears to stop on their own ##GENERIC SENTENCE (DYNAMIC)*
+ or not use abusively , ##COERCED STATE (GENERIC)
+ without services ##OTHER
+ ( unassisted recovery see Dr. John Kelly , ) . ##IMPERATIVE*
+Ensure ##IMPERATIVE
+ that those ##OTHER
+ who need assistance , ##GENERIC SENTENCE (STATIC)
+ because cannabis is addictive , ##GENERIC SENTENCE (STATIC)
+ can access ##COERCED STATE (GENERIC)
+ and continue in treatments ##COERCED STATE (GENERIC)
+ known to work . ##GENERIC SENTENCE (STATIC)
+Sustain or increase federal funding ##IMPERATIVE
+ to study the effects and therapeutic potential of cannabinoids , ##UNBOUNDED EVENT (GENERIC)
+ including plant-based THC and CBD as well as the brains own cannabinoid system ##GENERIC SENTENCE (STATIC)
+ ( driven by endocannabinoids ) . ##GENERIC SENTENCE (DYNAMIC)
+As citizens and policy makers ##OTHER
+ we need to lean in to the dilemma of what to do about cannabis . ##COERCED STATE (GENERIC)
+Silence only lets a vocal minority rule . ##GENERIC SENTENCE (STATIC)
+Like climate change , ##OTHER
+ it is everyones issue , deniers notwithstanding . ##GENERIC SENTENCE (STATIC)
+As a friend of mine recently wrote , ##BOUNDED EVENT (SPECIFIC)
+ A fool can throw a stone into the water ##COERCED STATE (GENERIC)
+ that ten wise men cannot recover . ##COERCED STATE (GENERIC)
+( From Jay Neugeboren , March 2017 ) . ##OTHER
+In other words , ##OTHER
+ there is no single or simple solution to the cannabis Rubic cube . ##GENERIC SENTENCE (STATIC)*
+We will have to act now , ##COERCED STATE (GENERIC)
+ and sensibly , ##OTHER
+ and let science catch up . ##COERCED STATE (GENERIC)
+To paraphrase ##UNBOUNDED EVENT (SPECIFIC)
+ what Churchill said of we Americans , ##BOUNDED EVENT (SPECIFIC)
+ we do the right thing ##GENERIC SENTENCE (DYNAMIC)
+ after we have exhausted everything else . ##PERFECT COERCED STATE (GENERIC)
+Whats ahead is surely difficult ##BASIC STATE
+ but it is not impossible . ##BASIC STATE
+***0 5 0 0 0 0 0 0 YES ML YES 5 3 5 5 HUMAN

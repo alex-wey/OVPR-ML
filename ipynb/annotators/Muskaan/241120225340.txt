@@ -1,0 +1,99 @@
+Charlie Wilson may be the last name in America ##BASIC STATE
+ if Willie Nelson is found guilty in a Texas court of a decades-old sexual assault conviction . ##COERCED STATE (SPECIFIC)
+Nelson , ##OTHER
+71 , ##OTHER
+was accused in 2006 ##BOUNDED EVENT (SPECIFIC)
+ of raping a fan of singer Adele in a hotel room in Las Vegas . ##BOUNDED EVENT (SPECIFIC)
+The singer discovered ##BOUNDED EVENT (SPECIFIC)
+ her attacker was a female fan at a local Salt Lake City hotel in 2000 ##BASIC STATE
+ and forced her to have sex . ##BOUNDED EVENT (SPECIFIC)
+Nelson , ##OTHER
+ once considered one of the greatest songwriters of all time , ##BASIC STATE
+ then denied the claims , ##BOUNDED EVENT (SPECIFIC)
+ and a jury convicted him of rape . ##BOUNDED EVENT (SPECIFIC)
+Though the sex abuse claims were not proven , ##UNBOUNDED EVENT (SPECIFIC)
+ Nelson remains on the stand in Austin ##BASIC STATE
+ where the rape allegation is an ongoing prosecution . ##UNBOUNDED EVENT (SPECIFIC)
+Dedicated Christian musician Nelson and wife Vanessa ##OTHER
+ ( short for Nichole Davis ) ##OTHER
+ have worked ##PERFECT COERCED STATE (SPECIFIC)
+ to stave off federal prosecution for decades , ##UNBOUNDED EVENT (SPECIFIC)
+ sharing the stage with some of their country favorites such as Elvis Presley and Willie Nelson and Eddie Roy Orbison . ##UNBOUNDED EVENT (SPECIFIC)
+Nelson was inducted into the Rock and Roll Hall of Fame in January 2003 . ##BOUNDED EVENT (SPECIFIC)
+" I understand ##BASIC STATE
+ and fully support a sexual assault conviction ," ##BASIC STATE
+he said ##BOUNDED EVENT (SPECIFIC)
+ when in court on April 6 , 2009 . ##BASIC STATE
+" If there was a crime ##COERCED STATE (SPECIFIC)
+ committed and I am proven innocent of it , ##COERCED STATE (SPECIFIC)
+then ##OTHER
+ that makes me an untouchable . ##COERCED STATE (SPECIFIC)
+But ##OTHER
+ even if they would like to convict me , ##COERCED STATE (SPECIFIC)
+ that would only be in the hands of the court . ##COERCED STATE (SPECIFIC)
+But ##OTHER
+ whether they ##OTHER
+ ( the court ) ##OTHER
+ believe me or not , ##BASIC STATE
+ I can neither reconcile nor deny the fact ##COERCED STATE (SPECIFIC)
+ that my allegations are true . " ##BASIC STATE
+Nelson 's attorneys contend ##UNBOUNDED EVENT (SPECIFIC)
+ the singer did not intend to have the woman ##BASIC STATE
+ he had sex with pass away . ##BOUNDED EVENT (SPECIFIC)
+Nelson is scheduled to stand trial in April . ##BASIC STATE
+The trial is one of the most bizarre and controversial elements of the case , ##BASIC STATE
+ as The Texas A & M University System and the Fort Worth Star-Telegram continue to investigate the sexual assault charges . ##UNBOUNDED EVENT (SPECIFIC)
+A spokesperson for Fort Worth-based Baylor College of Art & Design said , ##BOUNDED EVENT (SPECIFIC)
+ " The investigation is ongoing . " ##BASIC STATE
+The school has scheduled an April 2 hearing on the appeal . ##PERFECT COERCED STATE (SPECIFIC)
+This is not the first time ##BASIC STATE
+ prosecutors in Texas have accused Nelson of sexual abuse . ##PERFECT COERCED STATE (GENERIC)
+The Jackson Family of Texas , ##OTHER
+ which represents Nelson at trial , ##BASIC STATE
+ gave evidence during the initial trial , ##BOUNDED EVENT (SPECIFIC) 
+ which was decided by a 9-to-1 margin . ##BOUNDED EVENT (SPECIFIC)
+The Jackson Family also backed Nelson . ##UNBOUNDED EVENT (SPECIFIC)
+In 2007 , ##OTHER
+the Texas law ##OTHER
+ that created rape justice bars them from prosecuting anyone ##BASIC STATE
+ who is unwilling to testify . ##GENERIC SENTENCE (STATIC)
+But defense attorney Corey Drake told journalists ##BOUNDED EVENT (SPECIFIC)
+ the guidelines held up until now . ##BOUNDED EVENT (GENERIC)
+" It really , really has to be brought to trial ##GENERIC SENTENCE (STATIC)
+ once a defendant is identified by the court , ##BOUNDED EVENT (GENERIC)
+ Drake said in the 2013 issue of Texas Lawyer magazine . ##BOUNDED EVENT (SPECIFIC)
+The trial could make or break Nelson 's career . ##COERCED STATE (SPECIFIC)
+But his lawyers have had problems ##GENERALIZING SENTENCE (STATIVE)
+ getting Nelson to test his innocence . ##UNBOUNDED EVENT (SPECIFIC)
+Tight Riddance ##OTHER
+ " The government 's defense ##OTHER
+ has been little quiet . ##GENERALIZING SENTENCE (STATIVE)
+They 've had some talks with Texas Attorney General Ken Paxton . ##PERFECT COERCED STATE (SPECIFIC)
+As far ##OTHER
+ as I 'm concerned ##BASIC STATE
+ there has been no dialogue ##GENERIC SENTENCE (HABITUAL)
+ and this whole thing was started to be minimized , " ##UNBOUNDED EVENT (SPECIFIC)
+said Drake . ##BOUNDED EVENT (SPECIFIC)
+Nelson 's daughter , ##OTHER
+Lexi , ##OTHER
+said ##BOUNDED EVENT (SPECIFIC)
+ she is ready to try to prove ##BASIC STATE
+ her father was at least one sexual assault victim in this case . ##BASIC STATE
+" I think ##BASIC STATE
+ there 's a good chance ##BASIC STATE
+ he will be found guilty , ##COERCED STATE (SPECIFIC)
+ but I have to do what I have to do to prove ##BASIC STATE //1
+ that ," ##OTHER
+Lexi Nelson said . ##BOUNDED EVENT (SPECIFIC)
+The Hagerstown , Maryland-based lawyer said ##BOUNDED EVENT (SPECIFIC)
+ the details of the search ##OTHER
+ could help her eventually prove ##COERCED STATE (SPECIFIC)
+ Nelson was not one of the accusers . ##BASIC STATE
+But she said ##BOUNDED EVENT (SPECIFIC)
+ she needs to rely on social media ##BASIC STATE
+ to keep her safe . ##GENERALIZING SENTENCE (DYNAMIC)
+She said ##BOUNDED EVENT (SPECIFIC)
+ she plans to speak with government officials ##BASIC STATE
+ so that they can communicate with potential witnesses . ##COERCED STATE (SPECIFIC)
+
+***0 4 1 4 2 2 1 4 NO NA NO 0 0 0 0 ALGORITHM

@@ -1,0 +1,76 @@
+Does this mean ##BASIC STATE //4
+ that the DEA boss has opinions about marijuana the way ##BASIC STATE
+ the mayor ##OTHER
+ will think about that! ##COERCED STATE (SPECIFIC)*
+then ban a dispensary ? ##QUESTION
+I 'm not sure ##BASIC STATE
+ how he got there . ##BOUNDED EVENT (SPECIFIC)
+Before regulating dispensaries , ##UNBOUNDED EVENT (GENERIC) //3
+most states and cities legalized recreational marijuana ##BOUNDED EVENT (GENERIC)
+ and created some form of legal adult use for the majority of their citizens . ##BOUNDED EVENT (GENERIC)
+When you consider the scope of this ( legal ) , ##GENERIC SENTENCE (DYNAMIC) //3
+ he 's probably right about states and cities . ##BASIC STATE
+But ##OTHER
+ if it is true that an intervention by the DEA on peoples behalf would get marijuana smokers hooked , ##BASIC STATE
+ that likely gets people off the fence . ##UNBOUNDED EVENT (GENERIC) //4
+Despite the word tough ##OTHER
+ being used ##UNBOUNDED EVENT (GENERIC)
+ to describe some of those people , ##UNBOUNDED EVENT (GENERIC)
+ I do n't particularly like the term . ##BASIC STATE
+The DEA 's most virulent attack against crime generally results in a department head ##GENERALIZING SENTENCE (DYNAMIC)*
+ who writes letters to publicly ##GENERIC SENTENCE (DYNAMIC)
+ and sings songs about the impact of legalization . ##GENERIC SENTENCE (DYNAMIC)
+I like hearing the FBI use the word " career criminal " ##BASIC STATE
+ to describe the most successful narcotic drug smuggler in history . ##UNBOUNDED EVENT (SPECIFIC)
+And the DEA , ##OTHER
+ with its second-highest ranking , ##OTHER
+ should appreciate ##COERCED STATE (SPECIFIC)
+ what the Trumpian middle class ##OTHER
+ ( and its most successful advocate ) ##OTHER
+ have to say about the criminality of others . ##GENERIC SENTENCE (STATIC)
+Fiction has always played a great role in my daily life . ##PERFECT COERCED STATE (SPECIFIC)
+I guess ##BASIC STATE
+ they have to do so in different areas . ##COERCED STATE (GENERIC)
+But my life as an alcoholic-tired driver made me think of a fake freewheeling , high-explosive , religion-tinged writer ##BOUNDED EVENT (SPECIFIC)*
+ who I never really related to . ##COERCED STATE (SPECIFIC)
+Is it still relevant , ##QUESTION
+anyway ? ##QUESTION
+But is celebrity celebrity really the antidote to what the DEA is likely to do ? ##QUESTION*
+Recent studies have shown ##PERFECT COERCED STATE (GENERIC)
+ that people ##OTHER
+ who have made a career of snorting cocaine ##PERFECT COERCED STATE (GENERIC)
+ but who have little to no interest in pot ##GENERIC SENTENCE (STATIC)
+ are about one in 4 times more likely to engage in cocaine use . ##GENERIC SENTENCE (STATIC)
+Can you guess the reason for this or do you think ##QUESTION
+ it 's because of the false " iconic " effect ##BASIC STATE 
+ celebrities create in a pro-obstacle climate ? ##GENERIC SENTENCE (DYNAMIC)
+We know ##GENERIC SENTENCE (STATIC)
+ there is no such thing as " domestic violence" in the US , ##GENERIC SENTENCE (STATIC)
+ but about two-thirds of people ##OTHER
+ that kill a dog in the US does n't kill a human . ##GENERIC SENTENCE (DYNAMIC)
+Of course the DEA thought about peoples interdictions with dangerous marijuana . ##BOUNDED EVENT (SPECIFIC)
+But it has n't noticed ##COERCED STATE (SPECIFIC)
+ that people almost always live in jails ##GENERIC SENTENCE (DYNAMIC)
+ rather than in prisons . ##OTHER
+Its advice to patients , ##OTHER
+such as those ##OTHER
+ complaining of drowsiness , ##UNBOUNDED EVENT (GENERIC)
+ is put down to the suggestion ##BASIC STATE
+ that they can run away ##COERCED STATE (GENERIC)
+ and hurt others ignoring the fact ##COERCED STATE (GENERIC)
+ that , ##OTHER
+statistically , ##OTHER
+a slight increase in serious substance use helps drive people to crime . ##GENERIC SENTENCE (DYNAMIC)
+Finally , ##OTHER
+ what happens ##QUESTION
+ when one is young and using cannabis ##UNBOUNDED EVENT (GENERIC)
+ to make ends meet ? ##UNBOUNDED EVENT (GENERIC)
+The DEA of late knows best . ##BASIC STATE
+It 's tough to say ##BASIC STATE
+ but the DEA is notorious for stressing it to its young and different people ##BASIC STATE
+ that it needs to be closer to the prisons ##BASIC STATE*
+ it sweeps through . ##GENERALIZING SENTENCE (DYNAMIC)
+Or ##OTHER
+ if it 's more extensive , ##BASIC STATE //2
+ it 's difficult to discern . ##BASIC STATE //2
+***0 3 0 0 0 0 0 0 YES ML NO UNCLEAR 3 1 1 ALGORITHM

@@ -1,0 +1,67 @@
+The NFL should treat marijuana an issue with equal caution , ##COERCED STATE (SPECIFIC)
+ marijuana industry lobbyist Jim McMahon has said . ##PERFECT COERCED STATE (SPECIFIC)
+In an open letter to the league and the Administration of Justice , ##OTHER
+ McMahon made the assertion ##BOUNDED EVENT (SPECIFIC)
+ that marijuana can cause inflammation , pain , and suffering to an NFL player by the use of the drug . ##COERCED STATE (GENERIC)
+McMahon contends this week ##BOUNDED EVENT (SPECIFIC)
+ that marijuana doesnt cause any injuries . ##COERCED STATE (GENERIC)
+Its proven to be beneficial in pro athletes in ways ##GENERIC SENTENCE (STATIC)
+ that football and baseball dont normally focus on because of its effect on sports . ##GENERIC SENTENCE (HABITUAL)*
+There are widespread conversations about marijuana use ##GENERIC SENTENCE (STATIC)
+ and how it is actually impacting collegiate football players . ##UNBOUNDED EVENT (GENERIC)
+McMahon represents a different perspective . ##BASIC STATE
+He is concerned ##BASIC STATE
+ that marijuana problems are more subtle ##GENERIC SENTENCE (HABITUAL)
+ and that the injuries to players are less obvious and recognizable . ##GENERIC SENTENCE (STATIC)
+Cigarettes present two different side effects . ##GENERIC SENTENCE (HABITUAL)
+At the bowl games ##OTHER
+ there are clearly a measurable incidence of post-menopausal disorders such as osteoporosis , ##GENERIC SENTENCE (HABITUAL)* //4
+ McMahon wrote in the letter ##BOUNDED EVENT (SPECIFIC)
+ posted to TheHerald , a Richmond , Va. - based newspaper . ##BASIC STATE*
+In spite of the apparent lack of a devastating effect , ##OTHER
+ there has been a rising rate of the occurrence of suffering from these conditions . ##GENERIC SENTENCE (STATIC) //3
+He also concerns the impact ##UNBOUNDED EVENT (SPECIFIC)* //4
+ the drugs have on ones joints . ##GENERIC SENTENCE (HABITUAL)
+Dealing with an unresponsive joint and a mole area ##UNBOUNDED EVENT (GENERIC)
+ have limited symptoms like headaches and nausea , ##GENERIC SENTENCE (STATIC)* //3
+ and it seems ##BASIC STATE
+ that shoulder pain may be resulting in joints ##COERCED STATE (GENERIC)
+ not sprouting up , ##COERCED STATE (GENERIC)
+ McMahon wrote . ##BOUNDED EVENT (SPECIFIC)
+These symptoms can result in joints ##COERCED STATE (GENERIC)
+ becoming exposed to smoke and artificial compounds ##GENERIC SENTENCE (DYNAMIC)
+ that assist in the movement of the joints . ##GENERIC SENTENCE (DYNAMIC)
+Marijuana can play a role in this . ##COERCED STATE (GENERIC)
+The letter was authored by attorneys Christine Mattison and Michael Greco . ##BOUNDED EVENT (SPECIFIC)
+McMahon has written hundreds of letters across the nation ##PERFECT COERCED STATE (SPECIFIC)
+ before ##OTHER
+ but has not written in opposition to marijuana as a possible treatment for the NFL . ##COERCED STATE (SPECIFIC)
+His big pharmaceutical client at the time was the NFLs Seattle Seahawks . ##BASIC STATE
+In the letter , ##OTHER
+ McMahon says ##BASIC STATE
+ the NFL must consider ##COERCED STATE (SPECIFIC)
+ how this disorder happens : ##GENERALIZING SENTENCE (DYNAMIC)
+ This subject is challenging enough to allow consumers to make educated determinations ##BASIC STATE
+ based on these findings . ##GENERIC SENTENCE (STATIC)
+We are uncertain whether cannabis can successfully treat these symptoms . ##BASIC STATE //4
+However , ##OTHER
+ our decision will be made based on the current data ##COERCED STATE (SPECIFIC)
+ that supports safety and effectiveness . ##GENERIC SENTENCE (STATIC)
+This is a viewpoint ##BASIC STATE
+ that many physicians share ##GENERIC SENTENCE (STATIC)
+ and we would welcome discussion with patients and the league on this issue . ##COERCED STATE (SPECIFIC) //3
+McMahon has no idea ##BASIC STATE
+ what his potential client would be talking about . ##COERCED STATE (SPECIFIC)
+In an email message to TheHerald , McMahon didnt immediately return a request for comment . ##COERCED STATE (SPECIFIC)
+Marijuana is used in many forms of medicine ##GENERIC SENTENCE (DYNAMIC)
+ and millions of Americans smoke pot every year . ##GENERIC SENTENCE (DYNAMIC)
+XXX reported earlier this month ##BOUNDED EVENT (SPECIFIC)
+ that marijuana has been responsible for improving symptoms for former NFL quarterback Jim McMahon , ##PERFECT COERCED STATE (SPECIFIC)
+ who died Sunday at age 65 . ##BOUNDED EVENT (SPECIFIC)
+McMahons vice president of communications for the Los Angeles Rams , ##OTHER
+Seth Emmons , ##OTHER
+said in February ##BOUNDED EVENT (SPECIFIC)
+ that the NFL wouldnt enforce the drug ##COERCED STATE (SPECIFIC)
+ because it proves ##UNBOUNDED EVENT (SPECIFIC)*
+ it has no effect . ##GENERIC SENTENCE (STATIC) //4
+***0 5 5 0 0 0 0 0 YES ML YES 2 0 0 0 ALGORITHM 

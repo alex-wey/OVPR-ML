@@ -1,0 +1,79 @@
+Last year , ##OTHER
+the FDA recognized a new drug ##BOUNDED EVENT (SPECIFIC) 
+ for epilepsy ##OTHER
+ made from marijuanas own CBD , ##GENERIC SENTENCE (DYNAMIC) //4
+ otherwise known as cannabidiol . ##GENERIC SENTENCE (STATIC)
+That means ##BASIC STATE
+ the marijuana plant may have a confirmed medical use after all . ##GENERIC SENTENCE (STATIC)
+So what about medical marijuana and diabetes ? ##QUESTION
+Can diabetics use the drug ##QUESTION
+ to help their condition ##GENERIC SENTENCE (DYNAMIC)
+ or safely use it for pleasure ? ##GENERIC SENTENCE (DYNAMIC)
+As more states legalize medical marijuana , ##UNBOUNDED EVENT (GENERIC)
+ people with all kinds of diseases are wondering this same question . ##UNBOUNDED EVENT (GENERIC)
+However , ##OTHER
+diabetics are left reading between the lines of existing studies ##UNBOUNDED EVENT (GENERIC)
+ to make a conclusion . ##UNBOUNDED EVENT (GENERIC) //3
+The short answer : ##OTHER
+ experts dont know for sure . ##GENERIC SENTENCE (STATIC)
+People with diabetes can discuss ##COERCED STATE (GENERIC)
+ how to safely use medical marijuana with their doctors . ##GENERIC SENTENCE (DYNAMIC) //3
+However , #OTHER
+the research is slim and sometimes opposing on whether the drug actually helps diabetes . ##GENERIC SENTENCE (STATIC)
+One large study ##OTHER
+ published in The American Journal of Medicine points to positive benefits for diabetes . ##BASIC STATE
+The study was conducted on over 4,600 participants ##BOUNDED EVENT (SPECIFIC)
+ using the National Health and Nutrition Examination Survey ##UNBOUNDED EVENT (SPECIFIC)
+ ( NHANES ) survey . ##OTHER
+Of those participating , ##OTHER
+about 580 used marijuana regularly and over 1,900 had used it in the past . ##PERFECT COERCED STATE (SPECIFIC)
+Interestingly , ##OTHER
+ researchers found ##BOUNDED EVENT (SPECIFIC)
+ that using marijuana was associated with a lower fasting insulin level ##GENERIC SENTENCE (STATIC)
+ and a smaller waist size . ##OTHER
+A review ##OTHER
+ published in the Natural Medicine Journal also highlighted positive outcomes . ##BOUNDED EVENT (SPECIFIC)
+The review cited the NHANES study as well as several mice models ##BOUNDED EVENT (SPECIFIC)
+ that suggest ##UNBOUNDED EVENT (SPECIFIC)
+ cannabis protected mice from getting diabetes ##BOUNDED EVENT (GENERIC)
+ or reduced its severity . ##BOUNDED EVENT (GENERIC)
+The review also pointed out a study ##BOUNDED EVENT (SPECIFIC)
+ in Israel ##OTHER
+ that revealed ##BOUNDED EVENT (SPECIFIC)
+ a low dose of THC , ##OTHER
+ well below its psychoactive capabilities , ##OTHER
+ could protect the body against organ damage . ##COERCED STATE (GENERIC)
+But there are studies ##GENERIC SENTENCE (STATIC)
+ showing negative effects too . ##GENERIC SENTENCE (STATIC)
+One such study ##OTHER
+ published by the American Diabetes Association showed ##BOUNDED EVENT (SPECIFIC)
+ that marijuana users tended to consume about 20 percent more food , ##GENERIC SENTENCE (DYNAMIC)
+ eat a lesser quality diet ##GENERIC SENTENCE (DYNAMIC)
+ involving simple carbs , ##GENERIC SENTENCE (HABITUAL)
+ have higher blood pressure ##GENERIC SENTENCE (HABITUAL)
+ and have a higher percentage of visceral fat . ##GENERIC SENTENCE (HABITUAL)
+All of these markers could exacerbate diabetes risk . ##COERCED STATE (SPECIFIC)
+To balance these findings , ##UNBOUNDED EVENT (SPECIFIC)
+though , ##OTHER
+ the same study did find ##BOUNDED EVENT (SPECIFIC)
+ that marijuana users had lower overall fat content and a lower BMI . ##GENERIC SENTENCE (HABITUAL)
+Other possible ( largely unproven ) ##OTHER
+ benefits of medical marijuana ##OTHER
+ that many cannabis advocates commonly highlight : ##GENERIC SENTENCE (DYNAMIC)
+ Reducing anxiety , Reducing pain and inflammation , Slowing cancer growth , Muscle relaxant , ##GENERIC SENTENCE (DYNAMIC) //3
+ which could be helpful for multiple sclerosis , ##GENERIC SENTENCE (STATIC)
+ Controlling side effects of chemotherapy , ##GENERIC SENTENCE (DYNAMIC)
+such as nausea and vomiting . ##OTHER
+Officially , ##OTHER
+the National Institute on Drug Abuse states ##BASIC STATE
+ that not enough large-scale studies have been conducted to provide definitive answers about medical marijuana . ##COERCED STATE (GENERIC)
+One thing is certain , ##BASIC STATE
+though : ##OTHER
+ In light of the new wave of cannabis interest , ##OTHER
+ this is a field of study ##BASIC STATE
+ researchers cannot overlook . ##COERCED STATE (GENERIC)
+The difficult task is to conduct such research under available laws , ##GENERIC SENTENCE (STATIC)
+ which prohibit the use and study of marijuana by the federal government . ##UNBOUNDED EVENT (GENERIC)
+Researchers will need to take care to go the proper pathways ##COERCED STATE (GENERIC)
+ so that more research can become available and recognized . ##COERCED STATE (GENERIC)
+***0 5 5 0 0 0 0 0 YES ML YES 4 3 5 5 HUMAN

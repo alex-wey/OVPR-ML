@@ -1,0 +1,71 @@
+The number of marijuana-legalized patients in Colorado has drastically declined over the past year . ##PERFECT COERCED STATE (GENERIC)
+When the state legalized recreational marijuana in November , ##BOUNDED EVENT (SPECIFIC)
+ it allowed a number of medical marijuana patients to choose either one to use on one of five variations of the drug . ##GENERIC SENTENCE (STATIC) //4
+Doctors at the medical marijuana clinic in Denver ##OTHER
+ have reported a 10 % drop in the number of new patients due to medical marijuana ##PERFECT COERCED STATE (GENERIC)
+ testing , ##OTHER
+ with clinical marijuana patients having fewer than 1,500 ##GENERIC SENTENCE (STATIC)*
+ waiting for their marijuana test . ##UNBOUNDED EVENT (GENERIC)
+Even with the decriminalization of recreational marijuana users , ##OTHER
+ Colorado does not have the greatest number of medical marijuana patients . ##BASIC STATE
+Researchers at Vanderbilt University published a study ##BOUNDED EVENT (SPECIFIC)
+ in the Journal of the American Medical Association last summer ##OTHER
+ that found ##BOUNDED EVENT (SPECIFIC)
+ a vast majority of marijuana-legalized patients do not respond well to marijuana testing , ##GENERIC SENTENCE (DYNAMIC)
+ which according to previous studies is usually diagnosed around 1-2 years ##GENERIC SENTENCE (DYNAMIC)
+ after the patients first appearance with a doctor . ##OTHER
+Furthermore , ##OTHER
+ as medical marijuana is a less-common medical option , ##GENERIC SENTENCE (STATIC)
+ there is an increased risk of acquiring high levels of the drug . ##GENERIC SENTENCE (STATIC)
+Theres been a change in medical marijuana usage within the past year , ##GENERIC SENTENCE (STATIC) //4
+ but we know its not widespread , ##GENERIC SENTENCE (STATIC)
+ Wayne Ehrlich , MD , G.E.T. , ##OTHER
+co-founder of Mint Prat Patient Day , ##OTHER
+told NBC4 Denver . ##BOUNDED EVENT (SPECIFIC)
+This represents the most uncertainty ##BASIC STATE //2
+ as to whether or not were going to see an increase . ##COERCED STATE (GENERIC)
+So far , ##OTHER
+only two Colorado medical marijuana dispensaries are open , ##BASIC STATE
+ said Ehrlich . ##BOUNDED EVENT (SPECIFIC)
+In October , ##OTHER
+the doctor-controlled liquid store Upstate New York Fresh Gluten provided Dr. Holiday , ##BOUNDED EVENT (SPECIFIC)
+ who has also worked with Gresham-Seeds in Colorado , ##PERFECT COERCED STATE (SPECIFIC)
+ to perform live lab tests ##GENERALIZING SENTENCE (DYNAMIC)* //3
+ using multiple marijuana-infused liquid capsules ##UNBOUNDED EVENT (SPECIFIC) //3
+ containing lignan . ##BASIC STATE //2
+The tests showed ##BOUNDED EVENT (SPECIFIC)
+ that the capsules were high in the antioxidant protein glycolic acid ##BASIC STATE
+ ( a color on marijuana ##OTHER
+ used ##GENERIC SENTENCE (DYNAMIC)
+ to find local , lower risk of cancer ) , ##GENERIC SENTENCE (DYNAMIC)
+ which was common and appropriate in first-ever lab tests . ##BASIC STATE
+Longtime law enforcement officers showed up at Upstate New York Fresh Gluten offered urine samples ##BOUNDED EVENT (SPECIFIC)* //2
+ to help guide parents through the rules , ##UNBOUNDED EVENT (SPECIFIC) //3
+ Ehrlich said . ##BOUNDED EVENT (SPECIFIC)
+They also approved marijuana-based counseling ##BOUNDED EVENT (SPECIFIC)
+ that helped doctors deal with the issue of marijuana through their legal team . ##BOUNDED EVENT (GENERIC) //4
+The treatment was approved by a bill ##BOUNDED EVENT (GENERIC)
+ passed by Colorado legislators , ##BOUNDED EVENT (GENERIC)
+ which no longer applies to medical marijuana patients . ##COERCED STATE (SPECIFIC)
+I dont think ##BASIC STATE
+ any of the doctors are coming in now , ##UNBOUNDED EVENT (GENERIC)
+ Ehrlich said . ##BOUNDED EVENT (SPECIFIC)
+So I dont think ##BASIC STATE
+ the law enforcement is going to be practicing their religion here in Colorado . ##COERCED STATE (GENERIC)
+Even as the recreational marijuana sales boom continues to ebb , ##UNBOUNDED EVENT (SPECIFIC)
+ some people in the medical marijuana community are already starting to question the validity of their use . ##BOUNDED EVENT (GENERIC)
+Holly Prunkett-Sabara has discussed the growing uncertainty with her husband , ##PERFECT COERCED STATE (SPECIFIC)
+ who is legally under 18 . ##BASIC STATE
+The retired professor has a different philosophy of medical marijuana . ##BASIC STATE
+She was fearful , ##BASIC STATE
+however , ##OTHER
+ of helping children struggling with anxiety ##UNBOUNDED EVENT (GENERIC)
+ and learning ##UNBOUNDED EVENT (SPECIFIC) //3
+ how to do errands , ##OTHER
+such as reading . ##UNBOUNDED EVENT (GENERIC) 
+I would be as nervous ##BASIC STATE
+ as the 7-year-old [ thinking ] its OK , ##UNBOUNDED EVENT (SPECIFIC)
+ Prunkett-Sabara said . ##BOUNDED EVENT (SPECIFIC)
+We certainly dont push , ##GENERALIZING SENTENCE (DYNAMIC)
+ but it never hurt me or my ability to do things . ##COERCED STATE (SPECIFIC) //2
+***0 5 5 0 0 0 0 0 YES ML YES UNCLEAR 0 0 0 ALGORITHM

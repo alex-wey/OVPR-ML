@@ -1,0 +1,155 @@
+In a Senate drug hearing ##OTHER
+ in April 2016 , ##OTHER
+ Sessions said ##BOUNDED EVENT (SPECIFIC)
+ that 'we need grown-ups in charge in Washington to say ##GENERIC SENTENCE (STATIC)
+ marijuana is not the kind of thing ##BASIC STATE
+ that ought to be legalized , ##BASIC STATE
+ it ought not to be minimized , ##BASIC STATE
+ that its in fact a very real danger .' ##BASIC STATE
+( U.S. Senate Drug Caucus ) ##OTHER
+ Attorney General Jeff Sessions will soon receive a report ##COERCED STATE (SPECIFIC)
+ he has been waiting for . ##PERFECT COERCED STATE (SPECIFIC)
+The document , ##OTHER
+from the Presidents Task Force on Crime Reduction and Public Safety , ##OTHER
+ is expected ##BASIC STATE
+ to clarify the federal governments position on marijuana and the conflicts ##UNBOUNDED EVENT (SPECIFIC)
+ that exist between state and federal laws . ##GENERIC SENTENCE (STATIC)
+It clear ##BASIC STATE
+ what Sessions wants to do : ##BASIC STATE
+ Over the past month , ##OTHER
+ he has asked Congress for permission ##BOUNDED EVENT (SPECIFIC)
+ to prosecute medical cannabis suppliers ##GENERIC SENTENCE (DYNAMIC)
+ who are acting in accordance with their states laws , ##GENERIC SENTENCE (DYNAMIC)
+ reauthorized civil asset forfeiture ##OTHER
+ ( a highly controversial practice ##OTHER
+ used in drug cases ) , ##GENERALIZING SENTENCE (STATIVE)
+ and announced his desire ##BOUNDED EVENT (SPECIFIC)
+ to start a new war on drugs . ##COERCED STATE (SPECIFIC)
+On at least one front , ##OTHER
+however , ##OTHER
+Sessionss new war on drugs is likely to fail . ##BASIC STATE
+In taking on cannabis particularly the medical uses of cannabis he is staking out a position ##UNBOUNDED EVENT (SPECIFIC)
+ that is at odds with powerful interests ##BASIC STATE
+ and an overwhelming majority of Americans ##OTHER
+ from nearly all walks of life . ##OTHER
+This tide is too strong to swim against . ##BASIC STATE
+The first obstacle is that the medical community has largely resolved the question ##UNBOUNDED EVENT (SPECIFIC) 
+ of whether cannabis is clinically useful . ##BASIC STATE
+In January , ##OTHER
+the National Academies of Sciences , Engineering and Medicine ##OTHER
+ ( NAS ) ##OTHER
+ reported ##BOUNDED EVENT (SPECIFIC)
+ that there is conclusive evidence ##GENERIC SENTENCE (STATIC)
+ that cannabis ##OTHER
+ ( both whole plant and extracts ) ##OTHER
+ is clinically effective at treating some diseases , ##GENERIC SENTENCE (STATIC)
+ including chronic pain . ##OTHER
+Cannabis may prove to be a pain management strategy ##BASIC STATE
+ that could substitute for opioids for many desperate patients , ##BASIC STATE
+ and the National Institute on Drug Abuse ##OTHER
+ ( NIDA ) ##OTHER
+ acknowledges ##BASIC STATE
+ that cannabis may be an effective tool ##BASIC STATE
+ to combat the opioid crisis . ##COERCED STATE (SPECIFIC)
+Researchers ##OTHER
+ studying the relationship between medical cannabis laws and opioid use ##GENERIC SENTENCE (DYNAMIC)
+ have found ##UNBOUNDED EVENT (GENERIC)
+ that states with such laws have nearly a 25 percent reduction in opioid-related deaths . ##GENERIC SENTENCE (STATIC)
+The contrast between opioids ##OTHER
+ which killed more than 33,000 Americans in 2015 and cannabis could not be more striking . ##BOUNDED EVENT (GENERIC)
+As NIDA states on its DrugFacts Marijuana Web page : ##BASIC STATE
+ There are no reports ##GENERIC SENTENCE (STATIC)
+ of teens or adults ##OTHER
+ fatally overdosing ##BOUNDED EVENT (GENERIC)
+ ( dying ) on marijuana alone . ##BOUNDED EVENT (GENERIC)
+Related : ##OTHER
+[ Pot is increasingly legal . ##BASIC STATE
+Employers need to stop screening for it . ] ##GENERIC SENTENCE (STATIC)
+Further , ##OTHER
+medical cannabis may also save lives in unexpected ways . ##COERCED STATE (GENERIC)
+Data ##OTHER
+ published in the American Journal of Public Health in February suggests ##BASIC STATE
+ that laws ##OTHER
+ allowing it ##GENERIC SENTENCE (HABITUAL)
+ were associated with fewer traffic fatalities . ##GENERIC SENTENCE (STATIC)
+While we always have to be careful about making claims ##GENERIC SENTENCE (HABITUAL)
+ that a policy caused an outcome , ##UNBOUNDED EVENT (GENERIC)
+ evidence from multiple studies , ##OTHER
+ with careful statistical analyses , ##OTHER
+ is building ##UNBOUNDED EVENT (GENERIC)
+ a case that medical cannabis has real , beneficial , spillover effects . ##GENERIC SENTENCE (STATIC)
+State governments are a second major hurdle for Sessions . ##GENERIC SENTENCE (STATIC)
+States are sharply opposed to his moves to crack down on their cannabis policies .  ##GENERIC SENTENCE (STATIC)
+Eight states ##OTHER
+ ( with nearly one-fifth of the U.S. population ) ##OTHER
+ have legalized recreational cannabis use by adults . ##PERFECT COERCED STATE (SPECIFIC)
+Even more striking , ##OTHER
+29 states and the District of Columbia have approved the medical use of botanical cannabis , ##PERFECT COERCED STATE (SPECIFIC)
+ with 17 more having cannabis extract laws in place . ##BASIC STATE
+This doesnt just save lives ; ##GENERIC SENTENCE (STATIC)
+ it also saves money . ##GENERIC SENTENCE (STATIC)
+In two studies , ##OTHER
+ we find substantial reductions in a broad array of prescription spending for both Medicare and Medicaid in states ##GENERIC SENTENCE (STATIC)
+ that have medical cannabis laws in effect . ##GENERIC SENTENCE (STATIC)
+Medicare and Medicaid dont cover cannabis , ##BASIC STATE
+ but it nevertheless appears to substitute for many prescription drugs ##GENERIC SENTENCE (HABITUAL)
+ that the programs do cover . ##GENERIC SENTENCE (STATIC)
+Nationally , ##OTHER
+the savings could be in the billions of dollars across the two programs ##COERCED STATE (GENERIC)
+ if all states would adopt medical cannabis laws . ##COERCED STATE (SPECIFIC)
+States benefit directly . ##GENERIC SENTENCE (HABITUAL)
+Our work on Medicaid spending ##OTHER
+ shows ##BASIC STATE
+ that they saved money as much as $98 million in the case of California in 2014 ##BOUNDED EVENT (SPECIFIC)
+ when they implemented medical cannabis laws in an environment ##BOUNDED EVENT (GENERIC)
+ in which the federal government took a hands-off attitude . ##UNBOUNDED EVENT (SPECIFIC)
+Related : ##OTHER
+ [ Yes , pot should be legal . ##GENERIC SENTENCE (STATIC)
+But it shouldnt be sold for a profit . ] ##COERCED STATE (GENERIC)
+And its not just about savings : ##GENERIC SENTENCE (STATIC)
+ Cannabis generates substantial economic benefits as well . ##GENERIC SENTENCE (DYNAMIC)
+In 2016 , ##OTHER
+Colorado saw the cannabis industry grow to about $1.3 billion in sales . ##BOUNDED EVENT (SPECIFIC)
+Colorado levies substantial taxes on cannabis ; ##GENERALIZING SENTENCE (DYNAMIC)
+ as a consequence , ##OTHER
+ it generated almost $200 million in tax revenue . ##BOUNDED EVENT (SPECIFIC)
+Recent estimates suggest ##GENERIC SENTENCE (STATIC)
+ that states will collect nearly $655 million in tax revenue from cannabis sales nationwide . ##COERCED STATE (GENERIC)
+Not only are those direct contributions to stressed state budgets , ##GENERIC SENTENCE (STATIC)
+ but those taxes represent tens of thousands of jobs and the associated economic activity . ##GENERIC SENTENCE (STATIC)
+At least four state governors recently wrote Sessions ##BOUNDED EVENT (SPECIFIC)
+ to ask him ##BOUNDED EVENT (SPECIFIC)
+ to let states pursue their own policies without federal interference . ##COERCED STATE (GENERIC)
+Because state budgets would suffer ##GENERIC SENTENCE (STATIC)
+ if Sessions reversed the current federal position , ##COERCED STATE (SPECIFIC)
+ state attorneys general would have standing to sue the Justice Department to force Sessions to actually implement the 1970 Controlled Substances Act , ##COERCED STATE (GENERIC)
+ which insists ##BASIC STATE
+ that a drug can be listed as Schedule I ##COERCED STATE (GENERIC)
+ only if there is no currently accepted medical use . ##COERCED STATE (GENERIC)
+The January NAS report , recent revisions to the NIDA position , and literally hundreds of peer-reviewed clinical research articles make clear ##BASIC STATE
+ that cannabis has many medical uses . ##BASIC STATE
+This , ##OTHER
+finally , ##OTHER
+ could end conflicts between state medical cannabis laws and federal law : ##COERCED STATE (SPECIFIC)
+ Physicians could legally prescribe cannabis ##COERCED STATE (GENERIC)
+ and patients could get medical supervision for their care . ##COERCED STATE (GENERIC)
+( Of course , ##OTHER
+states would still be free to restrict access to medical cannabis ##COERCED STATE (GENERIC)
+ if they chose to do so . ) ##COERCED STATE (GENERIC)
+If Sessions does target cannabis as part of his new war on drugs , ##COERCED STATE (SPECIFIC)
+ there is one final reason to believe ##BASIC STATE
+ the states would win ##COERCED STATE (GENERIC)
+ and he would lose . ##COERCED STATE (SPECIFIC)
+The American people want access to medical cannabis . ##GENERIC SENTENCE (STATIC)
+The most recent Quinnipiac Poll found ##BOUNDED EVENT (SPECIFIC)
+ that 94 percent of Americans support medical access ##BASIC STATE
+ when directed by a physician ##COERCED STATE (GENERIC)
+ ( including 96 percent of Democrats and 90 percent of Republicans ) . ##OTHER
+That poll found 73percent of respondents oppose enforcing federal cannabis laws against state laws . ##BASIC STATE
+Nearly three-quarters of the U.S. population lives in states ##BASIC STATE
+ that have legalized medical cannabis , ##PERFECT COERCED STATE (GENERIC)
+ and states have powerful incentives to preserve their laws . ##GENERIC SENTENCE (STATIC)
+There is almost universal popular opinion in favor of the availability of medical cannabis . ##BASIC STATE
+The tide has already turned . ##PERFECT COERCED STATE (SPECIFIC)
+
+***0 5 5 3 5 5 5 1 YES ML YES 5 2 5 5 HUMAN

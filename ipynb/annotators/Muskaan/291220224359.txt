@@ -1,0 +1,38 @@
+As dutch guy ##OTHER
+ living in one of the mentioned cities ##BASIC STATE
+ allow me to shed some light on this . ##IMPERATIVE
+Yesterday it was made public ##BOUNDED EVENT (SPECIFIC)
+ that the EU high court ruled ##BOUNDED EVENT (SPECIFIC)
+ that a " Wiet pas " was allowed according to EU 'law' . ##GENERIC SENTENCE (STATIC)
+ At the same day ##OTHER
+ the city council of Maastricht made public ##BOUNDED EVENT (SPECIFIC)
+ that they were not in favor of the Wiet pas . ##BASIC STATE
+Arguments where that criminal weed trade would appear in other area 's in the outskirts ##GENERIC SENTENCE (STATIC)
+ and that the dealers could provide both hard and soft drugs ##COERCED STATE (GENERIC)
+ ( as stated in the article ) . ##OTHER
+The Wiet pas concerns mainly towns in the Netherlands ##BASIC STATE
+ that are close to a border . ##GENERIC SENTENCE (STATIC)
+The mayors of these towns have the last say in this . ##GENERIC SENTENCE (STATIC)
+The mayor of Eindhoven ##OTHER
+ ( my hometown ) ##OTHER
+ is in favor of the wiet pas in Eindhoven but with one strict condition ; ##BASIC STATE
+ legalize the production of weed , ##IMPERATIVE
+ also known as the illegal " back door " of a coffee shop . ##GENERIC SENTENCE (STATIC)
+Make ##IMPERATIVE
+ it controlled , ##OTHER
+a licensed activity , ##OTHER
+also eliminating the criminal activities . ##UNBOUNDED EVENT (GENERIC)
+The mayor of Eindhoven wants to do this for Eindhoven , ##BASIC STATE
+ but until now this has n't happened ##PERFECT COERCED STATE (SPECIFIC)
+ because it has national political consequences . ##GENERIC SENTENCE (STATIC)
+The coalition of 3 parties ##OTHER
+ that run the government ##GENERALIZING SENTENCE (DYNAMIC)
+ are not all in favor of legalization of the back-door supply . ##GENERIC SENTENCE (STATIC)
+However it has been noted ##PERFECT COERCED STATE (SPECIFIC)
+ that when the wiet pas is introduced , ##GENERIC SENTENCE (STATIC)
+ it will be a government sanctioned 'legal' document , ##COERCED STATE (GENERIC)
+ so does that make wiet also a government sanctioned 'legal' drugs ? ##QUESTION
+2cts
+
+
+***0 5 0 2 5 5 5 1 YES ML YES 4 0 0 0 HUMAN

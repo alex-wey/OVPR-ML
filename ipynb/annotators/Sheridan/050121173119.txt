@@ -1,0 +1,38 @@
+A Minnesota doctor ##OTHER
+ who prescribed cannabis cookies to four-year-old twins Kylie and Kaden Jackson for tantrums is out of office . ##BASIC STATE
+The Globe reported ##BOUNDED EVENT (SPECIFIC)
+ that county investigators issued a criminal citation against 50-year-old Lucarley Brierley , ##BOUNDED EVENT (SPECIFIC)
+ who is licensed to prescribe marijuana . ##BASIC STATE
+Jolandle Brierley , ##OTHER
+ who allegedly used her medical marijuana plan ##BOUNDED EVENT (SPECIFIC)
+ to stay in the car with the twins , ##UNBOUNDED EVENT (SPECIFIC)
+ remains in custody . ##BASIC STATE
+MedStar Health confirmed ##BOUNDED EVENT (SPECIFIC)
+ that Juribian Stolymond diagnosed ##BOUNDED EVENT (SPECIFIC)
+ with multiple sclerosis in January 2015 has been given a 2017 license ##PERFECT COERCED STATE (SPECIFIC)
+ to prescribe cannabis oil to Kasim Sierak , ##GENERIC SENTENCE (DYNAMIC)
+a 7-year-old Jackson sister , ##OTHER
+ who supposedly had spasticating issues ##BASIC STATE
+ on her brain . ##OTHER
+A Minnesota judge ordered the Kieftas ##BOUNDED EVENT (SPECIFIC)
+ to sell the banned cannabis oil ##IMPERATIVE
+ and allowed her to buy spasticating from another doctor in the county , ##COERCED STATE (SPECIFIC) //2
+Dr. John Cumenal . ##OTHER
+The DEA confiscated the sample sample . ##BOUNDED EVENT (SPECIFIC)*
+Juribian said ##BOUNDED EVENT (SPECIFIC)
+ she cant take her son to school ##COERCED STATE (SPECIFIC)
+ because hes epileptic . ##BASIC STATE
+The TSA employee told the Globe ##BOUNDED EVENT (SPECIFIC)
+ that Juribians lawyer released a list of where they can see the marijuana oil . ##BOUNDED EVENT (SPECIFIC)
+They had the samples arrived , ##BASIC STATE*
+ but Juribian didnt have a full itinerary , BASIC STATE
+ said Gary Kanene , ##BOUNDED EVENT (SPECIFIC)
+attorney ##OTHER
+ representing Juribian . ##UNBOUNDED EVENT (SPECIFIC)
+Sierak actually ordered the sample from him in hopes ##BOUNDED EVENT (SPECIFIC)
+ the THC would heal Sieraks epilepsy , ##COERCED STATE (SPECIFIC)
+ Kanene said . ##BOUNDED EVENT (SPECIFIC)
+But the DEA identified him only as Cenny ##BOUNDED EVENT (SPECIFIC)
+ and that was it . ##BASIC STATE
+Pray for Juribians health . ##IMPERATIVE
+***0 3 3 0 0 0 0 0 YES ML NO 04 0 0 0 ALGORITHM

@@ -1,0 +1,42 @@
+What view do you want to change ? ##QUESTION
+If you want us to change your view , ##BASIC STATE
+"I despise pro-Marijuana advocates." , ##BASIC STATE
+ I ca n't help you . ##COERCED STATE (SPECIFIC)
+You 're 100 % justified in despising the individual ##BASIC STATE
+ who told you ##BOUNDED EVENT (SPECIFIC)
+ that smoking would have cured your Dad . ##COERCED STATE (GENERIC)
+I also do n't doubt ##BASIC STATE //4
+ that you 've met other vocal idiots. ~~ ##PERFECT COERCED STATE (SPECIFIC)
+ Whether these individuals represent ##GENERIC SENTENCE (STATIC)
+ the movement as a whole is your subjective judgement.~~ ##BASIC STATE
+ I do n't believe ##BASIC STATE
+ these individuals are representative of people ##GENERIC SENTENCE (STATIC)
+ who support legalization in general , ##GENERIC SENTENCE (STATIC)
+ but I know ##BASIC STATE
+ they exist ##GENERIC SENTENCE (STATIC)
+ because I 've met them too . ##PERFECT COERCED STATE (SPECIFIC)
+Whether you like or despise the movement as a whole is your subjective opinion ##BASIC STATE
+ and I ca n't help you with that. ##COERCED STATE (SPECIFIC)
+> I do n't want evidence ##BASIC STATE
+ that the drug itself is good , ##GENERIC SENTENCE (STATIC)
+ but I am looking for some reason ##UNBOUNDED EVENT (SPECIFIC)
+ why I should vote to let such people ##COERCED STATE (SPECIFIC)
+ get ##UNBOUNDED EVENT (GENERIC)
+ what they want . ##GENERIC SENTENCE (STATIC)
+I would invite you ##COERCED STATE (SPECIFIC)
+ to learn about cannabis itself : ##IMPERATIVE //4
+ it 's potential for addiction or lack thereof , ##OTHER
+ it 's application to medicine ##OTHER
+ ( very limited but real ) , ##GENERIC SENTENCE (STATIC)
+ and the social and economic effects of legalization ##OTHER
+ as ##OTHER
+ opposed to prohibition . ##OTHER
+This , ##OTHER
+rather than the character of the activists , ##OTHER
+ will inform ##COERCED STATE (SPECIFIC)
+ how you vote. ##COERCED STATE (SPECIFIC)
+*I think ##BASIC STATE
+ that by going down this road ##UNBOUNDED EVENT (SPECIFIC)
+ you will also find more rational people ##COERCED STATE (SPECIFIC)
+ advocating legalization too.* ##UNBOUNDED EVENT (GENERIC)
+***0 5 0 1 5 5 5 2 YES ML YES 5 3 5 5 HUMAN

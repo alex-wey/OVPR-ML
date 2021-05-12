@@ -1,0 +1,180 @@
+Maryland Gov. Robert L. Ehrlich Jr. yesterday became the nation 's first Republican governor to sign into law a measure ##BOUNDED EVENT (SPECIFIC)
+ that relaxes criminal punishment for seriously ill people ##GENERIC SENTENCE (STATIC)
+ who use marijuana ##GENERIC SENTENCE (DYNAMIC)
+ to relieve pain and other symptoms . ##GENERIC SENTENCE (DYNAMIC)
+Ehrlich also approved a bill to reorganize the state 's largest health insurer , ##BOUNDED EVENT (SPECIFIC)
+ partly in response to a failed effort by the company ##BOUNDED EVENT (SPECIFIC)
+ to convert into a for-profit firm ##UNBOUNDED EVENT (SPECIFIC)
+ and enrich its executives . ##COERCED STATE (SPECIFIC)
+In signing those two bills , ##BOUNDED EVENT (SPECIFIC)
+ along with a measure ##OTHER
+ that moves Maryland closer to giving illegal immigrants the right to obtain driver 's licenses , ##BASIC STATE
+ Ehrlich showed an independence ##BOUNDED EVENT (SPECIFIC)
+ that reflected his campaign to portray himself as a moderate Republican bent on reforming state government . ##BASIC STATE
+A day earlier , ##OTHER
+ by contrast , ##OTHER
+ he displayed a conservative , pro-business face ##UNBOUNDED EVENT (SPECIFIC)
+ by vetoing a $135 million package of corporate tax increases as well as bills ##BOUNDED EVENT (SPECIFIC)
+ that would have lowered college tuition for illegal immigrants ##COERCED STATE (GENERIC)
+ and required ##BASIC STATE
+ Home Depot and other retailers to sell more energy-efficient appliances . ##COERCED STATE (GENERIC)
+As he made some of the biggest policy decisions of his first year in office , ##BOUNDED EVENT (SPECIFIC)
+ Ehrlich crossed swords with politicians from liberals to Bush administration officials . ##BOUNDED EVENT (SPECIFIC)
+On other issues , ##OTHER
+ he won praise from the same groups , ##UNBOUNDED EVENT (GENERIC)
+ reinforcing his record as a lawmaker ##UNBOUNDED EVENT (SPECIFIC)
+ who is careful not to stray too far from the center . ##GENERALIZING SENTENCE (STATIVE)
+" These are not easy issues , ##GENERIC SENTENCE (STATIC)
+not easy bills , " ##BASIC STATE
+Ehrlich said of the measures ##BOUNDED EVENT (SPECIFIC)
+ he has signed ##PERFECT COERCED STATE (SPECIFIC)
+ and vetoed over the past two days . ##PERFECT COERCED STATE (SPECIFIC)
+Taken together , ##GENERIC SENTENCE (STATIC)
+ he said , ##BOUNDED EVENT (SPECIFIC)
+ his decisions reflect an administration committed to bipartisan governance ##BASIC STATE
+ and " balanced with a unique dash of independence . " ##BASIC STATE
+He was particularly firm in his support for the marijuana measure . ##BASIC STATE
+It does not legalize the drug ##BASIC STATE
+ but provides ##BASIC STATE
+ that seriously ill people ##OTHER
+ caught using marijuana for medical purposes cannot ##GENERIC SENTENCE (DYNAMIC)
+ be jailed ##GENERIC SENTENCE (STATIC)
+ or be fined more than $100 . ##GENERIC SENTENCE (DYNAMIC)
+The White House and some conservative supporters urged the governor ##UNBOUNDED EVENT (SPECIFIC)
+ to reject the bill , ##BOUNDED EVENT (SPECIFIC)
+ but Ehrlich cited his longtime support for the measure . ##BOUNDED EVENT (SPECIFIC)
+" If you look at my views over the years , ##COERCED STATE (GENERIC)
+ there are clearly two wings of the party on social issues , " ##BASIC STATE
+he said . ##BOUNDED EVENT (SPECIFIC)
+" One is more conservative , ##BASIC STATE
+ and one is more libertarian . ##BASIC STATE
+I belong to the latter , ##BASIC STATE
+ and I always have . " ##BASIC STATE
+The bill ##OTHER
+ reorganizing CareFirst BlueCross BlueShield also sparked a heated debate . ##BOUNDED EVENT (SPECIFIC)
+Company executives and health care lobbyists had prodded Ehrlich to reject the measure , ##PERFECT COERCED STATE (GENERIC)
+ but analysts said ##BOUNDED EVENT (GENERIC)
+ that would have hurt the governor politically . ##COERCED STATE (SPECIFIC)
+" He really did n't have any choice , " ##BASIC STATE
+said Matthew Crenson , ##BOUNDED EVENT (SPECIFIC)
+a political science professor at Johns Hopkins University . ##OTHER
+" If he had vetoed that , ##COERCED STATE (SPECIFIC)
+ it would have given the Democrats a club to beat him over the head with . " ##COERCED STATE (GENERIC)
+The bill , ##OTHER
+ which gives the state more control over the insurance company ##BASIC STATE
+ by replacing almost half the board of directors ##BASIC STATE
+ and requiring ##BASIC STATE
+ that it remain a nonprofit for at least five years , ##COERCED STATE (SPECIFIC)
+ prompted an immediate lawsuit from the Blue Cross and Blue Shield Association ##BOUNDED EVENT (SPECIFIC)
+ seeking to sever its affiliation with the company . ##BASIC STATE
+The Maryland attorney general also filed suit ##BOUNDED EVENT (SPECIFIC)
+ to block such a move . ##COERCED STATE (SPECIFIC)
+Some Democrats were quick to seize on several of Ehrlich 's vetoes as political ammunition , ##BOUNDED EVENT (SPECIFIC)
+ calling him a " hard-right " Republican . ##BOUNDED EVENT (SPECIFIC)
+But others said ##BOUNDED EVENT (GENERIC)
+ it was n't so easy to pin a political label on the governor . ##BASIC STATE
+" On policy , ##OTHER
+ Governor Ehrlich has been pretty progressive ," ##PERFECT COERCED STATE (SPECIFIC)
+said House Speaker Michael E. Busch ##BOUNDED EVENT (SPECIFIC)
+ ( D-Anne Arundel ) . ##OTHER
+" He 's pro-choice . ##BASIC STATE
+He 's open on a lot of issues . ##BASIC STATE
+On fiscal issues , ##OTHER
+ he 's pretty moderate . " ##BASIC STATE
+But Busch said ##BOUNDED EVENT (SPECIFIC)
+ Ehrlich caved in to pressure from his conservative base ##BOUNDED EVENT (SPECIFIC)
+ by vetoing the tax bill , ##BOUNDED EVENT (SPECIFIC)
+a plan ##OTHER
+ he had negotiated with legislative leaders , ##PERFECT COERCED STATE (SPECIFIC)
+ after 42 of 43 House Republicans voted against the package . ##BOUNDED EVENT (SPECIFIC)
+" It was the first indication ##BASIC STATE
+ that the party was going to drive him to the right ," ##COERCED STATE (SPECIFIC)
+Busch said . ##BOUNDED EVENT (SPECIFIC)
+For the most part , ##OTHER
+Ehrlich 's decisions this week were consistent with promises 
+ he made on the campaign trail last year , his voting record as a legislator and his public statements ##GENERIC SENTENCE (STATIC)
+ since ##OTHER
+ he was sworn in four months ago . ##BOUNDED EVENT (SPECIFIC)
+After lawmakers killed his proposal to legalize slot machine gambling in March , ##BOUNDED EVENT (SPECIFIC)
+ Ehrlich vowed to retaliate by rejecting higher taxes on corporations and other fees . ##BOUNDED EVENT (SPECIFIC)
+Democrats passed a tax bill anyway , ##BOUNDED EVENT (GENERIC)
+ prompting his veto . ##BOUNDED EVENT (SPECIFIC)
+" A lot of this is pure politics , ##GENERIC SENTENCE (STATIC)
+political drama at the highest levels , " ##GENERIC SENTENCE (STATIC)
+said Donald F. Norris , ##BOUNDED EVENT (SPECIFIC)
+a professor of policy sciences at the University of Maryland Baltimore County . ##OTHER
+" It seems to me ##BASIC STATE
+ that he 's drawing a line in the sand , ##UNBOUNDED EVENT (SPECIFIC)
+ that he 's telling legislators , ##UNBOUNDED EVENT (SPECIFIC)
+ 'I told you ##BOUNDED EVENT (SPECIFIC)
+ what I was going to do , ##COERCED STATE (SPECIFIC)
+ you did n't believe me , ##BOUNDED EVENT (SPECIFIC)
+ and I went ahead ##BOUNDED EVENT (SPECIFIC)
+ and did it .'" ##BOUNDED EVENT (SPECIFIC)
+ Although he had declined for weeks to say ##PERFECT COERCED STATE (SPECIFIC)
+ whether he would sign the medical marijuana bill , ##COERCED STATE (SPECIFIC)
+ Ehrlich had supported such measures in principle ##PERFECT COERCED STATE (SPECIFIC) 
+ during his eight years in Congress and during last year 's gubernatorial race . ##OTHER
+" I do n't agree with him on that philosophy , ##BASIC STATE
+ but I was n't surprised , " ##BASIC STATE
+said Senate Minority Leader J. Lowell Stolzfus 
+ ( R-Somerset ) , ##BOUNDED EVENT (SPECIFIC)
+ who argued vehemently against the bill . ##BOUNDED EVENT (SPECIFIC)
+" The Republican Party is maturing . ##UNBOUNDED EVENT (SPECIFIC)
+Most people on the conservative side realize ##BASIC STATE
+ we 're not getting everything ##GENERIC SENTENCE (STATIC)
+ we want , ##BASIC STATE
+ but we 're satisfied . " ##GENERIC SENTENCE (STATIC)
+Critics did point out some inconsistencies in Ehrlich 's decisions . ##UNBOUNDED EVENT (GENERIC)
+Although Ehrlich in recent weeks has vowed to cut $1 billion in spending next year ##PERFECT COERCED STATE (SPECIFIC)
+ to avoid tax increases , ##COERCED STATE (SPECIFIC)
+ he allowed a 5-cent increase in the state property tax rate . ##BOUNDED EVENT (SPECIFIC)
+And ##OTHER
+ while Ehrlich has argued ##PERFECT COERCED STATE (SPECIFIC)
+ that Maryland has spent beyond its means in recent years , ##PERFECT COERCED STATE (SPECIFIC)
+ the governor picked up the budget ax ##UNBOUNDED EVENT (SPECIFIC)
+ only after lawmakers rejected his proposal to legalize slot machines , ##BOUNDED EVENT (SPECIFIC)
+ which would have generated $800 million a year in new funds for the state treasury . ##COERCED STATE (SPECIFIC)
+"We can do better . ##BASIC STATE
+The governor can do better , " ##BASIC STATE
+said Senate President Thomas V. Mike Miller Jr . ##BOUNDED EVENT (SPECIFIC)
+( D-Prince George 's ) . ##OTHER
+" Thus far , ##OTHER
+his actions are wrong and off base . " ##BASIC STATE
+Some Democrats were already preparing a campaign to reverse some of Ehrlich 's vetoes . ##BASIC STATE
+Montgomery County Executive Douglas M. Duncan 
+ ( D ) wrote letters to Miller and Busch yesterday , ##BOUNDED EVENT (SPECIFIC)
+ asking them ##BASIC STATE
+ to override the governor 's rejection of a bill ##COERCED STATE (SPECIFIC)
+ that would have allowed county leaders to raise vehicle registration fees ##COERCED STATE (GENERIC)
+ to generate money for transportation projects . ##COERCED STATE (GENERIC)
+Republicans , ##OTHER
+too , ##OTHER
+were not pleased with all of the governor 's decisions . ##GENERIC SENTENCE (STATIC)
+Baltimore County GOP Chairman Donald Murphy said 
+ party activists in Ehrlich 's home county are " very much opposed " to proposals to assist illegal immigrants , ##GENERIC SENTENCE (STATIC)
+ including a bill ##BASIC STATE
+ the governor signed ##BOUNDED EVENT (SPECIFIC)
+ that creates a commission ##BASIC STATE
+ to explore ##UNBOUNDED EVENT (SPECIFIC)
+ whether the state should allow illegal immigrants to obtain driver 's licenses . ##COERCED STATE (SPECIFIC)
+" We 're not even two years from 9/11 , " ##GENERIC SENTENCE (STATIC)
+Murphy said , ##BOUNDED EVENT (SPECIFIC)
+ " and this bill would make it easier ##COERCED STATE (SPECIFIC)
+ for illegal immigrants to get valid identification . " ##GENERIC SENTENCE (HABITUAL)
+But other GOP leaders said ##UNBOUNDED EVENT (GENERIC)
+ few in the party had soured on the party 's first governor in Maryland ##PERFECT COERCED STATE (GENERIC)
+ since Spiro T. Agnew resigned 34 years ago . ##BOUNDED EVENT (SPECIFIC)
+John Kane , ##OTHER
+chairman of the Maryland Republican Party , ##OTHER
+said ##BOUNDED EVENT (SPECIFIC)
+ Ehrlich 's actions underscored his appeal to Democrats and Republicans alike . ##BASIC STATE
+" You have to govern from the center ##GENERIC SENTENCE (STATIC)
+ and govern for all Marylanders , " ##IMPERATIVE
+Kane said , ##BOUNDED EVENT (SPECIFIC)
+ "and I think ##BASIC STATE
+ this governor knows that . " ##BASIC STATE
+Gov. Robert L. Ehrlich Jr. prepares to sign into law bills on medical use of marijuana , CareFirst and the Maryland pension board . ##BASIC STATE
+
+
+***0 5 5 3 5 5 5 1 YES ML NO 0 0 0 0 HUMAN

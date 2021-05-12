@@ -1,0 +1,51 @@
+A common link between chili peppers and marijuana could have implications for how we treat diabetes and colitis , ##BASIC STATE
+as well as other conditions in the digestive tract , ##OTHER
+ according to a new study from the University of Connecticut . ##BASIC STATE
+The study was published in the April 24 issue of the journal Proceedings of the National Academy of Sciences . ##BOUNDED EVENT (SPECIFIC)
+Researchers say ##UNBOUNDED EVENT (GENERIC)
+ chemicals ##OTHER
+ found in the peppers and marijuana interact with the same receptor in our stomachs . ##GENERIC SENTENCE (DYNAMIC)
+Scientists first focused on the chemical capsaicin , ##BOUNDED EVENT (GENERIC) //4
+ which is responsible for the hot sensation of eating a chili pepper . ##GENERIC SENTENCE (STATIC)
+They fed capsaicin to mice , ##BOUNDED EVENT (SPECIFIC)
+ and found ##BOUNDED EVENT (SPECIFIC)
+ the mice ##OTHER
+ fed with the spice had less inflammation in their guts . ##GENERIC SENTENCE (STATIC)
+Heres a rundown of what happened next : ##BASIC STATE
+ When they looked carefully at what was happening at a molecular level , ##BOUNDED EVENT (SPECIFIC)
+ the researchers saw ##UNBOUNDED EVENT (SPECIFIC)
+ that the capsaicin was binding to a receptor ##GENERIC SENTENCE (DYNAMIC)
+ called TRPV1 , ##GENERIC SENTENCE (STATIC) //3
+ which is found on specialized cells throughout the gastrointestinal tract . ##GENERIC SENTENCE (HABITUAL)
+When capsaicin binds to it , ##GENERIC SENTENCE (DYNAMIC)
+ TRPV1 causes cells to make anandamide . ##GENERIC SENTENCE (DYNAMIC)
+Anandamide is a compound chemically akin to the cannabinoids in marijuana . ##GENERIC SENTENCE (STATIC)
+It was the anandamide ##BASIC STATE //4
+ that caused the immune system to calm down . ##BOUNDED EVENT (SPECIFIC) //4
+Knowing ##BASIC STATE
+ that the brain ##OTHER
+ also has anandamide receptors , ##GENERIC SENTENCE (STATIC)
+ researchers began to imagine ways ##BOUNDED EVENT (GENERIC)
+ the immune system and the brain ##OTHER
+ might talk to each other through the common language of the anandamide , ##COERCED STATE (GENERIC)
+ explained Pramod Srivastava , ##BOUNDED EVENT (SPECIFIC)
+professor of immunology and medicine ##OTHER
+ at UConn School of Medicine . ##OTHER
+Researchers found ##BOUNDED EVENT (GENERIC) //4
+ that a greater presence of anandamide led to a greater presence of macrophages , ##GENERIC SENTENCE (DYNAMIC)
+immune cells ##OTHER
+ that curb inflammation . ##GENERIC SENTENCE (DYNAMIC)
+The researchers actually managed to cure mice with Type 1 diabetes ##BOUNDED EVENT (SPECIFIC)
+ by feeding them chili peppers . ##UNBOUNDED EVENT (SPECIFIC)
+When they skipped to feeding the mice anandamide directly , ##BOUNDED EVENT (SPECIFIC)
+ they observed a similar gut-calming result . ##BOUNDED EVENT (SPECIFIC)
+Researchers want to head to Colorado , ##BASIC STATE
+ where pot is legal , ##GENERIC SENTENCE (STATIC)
+ so they can further study the effects of ingesting marijuana on anandamide in the body . ##COERCED STATE (SPECIFIC)
+Im hoping to work with the public health authority in Colorado ##BASIC STATE
+ to see ##UNBOUNDED EVENT (SPECIFIC)
+ if there has been an effect on the severity of colitis among regular users of edible weed , ##GENERIC SENTENCE (STATIC)
+ Srivastava said in a press release . ##BOUNDED EVENT (SPECIFIC)
+The findings could have implications for various conditions ##BASIC STATE
+ found in the stomach , pancreas , intestines and colon . ##GENERIC SENTENCE (STATIC)
+***0 5 5 2 4 5 4 2 YES ML YES 4 2 5 4 HUMAN

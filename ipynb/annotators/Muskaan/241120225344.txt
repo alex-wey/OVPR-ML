@@ -1,0 +1,34 @@
+Somehow Bret Michaels is having something of a family thing lately . ##BASIC STATE
+While touring in Denver a couple of months ago , ##UNBOUNDED EVENT (SPECIFIC)
+ the former Poison singer was busted for possessing five pounds of marijuana in a van , a motel room , and a health club . ##BOUNDED EVENT (SPECIFIC)
+After police arrested him , ##OTHER
+ both Michaels and his former manager were released on $2,500 bail , ##BOUNDED EVENT (SPECIFIC)
+ while Michaels was reported not guilty by reason of insanity . ##BOUNDED EVENT (SPECIFIC)
+This past week , ##OTHER
+Michaels took to his Facebook page ##BOUNDED EVENT (SPECIFIC)
+ to share a rather unexpected admission . ##BOUNDED EVENT (SPECIFIC)
+According to New York Magazine , ##BASIC STATE
+Michaels just pulled his name in after arriving at the World Symphony of Music in August of 2009 . ##BOUNDED EVENT (SPECIFIC)
+" I 'm still not sure ##BASIC STATE
+ what to do about it , ##QUESTION
+ but I have been robbed ##PERFECT COERCED STATE (SPECIFIC)
+ because I 'm an old ass douche ##BASIC STATE
+ and it would be a smashing hit ##COERCED STATE (SPECIFIC)
+ if I had a release schedule , " ##BASIC STATE
+Michaels posted . ##BOUNDED EVENT (SPECIFIC)
+However , ##OTHER
+there is more . ##GENERIC SENTENCE (STATIC)
+As soon ##OTHER
+ as police raided his hotel room , ##BOUNDED EVENT (SPECIFIC)
+ he was at the wheel of a very unsafe and dangerous scooter . ##BASIC STATE
+" Over the holidays and on my way to work I forgot to change the bedrest . ##UNBOUNDED EVENT (SPECIFIC)
+I slept in it two days in the morning . " ##BOUNDED EVENT (SPECIFIC)
+The wheels were burning ##UNBOUNDED EVENT (SPECIFIC)
+ and finally broke in the nearly mile long scooter ##BOUNDED EVENT (SPECIFIC)
+ and busted for the purpose . ##BOUNDED EVENT (SPECIFIC)
+Along with taking to the blog ##BOUNDED EVENT (SPECIFIC)
+ ( but no radio ) , ##OTHER
+ Michaels had this ##BASIC STATE
+ to say about their night in the limousine : ##BOUNDED EVENT (SPECIFIC)
+
+***0 5 3 5 4 3 2 1 YES ML NO 0 0 0 0 ALGORITHM

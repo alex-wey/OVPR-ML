@@ -1,0 +1,28 @@
+If it was not for William Randolf Hurst and DuPont pumping millions of their dollars , ##COERCED STATE (SPECIFIC)
+ to save their own outdated investments , ##UNBOUNDED EVENT (SPECIFIC)
+ into criminalization of a plant ##OTHER
+ which would have revolutionized ##COERCED STATE (GENERIC)
+ how goods were made . ##GENERIC SENTENCE (DYNAMIC)
+Marijuana and hemp would have never been criminalized ##COERCED STATE (GENERIC)
+ and we would n't have half the problems ##GENERIC SENTENCE (STATIC)
+ we have today . ##GENERIC SENTENCE (STATIC)
+Some of those problems include deforestation , the death of American farms , the pollution of our rivers and lands with the chemicals 
+ necessary ##OTHER
+ to break down the fiber in wood into pulp , the high costs ( environmental , military and economic ) ##GENERIC SENTENCE (DYNAMIC)
+ of oil based goods such as plastic and nylon thread clothing , the high cost of the production of soy bean-based ethanol and the costs ##OTHER
+ associated with housing an inmate population of non violent offenders . ##GENERIC SENTENCE (STATIC)
+The same tactics of fear , hate and racism the Bush administration and so far the current administration have used ##PERFECT COERCED STATE (SPECIFIC)
+ to strip the average citizen of most every right ##UNBOUNDED EVENT (GENERIC)
+ we ##OTHER
+ once possessed ##GENERIC SENTENCE (STATIC)
+ were used ##BOUNDED EVENT (GENERIC)
+ to strip us of our right to a better alternative source of medicine , relaxation , bio-fuel , paper , plastic and numerous other products ##UNBOUNDED EVENT (GENERIC)
+ that 's invention may never occur ##COERCED STATE (GENERIC)
+ or has been delayed . ##PERFECT COERCED STATE (GENERIC)
+Not due to any real threat from Marijuana ##OTHER
+ concerning the public health . ##UNBOUNDED EVENT (GENERIC)*
+But , ##OTHER
+due to one of the most egregious violations of the public trust ##OTHER
+ ever committed by the federal government and the real people in power here in America , ##BOUNDED EVENT (GENERIC)
+The wealthiest of the wealthy business owners . ##OTHER
+***0 5 0 0 0 0 0 0 YES ML YES 5 3 2 1 HUMAN

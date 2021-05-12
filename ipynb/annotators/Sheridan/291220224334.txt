@@ -1,0 +1,114 @@
+We work hard each day ##GENERALIZING SENTENCE (DYNAMIC) //3
+ to expose fraud and abuse ##GENERALIZING SENTENCE (DYNAMIC) //3
+ that threatens to unleash a wave of disorder , crime and disease ##GENERIC SENTENCE (STATIC)
+Im 52 ##BASIC STATE
+ and I read about poverty , crime and drug abuse here and at one time there . ##BOUNDED EVENT (SPECIFIC)
+And then I was hooked on marijuana . ##BASIC STATE
+Now Im 53 Im wondering ##BASIC STATE
+ why I didnt just drink that morning and then mix it ##COERCED STATE (SPECIFIC)
+ and smoke it . ##COERCED STATE (SPECIFIC)
+I didnt tell anyone ##COERCED STATE (SPECIFIC)
+ I smoked pot ##GENERALIZING SENTENCE (DYNAMIC)
+ and also I didnt tell anyone ##COERCED STATE (SPECIFIC)
+ I smoked green tea because its highly toxic ##GENERALIZING SENTENCE (DYNAMIC)
+ and my husband says ##BASIC STATE
+ I must have misunderstood . ##BOUNDED EVENT (SPECIFIC)
+When I lived in Alaska ##BOUNDED EVENT (SPECIFIC)
+ the lifestyle change was like going from a different era to a new one . ##BASIC STATE //4
+The prison bus ##OTHER
+ I used to walk through was full of men ##GENERALIZING SENTENCE (DYNAMIC)
+ who drank alcohol and smoked pot . ##GENERIC SENTENCE (DYNAMIC)
+I was fed up . ##BASIC STATE
+I was having trouble sleeping ##BASIC STATE //4
+ and I was getting drunk . ##GENERALIZING SENTENCE (DYNAMIC)
+I went to church , ##GENERALIZING SENTENCE (DYNAMIC)
+ was encouraged to get to know others , ##GENERIC SENTENCE (DYNAMIC)
+ and so many others just got sick ##BOUNDED EVENT (GENERIC)
+ or need medicine . ##GENERIC SENTENCE (STATIC)
+I was on antidepressants ##BASIC STATE
+ and so many of them didnt do any harm . ##COERCED STATE (SPECIFIC) //3
+If I smoked , ##COERCED STATE (SPECIFIC)
+ Id probably wake up from my stress ##COERCED STATE (SPECIFIC)
+ and get in trouble . ##COERCED STATE (SPECIFIC)
+I was so miserable ##BASIC STATE
+ that I decided never ##BOUNDED EVENT (SPECIFIC)
+ to take a job again ##COERCED STATE (SPECIFIC)
+ and put up with the type of poor people ##UNBOUNDED EVENT (SPECIFIC)
+ I had seen in the criminal justice system . ##PERFECT COERCED STATE (SPECIFIC)
+And I started taking LSD as a relief , ##BOUNDED EVENT (SPECIFIC)
+ just as I did when I read about how violent some of the drivel about these types of problems was . ##BOUNDED EVENT (SPECIFIC)
+I found ##BOUNDED EVENT (SPECIFIC)
+ that less people thought of each other and more bought marijuana . ##GENERIC SENTENCE (DYNAMIC) //3
+I couldnt take better advice ##COERCED STATE (SPECIFIC)
+ and I wrote my story out . ##UNBOUNDED EVENT (SPECIFIC)
+I had a lot of brothers ##BASIC STATE
+ who let me burn them with alcohol and a stack of burners . ##GENERALIZING SENTENCE (DYNAMIC)
+But I was sick of the kind of treatment ##BASIC STATE
+ I was trying to dispense with . ##UNBOUNDED EVENT (SPECIFIC)
+Those men just wouldnt tell me ##COERCED STATE (SPECIFIC)
+ where my brother was . ##BASIC STATE
+I couldnt get paid . ##COERCED STATE (SPECIFIC)
+And all of a sudden , ##OTHER
+ I thought : ##BOUNDED EVENT (SPECIFIC)
+ Now where do I stand ? ##QUESTION
+I went to the state of Alaska ##BOUNDED EVENT (SPECIFIC)
+ to check out the fact ##UNBOUNDED EVENT (SPECIFIC)*
+ that marijuana is illegal there . ##GENERIC SENTENCE (STATIC)
+Id been there before and ##PERFECT COERCED STATE (SPECIFIC)
+ when I said to the staff ##BOUNDED EVENT (SPECIFIC)
+ what I was seeing ##UNBOUNDED EVENT (SPECIFIC) //4
+ they would whip me into a panic , ##COERCED STATE (GENERIC) //4
+ then send me to prison ##COERCED STATE (GENERIC) //4
+ and have me sent back . ##COERCED STATE (GENERIC) //4
+It sucked . ##BASIC STATE
+It hit me the hardest ##BOUNDED EVENT (SPECIFIC)
+ and when I said ##BOUNDED EVENT (SPECIFIC)*
+ that its OK , ##BASIC STATE //4
+ they started to feel comfortable ##BOUNDED EVENT (SPECIFIC) //3
+ because of the promise ##OTHER
+ I made . ##BOUNDED EVENT (SPECIFIC)
+Theyd told me ##PERFECT COERCED STATE (SPECIFIC) //3
+ they didnt know ##BASIC STATE //3
+ where Id go . ##COERCED STATE (SPECIFIC)
+In Indiana I got in trouble ##BOUNDED EVENT (SPECIFIC)
+ because I told them ##BOUNDED EVENT (SPECIFIC)
+ Id eaten marijuana earlier . ##PERFECT COERCED STATE (SPECIFIC)
+The threat of prison and having my earnings then made me think not only about the health risks but also about my freedom . ##BOUNDED EVENT (GENERIC)
+When I went to jail ##BOUNDED EVENT (SPECIFIC)
+ I didnt know ##BASIC STATE
+ what I was really doing . ##UNBOUNDED EVENT (SPECIFIC) 
+It hit me to how much it was because of what I was doing . ##BOUNDED EVENT (SPECIFIC)*
+There are also jail-breaks like the one in California ##GENERIC SENTENCE (STATIC)
+ where drug addicts ##OTHER
+ who didnt have medicine ##GENERIC SENTENCE (STATIC)
+ had to go to jail . ##COERCED STATE (GENERIC)
+There there they had to use pot ##COERCED STATE (GENERIC)
+ where it was illegal . ##GENERIC SENTENCE (STATIC)
+But I didnt have anything like that . ##BASIC STATE
+I was $8 a day ##BASIC STATE*
+ because I couldnt afford a lawyer or doctor . ##COERCED STATE (SPECIFIC)
+So , ##OTHER
+how can my kids tell my kids ##QUESTION
+ I smoked pot ##GENERALIZING SENTENCE (DYNAMIC)
+ when I had to be locked up every day for years ? ##BASIC STATE //3
+My oldest had to live in prison ##COERCED STATE (SPECIFIC)
+ before I got out . ##BOUNDED EVENT (SPECIFIC)
+Back in America , ##OTHER
+we all have to come clean ##COERCED STATE (GENERIC)
+ if we are going to clean our children . ##COERCED STATE (GENERIC)
+We have to come clean ##COERCED STATE (GENERIC)
+ if we are going to treat our children well ##COERCED STATE (GENERIC)
+ and not let them down . ##COERCED STATE (GENERIC)
+But thats not the situation today . ##GENERIC SENTENCE (STATIC) //4
+There are so many anti-drugs and anti-poverty programs out there ##GENERIC SENTENCE (STATIC) 
+ that ##OTHER
+ hope well come clean and thats not stopping us from destroying our children ##COERCED STATE (SPECIFIC)* //4
+ and offending our conscience ##UNBOUNDED EVENT (GENERIC) //3
+ so that they grow up ##UNBOUNDED EVENT (GENERIC)
+ clean and happy ##OTHER
+ and live better lives ##UNBOUNDED EVENT (GENERIC)
+ and make us rich . ##UNBOUNDED EVENT (GENERIC)
+Heres ##OTHER
+ hoping the federal government doesnt sneak their way in ##UNBOUNDED EVENT (SPECIFIC) //4
+ and drown us in the ocean . ##UNBOUNDED EVENT (SPECIFIC)
+***0 3 0 4 1 1 2 4 YES ML NO 1UNCLEAR 3 1 2 ALGORITHM 

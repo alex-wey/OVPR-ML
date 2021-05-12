@@ -1,0 +1,23 @@
+Is it possible for you to use medical marijuana for diabetic symptoms ? ##QUESTION
+If so , ##OTHER
+then it 's an idea ##BASIC STATE
+ you should consider . ##COERCED STATE (GENERIC)
+Dr. Manny Alvarez is a healthcare contributor to XXX Channel and the number one contributor to RedEye magazine . ##BASIC STATE
+Click here to follow him on Twitter , Facebook , and YouTube . ##IMPERATIVE
+Do you have a medical marijuana recommendation ##QUESTION
+ that would benefit you ? ##COERCED STATE (GENERIC)
+Urology is a primary body condition thats ##GENERIC SENTENCE (STATIC)* //3
+ produced by its own immune system and the rest of its bodys own cells . ##GENERIC SENTENCE (DYNAMIC)
+Although simple or inexpensive to use , ##GENERIC SENTENCE (DYNAMIC) //4
+ it can cause brain , bone , muscle , and other chronic conditions . ##COERCED STATE (GENERIC)
+The following are the options ##BASIC STATE
+ medical marijuana users should consider if theyre diabetic : ##COERCED STATE (GENERIC)
+ Use it , ##GENERIC SENTENCE (DYNAMIC)
+ even if its a minor side effect : ##GENERIC SENTENCE (STATIC)
+Choose blood-sugar tolerance ##UNBOUNDED EVENT (GENERIC) //1
+Seek it soon after withdrawal : ##GENERIC SENTENCE (DYNAMIC) //1
+ In the following post , ##OTHER
+Dr. Manny Alvarez examines the possibilities for red blood cells and the potential side effects ##UNBOUNDED EVENT (SPECIFIC)
+ that arise from using medical marijuana , ##GENERIC SENTENCE (DYNAMIC)
+ including hyperglycemia , hypertension , weight loss , seizures , kidney failure , and other over-the-counter medications . ##GENERIC SENTENCE (STATIC)
+***0 4 3 0 0 0 0 0 YES ML YES 4 1 3 2 UC

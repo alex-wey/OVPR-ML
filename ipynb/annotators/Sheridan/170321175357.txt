@@ -1,0 +1,62 @@
+Director Oliver Stone is on a press tour , ##BASIC STATE
+ and that means hes ##BASIC STATE
+ spending some time ##UNBOUNDED EVENT (SPECIFIC)
+ inserting his foot ##UNBOUNDED EVENT (SPECIFIC)
+ into his mouth . ##OTHER
+Stone , ##OTHER
+ whose new film Savages opens Friday , ##COERCED STATE (SPECIFIC)
+ is currently extolling the wonders of weed for willing press outlets . ##UNBOUNDED EVENT (SPECIFIC)
+The topic keeps coming up ##GENERALIZING SENTENCE (DYNAMIC)
+ because Savages deals with a fictional drug war saga ##UNBOUNDED EVENT (SPECIFIC)
+ starring Benicio del Toro , Salma Hayek , Taylor Kitsch and Aaron Johnson . ##BASIC STATE
+But Stone also has a serious message to share . ##BASIC STATE
+Illegal marijuana laws have a detrimental effect on society . ##GENERIC SENTENCE (STATIC)
+Just how detrimental ? ##QUESTION
+Take it away , ##IMPERATIVE
+Oliver . ##OTHER
+Still , ##OTHER
+the film offers a fictional portrait of violence among a Mexican drug cartel and California pot growers ##BASIC STATE
+ that makes legalizing marijuana seem like a sane option . ##UNBOUNDED EVENT (SPECIFIC)
+That would be my personal solution , ##BASIC STATE
+ but as a politician , ##OTHER
+ I would fight for decriminalization first , ##COERCED STATE (SPECIFIC)
+ because that is the immediate by-product of this mess ##BASIC STATE //3
+ that ##OTHER
+ we got ourselves into . ##BOUNDED EVENT (GENERIC)
+Its very hard to pull out of a $40 billion-a-year industry , ##GENERIC SENTENCE (STATIC)
+ which is the prison industry . ##BASIC STATE
+Its probably more than $40 billion . ##BASIC STATE
+But they will fight you tooth ##COERCED STATE (GENERIC)
+ and nail to keep these prisons as big ##UNBOUNDED EVENT (GENERIC)
+ as they are , ##GENERIC SENTENCE (STATIC)
+ Stone said . ##BOUNDED EVENT (SPECIFIC)
+Its worse than slavery , ##GENERIC SENTENCE (STATIC)
+per capita . ##OTHER
+In the black community , ##OTHER
+ it is a form ##GENERIC SENTENCE (STATIC)
+ of slavery , ##OTHER
+this drug war , ##OTHER
+ because it imprisons a huge portion of people , ##GENERALIZING SENTENCE (DYNAMIC)
+ destroys their lives , ##GENERALIZING SENTENCE (DYNAMIC)
+ coarsens our culture . ##GENERALIZING SENTENCE (DYNAMIC)
+And why ? ##QUESTION
+Marijuana is much less harmful than tobacco and prescription drugs in many cases and certainly alcohol . ##GENERIC SENTENCE (STATIC)
+This puritanical strain got started with Nixon . ##BOUNDED EVENT (SPECIFIC)
+It was a political issue for him , ##BASIC STATE//4
+ and its gotten worse . ##PERFECT COERCED STATE (SPECIFIC)
+Its like the Pentagon . ##BASIC STATE //3
+You cant stop it . ##COERCED STATE (GENERIC)
+But to those ##OTHER
+ who say ##GENERIC SENTENCE (DYNAMIC)
+ Stone is a consistently anti-American voice , ##BASIC STATE
+ think again . ##IMPERATIVE
+Stone thinks U.S. - ##BASIC STATE
+ based pot growers are the best in the world . ##GENERIC SENTENCE (STATIC)
+Theres good weed everywhere in the world , ##GENERIC SENTENCE (STATIC)
+ but my God , ##OTHER
+these Americans are brilliant , ##GENERIC SENTENCE (STATIC)
+ said Stone , ##BOUNDED EVENT (SPECIFIC)
+65 , ##OTHER
+ who sees only benefits ##BASIC STATE
+ from legalizing marijuana . ##UNBOUNDED EVENT (GENERIC) //3
+***0 5 3 0 0 0 0 0 YES ML YES 2 2 2 4 HUMAN

@@ -1,0 +1,38 @@
+This file photo shows marijuana plants on a baseball field in Salt Lake City , Utah . ##BASIC STATE
+Fort Collins top cannabis producer thinks ##BASIC STATE
+ Colorado will see one million in sales this year , ##COERCED STATE (SPECIFIC)
+ according to a new forecast by the Colorado Marijuana Industry Association . ##BASIC STATE
+The group forecasts ##UNBOUNDED EVENT (SPECIFIC)
+ Denver will be the site of one million sales , ##COERCED STATE (SPECIFIC)
+ reports The Associated Press . ##BASIC STATE
+Denver , ##OTHER
+by far the states biggest market , ##OTHER
+will generate half of the number of total pot sales . ##COERCED STATE (SPECIFIC)
+During the 2013 campaign , ##OTHER
+Colorado Governor John Hickenlooper said ##BOUNDED EVENT (SPECIFIC)
+ that the state had sent out $2 billion to the Department of Revenue . ##PERFECT COERCED STATE (SPECIFIC)
+Hickenlooper has since declined to budge . ##COERCED STATE (SPECIFIC)
+The cannabis industry figure is backed by the Federal Trade Commission , ##BASIC STATE
+ which has raised concerns ##PERFECT COERCED STATE (SPECIFIC)
+ that retailers could put profits before consumers . ##COERCED STATE (GENERIC)
+So it is unclear whether Colorados marijuana industry will jump ship . ##GENERIC SENTENCE (STATIC)
+Colorado State University professor Michael Ledbetter says ##BASIC STATE //4
+ state residents may be paying more attention to the Colorado pot industry ##COERCED STATE (GENERIC)
+ than Colorado residents are . ##UNBOUNDED EVENT (GENERIC)
+Theyre paying attention to Colorado out of curiosity , ##UNBOUNDED EVENT (GENERIC)
+ he told the Greeley Tribune . ##BOUNDED EVENT (SPECIFIC)
+Its kind of contagious . ##GENERIC SENTENCE (STATIC)
+The group is calling on members of Congress ##UNBOUNDED EVENT (SPECIFIC)
+ to pass tougher marijuana laws ##IMPERATIVE //3
+ including prohibitions on how much marijuana can be sold ##GENERIC SENTENCE (STATIC)
+ and websites ##OTHER
+ that let minors buy the products . ##GENERIC SENTENCE (DYNAMIC)
+Ledbetter , ##OTHER
+ who is deputy vice president of the Colorado State University Health Sciences Center , ##BASIC STATE
+ says ##BASIC STATE
+ marijuana is regulated and taxed like alcohol . ##GENERIC SENTENCE (DYNAMIC)
+This is a state ##BASIC STATE
+ where you have cannabis for human consumption ##GENERIC SENTENCE (HABITUAL)
+ and people are already getting addicted to it , ##UNBOUNDED EVENT (GENERIC) //4
+ he said . ##BOUNDED EVENT (SPECIFIC)
+***0 5 5 0 0 0 0 0 YES ML YES 0 0 0 0 ALGORITHM

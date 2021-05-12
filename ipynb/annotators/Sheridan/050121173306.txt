@@ -1,0 +1,68 @@
+Conventional wisdom in the marijuana industry is that it needs to be regulated and expanded . ##GENERIC SENTENCE (STATIC)
+Sure , ##OTHER
+offering pot to a high school student ##UNBOUNDED EVENT (GENERIC)
+ might make sense ##GENERIC SENTENCE (STATIC)
+ if you find it safe to take your kids out for a smoke and a smoke pot at school , ##GENERIC SENTENCE (STATIC)
+ but it is decidedly more palatable ##GENERIC SENTENCE (STATIC)
+ for children to take their weed on their own ##GENERIC SENTENCE (DYNAMIC)
+ when the stoner is within earshot . ##GENERIC SENTENCE (STATIC)
+While basic legal medical and recreational medical marijuana products can be found on the street , ##COERCED STATE (GENERIC)
+ more than 50 different brands of cannabis ##OTHER
+ have been sold in Europe since 1997 . ##PERFECT COERCED STATE (GENERIC)
+As the worldwide market shifts to pot , ##UNBOUNDED EVENT (GENERIC) //4
+ smoking legal , ##GENERIC SENTENCE (DYNAMIC)
+not easier marijuana , ##OTHER
+ may be the only way to play ! ##GENERIC SENTENCE (STATIC)
+Groups like the Marijuana Policy Project [ MPA ] and Greenleaf had a heated debate in Congress ##BOUNDED EVENT (SPECIFIC)
+ over the future of pot in 2011 . ##OTHER
+As the policy fell apart , ##UNBOUNDED EVENT (SPECIFIC)
+ the Marijuana Policy Project lost their position as one of the political hotbeds of one of Europes largest cities , ##BOUNDED EVENT (SPECIFIC)*
+ according to the New York Times . ##BASIC STATE
+After Congress passed a bill ##BOUNDED EVENT (SPECIFIC)
+to allow pot cultivation in Ireland , ##GENERIC SENTENCE (STATIC) //4
+ critics contended ##BOUNDED EVENT (GENERIC)
+ that it would only increase laws against malpractice ##COERCED STATE (SPECIFIC)
+ that would lead to liability for medical marijuana users . ##COERCED STATE (GENERIC)
+The thing is , ##OTHER
+ most states have implemented a law ##PERFECT COERCED STATE (GENERIC)
+ to allow federal law enforcement to more broadly evaluate ##GENERIC SENTENCE (STATIC) //4
+ whether pot is legal in both states or depending on whichever legal distillery you choose . ##GENERIC SENTENCE (STATIC)
+The MPA tells us ##BASIC STATE //4
+ they will try to give more leeway to upstate governors ##COERCED STATE (SPECIFIC)
+ before making legal moves . ##COERCED STATE (SPECIFIC) //4
+The legislation would essentially make it harder ##COERCED STATE (SPECIFIC)
+ for marijuana to be passed , ##GENERIC SENTENCE (DYNAMIC) 
+ but it would come with a condition : ##COERCED STATE (SPECIFIC)
+ this helps states to secure legal , non-marijuana trading permits with their feds . ##GENERALIZING SENTENCE (DYNAMIC)
+But legalizing cannabis might not get the support ##COERCED STATE (GENERIC)
+ that it deserves in Congress . ##GENERIC SENTENCE (STATIC)
+The best chance to apply for business cards with a Massachusetts license ##UNBOUNDED EVENT (GENERIC) //2
+ is to get one from an enforcement agency ##GENERIC SENTENCE (STATIC)
+ that states licenses ##GENERIC SENTENCE (DYNAMIC)
+ and regulates pot and American licensing of pot . ##GENERIC SENTENCE (DYNAMIC)
+If the request is denied , ##COERCED STATE (GENERIC)
+ US agencies could get the opportunity to replace the agencys existing license system ##COERCED STATE (GENERIC)
+ for marijuana with a new one . ##OTHER
+This new system would allow for more customization for marijuana plants , ##COERCED STATE (SPECIFIC)
+ significantly increasing the likelihood ##UNBOUNDED EVENT (SPECIFIC)
+ that the dealer ##OTHER
+ is expanding into customers trade places . ##UNBOUNDED EVENT (GENERIC)
+If this approach works ##COERCED STATE (SPECIFIC)
+ and all cannabis is legal , ##GENERIC SENTENCE (STATIC)
+ some states could also crack down on other kind of marijuana product sales . ##COERCED STATE (GENERIC)
+In Canada , ##OTHER
+the RCMP is getting ready to move against online marijuana sales and online selling . ##UNBOUNDED EVENT (SPECIFIC)
+If all these markets were regulated , ##COERCED STATE (GENERIC)
+ there could still be some room for experimentation . ##GENERIC SENTENCE (STATIC)
+PotLand is an online cannabis retailer ##BASIC STATE
+ focusing on Vancouver , British Columbia . ##BASIC STATE
+No , ##OTHER
+it doesnt appear ##GENERIC SENTENCE (STATIC) //3
+ these types of deals are happening in the headlines , ##GENERIC SENTENCE (DYNAMIC)
+ but it does seem like a tremendous opportunity for a local business . ##BASIC STATE
+In the U.S. , ##OTHER
+the Bet Capital business incubator , ##OTHER
+ which was launched in September 2012 , ##BOUNDED EVENT (SPECIFIC)
+ has more than $35 million in funding ##BASIC STATE
+ and is aiming to build a national marijuana retail operation in Canada . ##UNBOUNDED EVENT (SPECIFIC)
+***0 4 5 0 0 0 0 0 YES ML YES 4 3 1 2 ALGORITHM

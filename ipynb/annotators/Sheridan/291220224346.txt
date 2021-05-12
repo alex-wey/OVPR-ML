@@ -1,0 +1,100 @@
+While not thoroughly researched ##COERCED STATE (GENERIC)
+ it was launched as a pilot project ##BOUNDED EVENT (SPECIFIC)
+ using many different avenues from campaign ads and mailing lists to poor council representation and planning . ##UNBOUNDED EVENT (SPECIFIC)*
+Although they were deployed as an experiment , ##BOUNDED EVENT (SPECIFIC) //4
+ these schemes were implemented for the benefit of activists and the wider public ##BOUNDED EVENT (SPECIFIC)
+ and would have resulted in a much needed pilot project ##COERCED STATE (GENERIC)
+ that influenced the way policy was carried out . ##UNBOUNDED EVENT (GENERIC) //4
+While the suggestions ##OTHER
+ that this problem was exploited as a weapon in the struggle for the right in Britain ##BOUNDED EVENT (SPECIFIC)
+ are given on account of their political influence ##UNBOUNDED EVENT (GENERIC)
+ they are flawed , ##GENERIC SENTENCE (STATIC)
+ unworkable and out of touch with the realities of everyday life . ##OTHER
+While most clever individuals made decisions to keep cannabis on the books , ##GENERIC SENTENCE (DYNAMIC)
+ no one thought ##GENERIC SENTENCE (STATIC)
+ it would be easy to limit people to only about 200-500 cannabis farms ##GENERIC SENTENCE (STATIC)
+ and there were also places and individuals ##GENERIC SENTENCE (STATIC)
+ who felt ##GENERIC SENTENCE (STATIC)
+ that this had nothing to do with the law ##GENERIC SENTENCE (STATIC) //4
+ the lack of consent might be a popular myth . ##GENERIC SENTENCE (STATIC)
+Those responsible for trying to regulate this movement know this , ##GENERIC SENTENCE (STATIC)
+ yet never tell us ##COERCED STATE (GENERIC)
+ how this may influence policy , funding or just the poll results . ##COERCED STATE (SPECIFIC)
+None of the initiatives to regulate cannabis ##UNBOUNDED EVENT (GENERIC)
+ is supported with even the most intelligent government figures , ##GENERIC SENTENCE (STATIC)*
+ as each has been dictated by the political needs of the party on the ground . ##PERFECT COERCED STATE (GENERIC)
+While this is surely a real worry ##BASIC STATE
+ we shouldnt be shouldering responsibility for oversight , ##COERCED STATE (GENERIC)
+ if anyone asked someone ##COERCED STATE (GENERIC)
+ to take responsibility for a social issue ##IMPERATIVE
+ theyd explain the reasoning ##COERCED STATE (GENERIC)
+ why it was never government policy . ##GENERIC SENTENCE (STATIC)
+Marijuana is so casually embedded into many personal lives ##GENERIC SENTENCE (STATIC)
+ that it has the profound effect of transforming a small community on ones own . ##GENERIC SENTENCE (STATIC)
+There are many signs ##GENERIC SENTENCE (STATIC)
+ that growing cannabis will increase anxiety , stress and worry ##COERCED STATE (GENERIC)*
+ but above all the fact ##OTHER
+ that 2 % of cannabis use is criminal . ##GENERIC SENTENCE (STATIC)
+No one pays any attention to this perception ##COERCED STATE (GENERIC)
+ however it can only happen ##COERCED STATE (GENERIC)
+ if it is dealt with in a mainstream manner ##COERCED STATE (GENERIC)
+ and we , ##OTHER
+ as it is called , ##GENERIC SENTENCE (HABITUAL) //2
+ are taking it on . ##UNBOUNDED EVENT (GENERIC)
+It is a large and growing community ##BASIC STATE //3
+ and has a complex complex social structure . ##BASIC STATE //3
+While it may have the benefits ##BASIC STATE //3
+ that could have a direct impact , ##COERCED STATE (GENERIC) //4
+as well as some negatives , ##OTHER
+ alcohol , cannabis and crack are not easy to deal with in terms of all possible motives and impact . ##GENERIC SENTENCE (STATIC)
+It is unfortunate that companies and the resources ##BASIC STATE
+ needed ##GENERIC SENTENCE (STATIC)
+ to enforce this ##UNBOUNDED EVENT (SPECIFIC) //4
+ will have to be even more closely monitored by bureaucrats and police . ##COERCED STATE (GENERIC)
+If they could get the evidence for their claims , ##COERCED STATE (GENERIC)
+ it would be relevant to the governments decision or policy-making on how regulations were presented . ##GENERIC SENTENCE (STATIC)
+However , ##OTHER
+ if the evidence was given for their claims ##COERCED STATE (GENERIC) //4
+ then only a small fraction would go against what many claim is intended to legalise cannabis . ##COERCED STATE (GENERIC) //4
+By reducing the evidence community will be increasingly left on the feeling of sanitised . ##GENERIC SENTENCE (STATIC)* //3
+Also contrary to the claims ##OTHER
+ and broader lessons ##OTHER
+ that alcohol , marijuana and crack affect ##GENERIC SENTENCE (DYNAMIC)
+ communities all over the world are not illegal ##GENERIC SENTENCE (STATIC)* //3
+ and are actually contributing to crime and the ever deepening social divide . ##UNBOUNDED EVENT (GENERIC)
+Although it is true that access to new drugs can have an economic effect , ##GENERIC SENTENCE (HABITUAL)
+ there is no evidence to suggest ##GENERIC SENTENCE (STATIC)
+ that addiction or even misuse of prescription drugs can be totally eradicated from Britain . ##COERCED STATE (GENERIC)
+While we could be inclined to expect a majority to accept these claims as bogus , ##GENERIC SENTENCE (STATIC)
+ perhaps their perspective might be even more nuanced . ##GENERIC SENTENCE (STATIC)
+Maybe the strongest point is that the pain and suffering ##BASIC STATE
+ facing each adult ##GENERIC SENTENCE (STATIC)
+ should be a part of the basic material rights , ##GENERIC SENTENCE (STATIC)
+ which are the foundations of democracy . ##GENERIC SENTENCE (STATIC)
+If the UK government looks to be disproportionately worrying about people ##GENERIC SENTENCE (STATIC)
+ suffering from substance use , ##UNBOUNDED EVENT (GENERIC)
+ it seems ##BASIC STATE
+ that they are doing so ##UNBOUNDED EVENT (SPECIFIC) 
+ by spreading the story ##UNBOUNDED EVENT (SPECIFIC)
+ that the rules can be relaxed ##COERCED STATE (GENERIC)
+ and relationships should be relaxed . ##COERCED STATE (GENERIC)
+If we look to the interests of those concerned , ##COERCED STATE (GENERIC)
+ it is not enough to blame the drug-users first for their lives ##GENERIC SENTENCE (STATIC)
+ we can also blame the addict for his or her own guilt . ##COERCED STATE (GENERIC)
+Any attempt to quantify the effects of illegal drugs will probably have no political or educational impact . ##GENERIC SENTENCE (STATIC)
+If it was left to a system ##BASIC STATE //3
+that now controls the drug consumption of millions of people and regulations by the regulatory authorities ##UNBOUNDED EVENT (SPECIFIC) //4
+to ensure ##UNBOUNDED EVENT (SPECIFIC)
+ it is effectively dealt ##GENERALIZING SENTENCE (DYNAMIC) //3
+ with it is irrelevant because of the individuals impression of the fact ##BASIC STATE* //2
+ it is illegal ##GENERIC SENTENCE (STATIC)
+ for them to consume any substance ##UNBOUNDED EVENT (GENERIC)
+ even that they want their money back . ##GENERIC SENTENCE (STATIC)*
+There is no question ##GENERIC SENTENCE (STATIC)
+ of political influence , ##OTHER
+ but as all two and three decades of data show , ##BASIC STATE
+ it is less about taking responsibility for the behaviour of its users ##BASIC STATE //2
+ and less about alcohol . ##OTHER
+The urban divide will no doubt result in big questions to be asked about ##COERCED STATE (SPECIFIC) //4
+ why public policy matters ##GENERIC SENTENCE (STATIC)
+***0 5 0 0 0 0 0 0 YES ML NO UNCLEAR 3 1 2 ALGORITHM

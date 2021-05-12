@@ -1,0 +1,31 @@
+0 0 5 7 condx
+1 1 0 0 elab
+2 4 0 0 deg
+3 4 2 2 elab
+4 4 3 3 elab
+5 5 6 7 ce //3
+7 7 6 6 elab
+
+8 12 6 7 examp
+9 10 8 8 elab
+10 10 9 9 same
+11 11 10 10 same
+12 12 11 11 elab
+
+13 20 0 7 elab
+14 14 13 13 elab
+15 16 14 14 elab
+16 16 15 15 elab
+
+17 20 13 16 elab
+18 20 17 17 elab
+19 19 18 18 elab
+19 19 20 20 sim
+
+21 22 19 20 elab
+21 22 23 26 contr
+24 26 19 20 ce
+22 22 21 21 elab
+23 23 24 26 elab
+25 26 24 24 elab
+25 25 26 26 elab

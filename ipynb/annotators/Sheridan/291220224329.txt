@@ -1,0 +1,43 @@
+Marijuana is harmless ##GENERIC SENTENCE (STATIC)
+ compared to the scourge of crystal meth in Northern California . ##OTHER //2
+How about respecting California 's Prop 215 , ##QUESTION
+ and going after the methamphetamine labs instead ? ##UNBOUNDED EVENT (GENERIC)
+It 's been reported ##PERFECT COERCED STATE (GENERIC)
+ there are as many as 50 meth labs near the mouth of the Klamath River , ##BASIC STATE
+ yet law enforcement never takes any action ##COERCED STATE (GENERIC)
+ there : ##OTHER
+to the Del Norte Sheriff 's Department , ##OTHER
+ the Humboldt County Sheriff 's Department and Larry Hand of the California Conservation Corps ##OTHER
+ ( CCC ) , ##OTHER
+a CCC crew ##OTHER
+ run by John Buttons ##UNBOUNDED EVENT (SPECIFIC)
+ discovered several large glass flasks ##BOUNDED EVENT (SPECIFIC)
+ used for cooking methamphetamine on Ohpah Creek , ##GENERIC SENTENCE (DYNAMIC)
+a tributary of the Klamath River just 21 miles from the mouth of the river . ##OTHER
+The flasks were found in the summer of 2002 ##BOUNDED EVENT (SPECIFIC)
+ and were left on Simpson Timber Company land above the Ohpah Creek Ranch . ##BOUNDED EVENT (SPECIFIC)
+It now turns out ##BOUNDED EVENT (SPECIFIC) //3
+ the flasks were part of what is known as a " meth dump . " ##BASIC STATE
+That is where the unused residue and cooking utensils from labs are discarded . ##GENERIC SENTENCE (DYNAMIC)
+A Humboldt County Sheriff 's Department official used a recent dumpsite at Colusa , ##BOUNDED EVENT (SPECIFIC)
+ to explain , ##UNBOUNDED EVENT (SPECIFIC)
+ " Mexican nationals had dumped their old chemicals and supplies into an irrigation canal . " ##PERFECT COERCED STATE (SPECIFIC)
+Two persons ##OTHER
+ interviewed claimed ##BOUNDED EVENT (SPECIFIC)
+ there are five meth labs between Weitchpec and the river mouth . ##BASIC STATE
+One of the labs is known to both civilian and law enforcement as the " Crystal Palace . " ##BASIC STATE
+When asked , ##BOUNDED EVENT (SPECIFIC)
+ one Siskiyou County law enforcement official said , ##BOUNDED EVENT (SPECIFIC)
+ " If the truth were know , ##GENERIC SENTENCE (STATIC)*
+ there are probably 50 labs." ... ##BASIC STATE //4
+The entire 41 miles of river between Weitchpec and the river mouth has no roads ##BASIC STATE
+ and is completely isolated from any civilization . ##BASIC STATE
+There are dozens of documented cases of Mexican and Asian drug cartels ##BASIC STATE //3
+ using remote areas ##UNBOUNDED EVENT (GENERIC)
+ to both grow marijuana , ##UNBOUNDED EVENT (GENERIC)
+ and manufacture meth . ##UNBOUNDED EVENT (GENERIC)
+These cases include the Klamath River area . ##BASIC STATE
+This has resulted in concerns for the safety of all users ; ##PERFECT COERCED STATE (GENERIC)
+ either national forests and / or Bureau of Land Management lands or those ##OTHER
+ who simply explore for recreation . ##GENERIC SENTENCE (DYNAMIC)
+***0 4 5 1 5 5 5 1 YES ML YES 5 2 3 4 HUMAN

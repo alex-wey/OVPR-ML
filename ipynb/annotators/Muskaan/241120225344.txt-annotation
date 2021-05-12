@@ -1,0 +1,28 @@
+1 1 2 2 elab
+3 3 4 4 temp
+3 4 2 2 temp
+1 2 0 0 elabx
+5 5 4 4 elab
+6 6 7 8 elab
+8 8 7 7 elab
+6 8 3 4 temp
+9 9 10 10 attr
+9 10 7 8 elab
+12 12 11 11 elab
+14 14 13 13 ce
+16 16 15 15 cond
+11 12 13 16 elab
+15 16 13 14 elab
+17 17 11 16 attr
+18 19 11 17 vex
+18 18 19 19 elab
+20 20 21 21 elab
+20 21 22 22 elab
+? ? 23 24 attr
+24 24 23 23 elab
+25 25 26 26 temp
+27 27 26 26 elab
+29 29 28 28 elab
+30 31 ? ? attr
+
+

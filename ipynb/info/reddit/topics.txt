@@ -1,0 +1,51 @@
+Topic Names
+0	Effects/prohibition vis-a-vis alcohol/tobacco
+1	UNCLEAR
+2	Hemp: legality and uses
+3	Party politics and ideology
+4	Quantities and limits
+5	Legal status and common use
+6	Govt. power and ind. rights/freedoms
+7	Border, organized crime & Latin influence
+8	State vs. federal legalization
+9	Media campaigns & portrayals
+10	enforcement vis-a-vis violent crimes
+11	Legal market & economic forces
+12	Addiction potential & gateway status
+13	Reasoning and arguments
+14	State-level legal. timelines
+15	Police car searches
+16	Medical marijuana effects and access
+17	Cannabis types and use methods
+18	Marijuana use and the workplace
+19	FDA schedules
+20	UNCLEAR
+21	Continuity of US drug & foreign policy
+22	Age and familial relations
+23	Marijuana and finances
+24	User stereotypes and life outcomes
+25	Private interests & the prison industry
+26	UNCLEAR
+27	Legalization across US and the world
+28	Police house searches & seizure
+29	Legal procedures
+30	Emotional and life impact
+31	Reddit moderation
+32	Everyday enforcement encounters
+33	UNCLEAR
+34	UNCLEAR
+35	Drug testing
+36	Judgments of character
+37	Imprisonment over marijuana
+38	Electoral politics & parties
+39	UNCLEAR
+40	Local/state regulations
+41	Health and opinion research
+42	DUI effects & enforcement
+43	Racial/minority disparities
+44	Federal Court Processes
+45	Smoking methods, health effects and bans
+46	UNCLEAR
+47	Enforcement & observance
+48	Gun versus marijuana regulations
+49	Expletives-laden discourse

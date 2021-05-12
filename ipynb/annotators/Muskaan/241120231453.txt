@@ -1,0 +1,57 @@
+Controversial author James Frey is set to ignite another firestorm with his new book , ##BASIC STATE
+ " The Final Testament of the Holy Bible , " ##OTHER
+ in which the second coming of Christ takes place in The Bronx projects ##UNBOUNDED EVENT (SPECIFIC)
+ -- but the Messiah turns out ##UNBOUNDED EVENT (SPECIFIC)
+ to be a former alcoholic ##BASIC STATE
+ who impregnates a prostitute . ##BOUNDED EVENT (SPECIFIC)
+Frey ##OTHER
+ -- who was famously ripped apart on TV by Oprah Winfrey ##BOUNDED EVENT (SPECIFIC)
+ and ostracized by the literary community over his partly fabricated memoir , ##UNBOUNDED EVENT (SPECIFIC)
+ " A Million Little Pieces " -- ##OTHER
+ has sidestepped traditional publishers ##PERFECT COERCED STATE (SPECIFIC)
+ and teamed up with gallery owner Larry Gagosian , ##UNBOUNDED EVENT (SPECIFIC)
+ who will publish just 11,000 copies in the U.S. ##COERCED STATE (SPECIFIC)
+ while Frey will self-publish online . ##COERCED STATE (SPECIFIC)
+His Messiah , ##OTHER
+Ben Jones , ##OTHER
+starts off as a lonely alcoholic bachelor ##UNBOUNDED EVENT (SPECIFIC)
+ living in a filthy apartment . ##BASIC STATE
+He survives a horrific work accident , ##BOUNDED EVENT (SPECIFIC)
+ but strange things then happen that lead ##UNBOUNDED EVENT (GENERIC)
+ to him ##OTHER
+ being recognized as the Messiah . ##BOUNDED EVENT (SPECIFIC)
+Ben also smokes pot , ##UNBOUNDED EVENT (SPECIFIC)
+ has sex with a prostitute ##BOUNDED EVENT (SPECIFIC)
+ and makes out with men . ##UNBOUNDED EVENT (SPECIFIC)
+Ben tells followers ##BOUNDED EVENT (SPECIFIC)
+ that the Bible is " antiquated ," ##BASIC STATE
+saying , ##BOUNDED EVENT (SPECIFIC)
+ "The Bible was written 2,000 years ago . ##BOUNDED EVENT (SPECIFIC)
+The world is a different place now . ##BASIC STATE
+Stories ##OTHER
+ that had meaning ##GENERIC SENTENCE (STATIC)
+ then are meaningless now . . . those books are dead . " ##BASIC STATE
+Of religion , ##OTHER
+ he says , ##BOUNDED EVENT (SPECIFIC)
+ " Faith is what you use to oppress , ##GENERIC SENTENCE (DYNAMIC)
+ to justify , to judge in the name of God ##GENERIC SENTENCE (DYNAMIC)
+ . . . a means to rationalize more evil in this world than anything in history . ##GENERIC SENTENCE (DYNAMIC)
+If there were a devil , ##COERCED STATE (GENERIC)
+ faith would be his greatest invention . " ##COERCED STATE (GENERIC)
+The novel will be released for maximum impact in the U.S. on Good Friday . ##COERCED STATE (SPECIFIC)
+Frey told us ##BOUNDED EVENT (SPECIFIC)
+ the book is " a theoretical third volume of the Bible ##BASIC STATE
+ -- there was the Old , ##BASIC STATE
+ there was the New , ##BASIC STATE
+ and this is the Final . " ##BASIC STATE
+He said , ##BOUNDED EVENT (SPECIFIC)
+ " I 'm sure ##BASIC STATE
+ the religious right will go crazy because the story of Ben . . . is hardly the Messiah ##COERCED STATE (SPECIFIC)
+ they have in mind . ##GENERIC SENTENCE (STATIC)
+But I do n't really care . ##BASIC STATE
+I just did what I always do ##UNBOUNDED EVENT (SPECIFIC)
+ -- tried to write the best book ##UNBOUNDED EVENT (SPECIFIC)
+ I could . " ##BASIC STATE
+
+
+***0 5 5 3 5 5 5 1 YES ML NO 0 0 0 0 HUMAN

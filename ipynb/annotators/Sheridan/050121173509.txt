@@ -1,0 +1,7 @@
+A cell phone video shows a two-year old toddler ##BASIC STATE
+ easily handing a marijuana joint ##UNBOUNDED EVENT (SPECIFIC)*
+ as her mother is heard in the background coaching the child . ##UNBOUNDED EVENT (SPECIFIC)
+21-year old mother , ##OTHER
+Jessica Gamble of suburban Cincinnati faces numerous charges , ##BASIC STATE
+ including child endangerment . ##OTHER
+***0 5 3 0 0 0 0 0 YES ML YES 0 0 0 0 HUMAN

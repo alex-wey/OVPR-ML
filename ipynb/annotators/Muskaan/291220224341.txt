@@ -1,0 +1,47 @@
+This is n't " my buddies . " ##GENERIC SENTENCE (STATIC)
+Like so many others in my region , ##OTHER
+ this is n't about our friends and their three plants in their closet . ##GENERIC SENTENCE (STATIC)
+It 's about our families . ##BASIC STATE
+Our friend 's families . ##OTHER
+I already said ##BOUNDED EVENT (SPECIFIC)
+ I support legalization . ##BASIC STATE
+Just do n't try to make it a black and white issue . ##IMPERATIVE
+That being said , ##BASIC STATE
+ notice ##IMPERATIVE
+ that your little joke about their new income is something else ##BASIC STATE
+ that would be a crime . ##BASIC STATE
+You have one blanket statement over an issue ##BASIC STATE
+ that is profoundly complex and intricate . ##BASIC STATE
+What are the FDA regulations on marijuana ? ##QUESTION
+Where will it be grown , ##QUESTION
+regionally ? ##OTHER
+Import , export , relations with with countries ##OTHER
+ that do n't support legalization . ##GENERIC SENTENCE (STATIC)
+Relations with countries ##OTHER
+ that do . ##GENERIC SENTENCE (STATIC)
+Relations with countries ##OTHER
+ whose economic models are in part based off illegal drug trade , ##GENERIC SENTENCE (STATIC)
+how will it affect them . ##COERCED STATE (GENERIC)
+What kind of price index are we talking , ##QUESTION
+ because that 's entirely regional at the moment . ##GENERIC SENTENCE (STATIC)
+I want to see it legalized . ##BASIC STATE
+I do n't want it in the hands of the corporations . ##BASIC STATE
+What needs to be changed is the overall perception of drugs in this country , ##BASIC STATE
+ and you ca n't legislate that anyway . ##GENERIC SENTENCE (STATIC)
+Many many people 's livelihood is based on it . ##GENERIC SENTENCE (STATIC)
+Many good people , ##OTHER
+completely separate from mainstream drug trade , ##OTHER
+rely on it , ##GENERIC SENTENCE (HABITUAL)
+ because if they did n't absolutely have to do it , ##COERCED STATE (GENERIC)
+ they would n't . ##COERCED STATE (GENERIC)
+It 's dangerous , ##GENERIC SENTENCE (STATIC)
+ they risk themselves ##GENERIC SENTENCE (DYNAMIC)
+ and the wealth of their families on it . ##OTHER
+They would n't do that ##COERCED STATE (GENERIC)
+ if they had another choice . ##GENERIC SENTENCE (STATIC)
+Thanks for your narrow view of something so conceptually open to interpretation , ##OTHER
+and your assumption ##OTHER
+ that this market is only open for the middle class ##BASIC STATE
+ that want to make a little extra money on the side . ##GENERIC SENTENCE (STATIC)
+
+***0 5 0 0 0 0 0 0 YES ML 4 YES 3 5 5 HUMAN

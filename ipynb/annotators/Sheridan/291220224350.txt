@@ -1,0 +1,83 @@
+It 's the latest in a series of journalists ##BASIC STATE
+ who have found , ##PERFECT COERCED STATE (GENERIC)
+ to varying degrees , ##OTHER
+ that Obama did n't smoke weed , ##COERCED STATE (SPECIFIC)
+ and that sometimes cigars in public were actually part of the ##GENERIC SENTENCE (HABITUAL)
+ and , ##OTHER
+unsurprisingly , ##OTHER
+were glorified drug treatment . ##GENERIC SENTENCE (STATIC)
+It was n't that he did n't ##BASIC STATE //4
+ or was n't seriously ill , ##BASIC STATE
+ but he did smoke weed , ##GENERALIZING SENTENCE (DYNAMIC)
+ he did smoke in public , ##GENERALIZING SENTENCE (DYNAMIC)
+ the media were complicit in the story for years , ##GENERIC SENTENCE (STATIC)
+ and nobody treated him ##COERCED STATE (GENERIC)
+ like he was recovering , ##UNBOUNDED EVENT (SPECIFIC)
+ although it is true ##BASIC STATE
+ he did smoke smoke ##GENERALIZING SENTENCE (DYNAMIC)*
+ but there is a huge link between his act of treatment and his crime in the United States . ##BASIC STATE
+In 2011 Barack Obama was caught with his second-hand amphetamine and manslaughter of his stepdaughter in front of firefighters at a church . ##BOUNDED EVENT (SPECIFIC)
+So now the same people ##OTHER
+ that are going crazy about Obama after this , ##UNBOUNDED EVENT (GENERIC)
+I totally agree . ##BASIC STATE
+And the fact ##OTHER
+ that marijuana , ##OTHER
+and eugenics in general and the same kind of thing , ##OTHER
+were passed down to Blacks a thousand years ago is unacceptable . ##BOUNDED EVENT (GENERIC)
+Yet we still celebrate no smoking in public . ##GENERIC SENTENCE (DYNAMIC)
+The burden of proof ##OTHER
+ and distrust with regard to his policies is gigantic . ##GENERIC SENTENCE (STATIC) //4
+The Barack Obama I was to view as the great Kim Dohman ##COERCED STATE (SPECIFIC)* //4
+ who I hated ##BASIC STATE
+ when I saw it in the New York Times , ##BOUNDED EVENT (SPECIFIC)
+ with great approval ##OTHER
+ he has since then ##OTHER*
+ because , ##OTHER
+ as an intellectual one ##OTHER
+ I wanted to live his life ##BASIC STATE
+ like ##OTHER
+ he is now , ##BASIC STATE
+ I knew ##BASIC STATE
+ he had struck a chord in that time , ##PERFECT COERCED STATE (SPECIFIC)
+in his relations with Blacks , ##OTHER
+in his society and in the gay community , ##OTHER
+ as they saw any future president or Democrat . ##UNBOUNDED EVENT (GENERIC) //3
+That 's what Obama did . ##BASIC STATE
+Except , ##OTHER
+ since it was East Germany , ##BASIC STATE
+ he got an Oscar for that . ##BOUNDED EVENT (SPECIFIC)
+Now when the first marijuana bombshell was about Obama ##BASIC STATE //2
+ killing his stepdaughter , ##UNBOUNDED EVENT (SPECIFIC)
+ I went back ##BOUNDED EVENT (SPECIFIC)
+ and studied up on him , ##BOUNDED EVENT (SPECIFIC)
+the same man ##OTHER
+ who had promised George W. Bush ##PERFECT COERCED STATE (SPECIFIC)
+ he would smoke cigars ##COERCED STATE (SPECIFIC)
+ while the President was on the radio , ##BASIC STATE
+and the same man ##OTHER
+ who then was only hinting ##UNBOUNDED EVENT (SPECIFIC)
+ that his country might be put up against a tough new drugs policy , ##COERCED STATE (SPECIFIC)
+ and in the run up to a new election . ##OTHER
+So , ##OTHER
+on both counts , ##OTHER
+ I hated him . ##BASIC STATE
+And I did n't love him either . ##BASIC STATE
+I , ##OTHER
+like all of you , ##OTHER
+ do n't want to pile on that fact , ##BASIC STATE
+ that ##OTHER
+ maybe he made a mistake ##COERCED STATE (SPECIFIC)
+ because he was just a prime mover in what the Democrats had decided ##BASIC STATE
+ that was going to be the most terrible time ##BASIC STATE*
+ in human history ##OTHER
+ and ##OTHER
+ now the Republicans are as depressing as ever , ##GENERIC SENTENCE (STATIC)
+ and Obama 's loose-paddle seems to be a greater deal , ##BASIC STATE
+ which means more risk than reward . ##BASIC STATE
+David Letterman is a dead man walking . ##BASIC STATE
+Even the President 's political career has been sort of exhausted , ##BASIC STATE
+ and his attention has fizzled out . ##PERFECT COERCED STATE (SPECIFIC)
+So perhaps his demise would be worse . ##BASIC STATE
+But a more likely explanation would be that it is Obama ##BASIC STATE
+ we now see as the strongest symbol of America . ##GENERIC SENTENCE (STATIC)
+***0 3 0 2 4 1 1 5 YES ML NO UNCLEAR 3 1 1 ALGORITHM

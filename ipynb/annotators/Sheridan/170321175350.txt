@@ -1,0 +1,59 @@
+A recent Quinnipiac University poll demonstrates ##BASIC STATE 
+ that Americans overwhelmingly support legalizing marijuana for medical reasons , ##GENERIC SENTENCE (STATIC)
+ even if there is no clear benefit . ##GENERIC SENTENCE (STATIC)
+The poll , ##OTHER
+ conducted in conjunction with the Pew Research Center , ##BOUNDED EVENT (SPECIFIC)
+ ranks marijuana as the No. 1 cause of death among Americans in nearly three-quarters of cases . ##UNBOUNDED EVENT (SPECIFIC)
+But this is not exclusive to marijuana users : ##GENERIC SENTENCE (STATIC)
+ Pew found ##BOUNDED EVENT (SPECIFIC)
+ that a similar percentage said ##BOUNDED EVENT (GENERIC)
+ they favored marijuana legalization ##GENERIC SENTENCE (STATIC)
+ even if the name of the legalization proposal was misleading . ##GENERIC SENTENCE (STATIC) //4
+The poll was taken Oct. 5 to 18 months ##BOUNDED EVENT (SPECIFIC)
+ after President Barack Obama signed a bill ##BOUNDED EVENT (SPECIFIC)
+ legalizing marijuana for recreational use in the U.S . ##UNBOUNDED EVENT (SPECIFIC)
+( Senate Bill 227 was cited as the most important legalization legislation in this period ; ##BOUNDED EVENT (SPECIFIC)
+ it passed by a vote of 4841 , ##BOUNDED EVENT (SPECIFIC)
+ based on the overwhelming public support . ) ##BASIC STATE //4
+The Quinnipiac poll , ##OTHER
+ conducted October 4 to 6 , 2012 , ##BOUNDED EVENT (SPECIFIC)
+ found ##BOUNDED EVENT (SPECIFIC)
+ that 83 percent of respondents support legalization of marijuana ##GENERIC SENTENCE (STATIC)
+ and ##OTHER
+ just 46 percent opposed it . ##GENERIC SENTENCE (STATIC)
+But 91 percent of respondents favor legalization ##BASIC STATE
+ if government action involved regulating marijuana . ##COERCED STATE (GENERIC)
+Our experience shows ##BASIC STATE //4
+ that health-related and economic burdens are significant issues ##GENERIC SENTENCE (STATIC)
+ that outweigh any benefits for doctors or patients , ##GENERIC SENTENCE (STATIC)
+ said Quinnipiac University Executive Director Rebecca Roth in a statement . ##BOUNDED EVENT (SPECIFIC)
+Taking these lessons into account , ##UNBOUNDED EVENT (SPECIFIC)
+ it is the best possible decision for patients and doctors . ##GENERIC SENTENCE (STATIC) //3
+Professor of Clinical Pharmacology Dr. Michael Tanke , ##OTHER
+a professor of psychiatry at Iowa State University , ##OTHER
+said ##BOUNDED EVENT (SPECIFIC)
+ he doubts ##BASIC STATE
+ the primary issue will be whether legalization will make medical marijuana safe . ##BASIC STATE
+They may just be an inconvenience in the application of marijuana to surgery and vision , ##GENERIC SENTENCE (STATIC) //3
+ Tanke said , ##BOUNDED EVENT (SPECIFIC)
+ adding ##UNBOUNDED EVENT (SPECIFIC)
+ that medical marijuana has an important advantage over recreational weed in terms of being an undesirable drug . ##GENERIC SENTENCE (STATIC)
+The more difficult problem is whether medical marijuana has a real clinical benefit in alleviating pain ##GENERIC SENTENCE (STATIC)
+ and treating anxiety ##GENERIC SENTENCE (DYNAMIC)
+ or how it affects patients . ##GENERIC SENTENCE (DYNAMIC)
+According to one bill ##BASIC STATE
+ released in November 2012 , ##BOUNDED EVENT (SPECIFIC)
+ federal funds would be used for research into medical marijuana . ##COERCED STATE (GENERIC)
+David Adams , ##OTHER
+director of the Center for Medical Cannabis Research , ##OTHER
+said ##BOUNDED EVENT (SPECIFIC)
+ researchers do not use pot as a substitute for marijuana ##COERCED STATE (GENERIC)*
+ to treat pain or anxiety . ##COERCED STATE (GENERIC)
+This is legal , ##GENERIC SENTENCE (STATIC)
+ and the FDA tends to over regulate this , ##GENERALIZING SENTENCE (DYNAMIC)
+ he said . ##BOUNDED EVENT (SPECIFIC)
+Their drug testing for people up and down the country doesnt identify the drug . ##COERCED STATE (GENERIC) //4
+They didnt . ##COERCED STATE (SPECIFIC)*
+But here they are approving it . ##UNBOUNDED EVENT (SPECIFIC)
+There are indications of over-prescribing . ##GENERIC SENTENCE (STATIC)
+***0 5 5 0 0 0 0 0 YES ML NO 42UNCLEAR 2 2 3 ALGORITHM

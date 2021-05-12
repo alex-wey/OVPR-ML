@@ -1,0 +1,53 @@
+Pharma : ##OTHER
+ it will not stop those drugs from being used . ##COERCED STATE (GENERIC)
+Pot is not the same thing as Prozac or Zoloft . ##GENERIC SENTENCE (STATIC)
+While marijuana definitely has medical benefits ##GENERIC SENTENCE (STATIC)
+ it is not a wonder drug . ##GENERIC SENTENCE (STATIC)
+It 's also not as potent as some pharmaceuticals . ##GENERIC SENTENCE (STATIC)
+Look at caffeine and amphetamines , ##IMPERATIVE
+ just because the former is freely available does n't mean ##GENERIC SENTENCE (STATIC)
+ the latter has no medical purpose , ##GENERIC SENTENCE (STATIC)
+ because while they share some similar effects ##GENERIC SENTENCE (STATIC)
+ they are really completely different drugs . ##GENERIC SENTENCE (STATIC)
+Lumber : ##OTHER
+ I found it hard to find real figures ##BASIC STATE
+ but taking one country as an example , ##UNBOUNDED EVENT (SPECIFIC)
+Canada , ##OTHER
+ I managed to determine ##BOUNDED EVENT (SPECIFIC)
+ that in 2001 , ##OTHER
+the paper & pulp industry was worth about 18 billion ##BASIC STATE
+ and the rest of the wood industry ##BASIC STATE
+ including boards and panels was about 13 billion . ##BASIC STATE
+Certainly a massive shift towards hemp paper ##OTHER
+ ( which is great stuff ) ##GENERIC SENTENCE (STATIC)
+ would harm the industry , ##COERCED STATE (SPECIFIC)
+ but certainly not cripple it . ##OTHER
+Textile : ##OTHER
+ Cotton is by far the most produced textile . ##GENERIC SENTENCE (STATIC)
+Canvas would not be replaced , ##COERCED STATE (GENERIC)
+ it is mostly made from cotton . ##GENERIC SENTENCE (STATIC)
+You know ##OTHER
+ that cotton is already incredibly cheap , ##GENERIC SENTENCE (STATIC)
+right ? ##QUESTION
+Hemp would n't shake up the market that much . ##COERCED STATE (GENERIC)
+Alcohol : ##OTHER
+ All of the pot smokers ##OTHER
+ I know still drink ##GENERIC SENTENCE (DYNAMIC)
+ ( myself included ) . ##BASIC STATE
+They are different things entirely . ##GENERIC SENTENCE (STATIC)
+Pot will not replace wine , ##COERCED STATE (GENERIC)
+ it will not replace beer , ##COERCED STATE (GENERIC)
+ it will not replace liquor . ##COERCED STATE (GENERIC)
+Or have you forgotten ##QUESTION
+ that many Western countries have already banned ##PERFECT COERCED STATE (GENERIC)
+ or have begun to ban smoking in restaurants and bars ? ##PERFECT COERCED STATE (GENERIC)
+Chemicals : ##OTHER
+Yeah , ##OTHER
+ but it wo n't cripple the industry , ##COERCED STATE (GENERIC)
+ it 'll help it or nothing . ##COERCED STATE (GENERIC)
+Biofuel : ##OTHER
+ Hemp is worthless for biofuel ##GENERIC SENTENCE (STATIC)
+ when you compare it to algae . ##UNBOUNDED EVENT (GENERIC)
+
+
+***0 5 0 0 0 0 0 0 YES ML YES 5 2 5 5 HUMAN

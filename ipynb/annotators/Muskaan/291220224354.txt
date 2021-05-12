@@ -1,0 +1,58 @@
+Baktat Imani in the ancient towns of Bakhtyh ##OTHER
+ ( top right ) 
+ and Yanon Maybe we should have coined something out of the 7th century . ##COERCED STATE (GENERIC)
+Rather than simply poking fun at the darker corners of some modern society , ##OTHER
+ this fascinating graphic puts the dark and fascinating together ##BASIC STATE
+ for you to use . ##COERCED STATE (GENERIC)
+The big cutlery in a room looks like a space chessboard . ##BASIC STATE
+We are told ##GENERIC SENTENCE (HABITUAL)
+ all of us have things ##GENERIC SENTENCE (STATIC)
+ we can do after a certain length of time . ##COERCED STATE (GENERIC)
+We do n't spend our time in the house . ##GENERIC SENTENCE (DYNAMIC)
+We do n't consume alcohol ##GENERIC SENTENCE (DYNAMIC)
+ or take herbal supplements or fruit and vegetables . ##GENERIC SENTENCE (DYNAMIC)
+We find time ##GENERIC SENTENCE (DYNAMIC)
+ to eat and study . ##GENERIC SENTENCE (DYNAMIC)
+We spend time ##GENERIC SENTENCE (DYNAMIC)
+ doing chores ##GENERIC SENTENCE (DYNAMIC)
+ that are difficult to maintain . ##GENERIC SENTENCE (STATIC)
+We report for our homework every evening . ##GENERIC SENTENCE (DYNAMIC)
+We study only ##GENERIC SENTENCE (DYNAMIC)
+ while walking on the streets to places ##GENERIC SENTENCE (DYNAMIC)
+ where crime is inculcated , ##GENERIC SENTENCE (STATIC)
+ to witness the dark , dark paths of hidden drug dens . ##GENERIC SENTENCE (HABITUAL)
+These movements of time , ##OTHER
+ this graphic suggests , ##BASIC STATE
+ are essentially the process ##GENERIC SENTENCE (STATIC)
+ of one 's development ##OTHER
+ after a certain length of time . ##OTHER
+There are events all over the country ##GENERIC SENTENCE (STATIC)
+ where various religions refuse to accept ##GENERIC SENTENCE (DYNAMIC)
+ that it is the age of the law ##GENERIC SENTENCE (STATIC)
+ that caused prohibition to be extended across centuries . ##UNBOUNDED EVENT (GENERIC)
+Imani in the ancient towns of Bakhtyh , Yanon and Tenzer are examples . ##GENERIC SENTENCE (STATIC)
+They are said to have imbibed the various intoxicants soft drinks , beer , beer-guzzlers , steroids ##GENERIC SENTENCE (DYNAMIC)
+ that are equivalent to high-adrenaline , caffeine-infused sedatives . ##GENERIC SENTENCE (STATIC)
+One could say ##COERCED STATE (GENERIC0
+ there is no prohibition in the early days of civilization . ##GENERIC SENTENCE (STATIC)
+All ##OTHER
+ that is known is that the nation was already saturated with liquor . ##BASIC STATE
+To a much greater extent , ##OTHER
+ they were even believed to have used cannabis . ##PERFECT COERCED STATE (GENERIC)
+One of the important phenomena on display at the Bakhtyh Museum is the installation of a section ##BASIC STATE
+ in which alchemical plants are separated from plants ##GENERIC SENTENCE (STATIC)
+ which are nature 's sleep-throughs . ##GENERIC SENTENCE (STATIC)
+The chemical plant ##OTHER
+ used is involved in the burning of the fungi for preventing the growth of whole life itself . ##GENERIC SENTENCE (STATIC)
+The presence of chemicals in the acid plants shows the purity of these plants . ##BASIC STATE
+The mere view of them fully in love creates the illusion of freedom ##UNBOUNDED EVENT (SPECIFIC)
+ and fully loving each other . ##GENERIC SENTENCE (STATIC)
+And yet there is no mention of alcohol , ##GENERIC SENTENCE (STATIC)
+ on the so called story of the bagel , ##OTHER
+or the aroma of flowers ##OTHER
+ they can work for the afternoon after a joint or a walk or a meal . ##COERCED STATE (GENERIC)
+What if , ##OTHER
+say , ##OTHER
+a relationship between a smoothie or dessert could be queasy and cocaine-fuelled ? ##QUESTION
+
+***0 5 0 0 0 0 0 0 YES ML YES 5 2 3 3 ALGORITHM

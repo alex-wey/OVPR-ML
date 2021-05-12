@@ -1,0 +1,102 @@
+Miley Cyrus caused a stir Friday night ##BOUNDED EVENT (SPECIFIC)
+ when she strolled on stage in Amsterdam ##BOUNDED EVENT (SPECIFIC)
+ wearing a cigarette lighter ##UNBOUNDED EVENT (SPECIFIC)
+ and smoking weed straight from her mouth . ##UNBOUNDED EVENT (SPECIFIC)
+Miley Cyrus wowed the Amsterdam Lesbian Social Club at the Manchester 66th annual gala for the 40th Eurovision Song Contest . ##BOUNDED EVENT (SPECIFIC)
+The pop diva , ##OTHER
+ who hosted the iHeartRadio Music Awards in London , ##BOUNDED EVENT (SPECIFIC)
+ kept her glowy face fixed with cigarette smoke ##UNBOUNDED EVENT (SPECIFIC)
+ and appeared to smoke some of her fellow emcees . ##UNBOUNDED EVENT (SPECIFIC)
+An unidentified woman ##OTHER
+ who appeared at the side of Cyrus ##BOUNDED EVENT (SPECIFIC)
+ when she arrived at the venue ##BOUNDED EVENT (SPECIFIC)
+ confirmed ##BOUNDED EVENT (SPECIFIC)
+ she had been smoking since 5am Friday , ##PERFECT COERCED STATE (SPECIFIC)
+ according to Gay & Lesbian News . ##BASIC STATE
+She asked for a photo to reveal ##BOUNDED EVENT (SPECIFIC)
+ she was on a fake cigarette . ##UNBOUNDED EVENT (SPECIFIC)
+Concertgoers were initially taken aback , ##BOUNDED EVENT (GENERIC)
+ but an official gave an explosive account , ##BOUNDED EVENT (SPECIFIC)
+ telling reporters ##BOUNDED EVENT (SPECIFIC)
+ that Cyrus looked older than 37 ##BASIC STATE
+ and had " no wrinkles or anything ," ##BASIC STATE
+according to E.W. Scappoose / Scappoose . ##BASIC STATE
+The Dutch gay rock band Die Tondra also made an appearance ##BOUNDED EVENT (SPECIFIC)
+ to celebrate the venue . ##UNBOUNDED EVENT (SPECIFIC)
+David Hewitt , ##OTHER
+the show 's promoter , ##OTHER
+said ##BOUNDED EVENT (SPECIFIC)
+ it was " a shame " ##BASIC STATE
+ that Cyrus performed at the Amsterdam show . ##BOUNDED EVENT (SPECIFIC)
+" She 's just the most brilliant performer on the planet . ##BASIC STATE
+She 's bringing the light to her audience ," ##UNBOUNDED EVENT (SPECIFIC)
+Hewitt said . ##BOUNDED EVENT (SPECIFIC)
+An e-mailed message ##OTHER
+ posted Friday to Twitpic , ##BOUNDED EVENT (SPECIFIC)
+the Dutch website for celebrity blogs , ##OTHER
+indicated ##BASIC STATE
+ that Cyrus might have been promoting the event to everyone . ##COERCED STATE (SPECIFIC)
+" Miley Coughing " ##OTHER
+ The most fun part of the night was n't for her ," ##BASIC STATE
+the message said . ##BASIC STATE
+" It was actually a guest spot for Jake Gyllenhaal . " ##BASIC STATE
+An email message from comedian Renee Zellweger ##OTHER
+ also posted to Twitpic said : ##BASIC STATE
+ " They gave an unconventional and stunning performance to female guests and technology icons ##BOUNDED EVENT (SPECIFIC)
+ and had two breakthrough dance concerts . " ##BOUNDED EVENT (SPECIFIC)
+The themes of each music show ##OTHER
+ are what Cyrus performed ##BASIC STATE
+ while wearing her famous cigarette lighter , ##UNBOUNDED EVENT (SPECIFIC)
+ with her lyrics reflecting an edgy lyric ##BASIC STATE
+ that could come across as ironic . ##BASIC STATE
+She told fans before the show ##BOUNDED EVENT (SPECIFIC)
+ that she wanted to inspire people to use happiness . ##BASIC STATE
+" I had a lot of great days . ##BASIC STATE
+And the world is n't just here to hear it ##BASIC STATE
+ but can we give to people ##QUESTION
+ that we love ? ##GENERIC SENTENCE (STATIC)
+The genius of Miley Cyrus , " ##OTHER
+wrote former singer and actress Eriq Qqic . ##BOUNDED EVENT (SPECIFIC)
+No doubt , ##OTHER
+that is the advice ##BASIC STATE
+ given to celebrities ##GENERIC SENTENCE (DYNAMIC)
+ who set off for the weekend amid the campaign to legalize marijuana . ##BOUNDED EVENT (SPECIFIC)
+It 's become the norm ##GENERIC SENTENCE (STATIC)
+ for the country to openly discuss the issue , ##GENERALIZING SENTENCE (DYNAMIC)
+ as the jokes range from raunchy to political . ##GENERIC SENTENCE (HABITUAL)
+" I gave 100 % advice to all the women ##BOUNDED EVENT (SPECIFIC)
+ I know to join out a political party ##UNBOUNDED EVENT (GENERIC)
+ and rally together ," ##UNBOUNDED EVENT (GENERIC)
+longtime pop star Katy Perry tweeted about a plan ##BOUNDED EVENT (SPECIFIC)
+ for live performances at the Europa Cup on Saturday . ##OTHER
+Despite such wacky antics , ##OTHER
+the public debate over marijuana use has been popular in the Netherlands . ##GENERALIZING SENTENCE (STATIVE)
+A bill ##OTHER
+ passed in the legislature in August ##BOUNDED EVENT (SPECIFIC)
+ outlined a plan to decriminalize marijuana ##BASIC STATE
+ and allow people to bring it to court . ##UNBOUNDED EVENT (GENERIC)
+Less heady was Cyrus ' new duet , ##BASIC STATE
+ " Wrecking Ball , " ##OTHER
+ which stars her dressed in her trademark dark wig ##BASIC STATE
+ as she sings about wasting money . ##UNBOUNDED EVENT (SPECIFIC)
+Its lyrics warned ##BASIC STATE
+ that politicians are sending a message ##GENERIC SENTENCE (DYNAMIC)
+ that marijuana can be a drug . ##GENERIC SENTENCE (STATIC)
+The musicians are also rumored to be X 's Rod Stewart , Ricky Martin and Yoko Ono . ##BASIC STATE
+The queen of jingles has also appeared at the gaming competitions ##PERFECT COERCED STATE (SPECIFIC)
+ that bring together the world 's top performers . ##GENERIC SENTENCE (DYNAMIC)
+This year , ##OTHER
+two famous gamers broke up a week before the show . ##BOUNDED EVENT (SPECIFIC)
+The Dutch added over 100,000 people to the PokerStars gaming competitions with more than 3,000 countries to tournament-goers . ##BOUNDED EVENT (SPECIFIC)
+Video footage from backstage of Cyrus smoking a " flutter " cigarette appeared Saturday on the Web site Twitch , ##BOUNDED EVENT (SPECIFIC)
+ where she was a link-up point for the online frenzy . ##BASIC STATE
+Earlier in the night , ##OTHER
+ Cyrus was as mesmerizing as the contestants ##BASIC STATE
+ when she started singing her hit , ##BOUNDED EVENT (SPECIFIC)
+ " Caught On The Dance Floor , " ##OTHER
+ and her voice was dramatic and youthful . ##BASIC STATE
+The video ##OTHER
+ posted on YouTube says ##BASIC STATE
+ it shows Cyrus singing , dancing and spitting at the judges and viewers . ##BASIC STATE
+
+***0 3 3 3 4 4 1 2 4 YES ML NO 0 0 0 0 ALGORITHM

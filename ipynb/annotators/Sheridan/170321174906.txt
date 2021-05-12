@@ -1,0 +1,67 @@
+Washington state legalized cannabis in July . ##BOUNDED EVENT (SPECIFIC)
+The move has revived an initiative ##PERFECT COERCED STATE (SPECIFIC)
+ that long prevented consumers from purchasing it at retailers ##BOUNDED EVENT (SPECIFIC)
+ and to create a regulatory framework around the industry , ##UNBOUNDED EVENT (GENERIC)* //2
+ including smart-tech devices ##GENERIC SENTENCE (STATIC)
+ ( which are being enacted by state and federal authorities ) . ##UNBOUNDED EVENT (GENERIC) //3
+Now legal in 29 states , ##GENERIC SENTENCE (STATIC)
+ Washington D.C. is just one of more . ##BASIC STATE
+For the many fine wines and coffee shops ##OTHER
+ that rely on unlicensed cannabis sources ##GENERIC SENTENCE (STATIC)
+ you can now purchase your very own infusion kit ##COERCED STATE (GENERIC)
+ by buying a ( presumably compliant ) ##UNBOUNDED EVENT (GENERIC)
+ flow of alcohol . ##OTHER
+Once your drip-fed medicinal pot pot passes through the intake filters , ##BOUNDED EVENT (GENERIC)* //3
+ it becomes available in a specially licensed machine ##GENERIC SENTENCE (DYNAMIC) //3
+ that pumps 500 gallons of distilled coffee into a machine of two halves . ##GENERALIZING SENTENCE (DYNAMIC)
+You pay $5 , ##GENERIC SENTENCE (DYNAMIC)
+ and each one can be purchased at will from a state ##COERCED STATE (GENERIC)
+ where there are more than 4,000 registered growers and retail outlets . ##GENERIC SENTENCE (STATIC)
+The pump arrives in a controlled form within a few hours of purchase . ##GENERIC SENTENCE (DYNAMIC) //4
+This is the most secure way to buy your liquor . ##BASIC STATE
+The pump , ##OTHER
+in turn , ##OTHER
+looks like a white creation . ##GENERIC SENTENCE (STATIC)
+But ##OTHER
+ if you are not sure ##GENERIC SENTENCE (STATIC)
+ what the machine is , ##BASIC STATE //3
+just ##OTHER
+ look at its hand-healing system . ##IMPERATIVE
+Another key area of research is extraction of distilled water . ##GENERIC SENTENCE (STATIC)
+They can tap water directly through the joint , ##COERCED STATE (GENERIC)
+ but it doesnt do much more than suck down the plants oils . ##COERCED STATE (GENERIC)
+If you own a dedicated extraction and storage facility , ##GENERIC SENTENCE (STATIC)
+ like Zuck Brewery in California , ##OTHER
+ you can extract 10 times more concentrated water than normal . ##COERCED STATE (GENERIC)
+Besides pure beer , freshly minted cannabis flower , and THC , ##OTHER
+ the active ingredients of all these substances are distilled into the body , the resulting alcohol , cannabis-like compounds , ##GENERIC SENTENCE (DYNAMIC)
+ and it can be distilled in the next few weeks from agricultural soil . ##COERCED STATE (GENERIC)
+Eventually , ##OTHER
+you could make your own , flavored , legally-licensed ( and legally-contacted ) ##COERCED STATE (GENERIC)
+ strain of bud to mimic the CBD , ##UNBOUNDED EVENT (GENERIC)
+the active CBD-infused cannabis CBD brand . ##OTHER*
+While such things may seem an obvious trend , ##GENERIC SENTENCE (STATIC)
+ during a peak on Monday , August 25 , ##OTHER
+ most marijuana-related websites posted ##BOUNDED EVENT (SPECIFIC)
+ that 420 organizations , trade groups , and professional groups had officially issued statements ##PERFECT COERCED STATE (GENERIC)
+ endorsing Washington D.C.s legalization . ##UNBOUNDED EVENT (GENERIC)
+The Bay Areas marijuana industry appears entirely up in arms over Washington D.C.s legalization . ##BASIC STATE
+Its contention comes in direct conflict with the advocacy group Marijuana Policy Project . ##UNBOUNDED EVENT (SPECIFIC)
+Putting these companies , cultivators , and retailers in the red is not fair , ##BASIC STATE
+ said the group in a statement ##BOUNDED EVENT (SPECIFIC)
+ released on Sunday . ##BOUNDED EVENT (SPECIFIC) 
+It is irresponsible for any market on the West Coast to have an industrial , legal industry ##GENERIC SENTENCE (STATIC)
+ receiving subsidies from a healthcare industry ##UNBOUNDED EVENT (GENERIC)
+ that uses dangerous , illicit methods ##GENERALIZING SENTENCE (DYNAMIC)
+ to produce marijuana . ##UNBOUNDED EVENT (GENERIC)
+Still , ##OTHER
+one-day sales of cannabis are already solid : ##GENERIC SENTENCE (STATIC)
+ On Monday , ##OTHER
+seven dispensaries reached approval for sales . ##BOUNDED EVENT (SPECIFIC)
+Many of the dispensaries were joined by the likes of Seven Face and Yonder Affiliate stores and marijuana brothel operator Tango . ##BOUNDED EVENT (SPECIFIC)
+Washington is a state ##BASIC STATE
+ where people can legally grow plants for medicinal and recreational purposes , ##COERCED STATE (GENERIC)
+ and restaurants , cafes , and dispensaries sell dried-up herbal strains . ##GENERIC SENTENCE (DYNAMIC)
+If you like your particular plant , ##GENERIC SENTENCE (STATIC)
+ the bud and products will be available at your local farmers market every day . ##GENERIC SENTENCE (STATIC)
+***0 5 5 0 0 0 0 0 YES ML YES 4 3 2 3 ALGORITHM

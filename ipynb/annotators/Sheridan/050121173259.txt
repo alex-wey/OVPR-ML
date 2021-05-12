@@ -1,0 +1,95 @@
+Two just-published studies ##OTHER
+ assessing adults ' risk of cancer ##UNBOUNDED EVENT (GENERIC)
+ have reported wildly divergent , ##PERFECT COERCED STATE (SPECIFIC)
+and fairly extraordinary , ##OTHER
+outcomes . ##OTHER
+One study you may have read about . ##COERCED STATE (GENERIC)
+The other has been ignored entirely by the mainstream media . ##PERFECT COERCED STATE (GENERIC)
+But no doubt the results of both will surprise you . ##COERCED STATE (GENERIC)
+First , ##OTHER
+the study you may have heard of . ##COERCED STATE (GENERIC)
+Writing August 3 in the journal Cancer Epidemiology , ##BOUNDED EVENT (SPECIFIC)
+ investigators at McGill University in Montreal reported ##BOUNDED EVENT (SPECIFIC)
+ that moderate alcohol consumption ##OTHER
+ -- defined as six drinks or fewer per week -- ##GENERIC SENTENCE (STATIC)
+ by adults is positively associated with an elevated risk of various cancers , ##GENERIC SENTENCE (STATIC)
+ including stomach cancer , rectal cancer , and bladder cancer . ##GENERIC SENTENCE (STATIC)
+And now for the study you have n't heard of . ##COERCED STATE (GENERIC)
+Writing in the August issue of the journal Cancer Prevention Research , ##BOUNDED EVENT (SPECIFIC) 
+ investigators from Rhode Island 's Brown University , ##OTHER
+along with researchers at Boston University , Louisiana State University , and the University of Minnesota ##OTHER
+ reported ##BOUNDED EVENT (SPECIFIC)
+ that lifetime marijuana use is associated with a " significantly reduced risk " ##GENERIC SENTENCE (STATIC)
+ of head and neck squamous cell carcinoma . ##OTHER
+Authors reported , " after adjusting for potential confounders ##BOUNDED EVENT (SPECIFIC)
+ ( including smoking and alcohol drinking ) , 10 to 20 years ##BASIC STATE //4
+ of marijuana use ##OTHER
+ was associated with a significantly reduced risk of head and neck squamous cell carcinoma ##GENERIC SENTENCE (STATIC)
+ ( HNDCC ) . " ##OTHER
+Perhaps even more notably , ##OTHER
+subjects ##OTHER
+ who smoked marijuana and consumed alcohol and tobacco ##GENERIC SENTENCE (DYNAMIC)
+ ( two known high risk factors for head and neck cancers ) ##GENERIC SENTENCE (STATIC)
+ also experienced a reduced risk of cancer , ##GENERIC SENTENCE (DYNAMIC)
+ the study found . ##BOUNDED EVENT (SPECIFIC)
+"Our study suggests ##BASIC STATE
+ that moderate marijuana use is associated with reduced risk of HNSCC , " ##GENERIC SENTENCE (STATIC)
+investigators concluded . ##BOUNDED EVENT (SPECIFIC)
+"This association was consistent across different measures of marijuana use ##BASIC STATE
+ ( marijuana use status , duration , and frequency of use ) ##OTHER
+ .... Further , ##OTHER
+ we observed that marijuana use modified the interaction between alcohol and cigarette smoking , ##BOUNDED EVENT (SPECIFIC)
+ resulting in a decreased HNSCC risk among moderate smokers and light drinkers , ##GENERIC SENTENCE (DYNAMIC)
+ and attenuated risk among the heaviest smokers and drinkers . " ##OTHER
+This is n't the first time ##BASIC STATE
+ that U.S. investigators have documented an inverse association between pot use and cancer . ##PERFECT COERCED STATE (GENERIC)
+A separate 2006 population case-control study , ##OTHER
+ funded by the U.S. National Institutes of Health ##BOUNDED EVENT (SPECIFIC) //3
+ and conducted by the University of California at Los Angeles , ##BOUNDED EVENT (SPECIFIC)
+ also reported ##BOUNDED EVENT (SPECIFIC)
+ that lifetime use of cannabis was not positively associated with cancers of the lung or aerodigestive tract , ##GENERIC SENTENCE (STATIC)
+ and further noted ##BOUNDED EVENT (SPECIFIC)
+ that certain moderate users of the drug experienced a reduced cancer risk ##BOUNDED EVENT (GENERIC)
+ compared to non-using controls . ##BASIC STATE //4
+Predictably , ##OTHER
+the federal government 's goal ##OTHER
+ when green-lighting the UCLA study ##UNBOUNDED EVENT (SPECIFIC)
+ was to conclusively establish just the opposite result , ##BASIC STATE
+ as explained recently by its lead researcher Dr. Donald Tashkin . ##BOUNDED EVENT (SPECIFIC)
+In an interview with the McClatchy newspaper chain in June , ##OTHER
+Dr. Tashkin admitted ##BOUNDED EVENT (SPECIFIC)
+ that he expected ##BASIC STATE
+ his study would find ##COERCED STATE (SPECIFIC)
+ that pot was associated with " increased health effects . " ##GENERIC SENTENCE (STATIC)
+Instead , ##OTHER
+he summarized , ##BOUNDED EVENT (SPECIFIC)
+ "What we found instead was no association ##BOUNDED EVENT (SPECIFIC) 
+ ( between marijuana smoking and cancer ) ##OTHER
+ and even a suggestion of some protective effect . " ##OTHER
+Tashkin added , ##BOUNDED EVENT (SPECIFIC)
+ " [ A ] t this point , ##OTHER
+ I 'd be in favor of ( marijuana ) legalization . ##BASIC STATE
+I would n't encourage anybody ##COERCED STATE (SPECIFIC)
+ to smoke any substances . ##GENERIC SENTENCE (DYNAMIC)
+But I do n't think ##BASIC STATE
+ it should be stigmatized as an illegal substance . ##GENERIC SENTENCE (STATIC)
+Tobacco smoking causes far more harm . ##GENERIC SENTENCE (DYNAMIC)
+And in terms of an intoxicant , ##OTHER
+ alcohol causes far more harm ##GENERIC SENTENCE (DYNAMIC)
+ ( than marijuana ) . " ##OTHER
+Despite these findings , ##OTHER
+ which to date inexplicably remain under-reported by the mainstream press , ##BASIC STATE
+ many so-called experts persist with claims ##UNBOUNDED EVENT (GENERIC)
+ that marijuana smoking is causally linked to cancer . ##GENERIC SENTENCE (STATIC)
+In fact , ##OTHER
+in June the California Environmental Protection Agency with great fanfare added marijuana smoke to its list of chemicals ##BOUNDED EVENT (SPECIFIC)
+ that possess potential carcinogenic properties and / ##GENERIC SENTENCE (STATIC)
+ or are associated with reproductive toxicity . ##GENERIC SENTENCE (STATIC)
+You know ##QUESTION
+ what other ##OTHER
+ commonly indulged in substance also appears on this list ? ##GENERIC SENTENCE (STATIC)
+That would be alcohol . ##GENERIC SENTENCE (STATIC)
+Of course that conclusion , ##OTHER
+much like the reports of marijuana 's anti-cancer prowess , ##OTHER
+apparently went up in smoke . ##COERCED STATE (SPECIFIC)
+***0 5 3 0 0 0 0 0 YES ML YES 5 2 5 4 HUMAN

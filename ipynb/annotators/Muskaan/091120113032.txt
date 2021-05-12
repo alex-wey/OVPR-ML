@@ -1,0 +1,47 @@
+Oklahoma voters approved a medical marijuana bill on Tuesday , ##BOUNDED EVENT (GENERIC)
+ making the state the 30th in the nation to permit the use of marijuana with a doctors recommendation . ##BOUNDED EVENT (SPECIFIC)
+The measure is notable for reflecting one of the most permissive medical cannabis policies in the country . ##BASIC STATE
+While most states specify a narrow list of medical conditions ##GENERIC SENTENCE (STATIC)
+ for which doctors can recommend the plant , ##GENERIC SENTENCE (STATIC)
+ in Oklahoma doctors will be able to recommend it for any condition . ##COERCED STATE (GENERIC)
+Last year the National Academies of Sciences , Engineering and Medicine reviewed the evidence on medical marijuana ##BOUNDED EVENT (SPECIFIC)
+ and concluded that it is effective at reducing chronic pain in adults , ##GENERIC SENTENCE (STATIC) 
+as well as nausea and vomiting in cancer patients . ##OTHER
+Oklahoma patients with a medical marijuana license will be able to possess up to eight ounces of marijuana in their residences , ##COERCED STATE (GENERIC)
+ carry up to three ounces , ##GENERIC SENTENCE (HABITUAL)
+ and grow up to 12 marijuana plants . ##GENERIC SENTENCE (HABITUAL)
+The limits for possession and cultivation are stricter in many other states , 
+ and some states , ##GENERIC SENTENCE (STATIC)
+such as New York , ##OTHER
+ mandate ##GENERIC SENTENCE (STATIC)
+ that the drug cannot be smoked . ##GENERIC SENTENCE (STATIC)
+Additionally , ##OTHER
+ Oklahomas measure reduces penalties for the possession of up to 1.5 ounces of marijuana for any individual with a medical condition , ##BASIC STATE
+ regardless of whether they have a medical marijuana license . ##GENERIC SENTENCE (STATIC)
+With 98 percent of precincts reporting as of 10p.m . Central time , ##BASIC STATE
+ the medical marijuana measure was leading with the support of 57 percent of voters , ##UNBOUNDED EVENT (SPECIFIC)
+ with 43 percent opposed . ##BASIC STATE
+That level of support is striking for a primary election in a deep red state ##BASIC STATE
+ that voted for President Trump by a greater than a 2-to-1 margin in 2016 . ##BOUNDED EVENT (SPECIFIC) 
+Members of the states Republican establishment ##OTHER
+ had lined up in opposition to the measure . ##PERFECT COERCED STATE (GENERIC)
+U.S. Sen. James Lankford recorded a TV ad ##BOUNDED EVENT (SPECIFIC)
+ urging voters ##BOUNDED EVENT (SPECIFIC)
+ to reject the measure , ##UNBOUNDED EVENT (GENERIC)
+ arguing ##BOUNDED EVENT (SPECIFIC)
+ that our families wont be better ##COERCED STATE (GENERIC)
+ if more parents and grandparents smoke more marijuana . ##COERCED STATE (GENERIC)
+Gov. Mary Fallin said ##BOUNDED EVENT (SPECIFIC)
+ the measure basically allows recreational marijuana in the state of Oklahoma . ##BASIC STATE
+Tuesdays results suggest ##BASIC STATE
+ that Oklahoma Republicans largely shrugged off those concerns . ##UNBOUNDED EVENT (GENERIC)
+About 53 percent of voters cast ballots in the GOPgubernatorial primary this evening , ##BOUNDED EVENT (SPECIFIC)
+ suggesting the medical marijuana measure ##UNBOUNDED EVENT (GENERIC)
+ won over a majority-Republican electorate . ##UNBOUNDED EVENT (SPECIFIC)
+Fallin said in a statement ##BOUNDED EVENT (SPECIFIC)
+ that she will be discussing with legislative leaders ##COERCED STATE (SPECIFIC)
+ and state agencies our options going forward on how best to proceed with adding a medical and proper regulatory framework ##QUESTION
+ to make sure ##UNBOUNDED EVENT (GENERIC)
+ marijuana use is truly for valid medical illnesses . ##GENERIC SENTENCE (STATIC)
+
+***0 5 5 5 5 5 5 1 YES ML NO 0 0 0 0 ALGORITHM

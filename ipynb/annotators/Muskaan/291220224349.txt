@@ -1,0 +1,54 @@
+Ok , ##OTHER
+they just have a different view of drugs . ##GENERIC SENTENCE (STATIC)
+Maybe they are wrong . ##GENERIC SENTENCE (STATIC)
+Humans have been consuming psychedelics forever , ##PERFECT COERCED STATE (GENERIC)
+ other cultures praised them . ##GENERIC SENTENCE (DYNAMIC)
+I think ##BASIC STATE
+ you just need to educate yourself on the fact ##BASIC STATE
+ that drugs do not just make their users losers . ##GENERIC SENTENCE (DYNAMIC)
+Drugs power art and music . ##GENERIC SENTENCE (DYNAMIC)
+Drugs have helped tons of cultures . ##PERFECT COERCED STATE (GENERIC)
+Shamans have been eating mushrooms ##PERFECT COERCED STATE (GENERIC)
+ and not ruining societies for thousands of years . ##GENERIC SENTENCE (DYNAMIC)
+Drugs have good potential , ##GENERIC SENTENCE (STATIC)
+ you just have learned otherwise from a campaign ##PERFECT COERCED STATE (SPECIFIC)
+ that has motives ##BASIC STATE
+ that are NOT protection people . ##GENERIC SENTENCE (STATIC)
+Steve Jobs dropped acid , ##UNBOUNDED EVENT (SPECIFIC)
+ Obama smoked weed , ##UNBOUNDED EVENT (SPECIFIC)
+ every musician has done pretty much everything , ##PERFECT COERCED STATE (GENERIC)
+ buisnessmen and hollywood people do coke , ##GENERIC SENTENCE (DYNAMUC)
+ drugs do n't just make people into losers ##GENERIC SENTENCE (DYNAMIC)
+ and it is a ignorant stereotype to think ##GENERIC SENTENCE (STATIC)
+ that they do not help a lot of people . ##GENERIC SENTENCE (DYNAMIC)
+The horrible fuck ups are covered , ##GENERIC SENTENCE (HABITUAL)
+ the people ##OTHER
+ doing it responsibly are n't talked about . ##GENERIC SENTENCE (DYNAMIC)
+I would go ahead ##COERCED STATE (SPECIFIC)
+ and argue ##UNBOUNDED EVENT (SPECIFIC)
+ drugs do wonders for society . ##GENERIC SENTENCE (DYNAMIC)
+Psychedelics are an excellent mind ##GENERIC SENTENCE (STATIC)
+ expanding tool . ##OTHER
+Alcohol has probably been present at every important affair since the dawn of time . ##PERFECT COERCED STATE (GENERIC)
+Ketamine has been shown to treat depression . ##GENERIC SENTENCE (STATIC)
+MDMA has excellent therapeutic value for things like PTSD . ##GENERIC SENTENCE (STATIC)
+Drugs are wonderful for some peoples mental health , ##GENERIC SENTENCE (STATIC)
+ and if it is not ##GENERIC SENTENCE (STATIC)
+ it is not because of the drug but the reason ##GENERIC SENTENCE (STATIC)
+ for using it . ##GENERIC SENTENCE (DYNAMIC)
+What is making it bad is the ignorance ##GENERIC SENTENCE (DYNAMIC)
+ that is perpetuated by their illegality . ##GENERIC SENTENCE (DYNAMIC)
+People are doing stupid doses , ##GENERIC SENTENCE (DYNAMIC)
+ people are doing drugs in a way ##GENERIC SENTENCE (DYNAMIC)
+ that harm themselves ##GENERIC SENTENCE (DYNAMIC)
+ because they do not know ##GENERIC SENTENCE (STATIC)
+ how to do it right because of the illegality . ##GENERIC SENTENCE (DYNAMIC)
+Explain to me ##IMPERATIVE
+ why , ##OTHER
+ exactly , ##OTHER
+drugs are so bad . ##GENERIC SENTENCE (STATIC)
+Cocaine and weed used to be legal , ##GENERIC SENTENCE (STATIC)
+ opiates used to be in kids cough medicine , ##GENERIC SENTENCE (STATIC)
+ and the world did n't fall apart into unproductive nonsense . ##UNBOUNDED EVENT (GENERIC)
+
+***0 5 0 0 0 0 0 0 YES ML YES 5 3 5 5 HUMAN

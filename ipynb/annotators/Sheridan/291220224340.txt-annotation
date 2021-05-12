@@ -1,0 +1,25 @@
+1 1 0 0 same
+0 1 2 2 cond
+
+3 6 0 2 elab
+4 6 3 3 elab
+5 6 4 4 elab
+5 5 6 6 same
+
+3 6 7 11 temp
+7 7 8 11 elab
+9 10 8 8 elab
+9 9 10 10 temp
+11 11 10 10 elab
+
+12 16 7 11 rep
+12 12 13 16 elab
+14 15 13 13 elab
+16 16 15 15 elab
+14 14 15 15 temp
+
+18 18 17 17 elabx
+19 21 17 18 elab
+19 19 20 20 sim
+19 20 21 21 ve
+21 21 22 22 vex

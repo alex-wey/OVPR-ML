@@ -1,0 +1,74 @@
+It used to be that some sort of world sport in Washington , D.C. , ##UNBOUNDED EVENT (GENERIC)
+ would not come into focus in the time between World Cup games and World Cups , ##COERCED STATE (GENERIC)
+ but for a recent game on 8th Avenue ##OTHER
+ there was lots of patriotic action going on in the sky . ##UNBOUNDED EVENT (SPECIFIC)
+Imagine the excitement ##IMPERATIVE
+ when the Minnesota Lynx squared off with the Washington Stealth . ##BOUNDED EVENT (SPECIFIC)
+A vapor trail of marijuana and a cup of marijuana was created . ##BOUNDED EVENT (SPECIFIC)*
+A member of Congress used an ber-conventional creative ploy ##BOUNDED EVENT (SPECIFIC)
+ to throw a clever war coin in the player 's pocket ##BOUNDED EVENT (SPECIFIC)
+ and add some reality to the crowd . ##BOUNDED EVENT (SPECIFIC)
+The sponsors of the game ##OTHER
+ featuring the warriors from other countries , ##BASIC STATE
+ such as Jamaica , Brazil , Argentina , Nicaragua , and Colombia , ##OTHER
+ offered up their own marijuana ##BOUNDED EVENT (SPECIFIC)
+ -- legal and legal but still not illegal --  ##OTHER*
+ for you to see in the fall election campaigns . ##COERCED STATE (GENERIC)*
+This not-so-slightnancy generated both a controversy and an entertaining discussion about the potential benefits of marijuana . ##BOUNDED EVENT (SPECIFIC)
+The sponsors , ##OTHER
+Howard Schilling , ##OTHER
+a self-proclaimed tobacco-coated minister , ##OTHER
+and his wife , ##OTHER
+Laura , ##OTHER
+decided to provide sponsors with full legal pot ##BOUNDED EVENT (SPECIFIC)
+ and added to the pot industry access to special gloves to dust children's ' hands . ##BOUNDED EVENT (SPECIFIC)*
+In a similar vein , ##OTHER
+Dr. Henry Inouye , ##OTHER
+ who is a member of the National Congress of Communist Organizations ##BASIC STATE
+ ( NCCO ) , ##OTHER
+ has allowed F-bombs to be made in airplanes . ##PERFECT COERCED STATE (SPECIFIC)
+Now , ##OTHER
+ after seven years , ##OTHER
+Mr. Inouye has filed the Chewbacca suit against the federal government . ##PERFECT COERCED STATE (SPECIFIC)
+He fears ##BASIC STATE
+ it could scare off any future tourists ##COERCED STATE (SPECIFIC)
+ seeking commercial marijuana in the future . ##COERCED STATE (GENERIC)
+Mr. Inouye has also vowed ##PERFECT COERCED STATE (SPECIFIC)
+ that Congress will pass laws ##COERCED STATE (SPECIFIC)
+ outlawing any kinds of marijuana businesses ##COERCED STATE (SPECIFIC)
+ and will eventually negotiate a truce . ##COERCED STATE (SPECIFIC)
+Mr. Inouye also explained ##BOUNDED EVENT (SPECIFIC)
+ why he had proposed an amendment to the Controlled Substances Act ##PERFECT COERCED STATE (SPECIFIC)
+ that would allow for marijuana testing ##COERCED STATE (SPECIFIC)
+ and gives a certain percentage of the drug ##BASIC STATE
+ -- up to 50 % -- ##OTHER
+ to be used for medical purposes only . ##GENERIC SENTENCE (DYNAMIC)
+The Drug Enforcement Administration , ##OTHER
+ charged with ensuring the safety of agents and informants , ##GENERALIZING SENTENCE (STATIVE)
+ said ##BOUNDED EVENT (SPECIFIC)
+ Dr. Inouye 's actions 'were in compliance with all federal statutes and regulations .' ##BASIC STATE
+The new federal marijuana law now goes into effect . ##UNBOUNDED EVENT (SPECIFIC)
+In an interview with Focus on the Family , ##OTHER
+ Dr. Inouye told a crowd of drug abusers ##BOUNDED EVENT (SPECIFIC)
+ that he is sick of talking about a potential drug war . ##BASIC STATE
+He appealed for the United States ##BOUNDED EVENT (SPECIFIC)
+ government to put more money into drugs fighting units , ##COERCED STATE (SPECIFIC)
+ so these agents would know ##COERCED STATE (SPECIFIC)
+ whom to target ##COERCED STATE (SPECIFIC)
+ and if enforcement would be adequate . ##COERCED STATE (SPECIFIC)
+When asked ##BOUNDED EVENT (SPECIFIC)
+ how the undercover operation was going at the National Football League level ##QUESTION
+ he replied ##BOUNDED EVENT (SPECIFIC)
+"it 's a made-up thing . ##BASIC STATE
+When I see it ##COERCED STATE (SPECIFIC)
+ I 'm going to like it . ##COERCED STATE (SPECIFIC)
+But no , ##OTHER
+it 's got to be legal to do drug work . " ##COERCED STATE (GENERIC)
+Dr. Inouye said ##BOUNDED EVENT (SPECIFIC)
+ Congress should consider drug monitoring , ##COERCED STATE (SPECIFIC)
+a federal program ##OTHER
+ that could weed out drug users ##COERCED STATE (SPECIFIC)
+ without a problem ##OTHER
+ because they will be less likely to commit crimes than members of drug gangs . ##COERCED STATE (GENERIC)
+
+***0 3 5 5 1 1 1 4 YES ML NO 0 0 0 0 ALGORITHM

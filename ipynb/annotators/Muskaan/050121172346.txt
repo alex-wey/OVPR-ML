@@ -1,0 +1,33 @@
+Robert Garrigus of the U.S. leaves the final round of the Pinehurst Champions event ahead of the seventh PGA Championship . ##BOUNDED EVENT (SPECIFIC)
+Two-time PGA champ Robert Garrigus thought about , smoked weed on the outskirts of Augusta , Georgia . ##BOUNDED EVENT (SPECIFIC)
+He believes ##BASIC STATE
+ he and other golfers would be better off by going down a different road ##COERCED STATE (GENERIC)
+ if that wasnt the case . ##COERCED STATE (GENERIC)*
+Garrigus had a great experience of playing the Nationwide Tour last year , ##BOUNDED EVENT (SPECIFIC)
+ winning the George Washington Invitational in impressive fashion , ##BOUNDED EVENT (SPECIFIC)
+ and hes slowly beginning to feel more comfortable with some of the more rough courses . ##UNBOUNDED EVENT (SPECIFIC)
+In the first qualifying round in his final swing of the third round of his Nationwide Tour event on Wednesday , ##OTHER
+ Garrigus did just enough not to drop 20 shots all but one of them ##BOUNDED EVENT (SPECIFIC)
+ tied for the lead ##BASIC STATE
+ but then fell further behind . ##BOUNDED EVENT (SPECIFIC)
+As Darren Clarke revealed , ##BOUNDED EVENT (SPECIFIC)
+ the shot ##OTHER
+ that finally got Garrigus to his feet ##BOUNDED EVENT (SPECIFIC)
+ would have been his hole-in-one at the par-3 14th . ##COERCED STATE (SPECIFIC)
+The next closest putt came at the 17th , ##BOUNDED EVENT (SPECIFIC)
+ and a bogey at the last dropped Garrigus into a tie for 39th . ##BOUNDED EVENT (SPECIFIC)
+That put him at 13 over in an even-par 64 , ##BOUNDED EVENT (SPECIFIC)
+a score ##OTHER
+ that has him still in danger ##BASIC STATE
+ of missing the cut in his final two events . ##COERCED STATE (SPECIFIC)
+Then again , ##OTHER
+it would have been good ##COERCED STATE (SPECIFIC)
+ for Garrigus to not get behind Clarke . ##UNBOUNDED EVENT (SPECIFIC)
+On Sunday , ##OTHER
+ a 61-foot eagle putt at the last was sufficient ##BOUNDED EVENT (SPECIFIC)
+ to reach a tie for 50th , ##BOUNDED EVENT (SPECIFIC)
+ but today the two-time South African Cup winner stopped making birdies ##BOUNDED EVENT (SPECIFIC)
+ and made three more birdies , ##BOUNDED EVENT (SPECIFIC)
+ and it was a playoff . ##BASIC STATE
+
+***4 5 5 5 5 4 4 3 YES ML NO 0 0 0 0 ALGORITHM

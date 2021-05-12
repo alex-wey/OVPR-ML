@@ -1,0 +1,35 @@
+What other license to violate societal norms can the Democratic Party endorse ? ##QUESTION
+Now its drugs . ##GENERIC SENTENCE (STATIC)
+Texas Democrats have joined with other supporters of legalizing marijuana in urging the federal government ##PERFECT COERCED STATE (GENERIC)
+ to decriminalize the drug . ##UNBOUNDED EVENT (SPECIFIC)
+In the partys platform , ##OTHER
+the Democrats are asking the White House , the Department of Justice , and Congress ##UNBOUNDED EVENT (SPECIFIC)
+ to back such a move . ##UNBOUNDED EVENT (SPECIFIC)
+In the platform , the Democrats claim ##UNBOUNDED EVENT (SPECIFIC) //4
+ that 85 percent of the arrests ##OTHER
+ made related to marijuana ##GENERIC SENTENCE (DYNAMIC)
+ are only for possession , ##GENERIC SENTENCE (HABITUAL) //4
+not distribution , ##OTHER
+and the government ##OTHER
+ outlawing the drug only gives control to the drug cartels and street gangs . ##UNBOUNDED EVENT (SPECIFIC)
+They say ##BASIC STATE
+ marijuana should be treated like alcohol and tobacco : ##COERCED STATE (GENERIC)
+ Decriminalization of marijuana does not mean ##GENERIC SENTENCE (STATIC)
+ we endorse marijuana use , ##GENERIC SENTENCE (STATIC)
+ but it is only a call for wiser law enforcement and public health policy . ##GENERIC SENTENCE (STATIC)
+Recent polls show ##GENERIC SENTENCE (STATIC)
+ over 50 percent of Americans believe ##GENERIC SENTENCE (STATIC)
+ marijuana should be decriminalized . ##COERCED STATE (GENERIC)
+Gilberto Hinojosa , ##OTHER
+the Texas Democratic Party chairman , ##OTHER
+said , ##BOUNDED EVENT (SPECIFIC)
+ you shouldnt put a criminal stigma on these young folks for the rest of their lives . ##COERCED STATE (GENERIC)
+It is becoming apparent ##UNBOUNDED EVENT (SPECIFIC)
+ that the Democratic Party wants to control Americans lives in every way but one : ##BASIC STATE
+ what to do with their bodies in any way ##GENERIC SENTENCE (DYNAMIC) //2
+ that counters traditional morality . ##GENERIC SENTENCE (STATIC)
+Whether its abortion on demand or legalizing drugs , ##OTHER
+ the Democratic Party now represents a libertine hedonistic lifestyle ##BASIC STATE
+ which brooks no opposition and eschews personal responsibility . ##GENERIC SENTENCE (STATIC)
+And this move by the Texas Democrats is more of the same . ##BASIC STATE
+***0 5 2 0 0 0 0 0 YES ML YES 1 3 3 5 HUMAN

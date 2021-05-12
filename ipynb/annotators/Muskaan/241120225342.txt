@@ -1,0 +1,87 @@
+Brad Pitt will probably be releasing a movie about 10 years ##COERCED STATE (SPECIFIC)
+ after his first movie premiering , ##BOUNDED EVENT (SPECIFIC)
+Gangster Squad . ##OTHER
+According to The New York Times , ##BASIC STATE
+Pitt wont be taking pot for longer than eight months . ##COERCED STATE (SPECIFIC)
+The actor will exit his Disney Disney Films production role ##COERCED STATE (SPECIFIC)
+ and star in a Biutiful documentary ##COERCED STATE (SPECIFIC)
+ titled " Six Months of Sam , ##BASIC STATE
+ which premiered Friday at the New York Film Festival . ##BOUNDED EVENT (SPECIFIC)
+But every time ##OTHER
+ that Pitt appeared in movies even the iconic Oceans trilogy ##GENERALIZING SENTENCE (DYNAMIC)
+ he enjoyed the greatest return ever for Warner Bros. ##GENERALIZING SENTENCE (STATIVE)
+ when he appeared in Romeo and Juliet , The Proposition , Gangster Squad , Mad Max : Fury Road , Star Wars : Episode III Revenge of the Sith , Green Lantern , El Thermos and The Void ##BOUNDED EVENT (SPECIFIC)
+ ( 2000s in particular ) . ##OTHER
+He never did anything ##GENERALIZING SENTENCE (DYNAMIC)
+ but drop his jaw . ##GENERALIZING SENTENCE (DYNAMIC)
+Films star continues to be heavy handed when it comes to getting on a law enforcement warrant for a new officer with whom they share a cigar . ##UNBOUNDED EVENT (SPECIFIC)
+Pitt is the most commonly cited reason for a warrant for a new police officer , ##BASIC STATE 
+ according to a recent essay in Rolling Stone . ##BASIC STATE
+Former New York Mayor Rudy Giuliani defended the 2007 marijuana ban in the blockbuster movie Taxi Driver , ##BOUNDED EVENT (SPECIFIC)
+ when a TV interviewer asked ##BOUNDED EVENT (SPECIFIC)
+ if Pitt asked to smoke marijuana . ##QUESTION
+" I think ##BASIC STATE
+ he was probably smoking that too many beers , ##COERCED STATE (SPECIFIC)
+ said Giuliani , ##BOUNDED EVENT (SPECIFIC)
+before adding , ##BOUNDED EVENT (SPECIFIC)
+ I do think ##BASIC STATE
+ he did a terrible job ##BOUNDED EVENT (SPECIFIC)
+ of bringing it to a level ##BOUNDED EVENT (SPECIFIC)
+ where it does n't matter . ##BASIC STATE
+The host actually ran afoul of people ##BOUNDED EVENT (SPECIFIC)
+ involved in Taxi ##GENERIC SENTENCE (STATIC)
+ who accused Pitt of being a con artist . ##BOUNDED EVENT (GENERIC)
+The commentator said ##BOUNDED EVENT (SPECIFIC)
+ Pitt may have gone to the theater , ##COERCED STATE (SPECIFIC)
+ where there was no smoke , no alcohol and no pot . ##GENERIC SENTENCE (STATIC)
+Pitt said ##BOUNDED EVENT (SPECIFIC)
+ he did not smoke any alcohol , ##BOUNDED EVENT (SPECIFIC)
+ and you know , ##OTHER
+ if I get drunk , ##COERCED STATE (SPECIFIC)
+ I 'll do something else . ##COERCED STATE (SPECIFIC)
+Does Smith think ##QUESTION
+ there is no smoking gun ? ##GENERIC SENTENCE (STATIC)
+Turns out ##BASIC STATE
+ Smith has never seen Fury Road . ##PERFECT COERCED STATE (SPECIFIC)
+I 'm no fan of Rocky or the [ Vic ] Trabelsi Road movies , ##BASIC STATE
+ Smith told ToC.com . ##BOUNDED EVENT (SPECIFIC)
+I 'll be honest , ##COERCED STATE (SPECIFIC)
+ they were two of the least friendly of my films in terms of box office and conventions . ##BASIC STATE
+I did see them one night . ##BOUNDED EVENT (SPECIFIC)
+There were sort of silent like The Rotten Tomatoes .' ##BASIC STATE
+The Machete director slammed the movies audience ##BOUNDED EVENT (SPECIFIC)
+ as films ##OTHER
+ that do n't reflect the current presidential race . ##BASIC STATE
+They did n't feel strongly enough ##BASIC STATE
+ to pay their government bills ##UNBOUNDED EVENT (SPECIFIC)
+ without them jumping in a helicopter . ##UNBOUNDED EVENT (SPECIFIC)
+They did n't feel strongly enough ##BASIC STATE
+to pay the establishment bill for a movie ##UNBOUNDED EVENT (SPECIFIC)
+ that has n't even been called comics-blockbuster , ' ##BASIC STATE
+ Smith said . ##BOUNDED EVENT (SPECIFIC)
+Machete star Antoine Fuqua added his voice to the fight against tobacco . ##BOUNDED EVENT (SPECIFIC)
+Most moviegoers , ##OTHER
+ why the hell should n't ##COERCED STATE (GENERIC)
+ they smoke ? ##COERCED STATE (GENERIC)
+And the only movie the government government would let him play ##BASIC STATE
+ with was The Hangover , ##BASIC STATE
+ Fuqua said . ##BOUNDED EVENT (SPECIFIC)
+I do n't think ##BASIC STATE
+ there 's anything wrong with a film ##BASIC STATE
+ that tells the story of the biggest movie of our time , ##BASIC STATE
+ and because of that , ##OTHER
+ the people would just tune in in a different way . ##COERCED STATE (GENERIC)
+They would n't watch it ##COERCED STATE (GENERIC)
+ as if it was action .' ##BASIC STATE
+Perhaps the studios wont be displeased with Pitt 's summer movie role . ##COERCED STATE (GENERIC)
+There is really nothing wrong with smoking marijuana in Hollywood , ##BASIC STATE
+ he said . ##BOUNDED EVENT (SPECIFIC)
+I think ##BASIC STATE
+ some of the characters ##OTHER
+ in Gangster Squad ##OTHER
+ are really tough , ##GENERIC SENTENCE (STATIC)
+ because when they go out there ##UNBOUNDED EVENT (SPECIFIC) 
+ and they 're smoking it ##UNBOUNDED EVENT (SPECIFIC)
+ they 're really violent . ##GENERIC SENTENCE (STATIC)
+
+***0 3 2 3 2 2 4 YES ML NO 0 0 0 0 ALGORITHM

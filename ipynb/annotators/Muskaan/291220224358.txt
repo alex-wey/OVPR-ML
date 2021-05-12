@@ -1,0 +1,65 @@
+Sixty % of all people over the age of 50 are now suffering from PTSD , ##GENERIC SENTENCE (STATIC)
+ it seems . ##BASIC STATE
+Along with the ease with which smokers can smoke with the biggest impact in terms of mental health . ##GENERIC SENTENCE (DYNAMIC)
+But how much are those suffering PTSD symptoms actually suffering from that ? ##QUESTION
+One way or another , ##OTHER
+the majority of the million plus users ##OTHER
+ who use marijuana either do not experience symptoms , ##GENERIC SENTENCE (HABITUAL)
+ or they are self-medicating . ##GENERIC SENTENCE (DYNAMIC)
+And marijuana is obviously much more beneficial than some of the more potent drugs ##GENERIC SENTENCE (STATIC)
+ that routinely come out of the lab . ##GENERIC SENTENCE (DYNAMIC)
+Its health benefits outweigh concerns about the ease ##GENERIC SENTENCE (STATIC)
+ with which users partake and treat other conditions , ##GENERIC SENTENCE (DYNAMIC)
+thanks to both the impact and the practical benefits . ##OTHER
+Marijuana , ##OTHER
+quite simply , ##OTHER
+has a tremendous cognitive and psychological benefits , ##GENERIC SENTENCE (STATIC)
+ as do some powerful prescription medications like prescription painkillers , insulin and aspirin . ##GENERIC SENTENCE (STATIC)
+We like my medicine a lot ##GENERIC SENTENCE (STATIC)
+ when we are prescribed the right medication ##GENERIC SENTENCE (HABITUAL)
+ and we are thoroughly prescribed the right medicine ##GENERIC SENTENCE (HABITUAL)
+ its benefit over whats on the other side of the coin can be very interesting . ##GENERIC SENTENCE (STATIC)
+Having its health benefits discussed together in print can be quite an interesting conversation piece . ##GENERIC SENTENCE (STATIC)
+So my point is : ##BASIC STATE
+any add-on to standard prescription meds ##OTHER
+ that provides a proven , real-world benefits of up to 50 % ##GENERIC SENTENCE (STATIC)
+ is a mistake , ##GENERIC SENTENCE (STATIC)
+ and one of the reasons ##OTHER
+ why it isnt a great use of the word " well " ##GENERIC SENTENCE (STATIC)
+ is because both these problems stem from the treatment side of things , ##GENERIC SENTENCE (STATIC)
+ that is . ##BASIC STATE
+Theres nothing wrong with that . ##GENERIC SENTENCE (STATIC)
+Practicing this kind of hard mind over a prolonged period of time can be incredibly helpful . ##GENERIC SENTENCE (STATIC)
+Whats ##OTHER
+ a patient not to do ? ##QUESTION
+Whats ##OTHER
+ a patient not to do ? ##QUESTION
+Simply put , ##OTHER
+ if you are suffering from PTSD , ##COERCED STATE (GENERIC)
+ a few of these warnings are you not to be " addicted " to this element of the body , ##GENERIC SENTENCE (STATIC)
+ even if it is different from the other side of the coin of antidepressants . ##GENERIC SENTENCE (STATIC)
+Most practitioners will tell you ##COERCED STATE (GENERIC)
+ that treatment is not something to be gained by having a " medicine " ##GENERIC SENTENCE (STATIC)
+ but to " create a experience " ##GENERIC SENTENCE (DYNAMIC)
+with that individual being " healthy ". ##GENERIC SENTENCE (STATIC)
+Thats exactly the two different forms ##BASIC STATE
+ of mental health and thats ##OTHER
+ why its so important to have policies ##BASIC STATE
+ that give us options for what is sensible ##GENERIC SENTENCE (STATIC)
+ and being prescribed is ##GENERIC SENTENCE (STATIC)
+ actually ##OTHER
+ how we are going to cope with these types of medical problems . ##COERCED STATE (GENERIC)
+By that , ##OTHER
+were establishing a consensus ##UNBOUNDED EVENT (GENERIC)
+ on what needs to be done . ##GENERIC SENTENCE (STATIC)
+So its no surprise that in my view , ##BASIC STATE
+however , ##OTHER
+ people are choosing ##GENERIC SENTENCE (DYNAMIC)
+ whether they should get this side of the line ##COERCED STATE (GENERIC)
+ or not . ##OTHER
+If it turns out that pot ##COERCED STATE (GENERIC)
+ does actually hold promise then put it to rest ##IMPERATIVE
+ and let us just enjoy ##IMPERATIVE
+ what we have . ##GENERIC SENTENCE (STATIC)
+
+***0 5 0 0 0 0 0 0 YES ML YES 5 3 2 3 ALGORITHM

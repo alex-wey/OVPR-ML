@@ -1,0 +1,32 @@
+A new Gallup poll found ##BOUNDED EVENT (SPECIFIC)
+ that 64 % of Americans support federalism ##GENERIC SENTENCE (STATIC)
+ when it comes to marijuana laws , ##GENERIC SENTENCE (DYNAMIC) //4
+ saying ##UNBOUNDED EVENT (GENERIC)
+ the federal government should not enforce federal laws against marijuana in states such as Colorado and Washington ##COERCED STATE (SPECIFIC)
+ that recently voted to legalize marijuana use . ##BOUNDED EVENT (SPECIFIC)
+Even 40 % of Americans ##OTHER
+ who are personally against the legalization of marijuana were in favor of federalism . ##GENERIC SENTENCE (STATIC)
+The Federal Controlled Substances Act prohibits marijuana use , ##BASIC STATE
+ and state laws such as those in Washington and Colorado are in conflict with it . ##GENERIC SENTENCE (STATIC)
+According to the poll , ##BASIC STATE
+ 60 % of Americans aged 18 to 29 support ##GENERIC SENTENCE (STATIC)
+ legalizing marijuana ##UNBOUNDED EVENT (GENERIC)
+ while about as many of those 65 and older are opposed . ##GENERIC SENTENCE (STATIC)
+The bulk of middle-aged Americans those ##OTHER
+ aged 30 to 64 ##GENERIC SENTENCE (STATIC)
+ are split on the issue . ##GENERIC SENTENCE (STATIC)
+Among Republicans , ##OTHER
+ 66 % believe ##GENERIC SENTENCE (STATIC)
+ marijuana should be legalized ##COERCED STATE (GENERIC)
+ while 33 % support legalization . ##GENERIC SENTENCE (STATIC)
+Democrats favor legalization , ##GENERIC SENTENCE (HABITUAL) //4
+ with 61 % in support and 38 % ##OTHER
+ opposed to legalization . ##GENERIC SENTENCE (STATIC)
+Independents are split , ##GENERIC SENTENCE (STATIC)
+ with 50 % supporting legalization ##GENERIC SENTENCE (STATIC)
+ and 47 % in opposition . ##OTHER
+Fifty percent of Americans believe ##GENERIC SENTENCE (STATIC)
+ marijuana should not be legal ##GENERIC SENTENCE (STATIC)
+ while 48 % believe ##GENERIC SENTENCE (STATIC)
+ it should be . ##GENERIC SENTENCE (STATIC)
+***0 5 5 0 0 0 0 0 YES ML YES 0 0 0 0 UC

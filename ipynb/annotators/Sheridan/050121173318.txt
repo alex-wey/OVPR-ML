@@ -1,0 +1,79 @@
+Despite hundreds of competing products and endorsements , ##OTHER
+ cannabis is largely ignored in the retail sales category . ##GENERIC SENTENCE (HABITUAL)
+Between its growing popularity , ##OTHER
+and after-the-fact changing well , ##UNBOUNDED EVENT (GENERIC)*
+ its getting harder and harder to find it in more of the deluge of purebred canola and seed varieties . ##UNBOUNDED EVENT (GENERIC)
+At least thats the case for medical marijuana advocate Oleta Lau . ##BASIC STATE
+The Texas doctor and marijuana expert called for a ban on making pot products with blood , sweat , or alcohol in them . ##BOUNDED EVENT (SPECIFIC)*
+Instead , ##OTHER
+ she believes ##BASIC STATE
+ that natural oils ##OTHER
+ that stay in the body for even longer ##GENERIC SENTENCE (DYNAMIC)
+ and help with strength , ease pain , and energy levels ##GENERIC SENTENCE (DYNAMIC)
+ could be misused for far more harmful uses . ##COERCED STATE (GENERIC)
+Ive found ##PERFECT COERCED STATE (SPECIFIC)
+ that when youre being given tetrahydrocannabinol ##GENERIC SENTENCE (DYNAMIC)
+ ( THC ) , ##OTHER
+ you can cause pain , ##COERCED STATE (GENERIC)
+ isolate different parts of the body ##COERCED STATE (GENERIC)
+ and lead to too much damage to other parts of the body ##COERCED STATE (GENERIC)
+ and cause you to lose your energy , ##UNBOUNDED EVENT (GENERIC)
+ she told Business Insider . ##BOUNDED EVENT (SPECIFIC)
+Medical cannabis , ##OTHER
+Ive actually shown , ##PERFECT COERCED STATE (SPECIFIC)
+ doesnt do much to help people ##COERCED STATE (GENERIC)
+ who need it thats kind of like a toxicity ##GENERIC SENTENCE (STATIC)
+ Im looking at . ##UNBOUNDED EVENT (SPECIFIC)
+Heres how the major international medical marijuana firms in the survey describe the current , ##BASIC STATE //4
+and possibly inevitable future , ##OTHER*
+requirement : ##OTHER
+ Medical marijuana companies and investors increasingly consider cannabis as a relatively untapped prescription drug ##GENERIC SENTENCE (HABITUAL)
+ with very little or no legal restrictions . ##OTHER
+This means ##BASIC STATE
+ that it is being used ##UNBOUNDED EVENT (GENERIC)
+ to treat those ##GENERIC SENTENCE (DYNAMIC)
+ who are becoming dependent on the drug for even longer ##UNBOUNDED EVENT (GENERIC)
+ and have inconsistent and sometimes ill-defined benefits . ##GENERIC SENTENCE (HABITUAL) //2
+The task is now pretty much impossible for anyone , ##BASIC STATE
+ and a clear decision about making cannabis a practice ##UNBOUNDED EVENT (GENERIC) 
+ is being made without much consideration for medical patients . ##UNBOUNDED EVENT (GENERIC)
+If cannabis and medical marijuana companies determine ##COERCED STATE (GENERIC)
+ that they need to put a limit on how much it can be grown , ##COERCED STATE (GENERIC)
+ and how much it is expected to be cultivated , ##GENERIC SENTENCE (STATIC)
+ it is likely that these companies will use less ##GENERIC SENTENCE (STATIC)
+ than they do already . ##GENERIC SENTENCE (DYNAMIC)
+This may even save them money . ##COERCED STATE (SPECIFIC) //3
+While Lau says ##BASIC STATE
+ that she is ready to explore other alternatives for medicinal use , ##BASIC STATE
+ such as laser use of marijuana ##OTHER
+ to treat other medical conditions , ##GENERIC SENTENCE (DYNAMIC)
+ she offers not only a problem for people ##BASIC STATE
+ who want CBD and cismononic CBD , ##GENERIC SENTENCE (STATIC)
+but also a potentially costly misuse of cannabis for cancer purposes . ##OTHER
+A Facebook post on her blog post before Monday ##OTHER
+ says ##BASIC STATE
+ she believes ##BASIC STATE
+ that medical marijuana products are becoming increasingly popular ##UNBOUNDED EVENT (GENERIC)
+ and they dont have to be used ##COERCED STATE (GENERIC)
+ to treat diseases . ##GENERIC SENTENCE (DYNAMIC)
+Hemp products could also be used ##COERCED STATE (GENERIC)
+ to help with the work of others ##GENERIC SENTENCE (DYNAMIC)
+ struggling with pain , ##UNBOUNDED EVENT (GENERIC)
+or for treatments of many conditions . ##OTHER
+Lau hopes ##BASIC STATE
+ that a ban on making synthetic cannabis products does this ##GENERIC SENTENCE (DYNAMIC) //2
+ to get her experience . ##UNBOUNDED EVENT (SPECIFIC)
+Earlier this year , ##OTHER
+at a press conference for her new book , ##OTHER
+ she said ##BOUNDED EVENT (SPECIFIC)
+ that she was doing research ##UNBOUNDED EVENT (SPECIFIC)
+ to find out ##UNBOUNDED EVENT (SPECIFIC)
+ whether synthetic cannabis products could help relieve pain and inflammation , ##COERCED STATE (GENERIC)
+ and if they could help people without the cannabinoids of the drug . ##COERCED STATE (GENERIC)
+We asked Lau about some products ##BOUNDED EVENT (SPECIFIC)
+ that she liked , ##BASIC STATE
+ and she said shes ##BOUNDED EVENT (SPECIFIC)
+ examining making those products . ##UNBOUNDED EVENT (SPECIFIC)
+If youd like to get your hands on one , ##COERCED STATE (GENERIC)
+ you can do so at HempSmile.com . ##COERCED STATE (GENERIC)
+***0 4 5 0 0 0 0 0 YES ML YES 0 0 0 0 ALGORITHM

@@ -1,0 +1,31 @@
+Marijuana retailers are likely still months from opening . ##GENERIC SENTENCE (STATIC)
+Of the four facilities Herbal Alternatives at 1147 20th St. NW ; Metropolitan Wellness Center at 409 Eighth St. SE ; Takoma Wellness Center at 6925 Blair Rd. NW ; and Center City Care at 1334 N. Capitol St. NW three secured votes of approval from local advisory neighborhood commissions . ##BOUNDED EVENT (SPECIFIC)
+( DCist had a fine rundown of the particular votes . ) ##BASIC STATE
+Only the Center City location didnt get its ANCs nod , ##BOUNDED EVENT (SPECIFIC)
+ but city health director Mohammad N. Akhter chose to keep it eligible to sell medical marijuana anyway . ##BOUNDED EVENT (SPECIFIC)
+In a statement , ##OTHER
+Akhter said ##BOUNDED EVENT (SPECIFIC)
+ the continued progress , ##OTHER
+however slow , ##OTHER
+shows the Districts commitment to provide patients ##BASIC STATE
+ who are suffering from very specific conditions ##GENERIC SENTENCE (HABITUAL)
+ that require unique solutions ##GENERIC SENTENCE (STATIC)
+ to help alleviate their pain . ##UNBOUNDED EVENT (GENERIC)
+It still could be months ##GENERIC SENTENCE (STATIC)
+ before marijuana is for sale . ##GENERIC SENTENCE (STATIC)
+For one , ##OTHER
+the six cultivation centers ##OTHER
+ previously approved for registration havent ##BASIC STATE
+ started growing operations . ##UNBOUNDED EVENT (GENERIC)
+Without their marijuana supply , ##OTHER
+ dispensaries have nothing to sell . ##GENERIC SENTENCE (STATIC)
+According to a spokesman for the Department of Consumer and Regulatory Affairs , ##BASIC STATE
+ which oversees permitting , ##GENERALIZING SENTENCE (DYNAMIC)
+ none of the six have applied for certificates of occupancy 
+ at their chosen facilities a final approval ##PERFECT COERCED STATE (SPECIFIC)
+ necessary to commence business . ##OTHER
+Those certificates require the personal approval of the citys zoning administrator , ##GENERIC SENTENCE (STATIC)
+ said the spokesman , ##BOUNDED EVENT (SPECIFIC)
+Helder Gil . ##OTHER
+
+***0 5 5 4 5 5 5 1 YES ML YES 4 0 0 0 HUMAN

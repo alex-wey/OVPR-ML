@@ -1,0 +1,96 @@
+Most Americans ##OTHER
+ - 2 out of 3 - ##OTHER
+ say ##GENERIC SENTENCE (STATIC)
+ marijuana use should be legal , ##GENERIC SENTENCE (STATIC) 
+ according to new data from Pew Research Center ##BASIC STATE
+ that builds on a decades-long trend line . ##UNBOUNDED EVENT (SPECIFIC)
+The share of those opposed , ##OTHER
+meanwhile , ##OTHER
+has plunged 20 percentage points , ##PERFECT COERCED STATE (SPECIFIC)
+ to 32 percent , ##OTHER
+in the past decade . ##OTHER
+Legalization is supported by 78 percent of Democrats and 55 percent of Republicans . ##GENERIC SENTENCE (STATIC)
+It has roughly two-thirds support among every racial , gender and educational group in the U.S. , ##GENERIC SENTENCE (STATIC)
+ according to the survey . ##BASIC STATE
+The data do show one significant demographic fault line , ##BASIC STATE
+however : age . ##OTHER
+Legalization is supported by 63 percent of boomers , 65 percent of Gen Xers , and 76 percent of millennials . ##GENERIC SENTENCE (STATIC)
+But among the silent generation those older than 74 years support is just 35 percent . ##GENERIC SENTENCE (STATIC)
+Partisan differences are heavily mediated by age as well . ##GENERIC SENTENCE (HABITUAL)
+Among the silent generation , ##OTHER
+for instance , ##OTHER
+ there is a 32-point gap in support between Democrats ##GENERIC SENTENCE (STATIC)
+ ( 53 percent ) ##OTHER
+ and Republicans ##OTHER
+ ( 21 percent ) . ##OTHER
+Among millennials , ##OTHER
+more than 70 percent support legal marijuana , ##GENERIC SENTENCE (STATIC)
+ regardless of party affiliation . ##OTHER
+In assessing support for marijuana , ##GENERIC SENTENCE (DYNAMIC)
+ surveys have typically posed a simple question : ##PERFECT COERCED STATE (GENERIC)
+Do you think ##QUESTION
+ the use of marijuana should be made legal , ##COERCED STATE (GENERIC)
+ or should NOT be made legal ? ##COERCED STATE (GENERIC)
+For this survey , ##OTHER
+however , ##OTHER
+Pew researchers posed a separate question ##BOUNDED EVENT (SPECIFIC)
+ to suss out ##UNBOUNDED EVENT (SPECIFIC)
+ whether Americans back recreational marijuana , medical marijuana , both or neither . ##GENERIC SENTENCE (STATIC)
+Fifty-nine percent said ##BOUNDED EVENT (SPECIFIC)
+ it should be legal for both medical and recreational purposes , ##GENERIC SENTENCE (STATIC)
+a 10-point increase since fall 2016 . ##OTHER
+Thirty-two percent said ##BOUNDED EVENT (SPECIFIC)
+ it should be legal for medical use only . ##GENERIC SENTENCE (STATIC)
+Just 8 percent said ##BOUNDED EVENT (SPECIFIC)
+ it should not be legal at all , ##GENERIC SENTENCE (STATIC)
+a steep drop from the 15 percent ##BASIC STATE
+ recorded in 2016 . ##BOUNDED EVENT (SPECIFIC)
+As with many political issues , ##OTHER
+the publics preferences on marijuana are well to the left of where the policy currently stands . ##GENERIC SENTENCE (STATIC)
+The plant remains illegal for all purposes under federal law . ##GENERIC SENTENCE (STATIC)
+Recreational marijuana is legal in 11 states plus D.C. , ##GENERIC SENTENCE (STATIC)
+ in most cases because of voter-approved ballot initiatives . ##OTHER
+Most other states have some form of medical marijuana law , ##GENERIC SENTENCE (STATIC)
+ although in many cases there are severe restrictions on the conditions ##GENERIC SENTENCE (STATIC)
+ for which medical marijuana can be used , ##COERCED STATE (GENERIC)
+ or on the types of marijuana ##OTHER
+ that can be used . ##COERCED STATE (GENERIC)
+According to the National Conference of State Legislatures , ##BASIC STATE
+just four states Idaho , South Dakota , Nebraska and Kansas prohibit marijuana use in all forms . ##BASIC STATE
+As more and more states have moved forward with their own marijuana liberalization policies ##PERFECT COERCED STATE (GENERIC)
+ in recent years , ##OTHER
+ public support has only grown stronger , ##PERFECT COERCED STATE (GENERIC)
+ Erik Altieri , ##OTHER
+executive director of the National Organization for the Reform of Marijuana Laws , ##OTHER
+ said in a statement . ##BOUNDED EVENT (SPECIFIC)
+At a time ##OTHER
+ when the political divide is larger than ever , ##GENERIC SENTENCE (STATIC) //4
+ the issue of marijuana legalization is one of the few policy issues ##GENERIC SENTENCE (STATIC)
+ upon which most Americans agree . ##GENERIC SENTENCE (HABITUAL)
+Legalization foes contend ##GENERIC SENTENCE (DYNAMIC)
+ that marijuana use comes with negative health effects . ##GENERIC SENTENCE (DYNAMIC)
+This week , ##OTHER
+the group Smart Approaches to Marijuana ##OTHER
+ ( SAM ) ##OTHER
+ highlighted the results of a study in the journal JAMA Psychiatry ##BOUNDED EVENT (SPECIFIC)
+ showing a half-percentage-point increase in rates of problematic cannabis use among teens in states ##BASIC STATE
+ that have legalized recreational use . ##PERFECT COERCED STATE (SPECIFIC)
+Legalization efforts are sending the message ##UNBOUNDED EVENT (GENERIC)
+ that marijuana use is safe and state sanctioned , ##GENERIC SENTENCE (STATIC)
+ SAM President Kevin Sabet said in a statement . ##BOUNDED EVENT (SPECIFIC)
+" No amount of marijuana use is safe for young people and more must be done to halt its normalization . ##GENERIC SENTENCE (STATIC)
+Most of the Democratic presidential candidates ##OTHER
+ support legalizing recreational use in some form or another . ##GENERIC SENTENCE (STATIC)
+But there are notable outliers , ##GENERIC SENTENCE (STATIC)
+ among them former vice president Joe Biden , ##BASIC STATE
+ who long supported tough on crime legislation ##BOUNDED EVENT (SPECIFIC)
+ while he was in the U.S. Senate . ##BASIC STATE
+He opposes legalization ##BASIC STATE
+ but has signaled a preference to reduce criminal penalties for pot use . ##PERFECT COERCED STATE (SPECIFIC)
+Billionaire Democratic hopeful Mike Bloomberg recently called marijuana legalization the stupidest thing ##BOUNDED EVENT (SPECIFIC)
+ anyone has ever done . ##PERFECT COERCED STATE (GENERIC)
+President Trump , ##OTHER
+meanwhile , ##OTHER
+has had little to say about marijuana one way or another during his time in office , ##BASIC STATE
+ though he did recently reiterate support for letting states decide their own policies . ##BOUNDED EVENT (SPECIFIC)
+***0 5 5 0 0 0 0 0 YES ML YES 5 2 5 5 HUMAN

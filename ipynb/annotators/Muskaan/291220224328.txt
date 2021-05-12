@@ -1,0 +1,77 @@
+The court opinion says ##BASIC STATE
+ the plaintiffs ##OTHER
+ who are fighting for long-overdue medical marijuana are also entitled to hold parties liable for allegedly overcharging the system providers , ##BASIC STATE
+ after the statute of limitations for medical pot possession had run out . ##PERFECT COERCED STATE (SPECIFIC)
+Health insurance coverage for all patients ##OTHER
+ who buy cannabis painkillers as well as sleep drugs ##GENERIC SENTENCE (DYNAMIC)
+ has been pushed back six years ##PERFECT COERCED STATE (SPECIFIC)
+ after Gov. Arnold Schwarzenegger appointed the estates of tens of thousands of Americans ##BOUNDED EVENT (SPECIFIC)
+ affected by the original Prop 215 regime of 1970s legal cannabis laws . ##GENERIC SENTENCE (STATIC)
+Under the old rules , ##OTHER
+ physician-assisted dying was illegal , ##GENERIC SENTENCE (STATIC)
+ and doctors had also been able to prescribe drugs under California 's Drug Abuse Relief Act ##GENERIC SENTENCE (STATIC)
+ ( Dana-O'Neill ) . ##OTHER
+But until 1982 , ##OTHER
+doctors and nurses could not prescribe the same medications as their families . ##GENERIC SENTENCE (STATIC)
+Today , ##OTHER
+however , ##OTHER
+neither governor nor nursing home owners have their beneficiary covered by medical marijuana , ##GENERIC SENTENCE (STATIC)
+ the ruling says . ##BASIC STATE
+" With these current medical cannabis laws , ##OTHER
+ its caregivers [ the doctors and nurses ] are in direct competition with the elderly ," ##GENERIC SENTENCE (STATIC)
+wrote the judge . ##BOUNDED EVENT (SPECIFIC)
+"Their employer-provided benefits ##OTHER
+ have not been replaced since 1971 , ##PERFECT COERCED STATE (GENERIC)
+ and the rising costs ##OTHER
+ associated with medical cannabis have not been countered by significant customer service and administrative improvements . " ##PERFECT COERCED STATE (GENERIC)
+The ruling also notes ##BASIC STATE
+ that courts around the country have refused to allow prosecution for Medicare fraud or Medicaid fraud against more than 1.5 million patients , ##PERFECT COERCED STATE (GENERIC)
+ saying ##UNBOUNDED EVENT (GENERIC)
+ they did not have jurisdiction over the cases . ##GENERIC SENTENCE (STATIC)
+" The general law appears ##BASIC STATE
+ that the prohibition on physician-assisted dying will not apply to other persons or groups ##COERCED STATE (GENERIC)
+ wishing to use their means ##GENERIC SENTENCE (STATIC)
+ to purchase expensive medical marijuana , ##GENERIC SENTENCE (DYNAMIC)
+ providing substantial administrative costs ##GENERIC SENTENCE (STATIC)
+ that enable our clients to manage their emotions and feelings , " ##GENERIC SENTENCE (STATIC)
+said the ruling . ##BASIC STATE
+" Even that speech may not constitute illegal force , " ##COERCED STATE (SPECIFIC)
+said Daniel Marino , ##BOUNDED EVENT (SPECIFIC)
+the team leader for the Institute of Medical Cannabis Dispensaries , ##OTHER
+ which won the long-anticipated legal victory for the patients . ##BOUNDED EVENT (SPECIFIC)
+Although the medical cannabis laws eventually settled ##BOUNDED EVENT (GENERIC)
+ before the California Supreme Court decided the case , ##BOUNDED EVENT (SPECIFIC)
+ the DIRC now " needs to find new ways ##BASIC STATE
+ to treat and educate these vulnerable people , ##GENERALIZING SENTENCE (DYNAMIC)
+ and we will continue to advocate for more equitable justice for these people , " ##COERCED STATE (SPECIFIC)
+said Raphael Chaison , ##BOUNDED EVENT (SPECIFIC)
+director of Public Policy and Workforce Development for the law firm of Janis Bernstein . ##OTHER
+DIRC has been called by lawmakers " the wild west of the medical cannabis movement ," ##BASIC STATE
+as well as by policy analysts ##OTHER
+ including Virginia Democratic Sen. Mark Warner , ##BASIC STATE
+ who argues on behalf of the organizers of DIRC ##BASIC STATE
+ that the first " Medicare for Cannabis Clinic " was on a clean path ##BASIC STATE
+ and becoming available . ##BASIC STATE
+In recent years , ##OTHER
+however , ##OTHER
+the legal marijuana community has had to play down its interest in the California case , ##UNBOUNDED EVENT (GENERIC)
+ pointing out ##UNBOUNDED EVENT (GENERIC)
+ that a prominent California Sen. Diane Feinstein , D-Calif. , and new Senate Intelligence Committee Chairman Mark Warner , D-Va. , sued DIRC over the agency ##BOUNDED EVENT (SPECIFIC)
+ that sanctioned the dispensary there in 1989 . ##BOUNDED EVENT (SPECIFIC)
+Barry D. Sterling , ##OTHER
+the man ##OTHER
+ who ran the federal law to send medical marijuana to the states of Colorado and Washington in 2002 , ##UNBOUNDED EVENT (SPECIFIC)
+ is one of the original plaintiffs . ##BASIC STATE
+He led a team ##UNBOUNDED EVENT (SPECIFIC)
+ that successfully changed the final language of the law ##BOUNDED EVENT (SPECIFIC)
+ and has set up an Institute of Medicine ##PERFECT COERCED STATE (SPECIFIC)
+ ( IOM ) ##OTHER
+ to counter DOJ DOJ claims ##UNBOUNDED EVENT (SPECIFIC)
+ that Medical Cannabis Act of 2007 is so burdensome to the California cannabis industry ##BASIC STATE
+ that it is unconstitutional to overturn the original sweeping law . ##BASIC STATE
+The California case is the first to seek the full copyright of the DIRC 's medical cannabis laws , ##BASIC STATE
+ and could show ##COERCED STATE (SPECIFIC)
+ that every medical patient in the state is entitled to full access to the DIRC database . ##GENERIC SENTENCE (STATIC)
+
+
+***0 5 5 1 2 2 1 2 YES ML YES 4 NO 0 0 0 ALGORITHM

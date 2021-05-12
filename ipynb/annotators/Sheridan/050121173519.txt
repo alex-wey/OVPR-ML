@@ -1,0 +1,86 @@
+A report by the Centers for Disease Control and Prevention ##OTHER
+ ( CDC ) finds ##BASIC STATE
+ the proportion of high school seniors ##OTHER
+ who smoke marijuana is higher than the proportion ##GENERIC SENTENCE (DYNAMIC)
+ that smokes cigarettes . ##GENERIC SENTENCE (DYNAMIC)
+According to the report , ##BASIC STATE
+since 2010 , ##OTHER
+the proportion of U.S. high school seniors ##OTHER
+ who smoked pot during the preceding 30 days was 21.4 percent , ##GENERIC SENTENCE (DYNAMIC)
+ while the proportion that smoked cigarettes was 19.2 percent . ##GENERIC SENTENCE (STATIC)
+CDC indicates ##BASIC STATE
+ it analyzed data from the 19972013 national Youth Risk Behavior Surveys ##BOUNDED EVENT (SPECIFIC)
+ ( YRBS ) ##OTHER
+ among U.S. white , black , and Hispanic students in grades 912 ##OTHER
+ to study patterns in the use of cigarette , cigar , and marijuana smoking . ##UNBOUNDED EVENT (GENERIC)
+According to the study , ##BASIC STATE
+from 1997 to 2013 , ##OTHER
+a 64 % percent decrease was observed in the percentage of U.S. white , black , and Hispanic high school students overall ##BOUNDED EVENT (GENERIC)
+ who smoked cigarettes or cigars exclusively . ##GENERIC SENTENCE (DYNAMIC)
+Also , ##OTHER
+among white students , ##OTHER
+any cigarette , cigar , or marijuana smoking declined during the study period . ##BOUNDED EVENT (GENERIC)
+CDC continues : ##UNBOUNDED EVENT (SPECIFIC)
+ Among black and Hispanic students , ##OTHER
+any cigarette , cigar , or marijuana use decreased from 1997 to 2007 , ##BOUNDED EVENT (GENERIC)
+ but increased among black students from 2007 to 2013 , ##BOUNDED EVENT (GENERIC)
+ and did not change for Hispanics from 2007 to 2013 . ##COERCED STATE (GENERIC)
+Moreover , ##OTHER
+the percentage of white , black , and Hispanic students overall ##OTHER
+ who were exclusive marijuana users more than doubled , ##BOUNDED EVENT (SPECIFIC)
+ and marijuana use among cigarette or cigar users also increased , ##BOUNDED EVENT (GENERIC)
+ with substantial increases ##OTHER
+ identified among black and Hispanic students toward the end of the study period . ##BOUNDED EVENT (GENERIC)
+The results show , ##OTHER
+ says CDC , ##BASIC STATE*
+ that whatever strides ##OTHER
+ have been made in adolescent health due to lower cigarette and cigar use might be attenuated by increases in marijuana use , ##COERCED STATE (GENERIC)
+ which vary by racial / ethnic subgroup . ##GENERIC SENTENCE (HABITUAL)
+Increased exclusive marijuana use and use of marijuana among cigarette or cigar users could undermine success in reducing tobacco use among youths , ##COERCED STATE (GENERIC)
+CDC states . ##BASIC STATE*
+Closer collaboration between public health professionals ##OTHER
+ to address prevention of tobacco and marijuana use might be beneficial in the development of evidence-based policies and programs ##UNBOUNDED EVENT (GENERIC)
+ to prevent tobacco and marijuana use . ##UNBOUNDED EVENT (GENERIC) //4
+The study comes ##UNBOUNDED EVENT (SPECIFIC) //3
+ as more states and nations are considering relaxing laws about marijuana use ##UNBOUNDED EVENT (GENERIC)
+ or even legalizing its use entirely . ##UNBOUNDED EVENT (GENERIC) //4
+According to Dr. Christopher Hammond , ##BASIC STATE
+ writing at Psychiatric Times last December , ##BOUNDED EVENT (SPECIFIC)
+ [ T ]he effects of marijuana use during adolescence and possible short - and long-term consequences are a growing concern . ##GENERIC SENTENCE (STATIC)
+Hammond writes : ##UNBOUNDED EVENT (SPECIFIC) //4
+ Converging scientific evidence from preclinical studies , human neuroimaging , and large longitudinal studies suggests ##GENERIC SENTENCE (STATIC)
+ that adolescent-onset marijuana use , ##OTHER
+particularly heavy marijuana use , ##OTHER
+is associated with a number of neuropsychiatric sequelae ##GENERIC SENTENCE (STATIC)
+ including neurocognitive deficits and reductions in IQ , increased risk for psychosis , affective disorders , marijuana and non-marijuana drug addiction , and lower academic attainment . ##GENERIC SENTENCE (STATIC)
+Also at Psychiatric Times , ##OTHER
+Dr. Robin Murray warns , ##UNBOUNDED EVENT (SPECIFIC)
+Psychological dependence and tolerance can occur with cannabis . ##COERCED STATE (GENERIC)
+It remains in the body for several weeks , ##GENERIC SENTENCE (DYNAMIC)
+ so withdrawal is very gradual but anxiety , insomnia , appetite disturbance , and depression can develop . ##GENERIC SENTENCE (HABITUAL)
+Some reports claim ##GENERIC SENTENCE (STATIC)
+ that in 10 % of persons ##OTHER
+ who use cannabis ##GENERIC SENTENCE (DYNAMIC)
+ and in 25 % of daily users , ##OTHER
+ dependence develops , ##GENERIC SENTENCE (DYNAMIC)
+ Murray continues . ##UNBOUNDED EVENT (SPECIFIC)
+Cannabis dependence is an increasingly common reason ##GENERIC SENTENCE (STATIC)
+ why patients seek help from drug treatment clinics . ##GENERIC SENTENCE (DYNAMIC)
+Murray observes that longitudinal studies ##UNBOUNDED EVENT (SPECIFIC)
+ conducted in Australia and New Zealand ##BOUNDED EVENT (GENERIC)
+ have found ##PERFECT COERCED STATE (GENERIC)
+ that daily marijuana use before age 17 was associated with clear reductions in the probability of graduating from high school and college . ##GENERIC SENTENCE (STATIC)
+Those starting cannabis use early also appear more likely to develop cognitive impairment , ##GENERIC SENTENCE (STATIC)
+ Murray adds , ##UNBOUNDED EVENT (SPECIFIC)
+ noting ##UNBOUNDED EVENT (SPECIFIC)
+ that another study has shown ##PERFECT COERCED STATE (SPECIFIC)
+ that long-term heavy cannabis users ##OTHER
+ who began smoking before age 17 had lower verbal IQ scores than those ##BOUNDED EVENT (GENERIC)
+ who began smoking at age 17 or older . ##BOUNDED EVENT (GENERIC)
+Though the political trend is toward relaxing laws on marijuana , ##GENERIC SENTENCE (STATIC) 
+ the outcome of a pattern ##OTHER
+ in this direction is unknown . ##GENERIC SENTENCE (STATIC)
+If legalization produces an increase in consumption , ##COERCED STATE (GENERIC)
+ the impact on young teens ##OTHER
+ who are apparently most vulnerable to marijuanas harmful effects remains a disturbing question . ##GENERIC SENTENCE (STATIC)
+***0 5 5 0 0 0 0 0 0 YES ML 1 2 5 5 HUMAN

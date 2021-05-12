@@ -1,0 +1,73 @@
+Police tactics 101 : ##OTHER
+ * Using threats and intimidation , ##UNBOUNDED EVENT (GENERIC)
+ obtain information on who has a dime ##IMPERATIVE
+ bag. ##OTHER
+* Make sure ##IMPERATIVE
+ the evil drugsmoker has children and small , harmless dogs . ##GENERIC SENTENCE (STATIC)
+Actual drug dealers will not do , ##GENERIC SENTENCE (STATIC)
+ they may have guns , ##COERCED STATE (GENERIC)
+ and we ca n't risk that. ##GENERIC SENTENCE (STATIC)
+* Assemble a SWAT team in full riot gear . ##IMPERATIVE
+Bring large automatic guns , tear gas , tasers , lasers , attack dogs , a helicopter. ##IMPERATIVE
+* Before the raid , ##OTHER
+ get each other pumped up in a " safety " meeting , ##IMPERATIVE
+ make sure ##IMPERATIVE
+ all involved know ##GENERIC SENTENCE (STATIC)
+ that that maximum violence is mandatory. ##GENERIC SENTENCE (STATIC)
+* Arrive at house quickly . ##IMPERATIVE
+Without knocking , ##OTHER
+ or announcing presence in any way , ##OTHER
+ kick down door , ##IMPERATIVE
+ and rush in , guns blazing. ##IMPERATIVE
+* Yell ##IMPERATIVE
+"It 's coming right ##UNBOUNDED EVENT (SPECIFIC)
+ for me !! " ##OTHER
+ and immediately shoot chihuahua . ##IMPERATIVE
+Then Jack Russel terrier . ##OTHER
+Each gunner is required to put three full clips into each animal . ##GENERIC SENTENCE (STATIC)
+Clips will be checked after raid , ##COERCED STATE (GENERIC)
+ and any officer with too many bullets remaining will be reprimanded. ##COERCED STATE (GENERIC)
+*I must stress again ##COERCED STATE (SPECIFIC)
+ that the *dogs must die.* ##GENERIC SENTENCE (STATIC)
+ This is the most important element in any raid . ##BASIC STATE
+There once was a raid ##BOUNDED EVENT (SPECIFIC)
+ in which one of the small dogs lived , ##BOUNDED EVENT (SPECIFIC)
+ and the officers ##OTHER
+ involved were never the same . ##BASIC STATE
+Their wives left them for black men , ##BOUNDED EVENT (SPECIFIC)
+ because they could no longer sustain erections . ##BASIC STATE
+Do n't let this happen to you. ##IMPERATIVE
+* Rip screaming children from mother , ##IMPERATIVE
+ throwing mother to the ground ##UNBOUNDED EVENT (GENERIC)
+ and cuffing her ##UNBOUNDED EVENT (GENERIC)
+ while they watch. ##UNBOUNDED EVENT (GENERIC)
+* Remember to take the time ##IMERATIVE
+ to talk down ##UNBOUNDED EVENT (GENERIC)
+ and deride the criminals . ##UNBOUNDED EVENT (GENERIC)
+It is your duty as an officer of the law ##BASIC STATE
+ to punish them as much ##GENERIC SENTENCE (DYNAMIC)
+ as you can. ##GENERIC SENTENCE (STATIC)
+* If no pot is found , ##COERCED STATE (GENERIC)
+ just plant some from your personal stash. ##IMPERATIVE
+* Make sure to make lots of noise ##IMPERATIVE
+ and use sirens and flashing lights throughout the raid , ##IMPERATIVE
+ so that all the neighbors ##OTHER
+ see ##GENERIC SENTENCE (STATIC)
+ what 's happening. ##GENERIC SENTENCE (STATIC)
+*Once the raid is finished , ##BOUNDED EVENT (GENERIC)
+ return to the precinct , ##IMPERATIVE
+ where we all strip down ##GENERIC SENTENCE (DYNAMIC)
+ and have sex with each other , ##GENERIC SENTENCE (DYNAMIC)
+ rolling around in the sweet testosterone. ##UNBOUNDED EVENT (GENERIC)
+* Release a statement to the press , ##IMPERATIVE
+ saying ##GENERIC SENTENCE (STATIC)
+ any accusations of wrongdoing are totally false , ##BASIC STATE
+ and that we will conduct an internal investigation . ##COERCED STATE (SPECIFIC)
+The investigation , ##OTHER
+ of course , ##OTHER
+ will determine ##COERCED STATE (GENERIC)
+ that all officers ##OTHER
+ involved acted within the law , ##BOUNDED EVENT (GENERIC)
+ and should be awarded for their heroism and bravery . ##COERCED STATE (GENERIC)
+
+***0 5 4 1 1 5 1 5 YES ML YES 5 2 4 5 HUMAN

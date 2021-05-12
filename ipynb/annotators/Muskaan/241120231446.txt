@@ -1,0 +1,26 @@
+Discovery Channels scripted ##OTHER
+ series Pot Cops is among seven shows ##BASIC STATE
+ revealed in a new trailer ##BASIC STATE
+ that details ##BASIC STATE
+ how drug laws affect the lives of thousands of law enforcement officers , ##GENERIC SENTENCE (HABITUAL)
+as well as the cause of endangering the lives of others . ##OTHER
+The show centers on officers ##BASIC STATE
+ who make sure ##BASIC STATE
+ they can keep an eye on residents of high-crime areas ##BASIC STATE
+ and witness the impact a drug enforcement crackdown has on drug users and the traffic in their neighborhoods . ##BASIC STATE
+Another program ##OTHER
+ called The King of the Valley chronicles a crime crackdown in the Mexican border city of Ciudad Juarez . ##BASIC STATE
+This is a nonfiction show with a full spectrum of topics , ##BASIC STATE
+ but you have to ask yourself : ##IMPERATIVE
+Can you guarantee ##QUESTION
+ that bad or no people are going to get in trouble so quickly ? ##GENERIC SENTENCE (STATIC)
+Lopez said in a news release . ##BOUNDED EVENT (SPECIFIC)
+The shows premiered earlier this week ##BOUNDED EVENT (SPECIFIC)
+ and are currently averaging 4.3 million viewers in their first season . ##UNBOUNDED EVENT (SPECIFIC)
+The dramas are executive ##BASIC STATE
+ produced by TV writer-producer Liz Meyer and John Yentob . ##OTHER
+They developed the show with Ryan Reynolds . ##UNBOUNDED EVENT (SPECIFIC)
+Watch the trailer below : ##IMPERATIVE
+
+
+***0 5 5 0 0 0 0 0 YES ML 4 0 0 0 HUMAN

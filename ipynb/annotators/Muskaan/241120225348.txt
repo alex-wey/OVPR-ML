@@ -1,0 +1,74 @@
+There 's something real about a woman ##GENERIC SENTENCE (STATIC)
+ not starring in Playboy magazine . ##GENERIC SENTENCE (STATIC)
+That 's what makes the news all the more shocking ##GENERIC SENTENCE (STATIC)
+ when she was portrayed as a manipulative woman , hypocritical , ##BOUNDED EVENT (SPECIFIC)
+ smoking weed ##UNBOUNDED EVENT (SPECIFIC)
+ and wishing ##UNBOUNDED EVENT (SPECIFIC)
+ she could have women 'The Aristocrats ' . ##BASIC STATE
+Constantin and Bob Hefner have two new friends . ##BASIC STATE
+Playboy Magazine sat down with " Sean Perticone " ##BOUNDED EVENT (SPECIFIC)
+ to talk about how he spends his time , ##UNBOUNDED EVENT (SPECIFIC)
+ and why he 's always got a hand ##QUESTION
+ in whatever it is he 's needed to do . ##GENERALIZING SENTENCE (STATIVE)
+When asked ##BOUNDED EVENT (SPECIFIC)
+ if he got a hand ##UNBOUNDED EVENT (SPECIFIC)
+ in figuring out ##UNBOUNDED EVENT (SPECIFIC)
+ how to address a girl ##QUESTION
+ I really love ##BASIC STATE
+ at his age , ##OTHER
+the real question was : ##BASIC STATE
+ " Is she the same as you ? " ##QUESTION
+Having that old classic coinage just flooded into our lives , ##GENERIC SENTENCE (STATIC)  
+how does Hugh Hefner handle the advice ? ##QUESTION
+He said , ##BOUNDED EVENT (SPECIFIC)
+ "It was written over in the dead of night . ##BOUNDED EVENT (GENERIC)
+I 've been like this kid ##BASIC STATE
+ waiting for that trophy , ##BASIC STATE
+ and I 'm not waiting for that trophy ##BASIC STATE
+ because I 'm afraid ##BASIC STATE
+ I do n't have any . " ##BASIC STATE
+Hefner then explained ##BOUNDED EVENT (SPECIFIC)
+ that he 's realized ##PERFECT COERCED STATE (SPECIFIC)
+ that by being " focused on being respected ,  ##GENERIC SENTENCE (STATIC)
+ you 're out at home , ##GENERIC SENTENCE (STATIC)
+ you 're the boss , ##GENERIC SENTENCE (STATIC)
+ you 're doing the work , ##GENERIC SENTENCE (STATIC)
+ and then you 're gonna surround yourself with the only ones 
+ who are n't doing the work . " ##COERCED STATE (GENERIC)
+It did n't take much ##UNBOUNDED EVENT (SPECIFIC)
+ for the two of them to get to know each other . ##UNBOUNDED EVENT (SPECIFIC)
+The idea of first meeting up with Hugh ##OTHER
+ after he 's cleaned out the mansion ##PERFECT COERCED STATE (SPECIFIC)
+ was like , ##BASIC STATE
+" Oh ... ##OTHER
+ I 'm coming back home in this little girl outfit . ##UNBOUNDED EVENT (SPECIFIC)
+She 's wearing a fake tuxedo . " ##BASIC STATE
+Despite their success as bunnies , ##OTHER
+the two of them had the impression ##BASIC STATE
+ that they both had to work hard ##BASIC STATE
+ at their careers . ##OTHER
+And , ##OTHER
+ while all of their early opportunities were initially non-existent , ##GENERIC SENTENCE (STATIC)
+ they eventually found their way to Playboy back ##BOUNDED EVENT (SPECIFIC)
+ in 2004 . ##OTHER
+"While we got to have a little fun at first ,  ##UNBOUNDED EVENT (SPECIFIC)
+ we were each attracted to different things ," ##BASIC STATE
+said the Daily Beast 's Nick Robertson . ##BOUNDED EVENT (SPECIFIC)
+"We both realized ##BOUNDED EVENT (SPECIFIC)
+ that we really had to get in shape for the job ##UNBOUNDED EVENT (SPECIFIC)
+ that we really wanted to do , ##BASIC STATE
+ because we had to go out more than usual , ##UNBOUNDED EVENT (SPECIFIC)
+ and we had to say ##UNBOUNDED EVENT (SPECIFIC)
+ we had to do it. " ##UNBOUNDED EVENT (SPECIFIC)
+Perticone , ##OTHER
+ who before Playboy did business with Letterman as well as Chairman of ClickClick , ##UNBOUNDED EVENT (SPECIFIC)
+ says , ##BASIC STATE
+ "It was a comfortable prospect ##BASIC STATE
+ to start being nice to people , #BOUNDED EVENT (SPECIFIC)
+ but everything just went perfect . ##BOUNDED EVENT (GENERIC)
+We both knew ##BASIC STATE
+ that we were getting shit done , ##UNBOUNDED EVENT (SPECIFIC)
+ so we turned our backs ##BOUNDED EVENT (SPECIFIC)
+ and looked forward to helping out . " ##BASIC STATE
+
+***0 4 1 4 2 1 2 5 NO NA NO 0 0 0 0 ALGORITHM

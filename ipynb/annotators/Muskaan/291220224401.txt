@@ -1,0 +1,57 @@
+> Obama took our country to war without a declaration from Congress , ##BOUNDED EVENT (SPECIFIC) 
+ then watched coolly ##BOUNDED EVENT (SPECIFIC)
+ as the sixty day limit in the War Powers Act came and went . ##BOUNDED EVENT (SPECIFIC)
+You say ##BASIC STATE
+ that , ##OTHER
+ and yet the Republican Congress has done absolutely nothing ##PERFECT COERCED STATE (SPECIFIC)
+ to stop him . ##UNBOUNDED EVENT (SPECIFIC)
+Almost as though this is an empty and baseless allegation ##BASIC STATE
+ that ignores the authority ##BASIC STATE
+ the Presidency has already been assigned through numerous other authorizations of military force. ##PERFECT COERCED STATE (SPECIFIC)
+>His health care legislation is being implemented in spite of a federal judge ##UNBOUNDED EVENT (SPECIFIC)
+ ruling it unconstitutional . ##BOUNDED EVENT (SPECIFIC)
+The judge ruled it unconstitutional ##BOUNDED EVENT (SPECIFIC)
+ but failed to issue an injunction against the law . ##BOUNDED EVENT (SPECIFIC)
+If he does n't issue an injunction , ##COERCED STATE (SPECIFIC)
+ the law continues implementation ##COERCED STATE (SPECIFIC)
+ while it remains under appeal . ##UNBOUNDED EVENT (SPECIFIC)
+Of course , ##OTHER
+ there are more appellate courts ##GENERIC SENTENCE (STATIC)
+ that have found the legislation ##PERFECT COERCED STATE (GENERIC)
+ constitutional than unconstitutional ... ##OTHER
+It 's also worth noting ##BASIC STATE
+ that Judicial Review is - itself - ( and you 're going to laugh at this ) UNCONSTITUTIONAL ! ##BASIC STATE
+ you 're really complaining ##UNBOUNDED EVENT (SPECIFIC)
+ that a judge with no Constitutional authority to stop a law ##OTHER
+ from coming into effect ##UNBOUNDED EVENT (GENERIC)
+ stopped a law ##BOUNDED EVENT (SPECIFIC)
+ from coming into effect ##UNBOUNDED EVENT (GENERIC)
+ without explicitly stating ##UNBOUNDED EVENT (SPECIFIC)
+ he was doing so ##UNBOUNDED EVENT (SPECIFIC)
+ and accomplished this ##BOUNDED EVENT (SPECIFIC)
+ by exercising a power ##UNBOUNDED EVENT (SPECIFIC)
+ the Constitution does n't grant him. :-p ##BASIC STATE
+ It is to laugh ! ##BASIC STATE
+>His administration has continued to raid medical marijuana facilities in states ##PERFECT COERCED STATE (SPECIFIC)
+ where it has been legalized , ##GENERIC SENTENCE (STATIC)
+ violating the Tenth Amendment . ##GENERIC SENTENCE (DYNAMIC)
+So you support Judicial Review ##BASIC STATE
+ ( which does not exist in the Constitution ) ##BASIC STATE
+ but oppose the Interstate Commerce Clause ##BASIC STATE
+ ( which does exist in the Constitution ) ? ##BASIC STATE
+Are you sure ##QUESTION
+ you 're reading the US Constitution ? ##UNBOUNDED EVENT (SPECIFIC)%%QUESTION
+Perhaps this is the confusion . ##BASIC STATE
+I 'm in the United States of America . ##BASIC STATE
+What country are you in ? ##QUESTION
+ > Separation of powers is a myth . ##GENERIC SENTENCE (STATIC)
+A myth . ##OTHER
+This country is a dictatorship ##BASIC STATE
+ and has been at least since Lincoln , ##BASIC STATE
+ if not since Washington . ##OTHER
+I am living on Earth . ##BASIC STATE
+The third planet from the sun . ##OTHER
+What planet are you living on ? ##QUESTION
+
+
+***0 5 0 0 0 0 0 0 YES ML 3 2 4 3 HUMAN

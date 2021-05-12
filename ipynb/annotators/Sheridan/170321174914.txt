@@ -1,0 +1,29 @@
+Does marijuana only make it into production ? ##QUESTION
+The primary cause of infertility ? ##QUESTION
+Yes . ##OTHER
+There are several things ##GENERIC SENTENCE (STATIC)
+ one can go by from a healthy application of marijuana to a functioning body for the average drug user , ##COERCED STATE (GENERIC)
+ using a significant amount of medical marijuana , ##UNBOUNDED EVENT (GENERIC)
+ or not . ##COERCED STATE (GENERIC)
+Marijuana is legal in five states and the District of Columbia , ##GENERIC SENTENCE (STATIC)
+ and legal it in Massachusetts , Oregon , Washington , Colorado , Nevada , Alaska , Utah , and Washington state . ##GENERIC SENTENCE (STATIC)
+The ingredients of pot include the psychoactive compound tetrahydrocannabinol ##GENERIC SENTENCE (STATIC)
+ ( THC ) , ##OTHER
+the active ingredient in cannabis oil and in cokes or hot dogs , ##OTHER
+ and the active cannabinoid norepinephrine , ##OTHER
+an energy-producing chemical . ##OTHER
+But what about the other side of this coin ? ##QUESTION
+According to Marijuana Business Daily , ##BASIC STATE
+ a cannabis-based cosmetic company , ##OTHER
+ which will be releasing its next recreational product , ##COERCED STATE (SPECIFIC)
+or products for that matter , ##OTHER
+ will come pre-traced through a compounding process , ##COERCED STATE (GENERIC) //3
+ which essentially allows pot buyers to extract the compound ##GENERIC SENTENCE (STATIC) 
+ using the same procedures ##UNBOUNDED EVENT (GENERIC)
+ prescribed in the drug . ##UNBOUNDED EVENT (GENERIC) //2
+The only problem is marijuana is legally produced in a federally controlled facility , ##GENERIC SENTENCE (DYNAMIC)
+ and will be consumed only with a marijuana-based product . ##COERCED STATE (GENERIC)
+Which means pot possession is subject to the same strict and strict regulations as any other substance . ##GENERIC SENTENCE (STATIC)
+Then , ##OTHER
+youre charged a tenfold tax on both marijuana - and marijuana-based products . ##GENERIC SENTENCE (DYNAMIC)
+***0 5 0 0 0 0 0 0 YES ML NO UNCLEAR2 2 3 2 ALGORITHM

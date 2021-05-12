@@ -1,0 +1,113 @@
+Its almost a guarantee ##GENERIC SENTENCE (STATIC)
+ that you will get prostate cancer ##COERCED STATE (GENERIC)
+ by marijuana use , ##OTHER
+ and its likely that many users will also decide to smoke marijuana at some point in their lives ##COERCED STATE (GENERIC)
+ ( see video above ) . ##IMPERATIVE
+Most physicians across the country strongly support legalizing marijuana for medical use and the opportunity to try marijuana itself . ##GENERIC SENTENCE (STATIC)
+However , ##OTHER
+we cannot rule out the possibility ##COERCED STATE (GENERIC)
+ that some individuals prefer to smoke marijuana at some point in their lives . ##GENERIC SENTENCE (STATIC)
+According to the David Brennan Center , ##BASIC STATE
+among more than half of those ##OTHER
+ polled ##BOUNDED EVENT (SPECIFIC)
+ who support legalizing marijuana , ##BASIC STATE
+ Less than half of respondents choose cannabis as a safe choice for several uses of the drug , ##BOUNDED EVENT (SPECIFIC)
+ including sexual intercourse . ##BASIC STATE //3
+This apparently conservative figure is considerably less than half of those ##BASIC STATE
+ who support legalizing marijuana use , ##GENERIC SENTENCE (STATIC)
+ and more than half of those ##OTHER
+ who dont . ##GENERIC SENTENCE (STATIC)
+Well , ##OTHER
+no one is 100 percent going to get prostate cancer . ##COERCED STATE (GENERIC)
+However , ##OTHER
+what the same poll found ##BOUNDED EVENT (SPECIFIC)
+ is that nearly 60 percent of those ##OTHER
+ polled say ##BOUNDED EVENT (SPECIFIC)
+ they use cannabis for pain management and a growing body of evidence ##GENERALIZING SENTENCE (DYNAMIC)
+ that marijuana has helped to reduce chronic pain ##PERFECT COERCED STATE (GENERIC)
+ and reduce incontinence , ##UNBOUNDED EVENT (GENERIC)
+among others . ##OTHER
+The numbers are staggering . ##GENERIC SENTENCE (STATIC)
+In fact , ##OTHER
+the UC Davis Medical Society conducted a study ##BOUNDED EVENT (SPECIFIC)
+ that said ##BOUNDED EVENT (SPECIFIC)
+ 50 percent of the majority of users from a medical marijuana clinic ##OTHER
+ chose marijuana as a safe choice ##BOUNDED EVENT (SPECIFIC)
+ to relieve pain , ##UNBOUNDED EVENT (GENERIC)
+ reduce headaches , ##UNBOUNDED EVENT (GENERIC)
+ reduce episodes of chronic bladder or urethra dysfunction , ##UNBOUNDED EVENT (GENERIC)
+as well as lower risk of cancer . ##UNBOUNDED EVENT (GENERIC)
+Particularly noteworthy for researchers was a survey ##BASIC STATE
+ found by the American Association of University Physicians to find ##BOUNDED EVENT (SPECIFIC)*
+ that the percentage of those ##OTHER
+ surveyed ##BOUNDED EVENT (SPECIFIC)
+ who said ##BOUNDED EVENT (SPECIFIC)
+ they use marijuana as a safe choice ##GENERALIZING SENTENCE (DYNAMIC) 
+ to relieve fatigue and pain , ##GENERALIZING SENTENCE (DYNAMIC)
+or an appropriate use of marijuana for a chronic pain solutiona search for i.e. , ##NONSENSE
+ why may your body work out , ##COERCED STATE (GENERIC)*
+ if marijuana helps it to relax , ##COERCED STATE (GENERIC)
+ what happens ##GENERIC SENTENCE (DYNAMIC)
+ when you dont get out of bed as easily ##COERCED STATE (GENERIC)
+ as before and dont want to use it as often as you used to ? was way way too low . ##NONSENSE
+It turns out ##UNBOUNDED EVENT (SPECIFIC) //2
+ that marijuana just isnt very effective at relieving pain or urinary symptoms . ##GENERIC SENTENCE (STATIC)
+And it isnt all that effective for the poor , ##GENERIC SENTENCE (STATIC)
+ making it more expensive . ##UNBOUNDED EVENT (GENERIC)
+In fact , ##OTHER
+a decade ago doctors recommended ##BOUNDED EVENT (GENERIC)
+ that regular treatments for minor pain and urinary symptom relief such ##OTHER
+ as antidepressants , acupuncture , and supplements be reserved for people with numerous chronic diseases . ##GENERIC SENTENCE (STATIC)
+So the pediatricians of the American Academy of Pediatrics likely recommend only moderate to heavy marijuana use and not considered alternative treatment options , ##COERCED STATE (GENERIC)
+ making the vast majority of users say ##UNBOUNDED EVENT (GENERIC)
+ they just wouldnt give up the tried and true . ##COERCED STATE (GENERIC)
+Still , ##OTHER
+ a growing number of physicians are increasingly concerned about the potential ##GENERIC SENTENCE (STATIC)
+ for doctors to prescribe marijuana as an effective alternative to pain medications . ##GENERIC SENTENCE (DYNAMIC)
+The National Institute on Drug Abuse released a report last year ##BOUNDED EVENT (SPECIFIC)
+ that said ##BOUNDED EVENT (SPECIFIC)
+ that 65 percent of patients ##OTHER
+ who receive medical marijuana ##GENERIC SENTENCE (DYNAMIC)
+ use its extremely limited safety and effectiveness , ##GENERIC SENTENCE (DYNAMIC)
+ compared to only 19 percent of drug users . ##BASIC STATE
+According to a 2013 study by the Substance Abuse and Mental Health Services Administration ##BASIC STATE
+ ( SAMHSA ) , ##OTHER
+ among 70 million adults worldwide , ##OTHER
+medical marijuana may be the safest and most effective approach ##GENERIC SENTENCE (STATIC)
+ for treating treatment of chronic conditions and other mental health conditions . ##GENERIC SENTENCE (DYNAMIC)*
+The study also found ##BOUNDED EVENT (SPECIFIC)
+ that 38 percent of the people with primary chronic pain may attempt marijuana , ##COERCED STATE (GENERIC)
+ but they may develop short-term pain ##COERCED STATE (GENERIC)
+ and difficulty concentrating and expressing emotions , ##GENERIC SENTENCE (DYNAMIC) //2
+ according to a 2014 SAMHSA report . ##BASIC STATE
+Its a simple solution ##BASIC STATE
+ that could save even more lives , ##COERCED STATE (SPECIFIC)
+ it seems , ##BASIC STATE
+ if it is legalized , ##COERCED STATE (GENERIC)
+ according to pollster Dave Sonnenberg . ##BASIC STATE
+This isnt going to be dealt with in terms of using the drug as a cure . ##COERCED STATE (GENERIC)
+There are three major dangers ##GENERIC SENTENCE (STATIC)
+ the legalization of marijuana poses , ##GENERIC SENTENCE (STATIC)
+ which is that its unsafe for medical purposes , ##GENERIC SENTENCE (STATIC)
+ he told LiveScience . ##BOUNDED EVENT (SPECIFIC)
+If its legalized , ##COERCED STATE (GENERIC)
+ there will be very limited access to marijuana . ##COERCED STATE (GENERIC)
+Sonnenberg added ##BOUNDED EVENT (SPECIFIC)
+ that its highly likely that , ##BASIC STATE
+in the end , ##OTHER
+ marijuana is one of the primary drugs ##GENERIC SENTENCE (STATIC)
+ used in treating depression and other mental health conditions . ##GENERIC SENTENCE (DYNAMIC)
+For most of our patients , ##OTHER
+ they have no doubt ##GENERIC SENTENCE (STATIC)
+ that they will get better , ##COERCED STATE (GENERIC)
+ he told LiveScience . ##BOUNDED EVENT (GENERIC)
+Were now talking about treating a devastating population of depressed individuals ##UNBOUNDED EVENT (GENERIC)
+ that , ##OTHER
+ we know , ##GENERIC SENTENCE (STATIC)
+ will be dead by the time its legalized . ##GENERIC SENTENCE (STATIC)
+So , ##OTHER
+ once you have a marijuana product thats safe for use , ##GENERIC SENTENCE (STATIC)
+ maybe that will lead to better care for them . ##COERCED STATE (SPECIFIC) //4
+But in the meantime , ##OTHER
+ we have to re-evaluate our own prescribing practices . ##COERCED STATE (GENERIC)
+***0 4 5 0 0 0 0 0 YES ML NO 2424 2 1 2 ALGORITHM

@@ -1,0 +1,40 @@
+Tijuana , ##OTHER
+one of Central Americas safest states and home to most illegal migrants , ##OTHER
+ has become an understudied and failed big-city detention center ##PERFECT COERCED STATE (SPECIFIC)
+ that has been developing into a magnet for thousands of people for two years now . ##PERFECT COERCED STATE (SPECIFIC)
+Border Patrol agents raided the Mexican city on Sunday morning ##BOUNDED EVENT (SPECIFIC)
+ and seized 2,690 pounds of the drug equivalent of four marijuana plants , ##BOUNDED EVENT (SPECIFIC)
+a 33 percent rise in that number in a single night , ##OTHER
+ the Los Angeles Times reports . ##UNBOUNDED EVENT (SPECIFIC)
+People started to disperse , ##BOUNDED EVENT (GENERIC)
+ including children , ##OTHER
+ some wearing masks and law enforcement officers responded with riot gear and shotguns in riot gear ##BOUNDED EVENT (SPECIFIC)
+ and in riot helmets , ##OTHER
+Mexican newspaper El Universal said , ##BOUNDED EVENT (SPECIFIC)
+ quoting military intelligence officers ##UNBOUNDED EVENT (SPECIFIC)
+ who were working with municipal police . ##BOUNDED EVENT (SPECIFIC)
+At least seven families were arrested , ##BOUNDED EVENT (SPECIFIC)
+ including a man ##UNBOUNDED EVENT (SPECIFIC)
+ who is in custody in a mental health facility with severe head injuries , ##BASIC STATE
+ El Universal said . ##BOUNDED EVENT (SPECIFIC)
+El Universal reported on Monday ##BOUNDED EVENT (SPECIFIC)
+ that authorities in Mexico had issued orders for all Mexican asylum seekers , ##PERFECT COERCED STATE (SPECIFIC)
+ including those of Guatemala , ##UNBOUNDED EVENT (SPECIFIC)
+ in U.S. shelters for fear of returning home to murder ##OTHER*
+ more than 23 years after crossing the border illegally . ##BOUNDED EVENT (GENERIC) //3
+A Mexican truck driver reportedly used a shotgun ##BOUNDED EVENT (SPECIFIC)
+ to kill a driver ##UNBOUNDED EVENT (SPECIFIC)
+ who was taking asylum seekers on one of the highways in the southern city of Reynosa . ##BOUNDED EVENT (SPECIFIC)*
+The New York Times first reported the raids , ##BOUNDED EVENT (SPECIFIC)
+ and the Police Department in the Washington , D.C. , city immediately condemned the raids , ##BOUNDED EVENT (SPECIFIC)
+ saying ##UNBOUNDED EVENT (SPECIFIC)
+ they amounted to a threat to public safety ##BASIC STATE
+ and endanger public health . ##GENERALIZING SENTENCE (DYNAMIC)
+However , ##OTHER
+Mayor de Blasio later made it clear ##BOUNDED EVENT (SPECIFIC)
+ the gangs motivation was not to get caught , ##BASIC STATE
+ but the detentions were precautionary to safeguard the officers from moving onto the streets of dangerous gangs ##BASIC STATE
+ who are largely absent from other areas ##GENERIC SENTENCE (STATIC)
+ that border Mexico , ##GENERIC SENTENCE (STATIC) //4
+the Times reports . ##UNBOUNDED EVENT (SPECIFIC)
+***0 4 5 0 0 0 0 0 YES ML YES 0 0 0 0 ALGORITHM

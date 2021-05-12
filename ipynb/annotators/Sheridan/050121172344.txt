@@ -1,0 +1,87 @@
+A Washington , D.C. , legislator has signed into law legislation ##PERFECT COERCED STATE (SPECIFIC)
+ that would change the way ##COERCED STATE (SPECIFIC)
+ marijuana is consumed in the state . ##GENERIC SENTENCE (DYNAMIC)
+Ehrlich and her caucus will join with House Bill 480 in signing it into law in spring 2003 . ##COERCED STATE (SPECIFIC)
+It would require a six-month wait ##BASIC STATE
+ before marijuana-related medical marijuana patients have an opportunity to obtain their marijuana ##GENERIC SENTENCE (STATIC)*
+ while their license is still valid . ##GENERIC SENTENCE (STATIC)
+The bill now goes to Gov. Pat Quinn , ##UNBOUNDED EVENT (SPECIFIC)
+ who must decide ##COERCED STATE (SPECIFIC)
+ whether to veto it . ##UNBOUNDED EVENT (SPECIFIC)
+Patients ##OTHER
+ who apply for Medicaid can wait six months , ##GENERIC SENTENCE (DYNAMIC) //4
+from the time ##OTHER
+ they applied for the program ##BOUNDED EVENT (GENERIC)
+ until they turn 18 , ##BOUNDED EVENT (GENERIC)
+ before being eligible for in-person visits . ##GENERIC SENTENCE (STATIC)
+Democratic leaders in the D.C. General Assembly had not identified such reasons for supporting the measure . ##COERCED STATE (GENERIC)
+" We 're going to be the driving force of the ballot issue ##BASIC STATE
+ and it is our duty to ask the voters ##BASIC STATE
+ to make a final decision on legalizing marijuana and how much it would cost , " ##UNBOUNDED EVENT (GENERIC)
+Rep. Rita C. Warren , ##OTHER
+D-6th District , ##OTHER
+said in a news release . ##BOUNDED EVENT (SPECIFIC)
+Warren said ##BOUNDED EVENT (SPECIFIC)
+ many people ##OTHER
+ who get medical marijuana ##GENERIC SENTENCE (DYNAMIC)
+ have varying notions about how it would affect their health , ##GENERIC SENTENCE (STATIC)
+ but she said ##BOUNDED EVENT (SPECIFIC)
+ she has n't seen the bill before ##COERCED STATE (SPECIFIC)
+ and has n't written it . ##COERCED STATE (SPECIFIC)
+The Marijuana Policy Project , ##OTHER
+a Washington advocacy group , ##OTHER
+said ##BOUNDED EVENT (SPECIFIC)
+ that doctors would be required to wait six months ##GENERIC SENTENCE (STATIC)
+ before they could prescribe a patient 's medical marijuana product , ##COERCED STATE (GENERIC)
+ which some doctors have said ##PERFECT COERCED STATE (GENERIC)
+ would be more expensive than traditional methods . ##GENERIC SENTENCE (STATIC)
+Drugmakers argued ##BOUNDED EVENT (GENERIC)
+ that some patients ##OTHER
+ taking marijuana will eventually be shifted to emergency rooms , ##COERCED STATE (GENERIC)
+ whereas others will become addicts , ##COERCED STATE (GENERIC)
+ likely because of their higher costs of care . ##OTHER
+The Marijuana Policy Project said ##BOUNDED EVENT (SPECIFIC)
+ the goal of the bill is to give more pot to the poor , ##BASIC STATE
+ but it would also allow the federal government to " shy away from traditional marijuana regulations . " ##COERCED STATE (SPECIFIC)
+Grassroots groups are sponsoring a statewide pot repeal drive ##UNBOUNDED EVENT (GENERIC)
+ and have already passed their goal ##PERFECT COERCED STATE (GENERIC)
+ of making Washington one of the states with the first post-legalization states . ##UNBOUNDED EVENT (SPECIFIC)*
+On the call ##OTHER
+ today to give voice to everyone in Washington , ##UNBOUNDED EVENT (GENERIC) //2
+House Minority Leader Newt Gingrich ##OTHER
+ ( Republican from Georgia ) ##OTHER
+ offered his initial pro-Gingrich donations . ##BOUNDED EVENT (SPECIFIC)
+Rep. Tommie Smith ##OTHER
+ ( D-Waxahachie ) , ##OTHER
+ who has been active in the discussion of medical marijuana , ##PERFECT COERCED STATE (SPECIFIC)
+ released a statement ##BOUNDED EVENT (SPECIFIC)
+ that said ##BASIC STATE
+ he was frustrated by lawmakers ' decision ##BASIC STATE
+ to forgo recognizing marijuana as an addiction treatment . ##UNBOUNDED EVENT (SPECIFIC)
+" During Senate Bill 480 , ##OTHER
+ passing ##BOUNDED EVENT (SPECIFIC) //4
+ this bill was not an easy job ##BASIC STATE
+ and so did it , " ##NONSENSE*
+he said . ##BOUNDED EVENT (SPECIFIC)
+" However , ##OTHER
+this is a huge victory for millions of people ##BASIC STATE
+ whose work is to get our kids off drugs and back to our economy . " ##GENERIC SENTENCE (STATIC)
+The legislation allows patients to obtain in-person visits with local doctors ##BASIC STATE
+ before they turn 18 . ##BOUNDED EVENT (GENERIC)
+Republicans have opposed the measure , ##PERFECT COERCED STATE (GENERIC)
+ but it was supported by Reps. Peche Sazu and Fred Flintstone , ##BASIC STATE
+ of Washington and Tom Rooney of Richmond . ##OTHER
+The single sponsor of the bill is Rep. Robert Davis , ##BASIC STATE
+R-Missouri .##OTHER
+He described the bill as " a bipartisan resolution of the problem . " ##BOUNDED EVENT (SPECIFIC)
+All three are D.C. council members. ##BASIC STATE
+ * White Nationalists denounce Oregon ##UNBOUNDED EVENT (GENERIC)
+ As the Horseshoe Casino in St. Louis last night tried to close the deal ##BOUNDED EVENT (SPECIFIC)
+ with Nanticoke , Oregon , ##OTHER
+Nanticoke officials could be heard playing a tune ##COERCED STATE (GENERIC)
+ they say one piece of advice ##UNBOUNDED EVENT (GENERIC)*
+ they took from the gun-loving state . ##BOUNDED EVENT (GENERIC)
+Take a look at that recording by the Nanticoke Daily Bulletin , ##IMPERATIVE
+ and you 'll see the irony of the meeting ##COERCED STATE (GENERIC)
+ that got dirty in this series . ##BOUNDED EVENT (SPECIFIC)*
+***0 4 5 0 0 0 0 0 YES ML NO 04 0 0 0 ALGORITHM 

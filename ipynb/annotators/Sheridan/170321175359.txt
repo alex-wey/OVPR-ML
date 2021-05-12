@@ -1,0 +1,20 @@
+Talk show host Montel Williams is a vigorous supporter of medical marijuana . ##BASIC STATE
+Williams uses the drug ##GENERALIZING SENTENCE (DYNAMIC)
+ to combat symptoms from Multiple Sclerosis . ##GENERALIZING SENTENCE (DYNAMIC)
+And he isnt taking kindly to a new ad running in Arkansas ##COERCED STATE (SPECIFIC)
+ that speaks out against bringing legal medical marijuana shops to the state . ##BASIC STATE
+The former talker says ##BASIC STATE
+ the ad in question is racist to the core . ##BASIC STATE
+Offensive is really an understatement . ##BASIC STATE
+Its the most egregiously racist , false statement youve ##BASIC STATE
+ ever seen in your life , ##PERFECT COERCED STATE (GENERIC)
+ Williams reportedly told the Little Rock crowd in regards to a TV ad ##BOUNDED EVENT (SPECIFIC)
+ that aired opposing the measure . ##BOUNDED EVENT (SPECIFIC)
+Theyve people sitting in a picture ##BASIC STATE //3
+ holding guns , ##UNBOUNDED EVENT (SPECIFIC)
+ talking about medical marijuana , ##UNBOUNDED EVENT (SPECIFIC)
+ and of course ##OTHER
+ they happen to be of different colors ##BASIC STATE
+ to make sure youre as irritated and angry ##UNBOUNDED EVENT (GENERIC)
+ as you can be . ##GENERIC SENTENCE (STATIC)
+***0 5 3 0 0 0 0 0 YES ML YES 4 2 4 4 HUMAN

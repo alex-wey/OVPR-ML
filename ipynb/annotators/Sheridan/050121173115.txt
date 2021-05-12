@@ -1,0 +1,77 @@
+Popular marijuana consumer Annette Cox discusses the tragic events today ##UNBOUNDED EVENT (SPECIFIC)
+ that killed five people ##BOUNDED EVENT (SPECIFIC)
+ and left 19 others injured on Sunday . ##BOUNDED EVENT (SPECIFIC)
+Cox 's comments can be found on the FOX News video ##COERCED STATE (SPECIFIC)
+"Why this holiday gets us on high . " ##GENERALIZING SENTENCE (DYNAMIC)*
+The four deaths and 19 ##OTHER
+ injured on Sunday ##BOUNDED EVENT (SPECIFIC)
+ followed an ambush incident on Friday at Pan Acre , Minn. , ##BOUNDED EVENT (SPECIFIC)
+ where three black men crashed a car ##BOUNDED EVENT (SPECIFIC)
+ and were killed by a man ##BOUNDED EVENT (SPECIFIC)
+ wielding a machete . ##BOUNDED EVENT (SPECIFIC) //4
+Police said ##BOUNDED EVENT (SPECIFIC)
+ the three men had two handguns , ##BASIC STATE
+one capable of firing a cannon , ##COERCED STATE (SPECIFIC) //3
+ and one incapable of firing weapons . ##COERCED STATE (SPECFIC) //3
+The men were killed in the ambush , ##BOUNDED EVENT (SPECIFIC)
+ and five others were wounded . ##BOUNDED EVENT (SPECIFIC)
+Earlier this month , ##OTHER
+A $ AP Rocky was arrested for failing to report his DRCT gun to police . ##BOUNDED EVENT (SPECIFIC)
+In 2017 , ##OTHER
+Rocky was jailed in Spokane , Wash. , ##BOUNDED EVENT (SPECIFIC)
+for his attempt to sell the weapon for $7 . ##BOUNDED EVENT (SPECIFIC) //4
+Several companies shut down due to Rocky 's threat ##BOUNDED EVENT (SPECIFIC)
+ to end his company ##BOUNDED EVENT (SPECIFIC)
+ if he did not pay a fine . ##COERCED STATE (SPECIFIC)
+Gunman 'Explosive' Withdraws from Yellowstone Parks ##UNBOUNDED EVENT (SPECIFIC)*
+ ( WRITER ) ##OTHER
+ Police Release New Video of Oldest Marine Killed ##UNBOUNDED EVENT (GENERIC)
+ in West Virginia ##OTHER
+ ( WRITER ) ##OTHER
+ Trump Battled With Lawmaker ##BOUNDED EVENT (SPECIFIC)
+ Who Wrote Anti-Obamacare Mental Health Rules ( WRITER ) ##BOUNDED EVENT (SPECIFIC)
+ One of the deadliest acts of violence in the U.S.A. is being documented on a mass-produced Facebook page ##UNBOUNDED EVENT (SPECIFIC)
+ called " the horrific night of March 28 , 2017 . " ##BASIC STATE
+After the shooting , ##OTHER
+some Facebook users questioned the motivations behind the purpose of the page , ##BOUNDED EVENT (SPECIFIC)
+ urging Facebook users ##UNBOUNDED EVENT (GENERIC)
+ to do whatever they could to help find a cure . ##IMPERATIVE
+One post , ##OTHER
+ which is attributed to Rocky , ##BASIC STATE
+ is Portrait : ##BASIC STATE
+ Anguished Champion of Black Freedom , ##OTHER
+ with the caption , ##OTHER
+ Lies 2 Homicidal Shooters , ##OTHER*
+ Thank You to the National Rifle Association and the NRA . ##OTHER
+God Bless America and God Bless the Nation . ##OTHER
+The post concludes with the words , ##BOUNDED EVENT (SPECIFIC)
+RIP Lionel Chadwick . ##OTHER
+Coxs comments also echo the 2016 Cleveland riot , ##BASIC STATE
+ in which several hundred people were killed . ##BOUNDED EVENT (SPECIFIC)
+The social-media-happy rapper took to his website ##BOUNDED EVENT (SPECIFIC)
+ to blast an ad Chantal Stagliano , ##BOUNDED EVENT (SPECIFIC)
+a Republican from D.C. , ##OTHER
+ for proclaiming the beginning of the gun control campaign . ##UNBOUNDED EVENT (SPECIFIC)
+The Black Lives Matter petition campaign has garnered more than 400,000 signatures , ##PERFECT COERCED STATE (SPECIFIC)
+ now urging the NRA ##UNBOUNDED EVENT (SPECIFIC)
+ to rescind its Defend Black Lives Amendment . ##IMPERATIVE
+Several Louisiana lawmakers expressed shock at the deaths of the Three Bears ##BOUNDED EVENT (SPECIFIC)
+ and the leader of Floridas unarmed teen Trayvon Martin on Sunday , ##OTHER*
+ but now Levin holds a special session in January ##BASIC STATE
+ to consider imposing restrictions on handguns and illegal firearms . ##UNBOUNDED EVENT (SPECIFIC)
+The video on Why This Holiday Gets Us on High features ##BASIC STATE
+ multiple scenarios in which the deceased are left in the middle of the carnage . ##BOUNDED EVENT (SPECIFIC) //1
+Cox highlighted the confusion with CNNs The Lead series , ##BOUNDED EVENT (SPECIFIC)
+ saying , ##BOUNDED EVENT (SPECIFIC)
+ Within seconds of no one getting shot , ##COERCED STATE (GENERIC)
+ the next shot can come from an injured shoulder . ##COERCED STATE (GENERIC)*
+She cited the unnecessary checkpoints ##BOUNDED EVENT (SPECIFIC)
+ that took people off the streets in the area ##GENERIC SENTENCE (DYNAMIC) //4
+ where the deaths took place ##BOUNDED EVENT (SPECIFIC)
+ and worries ##UNBOUNDED EVENT (SPECIFIC)
+ that more than half of those ##OTHER
+ killed by police were not even using a weapon . ##BOUNDED EVENT (GENERIC)
+Cox concluded , ##BOUNDED EVENT (SPECIFIC)
+ It wasnt the way ##BASIC STATE
+ people loved to die . ##GENERIC SENTENCE (HABITUAL)*
+***0 4 2 0 0 0 0 0 NO NA NO 0 0 0 0 ALGORITHM 

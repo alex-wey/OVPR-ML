@@ -1,0 +1,63 @@
+Agree , ##OTHER
+I usually get quite an odd look from people ##GENERALIZING SENTENCE (STATIVE)
+ when I say ##GENERALIZING SENTENCE (DYNAMIC)
+ we need to legalize more than just weed . ##GENERIC SENTENCE (STATIC)
+However , ##OTHER
+they often overlook the other possibilities as to why we should legalize more than just weed . ##GENERIC SENTENCE (DYNAMIC)
+Particularly , ##OTHER
+the big two in my opinion , ##OTHER
+ have nothing to do with raising money for the USFG . ##BASIC STATE
+First , ##OTHER
+ despite what the legal system actually says , ##BASIC STATE
+ the illegality establishes a stigmatization upon users ##GENERIC SENTENCE (HABITUAL)
+ that typically makes them fear seeking help or aid for their problem ##GENERIC SENTENCE (STATIC)
+ because they do n't want to face legal consequences . ##GENERIC SENTENCE (STATIC)
+This is my biggest concern , ##BASIC STATE
+ because even though I personally believe ##BASIC STATE
+ all drugs are safe in moderation , ##GENERIC SENTENCE (STATIC)
+ as long ##OTHER
+ as we keep it illegal ##GENERIC SENTENCE (STATIC)
+ we undermine the ability ##GENERIC SENTENCE (DYNAMIC)
+ for many people to seek the help ##GENERIC SENTENCE (DYNAMIC)
+ that they need or desire . ##GENERIC SENTENCE (STATIC)
+Sure , ##OTHER
+it may be because of their ignorance , ##GENERIC SENTENCE (STATIC)
+ but we are n't going around telling them ##GENERIC SENTENCE (DYNAMIC)
+"it 's okay , ##GENERIC SENTENCE (STATIC)
+ we will help you ##COERCED STATE (GENERIC)
+ if needed " , ##GENERIC SENTENCE (STATIC)
+ instead we are persecuting them to the fullest extent of the law ##GENERIC SENTENCE (DYNAMIC)
+ and throwing them in prison ##GENERIC SENTENCE (DYNAMIC)
+ rather than provide them with aid . ##GENERIC SENTENCE (DYNAMIC)
+Second , ##OTHER
+the reason ##OTHER
+ why there is any drug violence is because of the cartels and the underground market in itself . ##GENERIC SENTENCE (STATIC)
+Will it sure exist ? ##QUESTION
+Sure , ##OTHER
+just like the moonshining business still exists . ##BASIC STATE
+But it will be immensely weaker ##COERCED STATE (SPECIFIC)
+ than it currently is , ##BASIC STATE
+to the point ##OTHER
+ where it is hardly noticeable at all by people . ##BASIC STATE
+Undermining the providers and producers really begins to stop the violence ##UNBOUNDED EVENT (GENERIC)
+ associated with drug use . ##GENERIC SENTENCE (STATIC)
+So , ##OTHER
+why do we have drugs illegal ? ##QUESTION
+Because of the violence ##GENERIC SENTENCE (STATIC)
+ associated ##GENERIC SENTENCE (STATIC)
+ and to help people avoid the risk of addiction . ##GENERIC SENTENCE (HABITUAL)
+However , ##OTHER
+I do n't know anyone ##GENERIC SENTENCE (STATIC)
+ that is going to randomly decide to become a cocaine addict ##COERCED STATE (GENERIC)
+ just because cocaine is legal . ##GENERIC SENTENCE (STATIC)
+So the argument ##OTHER
+ that legalization opens access to more users is ridiculous to me . ##BASIC STATE
+But what are we really doing ? ##QUESTION
+We are increasing violence ##GENERIC SENTENCE (DYNAMIC)
+ and undermining the ability ##GENERIC SENTENCE (DYNAMIC)
+ for many to get help . ##GENERIC SENTENCE (DYNAMIC)
+The only way ##OTHER
+ to truly accomplish our goals behind the drug war ##UNBOUNDED EVENT (SPECIFIC)
+ is to abolish the drug war altogether . ##UNBOUNDED EVENT (SPECIFIC)
+
+***0 5 0 0 0 0 0 0 YES ML YES 5 3 5 5 HUMAN

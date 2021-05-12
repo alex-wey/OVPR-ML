@@ -1,0 +1,106 @@
+Quietly , ##OTHER
+the NFL has shown interest in the campaign ##PERFECT COERCED STATE (SPECIFIC)
+ that Eugene Monroe has waged to raise awareness of medical marijuana as an alternative to opioid painkillers , ##PERFECT COERCED STATE (SPECIFIC)
+ and a Super Bowl winner has chimed in with the same message . ##PERFECT COERCED STATE (SPECIFIC)
+Jim McMahon , ##OTHER
+ who won Super Bowl XX with the Chicago Bears , ##BOUNDED EVENT (SPECIFIC)
+ said ##BOUNDED EVENT (SPECIFIC)
+ that the plant has helped him cope with the early onset of dementia as well as severe headaches , memory loss , depression and other issues ##PERFECT COERCED STATE (GENERIC) //4
+ that have been linked to the kinds of concussions ##PERFECT COERCED STATE (GENERIC)
+ he suffered over the years . ##BOUNDED EVENT (SPECIFIC)
+" There 's so many uses to this plant , " ##GENERIC SENTENCE (STATIC)
+McMahon said at last week 's Cannabis World Congress and Business Expo in New York ##BOUNDED EVENT (SPECIFIC)
+ ( via the New York Daily News ) . ##OTHER
+" Hundreds of thousands of people are dying from [ painkillers ] ##UNBOUNDED EVENT (GENERIC)
+ and there 's not one case of people dying from the hemp plant . " ##GENERIC SENTENCE (STATIC)
+Leonard Marshall , ##OTHER
+ who has neurological issues ##BASIC STATE
+ and formerly played for the New York Giants and Jets and Washington Redskins , ##BOUNDED EVENT (SPECIFIC)
+agreed , ##BOUNDED EVENT (SPECIFIC) //4
+ saying , ##UNBOUNDED EVENT (SPECIFIC) //4
+ " My quality of life has improved because of this . " ##PERFECT COERCED STATE (SPECIFIC)
+Monroe 's vocal advocacy comes at a time ##UNBOUNDED EVENT (SPECIFIC)
+ of increasing awareness of the toll of addiction to opioids and shifting attitudes about the legalization of marijuana . ##UNBOUNDED EVENT (GENERIC)
+Recently , ##OTHER
+Jeff Miller , ##OTHER
+the NFL 's senior vice president for player health and safety , ##OTHER
+and neurological surgeon Russell Lonser , ##OTHER
+a member of the league 's head , neck and spine committee , ##OTHER
+spoke with researchers ##BOUNDED EVENT (SPECIFIC)
+ Monroe has backed with $80,000 in funding . ##PERFECT COERCED STATE (SPECIFIC)
+"They are interested in learning more about the potential ##BASIC STATE
+ for cannabinoids to help current and former players , ##GENERIC SENTENCE (DYNAMIC) //3
+ as is evidenced by them taking the call , ##BASIC STATE
+ and also expressed a desire to learn more ," ##BOUNDED EVENT (SPECIFIC)
+Marcel Bonn-Miller , ##OTHER
+an adjunct assistant professor at the University of Pennsylvania school of medicine , ##OTHER
+ told XXX 's Adam Kilgore recently . ##BOUNDED EVENT (SPECIFIC)
+"They are definitely showing genuine curiosity , ##UNBOUNDED EVENT (SPECIFIC)
+ and they are definitely not throwing up roadblocks . " ##COERCED STATE (SPECIFIC)
+Marijuana , ##OTHER
+however , ##OTHER
+remains on the NFL 's list of banned substances . ##GENERIC SENTENCE (STATIC)
+" It 's an NFL policy ##BASIC STATE
+ and we believe ##BASIC STATE
+ it 's the correct policy , ##BASIC STATE
+ for now , ##OTHER
+in the best interest of our players and the long-term health of our players ," ##OTHER
+Commissioner Roger Goodell said a Super Bowl press conference in February . ##BOUNDED EVENT (SPECIFIC)*
+" I do n't foresee a change in that clearly in the short term . " ##BASIC STATE
+It may help save the NFL , ##COERCED STATE (GENERIC)
+though . ##OTHER
+Research has suggested ##PERFECT COERCED STATE (GENERIC)
+ but not yet proved ##COERCED STATE (GENERIC)
+ that cannabis may play a role in preventing and treating concussions . ##COERCED STATE (GENERIC)
+Cannabidiol , ##OTHER
+or CBD , ##OTHER
+has been shown to have analgesic and anti-inflammatory as well as neuroprotective properties . ##PERFECT COERCED STATE (GENERIC)
+Animal research indicates ##GENERIC SENTENCE (STATIC)
+ CBD could protect neurons ##COERCED STATE (GENERIC)
+ and mitigate effects from concussions . ##COERCED STATE (GENERIC)
+" We have no guarantee ##BASIC STATE
+ this is going to work ," ##COERCED STATE (SPECIFIC) //4
+Lester Grinspoon , ##OTHER
+a professor emeritus at Harvard and one of the first medical marijuana researchers , ##OTHER
+told Kilgore .##BOUNDED EVENT (SPECIFIC)
+In fact , ##OTHER
+ he says ##BASIC STATE
+ players should take it before games. ##COERCED STATE (GENERIC)
+"But ##OTHER
+ if you can take anything away , ##COERCED STATE (GENERIC)
+ evidence shows ##GENERIC SENTENCE (STATIC)
+ it is neuroprotective . ##GENERIC SENTENCE (STATIC)
+I would have each individual take a capsule an hour or two ##COERCED STATE (SPECIFIC)
+ before they play or practice . ##GENERIC SENTENCE (DYNAMIC) //3
+It 's better than nothing . " ##BASIC STATE
+To be clear , ##OTHER
+ Monroe is talking about the use of medical marijuana . ##UNBOUNDED EVENT (SPECIFIC)
+" I 'm not here advocating for NFL players ##COERCED STATE (SPECIFIC)
+ ( or anyone ) ##OTHER
+ to get high ##GENERIC SENTENCE (DYNAMIC) //4
+ and party while breaking the law ," ##GENERIC SENTENCE (DYNAMIC) //4
+ he wrote on The Players ' Tribune last month. ##BOUNDED EVENT (SPECIFIC)
+" What I 'm talking about is the responsibility of the NFL to care for its players . ##BASIC STATE
+Nineteen players were suspended last season ##BOUNDED EVENT (SPECIFIC)
+ for testing positive for " substances of abuse , " and for some , ##UNBOUNDED EVENT (SPECIFIC)
+ their careers may be over .##BASIC STATE
+Why ? ##QUESTION
+For using something ##GENERALIZING SENTENCE (DYNAMIC)
+ that can actually help people ? ##COERCED STATE (GENERIC)
+How can a league so casual about the use of addictive opioids take such a hard line on a drug ##QUESTION
+ that might provide a safer alternative ? " ##COERCED STATE (GENERIC)
+Monroe , ##OTHER
+the first active player to actively campaign for medical marijuana , ##GENERALIZING SENTENCE (DYNAMIC)
+is now a free agent after his release , ##BASIC STATE
+ which was fueled in part by his injury history and high salary , ##BOUNDED EVENT (SPECIFIC)
+last week . ##OTHER
+" Despite the current uncertainties , " ##OTHER
+ he tweeted , ##BOUNDED EVENT (SPECIFIC)
+ one thing is for sure : ##BASIC STATE
+ whatever happens in terms of my professional football career , ##OTHER //2
+ I will never stop pushing ##COERCED STATE (SPECIFIC)
+ for the League to accept medical cannabis as a viable option for pain management . ##UNBOUNDED EVENT (SPECIFIC) //3
+I will do everything ##COERCED STATE (SPECIFIC)
+ I can to ensure the generations of NFL players ##COERCED STATE (SPECIFIC)
+ after me wo n't have to resort to harmful and addictive opioids as their only option for pain management . " ##COERCED STATE (GENERIC)
+***0 5 5 0 0 0 0 0 YES ML YES 4 2 4 5 HUMAN

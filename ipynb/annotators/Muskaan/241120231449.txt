@@ -1,0 +1,83 @@
+Amanda Bynes is a free woman again . ##BASIC STATE
+The troubled actress was released from police custody ##BOUNDED EVENT (SPECIFIC)
+ after she appeared in a New York court on Friday morning , ##BOUNDED EVENT (SPECIFIC) 
+ the Manhattan District Attorney 's Office confirmed to XXX . ##BOUNDED EVENT (SPECIFIC)
+ADVERTISEMENT ADVERTISEMENT Bynes was released on her own recognizance ##BOUNDED EVENT (SPECIFIC)
+ -- meaning ##BASC STATE
+ she did not have to post bail -- ##BASIC STATE
+ and she will have to appear in court again on July 9 ##COERCED STATE (SPECIFIC)
+ to address her latest legal woes . ##UNBOUNDED EVENT (SPECIFIC)
+Police say ##BASIC STATE
+ the actress was arrested in midtown Manhattan ##BOUNDED EVENT (SPECIFIC)
+ after she heaved a marijuana ##BOUNDED EVENT (SPECIFIC)
+ bong out of a window . ##OTHER
+The officers went to her apartment on the 36th floor ##BOUNDED EVENT (SPECIFIC)
+ where they said ##BOUNDED EVENT (SPECIFIC)
+ they saw heavy smoke and a bong ##BOUNDED EVENT (SPECIFIC)
+ sitting on the kitchen counter . ##BASIC STATE
+They said ##BOUNDED EVENT (SPECIFIC)
+ she tossed the bong out the window in front of them , ##BOUNDED EVENT (SPECIFIC)
+ prosecutors said . ##BOUNDED EVENT (GENERIC)
+She then said to police : ##BOUNDED EVENT (SPECIFIC)
+ " ##OTHER
+ It was just a vase , ##BASIC STATE
+ " according to Manhattan assistant district attorney Chikaelo Ibeabuchi . ##BASIC STATE
+" ##OTHER
+ My client completely denies illegally throwing anything out of her window , ##BASIC STATE
+ " said Andrew Friedman , her attorney for the arraignment .
+Police say ##BOUNDED EVENT (SPECIFIC)
+ a building official called police to complain ##BOUNDED EVENT (SPECIFIC)
+ that Bynes was smoking marijuana ##UNBOUNDED EVENT (SPECIFIC)
+ and rolling a joint in the building 's lobby . ##UNBOUNDED EVENT (SPECIFIC)
+An NYPD spokesperson told XXX ##BOUNDED EVENT (SPECIFIC)
+ the actress was then taken to Roosevelt Hospital ##BOUNDED EVENT (SPECIFIC)
+ to be evaluated . ##UNBOUNDED EVENT (SPECIFIC)
+A source ##OTHER
+ connected to the situation told XXX ##BOUNDED EVENT (SPECIFIC)
+ that while a full preliminary psychiatric evaluation was performed on Bynes , ##BOUNDED EVENT (SPECIFIC)
+ professionals found no reason ##BOUNDED EVENT (SPECIFIC)
+ to keep her on a medical hold . ##UNBOUNDED EVENT (SPECIFIC)
+She was acting crazy , ##UNBOUNDED EVENT (SPECIFIC)
+ but there is no law against being crazy in the United States ##GENERIC SENTENCE (STATIC)
+ and they cant hold you for that . ##GENERIC SENTENCE (STATIC)
+She is not suicidal , ##BASIC STATE
+ and not considered to be a danger ##BASIC STATE
+ to herself or society , ##OTHER
+ explained the insider . ##BOUNDED EVENT (SPECIFIC)
+They really tried to find a way ##BOUNDED EVENT (SPECIFIC)
+ to hold her , ##UNBOUNDED EVENT (SPECIFIC)
+ but no avail . ##OTHER
+Amanda isnt a dangerous girl , ##BASIC STATE
+ she seems desperate for attention ##BASIC STATE
+ and really acting out . ##UNBOUNDED EVENT (SPECIFIC)
+After the evaluation , Bynes was taken the police station , ##BOUNDED EVENT (SPECIFIC)
+ where she spent the night . ##BOUNDED EVENT (SPECIFIC)
+She pulled up ##BOUNDED EVENT (SPECIFIC)
+ to court Friday morning in a squad car ##OTHER
+ where she was greeted by a crush of media . ##BOUNDED EVENT (SPECIFIC)
+She was also charged with attempted tampering with evidence and unlawful possession of marijuana , all misdemeanors . ##BOUNDED EVENT (SPECIFIC)
+" I 'm asking you ##UNBOUNDED EVENT (SPECIFIC)
+ I do n't want any pictures , ##BASIC STATE
+ " she said to a photographer . ##BOUNDED EVENT (SPECIFIC)
+" I do n't want any photos . ##BASIC STATE
+No press are allowed in here , ##GENERIC SENTENCE (STATIC)
+ " she announced to the public courtroom . ##BOUNDED EVENT (SPECIFIC)
+Bynes has gotten plenty of attention in recent months for her bizarre behavior . ##PERFECT COERCED STATE (SPECIFIC)
+The 27-year-old is almost unrecognizable in recent photos , ##BASIC STATE 
+ which show her with bleach blonde hair and shiny cheek piercings . ##GENERIC SENTENCE (STATIC)
+She has been keeping fans up to date on her latest antics via Twitter , ##PERFECT COERCED STATE (SPECIFIC)
+ and she recently gained many followers ##BOUNDED EVENT (SPECIFIC)
+ after she posted a shockingly vulgar tweet about rapper Drake . ##BOUNDED EVENT (SPECIFIC)
+Bynes first began acting in commercials at the age of 7 ##UNBOUNDED EVENT (SPECIFIC)
+ and was thrust into the limelight ##BOUNDED EVENT (SPECIFIC)
+ when she later became one of the stars of Nickelodeons comedy show All That . ##BOUNDED EVENT (SPECIFIC)
+She then starred in Nickelodeons The Amanda Show from 1999-2002 . ##BOUNDED EVENT (SPECIFIC)
+Since then , ##OTHER
+ her acting career has waned , ##PERFECT COERCED STATE (SPECIFIC)
+ and her last major role was in 2010s Easy A. Before that she appeared in films like What a Girl Wants and Hairspray . ##BASIC STATE
+The starlet has said ##PERFECT COERCED STATE (SPECIFIC)
+ that there is NOTHING wrong with her ##BASIC STATE
+ and that she plans to launch a fashion line . ##BASIC STATE
+
+
+***0 5 3 3 5 5 5 1 YES ML NO 0 0 0 0 HUMAN

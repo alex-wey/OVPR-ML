@@ -1,0 +1,60 @@
+I think ##BASIC STATE
+ one of the issues ##OTHER
+ we face ##GENERIC SENTENCE (HABITUAL)
+ when saying ##GENERIC SENTENCE (DYNAMIC)
+'x reprehensible crime ##OTHER
+ should result in people ##COERCED STATE (GENERIC)
+ being locked away ##UNBOUNDED EVENT (GENERIC)
+ forever' ##OTHER
+is a problem of equivalency . ##BASIC STATE
+Do you also believe ##BASIC STATE
+ that murder should result in life without parole ? ##QUESTION
+If not , ##COERCED STATE (SPECIFIC)
+ are we as a society ##QUESTION
+ then saying that murder ##GENERIC SENTENCE (HABITUAL)
+ is less bad than molesting children ? ##GENERIC SENTENCE (STATIC)
+Insert other heinous crime ##IMPERATIVE
+ and work your way through . ##IMPERATIVE
+Although it 's unlikely ##BASIC STATE
+ that people ##OTHER
+ who carry out such acts ##GENERIC SENTENCE (DYNAMIC)
+ think them through logically , ##GENERIC SENTENCE (DYNAMIC)
+ there 's also an issue of deterrence of even worse crimes . ##BASIC STATE
+If you 're already potentially getting life without parole ##GENERIC SENTENCE (STATIC)
+ for molesting the child , ##BOUNDED EVENT (GENERIC)
+ why not just kill them as well ? ##QUESTION
+While there might be theoretical pros and cons for doing so for a criminal in that situation , ##GENERIC SENTENCE (STATIC)
+ you remove a potential deterrent for committing the additional crime . ##GENERIC SENTENCE (STATIC)
+Another point is that the justice system is , ##BASIC STATE
+in addition to its punitive nature , ##OTHER
+ intended to function as a rehabilitation and treatment centre . ##GENERALIZING SENTENCE (STATIC)
+If we discover ##COERCED STATE (GENERIC)
+ that pedophilia is in some circumstances a treatable illness , ##GENERIC SENTENCE (STATIC)
+ what then do we say to these people ? ##QUESTION
+Sorry , ##OTHER
+we can fix you , ##GENERIC SENTENCE (STATIC)
+ but you can never come out ? ##GENERIC SENTENCE (STATIC)
+Or do we make allowance for the notion ##QUESTION
+ that they could be rehabilitated ? ##COERCED STATE (GENERIC)
+Such a thing would not necessitate instant release - ##GENERIC SENTENCE (STATIC)
+ that would defeat the purpose of the punitive sentence , ##COERCED STATE (GENERIC)
+ but could theoretically be incorporated into future parole bids . ##COERCED STATE (GENERIC)
+Obviously we 're not there yet , ##GENERIC SENTENCE (STATIC)
+ but ##OTHER
+ it is certainly a possible occurrence in the future . ##GENERIC SENTENCE (STATIC)
+Finally I think ##BASIC STATE
+ you also have a problem with mandating sentences , ##GENERIC SENTENCE (STATIC)
+or a specific sentence , ##OTHER
+for a crime . ##OTHER
+Each crime is different , ##GENERIC SENTENCE (STATIC)
+in the circumstances of the accused , ##OTHER
+the impact on the victim and their family and the impact on society . ##OTHER
+Legislated mandatory sentences remove any leniency for any circumstances . ##GENERIC SENTENCE (HABITUAL)
+To take a particularly unjust analogy ; ##UNBOUNDED EVENT (SPECIFIC)
+ a three strikes drug law could see a person using marijuana for chronic pain ##GENERIC SENTENCE (DYNAMIC)
+ jailed to the same degree as your local mid level dealer . ##GENERIC SENTENCE (STATIC)
+Obviously it 's not really analogous to your position , ##BASIC STATE
+ but these kind of things do happen ##GENERIC SENTENCE (DYNAMIC)
+ where strict mandatory sentencing guidelines exist irrespective of circumstances . ##GENERIC SENTENCE (STATIC)
+
+***0 5 0 0 0 0 0 0 YES ML YES 4 3 5 5 HUMAN

@@ -1,0 +1,34 @@
+The first trial of an offender in the modern crackdown on cannabis attacks UK rules ##OTHER
+ today will force farmers to hand over evidence ##COERCED STATE (GENERIC)
+ the herb was illegally grown into cannabis . ##UNBOUNDED EVENT (GENERIC)*
+Despite the chaos of the conflict in Mosul you could write a well-written blog ##COERCED STATE (GENERIC)
+ but nobody noticed , ##UNBOUNDED EVENT (GENERIC)
+ after more than a week this is different . ##BASIC STATE
+The rural practices of heavy cannabis production and distribution will add another dimension of uncertainty to what law will be rolled out there . ##COERCED STATE (GENERIC)
+In fact , in theory , drug law should be out of exactly the same way ##GENERIC SENTENCE (STATIC)
+ as it is now . ##GENERIC SENTENCE (STATIC)
+At least 19 European farmers pleaded guilty to cultivating cannabis in the winter of 2012-13 as part of a trade embargo ##BOUNDED EVENT (SPECIFIC)
+ imposed by the EU . ##BASIC STATE
+The culprits were convicted under the Trading Matters Act ##BOUNDED EVENT (SPECIFIC)
+ of 2013 , ##OTHER
+ but not fined 2m , ##BOUNDED EVENT (SPECIFIC)
+ meaning farmers ##OTHER
+ caught cultivating ##GENERIC SENTENCE (STATIC)
+ cannabis , ##OTHER
+ which is considered illegal , ##GENERIC SENTENCE (STATIC)
+ receive hundreds of thousands of pounds in fines and legal aid ##GENERIC SENTENCE (HABITUAL)
+ to pay them back . ##UNBOUNDED EVENT (GENERIC)
+But the test for this latest clampdown was such ##BASIC STATE
+ that landowners had to conduct nearly 200,000 soil tests ##BOUNDED EVENT (GENERIC)
+ and conduct about 2,000 observations on soil samples ##BOUNDED EVENT (SPECIFIC)
+ to analyse both the weed present and any potentially illegal residues . ##BOUNDED EVENT (GENERIC)
+More than a million farmers , ##OTHER
+ including every single farmer from Yorkshire , ##GENERIC SENTENCE (STATIC)
+ will be caught ##COERCED STATE (GENERIC)
+ if they do n't heed the signal ##COERCED STATE (GENERIC)
+ issued by British law , ##BASIC STATE
+ to send signals to farmers the following autumn ##COERCED STATE (GENERIC)
+ that they need to be reported to Irish authorities ##GENERIC SENTENCE (STATIC)
+ to be in full compliance with the law . ##GENERIC SENTENCE (STATIC)
+
+***0 5 4 1 1 2 4 YES ML NO 0 0 0 0 ALGORITHM

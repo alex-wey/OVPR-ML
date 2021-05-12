@@ -1,0 +1,93 @@
+An American couple once shared a story about a doctor ##BOUNDED EVENT (SPECIFIC)
+ who suggested ##BOUNDED EVENT (SPECIFIC)
+ that they plant marijuana ##COERCED STATE (SPECIFIC)
+ while going on a hunger strike ##UNBOUNDED EVENT (SPECIFIC)
+ in order to save a womans life . ##COERCED STATE (SPECIFIC)
+Another same couple recalled a medical marijuana friend ##BOUNDED EVENT (SPECIFIC)
+ who took advantage of the law ##BOUNDED EVENT (SPECIFIC)
+ to commit suicide ##BOUNDED EVENT (SPECIFIC)
+ and sent him to prison . ##BOUNDED EVENT (SPECIFIC)
+By comparison , ##OTHER
+ it can take years ##COERCED STATE (GENERIC)
+ for the family to walk out on them . ##COERCED STATE (SPECIFIC)
+Older women ##OTHER
+ who have difficulty ##GENERIC SENTENCE (HABITUAL)
+ gaining access to a form ##GENERIC SENTENCE (DYNAMIC)
+ of medication ##OTHER
+ that can provide the best support in helping them in the struggle ##COERCED STATE (GENERIC)
+ to fight their deaths ##GENERIC SENTENCE (DYNAMIC)
+ are ##GENERIC SENTENCE (HABITUAL)
+ often reluctant to exercise it , ##COERCED STATE (GENERIC)
+ so they turn to hallucinogens or other medication for relief . ##GENERIC SENTENCE (DYNAMIC)
+Typically the opioids are the most popular right now , ##GENERIC SENTENCE (STATIC)
+ according to Dr. Lisa Thompson , ##BASIC STATE
+ who is chief of obstetrics and gynecology at Georgetown Universitys Perelman School of Medicine . ##BASIC STATE
+But people typically do not need opioids for treatments for opioid addiction . ##GENERIC SENTENCE (HABITUAL)
+Dr. Glenn McKay , ##OTHER
+a professor of surgery at the Georgetown School of Medicine , ##OTHER
+explains ##UNBOUNDED EVENT (SPECIFIC)
+ that end-of-life health and addiction issues may be caused by feelings of helplessness and isolation , problems with pregnancy or cancer , or depression . ##COERCED STATE (GENERIC)
+Often people struggle at first ##GENERIC SENTENCE (DYNAMIC)
+ with figuring out ##OTHER
+ how to take care of themselves , ##QUESTION
+ McKay says . ##UNBOUNDED EVENT (SPECIFIC)
+Its hard for them to even think about what to do . ##GENERIC SENTENCE (STATIC)
+Medication helps , ##GENERIC SENTENCE (DYNAMIC)
+too , ##OTHER
+ she says . ##UNBOUNDED EVENT (SPECIFIC)
+Heroin is a super drug , ##BASIC STATE
+ says Dr. Eugene Boyd of the American Psychiatric Association . ##UNBOUNDED EVENT (SPECIFIC)
+In a study ##OTHER
+ published in the journal Pain , ##BASIC STATE
+the committee divided up marijuana and opioids into eight groups : ##BOUNDED EVENT (SPECIFIC)
+ 6 people ##OTHER
+ who took cannabis ##BOUNDED EVENT (SPECIFIC) //2
+ while sitting in the car , 8 people ##BASIC STATE
+ who took opioid-induced morphine ##BOUNDED EVENT (SPECIFIC) //2
+ and 13 people ##OTHER
+ who took prescription pills . ##BOUNDED EVENT (SPECIFIC) //2
+More than 100,000 Americans have died of opioid-related injuries in the past five years , ##PERFECT COERCED STATE (SPECIFIC)
+ according to the National Association of the Surgeon General , ##BASIC STATE
+ and more than 6.5 million over the last decade have been patients of opioid abuse , ##PERFECT COERCED STATE (SPECIFIC)
+ using prescription drugs as a means of getting a substance theyre ##GENERALIZING SENTENCE (DYNAMIC)
+ addicted to . ##OTHER
+Those over the age of 45 are also a particularly vulnerable group , ##GENERIC SENTENCE (STATIC)
+ and even have limited access to cancer treatment . ##GENERIC SENTENCE (STATIC)
+While marijuana is cheap and effective for those ##BASIC STATE
+ who need it , ##GENERIC SENTENCE (STATIC)
+ heroin and prescription painkillers also tend to treat conditions such as post-traumatic stress and psychosis . ##GENERIC SENTENCE (DYNAMIC)
+Studies also show an emotional attachment among those ##GENERIC SENTENCE (STATIC)
+ using opioids ##GENERIC SENTENCE (DYNAMIC)
+ to stay home from work and at home with sick kids . ##GENERIC SENTENCE (DYNAMIC)
+The end of an addiction and the start of an addiction make the dysfunctional nature of these communities worse , ##GENERIC SENTENCE (DYNAMIC)
+ says James Salile of the Salk Institute for Biological Studies in Los Angeles . ##UNBOUNDED EVENT (SPECIFIC)
+He points to the example of his mother , ##UNBOUNDED EVENT (SPECIFIC)
+ who developed a chronic illness . ##BOUNDED EVENT (SPECIFIC)
+A lot of people find the effects of addiction to be overwhelming , ##GENERIC SENTENCE (DYNAMIC)
+ Salile says . ##UNBOUNDED EVENT (SPECIFIC)
+But other factors ##OTHER
+ like stress and fear often eat into the ability to stay in your parents home ##GENERIC SENTENCE (DYNAMIC)
+ and manage that dysfunction , ##COERCED STATE (GENERIC)
+ thats the bottom line . ##BASIC STATE
+Making cannabis accessible doesnt have to be politically divisive . ##COERCED STATE (GENERIC)
+An overwhelming amount of Americans are openly fighting legalization of the drug , ##UNBOUNDED EVENT (SPECIFIC)
+ and it can be just as culturally conservative . ##COERCED STATE (GENERIC) //2
+But thats not happening now . ##UNBOUNDED EVENT (GENERIC)
+Massachusetts civil service law has passed provisions ##PERFECT COERCED STATE (SPECIFIC)
+ allowing employee grievances ##OTHER
+ to trump marijuana prohibition , ##GENERIC SENTENCE (HABITUAL)
+a federal law ##OTHER
+ that hasnt brought any opposition from anyone . ##PERFECT COERCED STATE (SPECIFIC)
+This means that workers ##BASIC STATE
+ who are on the verge of a lawsuit ##GENERIC SENTENCE (STATIC)
+ against a city ##OTHER
+ might soon have their civil rights suppressed . ##COERCED STATE (GENERIC)
+Its clear that marijuana is already a socially acceptable remedy in many settings . ##GENERIC SENTENCE (STATIC)
+In recent years , ##OTHER
+ that trend may continue . ##COERCED STATE (SPECIFIC)
+A 2016 Pew Research poll found ##BOUNDED EVENT (SPECIFIC)
+ that 90 percent of Americans still favor marijuana for medical purposes . ##BASIC STATE
+And its clear that without legalization the conditions ##GENERIC SENTENCE (STATIC)
+ that can easily be induced by the drug arent fair to the patient . ##GENERIC SENTENCE (STATIC)
+
+***0 3 5 0 0 0 0 0 YES ML NO UNCLEAR 0 0 0 ALGORITHM

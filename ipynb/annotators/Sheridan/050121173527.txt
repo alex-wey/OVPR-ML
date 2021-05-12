@@ -1,0 +1,48 @@
+Elements of Tijuana municipal , state and federal police , and the Mexican Army seized more than 912 pounds of methamphetamine and 3 tons of marijuana during three operations over the past weekend . ##BOUNDED EVENT (SPECIFIC)
+The most recent seizure occurred Saturday ##BOUNDED EVENT (SPECIFIC)
+ when personnel from the Tijuana municipal police responded to a 911 call in colonia Caadas del Florido on Calle de la Pantera , ##BOUNDED EVENT (SPECIFIC)
+ where they located an abandoned Mitsubishi Outlander ##BOUNDED EVENT (SPECIFIC)
+ parked in front of a residence . ##BASIC STATE //4
+Police observed numerous plastic bags ##BOUNDED EVENT (SPECIFIC)
+ containing a white granular substance inside cardboard boxes . ##BASIC STATE
+Local reports note ##UNBOUNDED EVENT (SPECIFIC)
+ that a total of 77 bags ##OTHER
+ containing methamphetamine weighing 170 pounds ##BASIC STATE
+ were discovered . ##BOUNDED EVENT (SPECIFIC)
+Police then looked into the residence ##BOUNDED EVENT (SPECIFIC)
+ and observed more bags . ##BOUNDED EVENT (SPECIFIC)
+The Mexican Army provided security ##BOUNDED EVENT (SPECIFIC)
+ while a search warrant was signed . ##BOUNDED EVENT (SPECIFIC)
+The following morning , ##OTHER
+investigative personnel from the federal attorney generals office entered the residence ##BOUNDED EVENT (SPECIFIC)
+ and discovered an active methamphetamine lab with precursor chemicals and equipment . ##BOUNDED EVENT (SPECIFIC)
+The total weight of methamphetamine ##OTHER
+ seized from the vehicle and premises ##BOUNDED EVENT (SPECIFIC)
+ came to 661 pounds , ##BOUNDED EVENT (SPECIFIC)
+ according to another local report . ##BASIC STATE
+No information was released pertaining to arrests . ##COERCED STATE (GENERIC)
+In the second seizure of methamphetamine , ##OTHER
+investigative personnel of the state police stopped two males ##BOUNDED EVENT (SPECIFIC)
+ driving a 1999 Ford Ranger in colonia Manuel Paredes I on Saturday . ##BOUNDED EVENT (SPECIFIC)
+Intelligence was developed ##BOUNDED EVENT (GENERIC)
+ to indicate ##UNBOUNDED EVENT (SPECIFIC) //3
+ the two individuals were possibly transporting a load of methamphetamine , ##UNBOUNDED EVENT (SPECIFIC)
+ according to a statement ##BASIC STATE
+ released by police . ##BOUNDED EVENT (SPECIFIC) //4
+During the traffic stop , ##OTHER
+police conducted a search of the vehicle ##BOUNDED EVENT (SPECIFIC)
+ and discovered large plastic boxes ##BOUNDED EVENT (SPECIFIC)
+ loaded with methamphetamine , ##BASIC STATE
+ weighing nearly 253 pounds . ##BASIC STATE
+The two males ##OTHER
+ who were identified as Lorenzo N , 27 , and Jorge N , 20 . ##BOUNDED EVENT (GENERIC)*
+In the third seizure , ##OTHER
+investigative personnel from the federal prosecutors office along with elements from the Mexican Army served a search warrant Friday in a warehouse ##BOUNDED EVENT (SPECIFIC)
+ located in the Paseo de los Hroes en Zona Urbana Ro section . ##BASIC STATE
+Investigative personnel discovered 3 tons of marijuana ##BOUNDED EVENT (SPECIFIC)
+ packed in cardboard boxes . ##BASIC STATE
+No further information was released . ##COERCED STATE (GENERIC)
+The turf war over the street sale of methamphetamine between rival criminal gangs ##OTHER
+ aligned with the major cartels ##GENERIC SENTENCE (STATIC)
+ is blamed for the record-breaking number of killings in the border city abutting California . ##GENERIC SENTENCE (STATIC)
+***0 5 5 1 5 5 5 1 YES ML YES 0 0 0 0 HUMAN

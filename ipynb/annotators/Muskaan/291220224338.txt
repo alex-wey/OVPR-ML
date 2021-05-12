@@ -1,0 +1,72 @@
+One thing that even progressives wo n't do , ##COERCED STATE (GENERIC)
+ particularly for years to come , ##BASIC STATE
+ is defend the right of these individuals ##BASIC STATE
+ to make any speech ##UNBOUNDED EVENT (GENERIC)
+ that takes the form of public demonstrations by supporters , opponents and even neighbors , ##GENERIC SENTENCE (STATIC)
+not the most utopian proposal ##OTHER
+ that might come out of the Legislature ##COERCED STATE (GENERIC)
+ if all else fails . ##COERCED STATE (GENERIC)
+This is not the Democratic Party 's version of right-wing sanity . ##BASIC STATE
+It 's the Republican Party , ##BASIC STATE
+ which has unquestionably supported some of the most destructive ideologies in recent history ##PERFECT COERCED STATE (SPECIFIC)
+ including racism , pro-gun control and religious progressives . ##GENERIC SENTENCE (STATIC)
+Just the prospect of a law taking hold on one side ##OTHER
+ when both sides are desperate enough , ##BASIC STATE
+ and getting all of them to turn off their camera phones ##UNBOUNDED EVENT (GENERIC)
+ and huddle in their rooms for 10 minutes ##BOUNDED EVENT (GENERIC)
+ or so is a lot less frightening . ##BASIC STATE
+It was more than two years ago , ##BASIC STATE
+though , ##OTHER
+ and the top pro-legalization Republican , ##OTHER
+Richard Gephardt , ##OTHER
+came to defeat in Michigan by a three-to-one margin in the polls . ##BOUNDED EVENT (SPECIFIC)
+However , ##OTHER
+more to the point , ##OTHER
+ the Democrats have fought a history ##PERFECT COERCED STATE (GENERIC)
+ of maintaining the right to make this kind of speech , ##GENERIC SENTENCE (DYNAMIC)
+ and have come up with a new catchword , ##PERFECT COERCED STATE (GENERIC)
+legal marijuana , ##OTHER
+ that 's hard to argue with . ##BASIC STATE
+Are we to lose all on the issue of the future of this country ? ##QUESTION
+A few voices wondered ##GENERIC SENTENCE (STATIC)
+ if we should give it all up . ##QUESTION
+Ditto the 1990's historic turn-down in DADT repeal , ##OTHER
+ which informed many Americans ##BOUNDED EVENT (SPECIFIC)
+ that the government was bent on getting rid of the law ##BASIC STATE
+ that prevented discrimination against lesbian , gay , bisexual and transgender people on the basis of sexual orientation . ##BASIC STATE
+We have a cruel and elitist medicine program right in our own back yard ##BASIC STATE
+ with very high rates of suicide and a huge problem with children ##OTHER
+ picking up marijuana for recreational use . ##GENERIC SENTENCE (DYNAMIC)
+It 's dangerous for drug users and marijuana users to jump from bed to bed 
+ to use weed . ##GENERIC SENTENCE (STATIC)
+All such a thing would ruin the last good thing about this country . ##COERCED STATE (GENERIC)
+The way ##OTHER
+ it is administered is antiquated in virtually every American 's backyard : ##BASIC STATE 
+ families go bananas , ##GENERIC SENTENCE (DYNAMIC)
+ do n't pay bills , ##GENERIC SENTENCE (DYNAMIC)
+ and children go to bed . " ##GENERIC SENTENCE (DYNAMIC)
+I actually think ##BASIC STATE
+ we should try to get marijuana down the aisle . ##COERCED STATE (GENERIC)
+I think ##BASIC STATE
+ the Democrats are technically doing this , ##UNBOUNDED EVENT (GENERIC)
+ but they 're not actually on the record . ##GENERIC SENTENCE (STATIC)
+They have been for decades ##PERFECT COERCED STATE (GENERIC)
+ and the onus is on the Republican party to try and act appropriately . ##BASIC STATE
+And ##OTHER
+ since , ##OTHER
+ they 're now planning to endorse some sort of legalization in two states ##GENERIC SENTENCE (STATIC)
+ while 10 other states have turned down laws ##PERFECT COERCED STATE (SPECIFIC)
+ that would make it legal ##COERCED STATE (GENERIC)
+ for marijuana to be sold in shops , ##GENERIC SENTENCE (DYNAMIC)
+ other efforts need to be pursued . ##GENERIC SENTENCE (STATIC)
+I do n't think ##BASIC STATE
+ the California law is backed up by this vast majority of elected officials , ##BASIC STATE
+ but we should just move along the shared path . ##COERCED STATE (GENERIC)
+The judges in Hawaii and New Jersey are not in favor of legalization , ##GENERIC SENTENCE (STATIC)
+no matter what side ##OTHER
+ we 're on . ##GENERIC SENTENCE (STATIC)
+So for all you die-hard Democrats , ##OTHER
+please head home , ##IMPERATIVE
+ and continue preaching your right to choose . ##IMPERATIVE
+
+***0 1 0 0 0 0 0 YES ML YES 5 YES 3 1 2 ALGORITHM

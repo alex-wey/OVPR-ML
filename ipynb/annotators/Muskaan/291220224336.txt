@@ -1,0 +1,34 @@
+On film : ##OTHER
+ A man ##OTHER
+ based in San Francisco ##BASIC STATE
+ writes to many his fellow fans in support of a people rights movement ##UNBOUNDED EVENT (SPECIFIC)
+ that is building on the ban on a completely drug based medical marijuana dispensary , ##UNBOUNDED EVENT (SPECIFIC)
+ for everyone to see . ##GENERIC SENTENCE (STATIC)
+Eileen Cormier says , ##UNBOUNDED EVENT (SPECIFIC)
+"All hell is breaking loose ##GENERIC SENTENCE (STATIC)
+ if this guy sets up shop in Santa Clara County . ##COERCED STATE (SPECIFIC)
+And the liberal-conservative crowd very much hate this guy . ##GENERIC SENTENCE (STATIC)
+And they 're fighting back . ##UNBOUNDED EVENT (GENERIC)
+At least it 's nice ##BASIC STATE
+ that we now have a consensus ##GENERIC SENTENCE (STATIC)
+ on this issue . " ##OTHER
+A man ##OTHER
+ based in San Francisco ##BASIC STATE
+ says ##UNBOUNDED EVENT (SPECIFIC)
+ he 's got plenty of fans for an issue ##BASIC STATE
+ that concerns him personally ##BASIC STATE
+" because I want to bring a concern about underage people with us to a greater extent." ##BASIC STATE
+Josh Chilton agrees , ##BASIC STATE
+ " The end of age-old drugs ##OTHER
+ that we just used , ##UNBOUNDED EVENT (GENERIC)
+like alcohol or those awful painkillers ##OTHER
+ ( and on that your kids take less medication because of the pain ) ##GENERIC SENTENCE (DYNAMIC)
+ and then giving it to people ##GENERIC SENTENCE (DYNAMIC)
+ that are made up of people ##GENERIC SENTENCE (STATIC)
+ that have been careless with the abuse , ##GENERIC SENTENCE (DYNAMIC)
+ and sharing them along with us ##GENERIC SENTENCE (DYNAMIC)
+ so that we know ##GENERIC SENTENCE (STATIC)
+ who we 're dealing with . ##GENERIC SENTENCE (STATIC)
+The end of everything and to me it 's not a medical problem . " ##BASIC STATE
+
+***0 4 2 1 4 2 3 5 YES ML NO 0 0 0 0 ALGORITHM

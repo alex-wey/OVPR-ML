@@ -1,0 +1,63 @@
+Colorado became the first state in the country to legalize recreational marijuana , ##BOUNDED EVENT (SPECIFIC)
+ joining more than 20 other states , ##UNBOUNDED EVENT (SPECIFIC)
+ including Rhode Island and Maine , ##BASIC STATE
+ to do so . ##BOUNDED EVENT (SPECIFIC)
+Gov. John Hickenlooper approved legislation Friday ##BOUNDED EVENT (SPECIFIC)
+ that would become the first state to do so . ##COERCED STATE (SPECIFIC)*
+On Oct. 30 , ##OTHER
+the New York Times reported ##BOUNDED EVENT (SPECIFIC)
+ that legalizing marijuana would have had a significant impact on prices , ##COERCED STATE (GENERIC)
+ but President Barack Obama personally disapproved of the idea in a phone call with Colorado Governor John Hickenlooper . ##BOUNDED EVENT (SPECIFIC)
+Colorados election last November made the date a clear victory for legalization . ##BOUNDED EVENT (SPECIFIC)
+Coloradans backed legalization with majorities , ##BOUNDED EVENT (GENERIC)
+overwhelmingly , ##OTHER
+ that supported it . ##GENERIC SENTENCE (STATIC)
+The Colorado ballot measure was not the only concern : ##BASIC STATE
+ as noted by The Guardian , ##BOUNDED EVENT (SPECIFIC)
+ Democrats beat Republican Governor John Hickenlooper in several key competitive races in the state . ##BOUNDED EVENT (GENERIC)
+A Denver Post news account reports ##BASIC STATE
+ that the state police warned voters during a November election last year ##BOUNDED EVENT (SPECIFIC)
+ that marijuana is not safe to handle . ##GENERIC SENTENCE (STATIC)
+A U.S. Department of Justice study in October concluded ##BOUNDED EVENT (SPECIFIC)
+ that marijuana use could potentially have adverse effects . ##COERCED STATE (GENERIC)
+In September , ##OTHER
+ Colorado increased its $4 million limit on the states pot sales , ##BOUNDED EVENT (SPECIFIC)
+ and Thursday the state treasurer said ##BOUNDED EVENT (SPECIFIC)
+ that the cap could be doubled . ##COERCED STATE (SPECIFIC)
+Last year Colorado didnt restrict pot sales , ##COERCED STATE (SPECIFIC)
+ but the move resulted in a spike in national sales . ##BOUNDED EVENT (SPECIFIC)
+There were 810,000 customers in Colorado last year , ##GENERIC SENTENCE (STATIC)
+the most of any state . ##OTHER
+This is a bad day for Colorado and one of the best days in Americas history , ##BASIC STATE
+ state Treasurer Chris Johnston told Politico . ##BOUNDED EVENT (SPECIFIC)
+Colorado has turned back the clock on more of the norms ##COERCED STATE (SPECIFIC)
+ that we used to be accustomed to here in Colorado . ##GENERIC SENTENCE (STATIC)
+Now its up to the governor to change course . ##GENERIC SENTENCE (STATIC) //3
+Colorado has had some trouble with legalizing marijuana for decades , ##BASIC STATE
+notably state legislation ##OTHER
+ that requires the possession of up to an ounce of pot in the state . ##GENERIC SENTENCE (STATIC)
+In 1996 , ##OTHER
+a federal judge blocked the prohibition as unconstitutional ##BOUNDED EVENT (SPECIFIC)
+ and said ##BOUNDED EVENT (SPECIFIC)
+ the law was justified ##BASIC STATE
+ when it directly affected marijuana users . ##GENERALIZING SENTENCE (DYNAMIC) //2
+The national debate about marijuana legalization has been contested for years in national debates ##COERCED STATE (GENERIC)
+ that have focused on the controversial effects ##COERCED STATE (GENERIC)
+ marijuana has on the environment , unemployment , healthcare , housing , taxation , and security . ##GENERIC SENTENCE (DYNAMIC)
+Last year , ##OTHER
+a federal court ruled ##BOUNDED EVENT (SPECIFIC)
+ that the state had acted illegally in refusing to let Colorado offer up to a million dollars in medical marijuana vouchers ##PERFECT COERCED STATE (SPECIFIC)
+ to foster young peoples medical research . ##UNBOUNDED EVENT (GENERIC)
+In May , ##OTHER
+a federal judge blocked the states health care waiver program , ##BOUNDED EVENT (SPECIFIC)
+ citing the legislations unconstitutional constitutionality . ##UNBOUNDED EVENT (SPECIFIC)*
+In 2012 , ##OTHER
+Colorado was unable to formally decide on recreational marijuana . ##COERCED STATE (SPECIFIC)
+Colorado is taking pot to Washington D.C. ##UNBOUNDED EVENT (SPECIFIC)
+One month ##OTHER
+ after announcing ##UNBOUNDED EVENT (SPECIFIC)
+ it would become the first state to legalize medical marijuana , ##COERCED STATE (SPECIFIC)
+Washington D.C. residents will be allowed to find an alternative ##GENERIC SENTENCE (STATIC)
+ Washington Redskins fans will be permitted to bring their team to town from the other states ##COERCED STATE (GENERIC)
+ ( see here ) . ##OTHER
+***0 5 5 0 0 0 0 0 YES ML NO 02 2 4 2 ALGORITHM

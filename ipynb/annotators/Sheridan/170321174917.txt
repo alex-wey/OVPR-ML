@@ -1,0 +1,146 @@
+Medical marijuana usage is a hot topic today , ##GENERIC SENTENCE (STATIC)
+ but many of the politics behind regulation center around biased statistics . ##GENERIC SENTENCE (STATIC)
+With various studies and exaggerated opinions , ##OTHER
+ it is hard to determine ##GENERIC SENTENCE (STATIC)
+ what is true ##GENERIC SENTENCE (STATIC)
+ and what is utter bologna . ##GENERIC SENTENCE (STATIC)
+I might not hold all the answers ##BASIC STATE
+ and have always been indifferent on the topic , ##BASIC STATE
+ but I do have some insight ##BASIC STATE
+ when it comes to positive experiences . ##OTHER
+One of my cousins had just graduated from an academy and , ##BOUNDED EVENT (SPECIFIC)
+aside from myself ##OTHER
+ and my weakening grandpa , ##OTHER
+all my family went out of state for the ceremony . ##BOUNDED EVENT (SPECIFIC)
+My grandma asked ##BOUNDED EVENT (SPECIFIC)
+ if I could check on my grandpa ##COERCED STATE (SPECIFIC)
+ while she was away . ##BASIC STATE
+Reluctantly , ##OTHER
+I agreed to check on my grandpa ##BOUNDED EVENT (SPECIFIC)
+ to ease her worry . ##UNBOUNDED EVENT (SPECIFIC)
+My grandpa , ##OTHER
+ though I loved him , ##BASIC STATE
+ became a difficult person to be around . ##BOUNDED EVENT (SPECIFIC)
+His old age and constant pain turned him into a grump , ##BOUNDED EVENT (SPECIFIC)
+ and he felt the need to tell others about his never-ending pain . ##BASIC STATE
+It was not exactly a visit ##BASIC STATE
+ I was looking forward too . ##BASIC STATE
+His agitated state became overbearing . ##BOUNDED EVENT (SPECIFIC)
+People slowly distanced themselves from him , ##BOUNDED EVENT (GENERIC)
+ annoyed with his constant negativity . ##GENERIC SENTENCE (STATIC)
+I , ##OTHER
+like most of my family members , ##OTHER
+ took part in the distancing . ##BOUNDED EVENT (SPECIFIC)
+Pretending everything was fine was easier , ##GENERIC SENTENCE (STATIC)
+ and remembering him as an active gardener was better than looking at the shell of himself ##BASIC STATE
+ he had become . ##PERFECT COERCED STATE (SPECIFIC)
+But something had changed ##PERFECT COERCED STATE (SPECIFIC)
+ and I suddenly found ##BOUNDED EVENT (SPECIFIC)
+ myself face to face with a familiar stranger . ##OTHER
+Armed with a few subs for lunch and my two dogs , ##BASIC STATE
+ I slipped into the house ##BOUNDED EVENT (SPECIFIC)
+ and found my grandpa watching reruns of Walker Texas Ranger . ##BOUNDED EVENT (SPECIFIC)
+Happy ##OTHER
+ I was there , ##BASIC STATE
+ he struggled out of his brown recliner ##BOUNDED EVENT (SPECIFIC)
+ to hug me . ##UNBOUNDED EVENT (SPECIFIC)
+When he noticed my puppies ##BOUNDED EVENT (SPECIFIC)
+ wagging their excited little poodle tails , ##UNBOUNDED EVENT (SPECIFIC)
+ he smiled . ##BOUNDED EVENT (SPECIFIC)
+It had been a long time ##BASIC STATE
+ since that smile made an appearance , ##BOUNDED EVENT (SPECIFIC)
+ and the gesture warmed my heart . ##UNBOUNDED EVENT (SPECIFIC) //4
+We made our way to the dining room table ##BOUNDED EVENT (SPECIFIC)
+ so I could put on his pain patch ##COERCED STATE (SPECIFIC)
+ and we could eat . ##COERCED STATE (SPECIFIC)
+With only the sound of chewing breaking the silence , ##UNBOUNDED EVENT (SPECIFIC)
+ I began feeling awkward and desperate for a safe conversation topic . ##BOUNDED EVENT (SPECIFIC)
+Searching my surroundings ##UNBOUNDED EVENT (SPECIFIC)
+ as if they held all the answers , ##BASIC STATE
+ I began looking for a flare of inspiration . ##BOUNDED EVENT (SPECIFIC)
+My eyes landed on a tiny glass vial ##BOUNDED EVENT (SPECIFIC)
+ that contained only about a thimble worth of a crushed plant . ##BASIC STATE
+I suddenly remembered my grandma ##BOUNDED EVENT (SPECIFIC)
+ telling me ##UNBOUNDED EVENT (SPECIFIC)
+ he had recently been prescribed medical marijuana . ##PERFECT COERCED STATE (SPECIFIC)
+Taking the vial as a conversation saver and blessing in disguise , ##UNBOUNDED EVENT (SPECIFIC)
+ I asked him ##BOUNDED EVENT (SPECIFIC)
+ if the medical marijuana had been helping at all . ##PERFECT COERCED STATE (SPECIFIC) //4
+Not surprisingly , ##OTHER
+ he told me no , ##BOUNDED EVENT (SPECIFIC)
+ but a smirk curled his lips ##BOUNDED EVENT (SPECIFIC)
+ as he added , ##BOUNDED EVENT (SPECIFIC)
+ it gives me one hell of a high , ##GENERALIZING SENTENCE (DYNAMIC)
+though ! ##OTHER
+He looked up at me with a glimmer in his eyes ##BOUNDED EVENT (SPECIFIC)
+ that had been missing for several years . ##BASIC STATE
+The hollows of his face were less prominent , ##BASIC STATE
+ his eyes considerably less sunken , ##BASIC STATE
+ and an un-pained smile spread across his aged face . ##BASIC STATE
+Believing the lively man ##UNBOUNDED EVENT (SPECIFIC)
+ sitting across from me ##BASIC STATE
+ was my grandpa was hard , ##BASIC STATE
+ but denying the positive effects of him ##UNBOUNDED EVENT (SPECIFIC)
+ smiling was impossible . ##BASIC STATE
+The conversation sparked , ##BOUNDED EVENT (SPECIFIC)
+ and my grandpa proceeded to share with me the how-tos behind smoking . ##BOUNDED EVENT (SPECIFIC)
+I continued to ask questions about the treatment , ##UNBOUNDED EVENT (SPECIFIC)
+ despite knowing very little about marijuana . ##BASIC STATE
+This allowed my now enthused grandpa to keep the conversation going . ##UNBOUNDED EVENT (SPECIFIC)
+Wrapped up in the moment , ##BASIC STATE //4
+ he asked ##BOUNDED EVENT (SPECIFIC)
+ if I wanted to try it with him . ##BASIC STATE 
+He continued by offering to show me ##BOUNDED EVENT (SPECIFIC)
+ how to smoke it from his pipe . ##UNBOUNDED EVENT (SPECIFIC) //3
+Maybe he didnt realize ##COERCED STATE (SPECIFIC)
+ what he was proposing , ##UNBOUNDED EVENT (SPECIFIC)
+ or he was just proud ##BASIC STATE
+ that ##OTHER
+ he knew something ##BASIC STATE
+ I didnt . ##BASIC STATE
+The reason didnt matter ##BASIC STATE
+ because it was the most excited ##BASIC STATE
+ I had seen him in years . ##PERFECT COERCED STATE (SPECIFIC)
+I kindly declined his offer ##BOUNDED EVENT (SPECIFIC)
+ but let him describe each step in depth . ##BOUNDED EVENT (SPECIFIC)
+I was a rookie ##BASIC STATE
+ that had never smoked , ##COERCED STATE (SPECIFIC)
+ and I found it far too ironic ##BASIC STATE
+ that it was my grandpa of all people to offer me my first puff of marijuana . ##BASIC STATE
+I knew ##BASIC STATE
+ he wanted me to try it with him , ##BASIC STATE
+ he probably thought ##BASIC STATE
+ it would be a bonding moment between us , ##BASIC STATE
+ but I preferred to remember corn picking and tractor riding as our thing . ##BASIC STATE
+While he was telling me about his pipe , ##UNBOUNDED EVENT (SPECIFIC)
+and the struggle of learning to use it through this foreign thing ##GENERALIZING SENTENCE (DYNAMIC) //3
+ called YouTube , ##BASIC STATE
+ I reflected on how much he had changed . ##BOUNDED EVENT (SPECIFIC)
+Though he still was in some pain , ##BASIC STATE
+ he was easier to be around . ##BASIC STATE
+He discovered a piece of himself ##BOUNDED EVENT (SPECIFIC)
+ that was almost lost . ##COERCED STATE (SPECIFIC) //3
+We ended up enjoying our meal , ##BOUNDED EVENT (SPECIFIC)
+ and I was happy ##BASIC STATE
+ I listened to my grandma . ##BOUNDED EVENT (SPECIFIC)
+Watching him feed the dogs ##UNBOUNDED EVENT (SPECIFIC)
+ lunchmeat made me smile at the magic ##BOUNDED EVENT (SPECIFIC)
+ I had witnessed . ##PERFECT COERCED STATE (SPECIFIC)
+His new found zest for life could have come from the puppy-love therapy ##COERCED STATE (SPECIFIC)
+ I offered , ##GENERALIZING SENTENCE (DYNAMIC) //2
+ but I believed ##BASIC STATE
+ most of his recovery was related to the plant carcass ##BASIC STATE
+ he had been smoking . ##GENERALIZING SENTENCE (DYNAMIC) //3
+It wasnt a drug ##BASIC STATE
+ meant to get him high , ##BASIC STATE
+ and according to him it didnt help much in the pain department , ##COERCED STATE (SPECIFIC)
+ but it unexpectedly gave my grandpa some of his lost spark . ##BOUNDED EVENT (SPECIFIC)
+He had some life in him again , ##BASIC STATE
+ and I suspected ##UNBOUNDED EVENT (SPECIFIC) //3
+ it was a result from the munchies . ##BASIC STATE
+His appetite returned , ##BOUNDED EVENT (SPECIFIC)
+ and he began moving around more with his returned strength . ##GENERALIZING SENTENCE (DYNAMIC) //3
+If I hadnt witnessed the magic first hand , ##COERCED STATE (SPECIFIC)
+ I never would have believed the miracle ##BASIC STATE
+ that came from the marijuana . ##BOUNDED EVENT (GENERIC)
+***0 5 0 5 5 5 5 1 YES ML YES 4 2 5 5 HUMAN 

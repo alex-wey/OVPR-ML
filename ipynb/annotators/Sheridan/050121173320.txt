@@ -1,0 +1,57 @@
+Kamala Harris , ##OTHER
+ after ##OTHER
+ she said ##BOUNDED EVENT (SPECIFIC)
+ that pot ##OTHER
+ will give a better life for the LGBT community , ##COERCED STATE (GENERIC)
+ is now calling for legalizing marijuana legalization . ##UNBOUNDED EVENT (SPECIFIC)
+President Trump has launched a criminal justice legislation ##PERFECT COERCED STATE (SPECIFIC)
+ based on medical marijuana , ##BASIC STATE
+ the actress says in a letter ##UNBOUNDED EVENT (SPECIFIC)
+ published on her Facebook page , ##BOUNDED EVENT (SPECIFIC) //3
+ and I am writing to call for an end to that criminal justice system ##UNBOUNDED EVENT (SPECIFIC)
+ for a better life for the rest of us . ##OTHER
+Harris is an outspoken opponent of same-sex marriage and gay rights . ##BASIC STATE
+She has a four-year-old son with her husband , ##BASIC STATE
+Lee , ##OTHER
+ who she says ##BASIC STATE
+ is going to live under his fathers same-sex marriage at some point in the future ##COERCED STATE (SPECIFIC)
+ but ##OTHER
+ this has not appeased her . ##COERCED STATE (SPECIFIC)
+I was prepared to lead the change in the system , ##BASIC STATE
+ Harris told The New York Times on Friday , ##BOUNDED EVENT (SPECIFIC)
+ noting ##OTHER
+ that legalization would impact public health ##COERCED STATE (GENERIC)
+ and improve citizens lives . ##COERCED STATE (GENERIC)
+Harris noted in her letter ##BOUNDED EVENT (SPECIFIC)
+ that she supports the legalization of marijuana , ##BASIC STATE
+ but the question ##OTHER
+ of legalization could ultimately be a conflict with constitutionally-protected rights . ##BASIC STATE
+Medicine has determined ##PERFECT COERCED STATE (GENERIC)
+ that marijuana should be the best solution for health and safety , ##GENERIC SENTENCE (STATIC)
+ she wrote . ##BOUNDED EVENT (SPECIFIC)
+Pursuing , ##UNBOUNDED EVENT (GENERIC)
+for example , ##OTHER
+a program to address substance abuse , ##UNBOUNDED EVENT (GENERIC)
+ or legalizing and treating dangerous cigarettes , ##UNBOUNDED EVENT (GENERIC)
+ doctors can come to a different conclusion . ##COERCED STATE (GENERIC)
+Although most countries around the world ##OTHER
+ give similar legalization measures to marijuana , ##GENERIC SENTENCE (DYNAMIC)
+ the issue of recognizing transgender persons , ##UNBOUNDED EVENT (GENERIC)
+ including President Trump , ##BASIC STATE //2
+ is currently under consideration . ##BASIC STATE
+In her letter , ##OTHER
+Harris seeks to clarify legal arguments . ##BASIC STATE //4
+Medical marijuana is a medical substance ##GENERIC SENTENCE (STATIC)
+ which can help treat , cure , reduce , eliminate , ##COERCED STATE (GENERIC)
+ or prevent cancer , heart disease , AIDS , cancer , diabetes , AIDS , ##COERCED STATE (GENERIC)
+ and most importantly , ##OTHER
+reduce the many social and environmental harms of the substance , ##COERCED STATE (GENERIC)
+ she wrote . ##BOUNDED EVENT (SPECIFIC)
+My motivation is to fulfill my constitutional promise to be recognized as the person ##BASIC STATE
+ who can provide for people with debilitating illnesses . ##COERCED STATE (SPECIFIC)
+U.S. Rep. Cynthia McKinney wrote an open letter ##BOUNDED EVENT (SPECIFIC)
+ of support for President Trump in August , ##OTHER
+ declaring this isnt war on any one demographic or any one nation , ##UNBOUNDED EVENT (SPECIFIC)
+ but over 5 million American families ##OTHER
+ where countless lives have been touched by drugs and violence . ##PERFECT COERCED STATE (GENERIC)
+***0 5 5 0 0 0 0 0 YES ML YES 0 0 0 0 ALGORITHM

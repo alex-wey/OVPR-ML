@@ -1,0 +1,26 @@
+Willie Nelson can breath easy again in Texas . ##BASIC STATE
+TMZ has learned the singer ##PERFECT COERCED STATE (SPECIFIC)
+ struck a plea deal in his marijuana case ##BOUNDED EVENT (SPECIFIC)
+ and will not have to do any hard time . ##COERCED STATE (SPECIFIC)
+Sources close to Nelson tell TMZ ##UNBOUNDED EVENT (SPECIFIC)
+ that the singer agreed to plead no contest to misdemeanor possession of drug paraphernalia ##BOUNDED EVENT (SPECIFIC)
+ stemming from an incident last year , ##BASIC STATE
+ when cops say ##BASIC STATE
+ they found weed on the singer 's tour bus at a border checkpoint . ##BOUNDED EVENT (SPECIFIC)
+Nelson was originally charged with marijuana possession , ##BOUNDED EVENT (SPECIFIC)
+ but the singer worked out a deal ##BOUNDED EVENT (SPECIFIC)
+ with prosecutors ##OTHER
+ in which they agreed to reduce the charge in exchange for a no contest plea . ##BOUNDED EVENT (SPECIFIC)
+As part of the deal , ##OTHER
+Nelson has also agreed to pay a $500 fine . ##PERFECT COERCED STATE (SPECIFIC)
+And ##OTHER
+ if he can stay out of trouble ##COERCED STATE (SPECIFIC)
+ for 30 days , ##OTHER
+ the judge will dismiss the case entirely . ##COERCED STATE (SPECIFIC)
+Nelson 's lawyer , ##OTHER
+Joe Turner , ##OTHER
+tells TMZ , ##BOUNDED EVENT (SPECIFIC)
+ " Willie is glad to have it all behind him . ##BASIC STATE
+Everyone was very fair . " ##GENERIC SENTENCE (STATIC)
+
+***0 5 3 4 5 5 5 1 YES ML NO 0 0 0 0 HUMAN

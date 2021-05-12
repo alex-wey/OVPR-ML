@@ -1,0 +1,28 @@
+ HID headlights have always been a target for thieves , ##GENERIC SENTENCE (STATIC)
+ and some brands of automobiles ##OTHER
+ have earned a reputation ##PERFECT COERCED STATE (GENERIC)
+ for being easy to steal from . ##GENERIC SENTENCE (STATIC)
+Such is the case with Porsche , ##BASIC STATE
+ which is why a Miami-Dade Circuit Court judge recently approved a class action lawsuit over Porsches headlight design . ##BOUNDED EVENT (SPECIFIC)
+Not every HID headlight stolen winds up in another car , ##GENERIC SENTENCE (STATIC)
+however , ##OTHER
+ as thieves in Amsterdam have recently begun harvesting xenon headlamps from Porsche Cayenne and Panamera models for a decidedly different purpose : growing marijuana . ##PERFECT COERCED STATE (GENERIC)
+The xenon bulbs ##OTHER
+ used in Porsches lighting systems ##GENERIC SENTENCE (DYNAMIC)
+ coincidentally deliver a just-right blend of light and heat for budding amateur horticulturists , ##GENERIC SENTENCE (DYNAMIC)
+ and they offer the side benefit of being energy-efficient , ##GENERIC SENTENCE (STATIC)
+too . ##OTHER
+Nothing says grow house to the police quite like a tripling of the electric bill from month to month . ##GENERIC SENTENCE (STATIC)
+As De Telegraafs AutoVisie reports , ##BASIC STATE
+ some 20 Porsche owners have had headlights ##PERFECT COERCED STATE (STATIC)
+ stolen in the last week alone . ##UNBOUNDED EVENT (SPECIFIC)
+Adding insult to injury , ##BASIC STATE
+ prying the headlight assemblies from the cars with a screw driver often results in thousands of dollars worth of additional damage on top of the cost of replacing the headlights . ##GENERIC SENTENCE (DYNAMIC)
+If you have a Porsche Panamera or Cayenne ##BASIC STATE
+ and park it outside , ##GENERALIZING SENTENCE (DYNAMIC)
+ you may want to sleep in your car ##COERCED STATE (SPECIFIC)
+ until this latest trend blows over . ##UNBOUNDED EVENT (SPECIFIC)
+As you can see from the surveillance video below , ##BASIC STATE
+ even security cameras fail to act as a deterrent . ##GENERIC SENTENCE (STATIC)
+
+***0 5 5 1 5 5 5 5 NO NO 0 0 3 5 5 HUMAN

@@ -1,0 +1,71 @@
+Ok , ##OTHER
+I 'm sorry , ##BASIC STATE
+ but the OP is part of the problem ##BASIC STATE
+ that he condemns . ##BASIC STATE
+Just a casual browse through his comments shows ##BASIC STATE
+ that he buys into several typical reddit hivemind positions : ##BASIC STATE
+Anti-religion : ##OTHER
+ > Wow , is n't this the same place ##BASIC STATE
+ where they indoctrinate you to pledge allegiance " under God " ? ##GENERIC SENTENCE (STATIC)
+Pro-marijuana ##OTHER
+> I do n't smoke weed ##GENERALIZING SENTENCE (DYNAMIC)
+ and never have . ##PERFECT COERCED STATE (SPECIFIC)
+But it pisses me off to see otherwise normal people ##BASIC STATE
+ prosecuted to the full extent of the law for smoking a god damn plant . ##GENERIC SENTENCE (DYNAMIC)
+It pisses me off to see our tax dollars wasted to pay for a failing drug war ##UNBOUNDED EVENT (SPECIFIC)
+ and lock people up for years . ##UNBOUNDED EVENT (GENERIC)
+It pisses me off to see our homes ##BASIC STATE
+ broken into , ##GENERIC SENTENCE (DYNAMIC)
+dogs shot , ##GENERIC SENTENCE (DYNAMIC)
+ and families terrorized ##GENERIC SENTENCE (DYNAMIC)
+ because some dipshit cop ca n't read an address correctly . ##GENERIC SENTENCE (STATIC)
+It pisses me off ##BASIC STATE
+ that our rights are being taken away in the name of buzz-killing . ##GENERIC SENTENCE (DYNAMIC)
+It 's insane and idiotic . ##GENERIC SENTENCE (STATIC)
+So fuck you . ##OTHER
+Anti-war on drugs : ##OTHER
+> Nah , ##OTHER
+ our Government would rather keep the war on drugs ##BASIC STATE
+ so it can hand our taxpayer dollars over to the prison-industrial complex , ##GENERALIZING SENTENCE (DYNAMIC)
+ and then hope the South / Central American cartels get powerful enough ##GENERIC SENTENCE (DYNAMIC)
+ that we have to get involved militarily . ##GENERIC SENTENCE (DYNAMIC)
+Then they can give the rest of our taxpayer dollars to the military-industrial complex 
+ and really crack down on our freedoms at home . ##GENERALIZING SENTENCE (DYNAMIC)
+Militarized cartels ##OTHER
+ blowing shit up in southern California is our government 's wet dream . ##GENERIC SENTENCE (STATIC)
+Meme : ##OTHER
+ > I accidentally the whole pun . ##NONSENSE
+Anti-cop : ##OTHER
+ > I try to tell people , ##GENERALIZING SENTENCE (DYNAMIC)
+ but they 're too fucking stupid to accept it : ##GENERIC SENTENCE (STATIC)
+ cops are unconstitutional ##GENERIC SENTENCE (STATIC)
+ and we 'd be better off without them . ##GENERIC SENTENCE (STATIC)
+Of course , ##OTHER
+the original poster decided ##BOUNDED EVENT (SPECIFIC)
+ he would improve the quality of reddit ##COERCED STATE (SPECIFIC)
+ by submitting high quality articles ##UNBOUNDED EVENT (SPECIFIC)
+ which challenged our worldview . ##GENERIC SENTENCE (STATIC)
+Oh wait , ##IMPERATIVE
+he did n't . ##BOUNDED EVENT (SPECIFIC)
+I 'll let you see ##COERCED STATE (GENERIC)
+ what he actually submitted . ##BOUNDED EVENT (SPECIFIC)
+The point ##OTHER
+ I 'm trying to make is that everybody is a part of the problem ##GENERIC SENTENCE (STATIC)
+ you decry ##BASIC STATE
+ even if you do n't think ##GENERIC SENTENCE (STATIC)
+ you are . ##GENERIC SENTENCE (STATIC)
+When we down-vote stuff ##GENERIC SENTENCE (DYNAMIC)
+ that we think ##GENERIC SENTENCE (STATIC)
+ is stupid or unreasoned we think ##GENERIC SENTENCE (STATIC)
+ we are being judicious and reasonable , ##GENERIC SENTENCE (STATIC)
+ but when everybody else does it ##GENERIC SENTENCE (DYNAMIC)
+ they are just following the hivemind . ##GENERIC SENTENCE (DYNAMIC)
+Maybe you guys should realize ##COERCED STATE (GENERIC)
+ that every other poster on reddit is EXACTLY like you ##GENERIC SENTENCE (STATIC)
+ and is capable of thinking for themselves ##GENERIC SENTENCE (STATIC)
+ and when they downvote your shit , ##GENERIC SENTENCE (DYNAMIC)
+ it 's not because they are following the crowd ##UNBOUNDED EVENT (GENERIC)
+ but because they actually came to that conclusion on their own ##BOUNDED EVENT (GENERIC)
+ just like you do when you downvote their shit . ##GENERIC SENTENCE (DYNAMIC)
+
+***0 5 0 0 0 0 0 0 YES ML YES 2 3 3 2 HUMAN

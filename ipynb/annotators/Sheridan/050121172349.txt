@@ -1,0 +1,12 @@
+Frank Ocean in an insouciant tweet Thursday night , ##OTHER
+ three days after he was cited for speeding and possessing marijuana in Californias Sierra Nevada . ##BOUNDED EVENT (SPECIFIC)
+The Mono County Sheriffs Department told AP ##BOUNDED EVENT (SPECIFIC)
+ they caught the 25-year-old R & B singer-of-the-moment New Years Eve in his BMW going 90 in a 65 ##BOUNDED EVENT (SPECIFIC)
+ and found a small bag of weed as well . ##BOUNDED EVENT (SPECIFIC)
+Since theyd stopped him ##PERFECT COERCED STATE (SPECIFIC)
+ doing the same speed a day earlier , ##BOUNDED EVENT (SPECIFIC)
+ they took his license this time . ##BOUNDED EVENT (SPECIFIC)
+Strangely , ##OTHER
+for all the stars Twitter candor , ##OTHER
+his actual publicist declined comment . ##BOUNDED EVENT (SPECIFIC)
+***0 5 3 0 0 0 0 0 YES ML YES 0 0 0 0 HUMAN

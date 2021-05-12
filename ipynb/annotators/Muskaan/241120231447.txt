@@ -1,0 +1,31 @@
+Music fans ##OTHER
+ who turned out to BMI 's annual pre-Grammy Awards ##UNBOUNDED EVENT (SPECIFIC)
+"How I Wrote That Song " discussion got a little more ##BOUNDED EVENT (SPECIFIC)
+ than they expected thanks to Snoop Dogg ##BASIC STATE
+ -- a contact high . ##OTHER
+The rapper smoked marijuana during Saturday 's panel discussion , ##UNBOUNDED EVENT (SPECIFIC)
+ lighting up a large , Kush-filled blunt on stage at The Roxy . ##BOUNDED EVENT (SPECIFIC)
+He briefly passed it off to B.o.B before methodically reducing it to ash over a 15-minute period . ##BOUNDED EVENT (SPECIFIC)
+The panel also included Busta Rhymes and songwriters Luke Laird and Evan Bogart , ##BASIC STATE
+ all of whom abstained ##UNBOUNDED EVENT (SPECIFIC)
+ -- at least on stage . ##OTHER
+Fittingly , ##OTHER
+the conversation eventually turned to Snoop 's groundbreaking work on " The Chronic . " ##BOUNDED EVENT (SPECIFIC)
+Laird recalled growing up at the end of a dirt road ##BOUNDED EVENT (SPECIFIC)
+ in a small town of 700 in rural Pennsylvania . ##OTHER
+Yet Snoop 's work with Dr. Dre still infiltrated his world and that of all the other country kids around him . ##UNBOUNDED EVENT (SPECIFIC)
+" Let me just say , ##IMPERATIVE
+ the album everyone was listening to was ` The Chronic ,"' ##GENERIC SENTENCE (DYNAMIC)
+Laird said , ##BOUNDED EVENT (SPECIFIC)
+ noting ##BOUNDED EVENT (SPECIFIC)
+ how surreal it was to be sitting on stage with Snoop . ##BASIC STATE
+With acoustic guitar in hand , ##OTHER
+ he played a bit of his Blake Shelton hit " Hillbilly Bone " in its original form : 
+ a rap song . ##BOUNDED EVENT (SPECIFIC)
+The Nashville-based songwriter had everyone bobbing their heads to the beat . ##UNBOUNDED EVENT (GENERIC)
+" Now I feel ##BASIC STATE
+ like more than ever you see these influences ##GENERIC SENTENCE (HABITUAL)
+ crossing genres , " ##GENERALIZING SENTENCE (DYNAMIC)
+Laird said . ##BOUNDED EVENT (SPECIFIC)
+
+***0 5 3 5 5 5 5 1 YES ML NO 0 0 0 0 HUMAN

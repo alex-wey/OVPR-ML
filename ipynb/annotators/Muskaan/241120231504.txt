@@ -1,0 +1,40 @@
+Maneuvering dog vendor Gary Harvey , ##OTHER
+22 , ##OTHER
+was arrested Friday night for possession of marijuana and burglary during a recent burglary at a Long Island shelter , ##BOUNDED EVENT (SPECIFIC)
+ according to Nassau County officials . ##BASIC STATE
+Police say the moment of restraint ##GENERIC SENTENCE (STATIC)
+ a family nanny held the 2-month-old puppy ##BOUNDED EVENT (SPECIFIC)
+ and her 12-year-old stepfather captive in a car ##OTHER
+ until the police arrived , ##BOUNDED EVENT (SPECIFIC)
+ the dog was well-circulated at the shelter ##UNBOUNDED EVENT (SPECIFIC)
+ and comfortably protected . ##UNBOUNDED EVENT (SPECIFIC)
+For more than five hours , ##OTHER
+police arrested Harvey , ##BOUNDED EVENT (SPECIFIC)
+ taken off life support ##BASIC STATE
+ and charged him with possession of an animal , burglary and criminal possession of a weapon , ##BOUNDED EVENT (SPECIFIC)
+ according to the Patch . ##BASIC STATE
+Maneuvering puppies arent dangerous animals . ##GENERIC SENTENCE (STATIC)
+There isnt any evidence whatsoever of any kind , ##GENERIC SENTENCE (STATIC)
+ said Vernon Gardner , ##BOUNDED EVENT (SPECIFIC)
+spokesman for the Nassau County Prosecutors Office . ##OTHER
+If the dog had been a pug or a pigeon , ##PERFECT COERCED STATE (SPECIFIC)
+ for that matter , ##OTHER
+ we would have been watching it grow and grow and baby the puppy . ##COERCED STATE (SPECIFIC)
+Earlier this month , ##OTHER
+residents on Hudson Street around Long Island received a letter for the litter of puppies , ##BOUNDED EVENT (SPECIFIC)
+ which contained the words Enough ! ##BASIC STATE
+The posting by the Long Island Humane Society read , ##BASIC STATE
+Frantzed the sad story of the little one , ##NONSENSE
+an aggressive dog , ##OTHER
+ were all the more deserving to be their home ##GENERIC SENTENCE (STATIC)
+ and take care of . ##NONSENSE
+At this time , ##OTHER
+no charges have been filed against Harvey . ##PERFECT COERCED STATE (SPECIFIC)
+The duo is being held without bail ##BASIC STATE
+ pending an official arraignment . ##OTHER
+Despite the ghoulish risk ##OTHER
+ that pets have when they are abused , ##GENERIC SENTENCE (STATIC)
+ the animal shelter does not condone animal abuse , ##GENERALIZING SENTENCE (DYNAMIC)
+ Gardner said . ##BOUNDED EVENT (SPECIFIC)
+
+***0 4 5 5 3 2 3 3 YES ML NO 0 0 0 0 ALGORITHM

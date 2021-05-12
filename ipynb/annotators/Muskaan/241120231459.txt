@@ -1,0 +1,13 @@
+Chace Crawford from " Gossip Girl " was arrested in Plano , Texas for possession of marijuana ... ##BOUNDED EVENT (SPECIFIC)
+ cops confirm to TMZ . ##UNBOUNDED EVENT (SPECIFIC)
+We 're told ##UNBOUNDED EVENT (SPECIFIC)
+ Crawford has bonded out of jail . ##PERFECT COERCED STATE (SPECIFIC)
+Crawford was arrested just after midnight this morning for possession of marijuana under 2 ounces . ##BOUNDED EVENT (SPECIFIC)
+The charge is a misdemeanor . ##BASIC STATE
+Crawford was busted in the parking lot of Ringo 's Pub . ##BOUNDED EVENT (SPECIFIC)
+Sources say ##GENERIC SENTENCE (STATIC)
+ Crawford was in a car with a friend ##UNBOUNDED EVENT (SPECIFIC)
+ when he was busted ##BOUNDED EVENT (SPECIFIC)
+ and cops found one unlit joint . ##BOUNDED EVENT (SPECIFIC)
+
+***0 5 3 5 5 5 5 1 YES ML NO 0 0 0 0 HUMAN

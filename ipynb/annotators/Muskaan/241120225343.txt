@@ -1,0 +1,22 @@
+Indiana police found marijuana and other unidentified controlled substances on rocker Bret Michaels tour buses , ##BOUNDED EVENT (SPECIFIC)
+ The Fort Wayne News-Sentinel reported Friday . ##BOUNDED EVENT (SPECIFIC)
+Two tour buses , ##OTHER
+ one of which carried the rock star , ##BASIC STATE
+ were pulled over in DeKalb County , northeast Indiana , ##BOUNDED EVENT (SPECIFIC)
+ before midnight local time Wednesday . ##OTHER
+Police stopped the caravan ##BOUNDED EVENT (SPECIFIC)
+ because a trailer ##OTHER
+ connected to one of the buses ##BASIC STATE
+ did not have a license plate light . ##BASIC STATE
+Police then searched the second bus , ##BOUNDED EVENT (SPECIFIC)
+ where Michaels was a passenger , ##BASIC STATE
+ and also found illegal drugs . ##BOUNDED EVENT (SPECIFIC)
+The veteran rocker was reportedly very cooperative in allowing the searches . ##BASIC STATE
+Police made no arrests but charges have been forwarded to the DeKalb County Prosecutor 's Office . ##PERFECT COERCED STATE (SPECIFIC)
+Both buses were allowed to continued . ##BOUNDED EVENT (SPECIFIC)
+Michaels , ##OTHER
+former frontman of rock band Poison and the 2010 winner of the Celebrity Apprentice 3 , ##OTHER
+ is currently on his Roses & Thorns tour in the U.S. ##BASIC STATE
+ The 47-year-old recently overcame a brain aneurysm and a warning stroke earlier in 2010 . ##UNBOUNDED EVENT (SPECIFIC)
+
+***0 5 3 5 5 5 5 1 YES ML NO 0 0 0 0 HUMAN

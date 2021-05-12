@@ -1,0 +1,40 @@
+Those ##OTHER
+ who believe ##GENERIC SENTENCE (STATIC)
+ that weed is good for you ##GENERIC SENTENCE (STATIC)
+ are asking for attention from the FDA , ##UNBOUNDED EVENT (GENERIC)
+ as it can make you grow more rapidly ##COERCED STATE (GENERIC)
+ The burgeoning cigarette market is a big part of the global economy , ##GENERIC SENTENCE (STATIC)
+ but one thing to watch out for is whats happening with the EU . ##BASIC STATE //3
+For many years theyve been the bastion of legality , ##BASIC STATE
+ keeping a distance from the mainstream , ##UNBOUNDED EVENT (SPECIFIC)
+ particularly in the UK ##OTHER
+ where I work . ##UNBOUNDED EVENT (SPECIFIC)
+Research done on a European profile ##OTHER
+ by Harris Poll ##OTHER
+ published last year showed ##BOUNDED EVENT (SPECIFIC)
+ that the Public HealthWatch approach of ##OTHER
+Why smoking? ##QUESTION
+ programmes in just the beginning could affect countries ##COERCED STATE (GENERIC)
+ that dont work with the FDA ##COERCED STATE (GENERIC)
+ even after controlling for tax policies and local regulations . ##BOUNDED EVENT (GENERIC) //3
+The other big issue is where is it going ? ##GENERIC SENTENCE (STATIC) //3
+Where is it going with its current products . ##QUESTION*
+The US was the first country to actually decriminalise it , ##BASIC STATE
+ and part of the conversation around cannabis had to do with how effective it would be . ##GENERIC SENTENCE (STATIC)
+Americas public schools are still concerned about the drug use on school sports , ##GENERIC SENTENCE (STATIC)
+ which has led them to place the emphasis on addressing these issues diplomatically . ##PERFECT COERCED STATE (GENERIC)
+Not as obvious to many people ##OTHER
+ is that ##BASIC STATE
+ the EU has made it more difficult to get laws passed , ##PERFECT COERCED STATE (SPECIFIC)
+ since the 2012 Brexit referendum result highlighted the imbalance in the priorities ##BOUNDED EVENT (SPECIFIC)
+ on where to focus . ##OTHER //3
+As politicians pushed for an independence referendum ##UNBOUNDED EVENT (GENERIC)
+ that didnt necessarily hand them much political latitude , ##COERCED STATE (GENERIC)
+ it became increasingly hard to get one : ##BOUNDED EVENT (GENERIC)
+ there was widespread anxiety among the British electorate ##GENERIC SENTENCE (STATIC)
+ that any immigration referendum could become anti-democratic ##COERCED STATE (GENERIC)
+ the real issue , ##OTHER
+ according to Damian Drum , ##BASIC STATE
+a senior EU diplomat , ##OTHER
+was that immigration policy was not balanced enough . ##GENERIC SENTENCE (STATIC)
+***0 2 0 0 0 0 0 0 YES ML NO UNCLEAR 3 1 2 ALGORITHM

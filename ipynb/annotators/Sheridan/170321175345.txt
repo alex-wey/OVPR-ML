@@ -1,0 +1,82 @@
+Theres a chance ##BASIC STATE
+ that law and order wont make these races squeaky clean , ##COERCED STATE (GENERIC)
+ depending on where you stand in the history books . ##GENERIC SENTENCE (STATIC)
+As opposed to Colorado , Washington state and Oregon , ##OTHER
+ voters in the Nov. 8 election will , ##OTHER
+at the very least , ##OTHER
+ consider a clear majority of the delegates . ##COERCED STATE (GENERIC)
+However , ##OTHER
+one reason ##OTHER
+ that a Colorado ballot will be constitutional is , ##GENERIC SENTENCE (STATIC)
+of course , ##OTHER
+ that it could have more teeth . ##GENERIC SENTENCE (STATIC)
+There is a theory ##GENERIC SENTENCE (STATIC)
+ that the general election in each state will have a higher threshold of effectiveness . ##GENERIC SENTENCE (STATIC)
+This argument may come from a Colorado committee ##COERCED STATE (SPECIFIC)
+ that used statistics to the surprise of the Boulder City Council ##BOUNDED EVENT (SPECIFIC)
+ by making single elimination ##UNBOUNDED EVENT (SPECIFIC)
+ which means one consecutive ballot ##BASIC STATE
+ by eliminating any of the 68 declared candidates in a race the same way ##UNBOUNDED EVENT (SPECIFIC) //3
+ Colorado remains a 2-to-1 dead heat between Republican Cindy Cochran and Democrat Gary Johnson . ##BASIC STATE
+Four Republican candidates are running against Democratic incumbent Michele Bachmann in rural Colorado , ##UNBOUNDED EVENT (SPECIFIC)
+ while Colorado is also seeing a cluster of strong-willed Republicans Progressive Public Policies , A Patch of Life , Colorado Springs Initiative , and Hillsboro Welcome . ##UNBOUNDED EVENT (SPECIFIC)
+Other Republicans in Colorado ##OTHER
+ most of whom have since left the GOP have put their money ##PERFECT COERCED STATE (GENERIC)
+ where their mouth is by running against Cochran . ##UNBOUNDED EVENT (GENERIC)
+And ##OTHER
+ even if another election was in Colorado , ##GENERIC SENTENCE (STATIC)
+ the additional effects could be huge . ##GENERIC SENTENCE (STATIC)
+A group ##OTHER
+ called the Constitutional Freedom Legacy Law Center is pointing out ##BASIC STATE
+ that an effort to eliminate more ##OTHER
+ than three dozen declared candidates could add more than $50 million to one of the most critical election issues of 2012 : ##COERCED STATE (SPECIFIC)
+ the fight for a universal health care law . ##OTHER
+Of course , ##OTHER
+in a true democracy , ##OTHER
+ you want the candidate to get a majority of the delegates . ##GENERIC SENTENCE (HABITUAL)
+In fact , ##OTHER
+federal constitutional elections have been less than universal for 24 years . ##GENERIC SENTENCE (STATIC)
+Despite history ##OTHER
+ dating back to the Richard Nixon-Bush showdown in the 1856 election of 1796 , ##BASIC STATE
+ voting in presidential elections doesnt guarantee universal health care . ##COERCED STATE (GENERIC)
+According to the so-called Gilded Age , ##BASIC STATE
+the two major parties were constantly mired in and about the legal question ##BASIC STATE
+ of what the states and statesage should do to satisfy their individual populations needs . ##COERCED STATE (GENERIC)
+After Douglas v. Nineteen ##OTHER
+ ( 1958 ) , ##OTHER
+ the Supreme Court ruled ##BOUNDED EVENT (SPECIFIC)
+ that states had the right to make their own laws . ##GENERIC SENTENCE (STATIC)
+It specifically ruled ##BOUNDED EVENT (SPECIFIC)
+ that the states could make their own rules for regulating debates , voting , and for whatever reason other than the least amount of money ##COERCED STATE (GENERIC)
+ a state could do to regulate debates . ##COERCED STATE (GENERIC)
+These days , ##OTHER
+ when our system is more flexible than some of our local political branches , ##BASIC STATE
+ its difficult to determine ##GENERIC SENTENCE (HABITUAL)
+ if the states have a strong enough relationship with their citizens ##GENERIC SENTENCE (STATIC)
+ to move past this . ##UNBOUNDED EVENT (GENERIC) //4
+However , ##OTHER
+in Colorado , ##OTHER
+the same constitutional principle dictates ##UNBOUNDED EVENT (SPECIFIC)
+ that a single candidate will have more power in a states bylaws to demand a majority of the delegates . ##GENERIC SENTENCE (HABITUAL)
+Because there arent enough members of a single state party ##GENERIC SENTENCE (STATIC)
+ who would take up the position , ##COERCED STATE (GENERIC)
+ you might need to make a mandatory election for the seats open for primaries . ##GENERIC SENTENCE (STATIC)
+It seems like an absurd proposition , ##BASIC STATE
+ but then again , ##OTHER
+thats very different than a member of a single partys in the state legislature or Senate . ##BASIC STATE //3
+That said , ##BOUNDED EVENT (SPECIFIC) //2
+ it would also take a special group of Republicans at a state level , ##COERCED STATE (GENERIC)
+ because theyre not as much of a must-have as the party to pass a single-payer health care reform bill . ##GENERIC SENTENCE (STATIC)*
+As of this writing , ##OTHER
+neither candidate made the ballot for the Colorado ballot much less , ##COERCED STATE (SPECIFIC)
+ in her favor , ##OTHER
+ because a single member of the general election convention wouldnt be allowed to run against a minor . ##COERCED STATE (GENERIC) //3
+Its impossible to make a position on medical marijuana , ##GENERIC SENTENCE (STATIC)
+ and were at just the tip of the iceberg of how controversial and divisive this could come down to . ##GENERIC SENTENCE (STATIC)
+But making the ballot this November remains a law and order issue for the General Election . ##BASIC STATE
+If the upshot is that voters clearly believe ##BASIC STATE //4
+ the candidates in the key races lack the legislative chops and negotiating skills ##BASIC STATE
+ to successfully govern , ##UNBOUNDED EVENT (SPECIFIC)
+ then the signatures for the Colorado ballot show ##BASIC STATE
+ that voters have a strong commitment to democracy . ##GENERIC SENTENCE (STATIC)
+***0 5 5 1 3 4 2 2 YES ML YES 3 3 1 2 ALGORITHM

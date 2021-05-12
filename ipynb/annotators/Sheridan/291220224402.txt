@@ -1,0 +1,47 @@
+President Obama recently used this phrase in a teleprompter ##BOUNDED EVENT (SPECIFIC)
+ as he announced the new healthcare reform plans . ##UNBOUNDED EVENT (SPECIFIC)
+Given how little he previously has changed about marijuana ##PERFECT COERCED STATE (SPECIFIC)
+ and how much is he really backing cannabis , ##UNBOUNDED EVENT (SPECIFIC)*
+ it could be time for a little shift . ##BASIC STATE //3
+Here 's what you should do ##BASIC STATE
+The American Medical Association ##OTHER
+ ( AMA ) ##OTHER
+ has a different opinion on the regulation of medical marijuana : ##BASIC STATE
+ "Its legal status is an open secret ##BASIC STATE
+ and is , ##BASIC STATE
+therefore , ##OTHER
+not wholly confidential , ##OTHER
+ so we are unable to answer the question ##BASIC STATE
+ of what and ##OTHER
+ if the AMA will define the parameters of the regulation ," ##COERCED STATE (SPECIFIC)
+the California state bill ##OTHER
+ will now be addressed . ##COERCED STATE (SPECIFIC)
+On the regulatory side , ##OTHER
+ the bill is part of the First Amendment Right to Know and Free Speech Act . ##BASIC STATE
+But do n't confuse that with the overall decriminalization of marijuana . ##IMPERATIVE
+The bill is in the Governor 's Act ##BASIC STATE
+ if passed , ##COERCED STATE (SPECIFIC)
+ and it does , ##GENERALIZING SENTENCE (DYNAMIC)
+ but only the plan needs to pass the legislature ##BASIC STATE 
+ so it can go into effect . ##COERCED STATE (SPECIFIC)
+It will take some seven years ##COERCED STATE (SPECIFIC)
+ to get everyone on board ##UNBOUNDED EVENT (GENERIC)
+ and given the millions of Americans ##BOUNDED EVENT (GENERIC)
+ who need medical marijuana , ##GENERIC SENTENCE (STATIC)
+ legal marijuana is an inevitable complement to other options . ##GENERIC SENTENCE (STATIC)
+Good luck . ##OTHER
+If you 're in California , ##GENERIC SENTENCE (STATIC)
+ support the bill ##IMPERATIVE
+ in your district and over the following scenario : 10 years ago when Hillary Clinton was running for US Senate . ##BOUNDED EVENT (SPECIFIC)
+She 'd seen marijuana as one of the best choices ##PERFECT COERCED STATE (SPECIFIC)
+ to make for an American political family . ##UNBOUNDED EVENT (SPECIFIC) //3
+( Wisdom , you think ? ) ##QUESTION
+She 's a big pot fan ##BASIC STATE
+ and Nancy Reagan once ribbed her on the couch . ##BOUNDED EVENT (SPECIFIC)
+If she had a family , ##BASIC STATE
+ a lot of people would vote for her . ##COERCED STATE (GENERIC)
+I think ##BASIC STATE 
+ she needs to relax . ##BASIC STATE
+She 's undecided . ##BASIC STATE
+She 's out . ##BASIC STATE
+***0 3 1 0 0 0 0 0 YES ML YES 5//3 1 2 1 ALGORITHM

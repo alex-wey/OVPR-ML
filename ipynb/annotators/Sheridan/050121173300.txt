@@ -1,0 +1,67 @@
+What a compliment it should be . ##BASIC STATE //4
+I can hear my office pal Jesse Hernandez laughing . ##COERCED STATE (SPECIFIC)
+He knows ##BASIC STATE
+ that the cheesy little bit about the fact ##OTHER
+ that the end of this movie is when you come up with a new medical condition ##GENERIC SENTENCE (DYNAMIC) //2
+ that just so happens to be called cancer . ##GENERIC SENTENCE (STATIC)
+Well , ##OTHER
+its bad enough ##BASIC STATE 
+ that theyve stripped both the science ##PERFECT COERCED STATE (GENERIC)
+ ( and drugs ) ##OTHER
+ from both old and new medical conditions . ##OTHER
+I am a doctor of doctors , ##BASIC STATE
+ so a personal opinion can be certain for whatever condition I choose to diagnose ##GENERIC SENTENCE (STATIC) //3
+ but the most important take on this disease is that ##BASIC STATE
+ it should be available in every country ##GENERIC SENTENCE (STATIC)
+ where it exists . ##UNBOUNDED EVENT (GENERIC) //2
+There is no very satisfactory cure . ##GENERIC SENTENCE (STATIC)
+The only truly clinical treatment and as I say in my article in the recent podcast on the depressing case for treatment for cancer ##UNBOUNDED EVENT (SPECIFIC)*
+ is smoking or taking the flu . ##GENERIC SENTENCE (DYNAMIC)*
+Its almost a pill . ##GENERIC SENTENCE (STATIC)
+Which brings me to my favorite blog entry of 2009 , ##UNBOUNDED EVENT (SPECIFIC)
+ The Death of Doctors , Nourishing Physiology and Medicine ##OTHER
+ that will serve as an excellent lesson on how to treat cancer ##COERCED STATE (SPECIFIC)
+ without catastrophizing doctors . ##COERCED STATE (GENERIC)
+As writer and physician Dr. Harlan Koritzka wrote in his landmark book on smoking : ##BOUNDED EVENT (SPECIFIC)
+ When an infected person smokes a cigarette , ##GENERIC SENTENCE (DYNAMIC)
+ it is either because they are ##GENERIC SENTENCE (STATIC)
+ or were smokers ##GENERIC SENTENCE (STATIC)
+ or because they worked under physicians , ##BOUNDED EVENT (GENERIC)
+ like those ##OTHER
+ practicing medicine in the United States . ##UNBOUNDED EVENT (GENERIC)
+Finally , ##OTHER
+the proponent of smoking demonstrates his basic cold-calling and vaporizing skills ##UNBOUNDED EVENT (SPECIFIC) //4
+ by showing up in the kitchen ##UNBOUNDED EVENT (SPECIFIC)
+ in an envelope ##OTHER
+ and ordering boxes and paper envelopes ##UNBOUNDED EVENT (SPECIFIC)
+ that ##OTHER
+ he has made for himself . ##PERFECT COERCED STATE (SPECIFIC)
+Amazingly , ##OTHER
+these boxes ##OTHER
+ look like the handlong items from the suburban store . ##BASIC STATE*
+Years later , ##OTHER
+like in his book , ##OTHER
+Better to Leave a Medicine Inside Your Own Comfort Zone , ##NONSENSE*
+ Igor Volozhin gives the example of my subjects heroic attempts to treat an unexpected case of cancer from a guy ##UNBOUNDED EVENT (SPECIFIC)
+ who sent me a check for over $100,000 . ##BOUNDED EVENT (SPECIFIC)
+By calling me an antacid , ##UNBOUNDED EVENT (SPECIFIC)* //3
+ I learned , ##BOUNDED EVENT (SPECIFIC)
+ Come on up to Santa Barbara . ##IMPERATIVE
+Even though Im dying , ##UNBOUNDED EVENT (SPECIFIC)
+ Ill take a towel , ##COERCED STATE (SPECIFIC)
+ just in case Hes in the UK with that treasure . ##BASIC STATE
+In other words , ##OTHER
+ I used a method ##BOUNDED EVENT (SPECIFIC)
+ that should always be taken seriously . ##COERCED STATE (SPECIFIC)
+Here is my response : ##BASIC STATE
+ Being stupid to have completely absentminded answers on what cancer to expect ##GENERIC SENTENCE (STATIC)*
+ when its transpiring might seem like a cheap fix ##UNBOUNDED EVENT (GENERIC)
+ but it doesnt really help me enormously ##COERCED STATE (SPECIFIC)
+ when it involves taking one of the many cancer medications ##UNBOUNDED EVENT (GENERIC) //2
+ that people currently take for cancer . ##GENERIC SENTENCE (DYNAMIC)
+In other words , ##OTHER
+Im ignoring the misaligned messages ##UNBOUNDED EVENT (SPECIFIC)
+ I received about my cancer . ##BOUNDED EVENT (SPECIFIC)
+And I can thank several doctors and professionals for the heartbreaking results ##COERCED STATE (SPECIFIC)
+ they have provided in recent years . ##PERFECT COERCED STATE (SPECIFIC)
+***0 2 0 1 1 1 1 5 NO NA NO UNCLEAR 0 0 0 ALGORITHM

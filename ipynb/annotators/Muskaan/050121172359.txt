@@ -1,0 +1,151 @@
+In a large warehouse , ##OTHER
+LivWell Enlightened ##OTHER
+ Health feeds its cloned cannabis plants a custom blend of nutrients , ##GENERALIZING SENTENCE (DYNAMIC)
+sprays them with filtered water and pumps extra carbon dioxide into the air , ##GENERALIZING SENTENCE (DYNAMIC)
+ and releases three types of insects ##GENERALIZING SENTENCE (DYNAMIC)
+ to clear unwanted pests without the use of toxic pesticides . ##GENERALIZING SENTENCE (DYNAMIC)
+Every part of the growing process is meticulously documented ##GENERALIZING SENTENCE (DYNAMIC)
+ and evaluated to refine the process . ##GENERALIZING SENTENCE (DYNAMIC)
+After 20 years of experience , ##OTHER
+legal marijuana growers in the U.S. have a reputation ##GENERIC SENTENCE (STATIC)
+ for creating the best product in the world , ##GENERIC SENTENCE (DYNAMIC)
+scientifically grown and tightly regulated for quality and safety . ##GENERIC SENTENCE (STATIC)
+The crop would be in high demand internationally perhaps the centerpiece of a new U.S. industry ##COERCED STATE (GENERIC)
+ if not for the regulatory conundrum ##OTHER
+ in which growers operate . ##GENERIC SENTENCE (DYNAMIC)
+With cannabis use an open secret in the NBA , ##GENERIC SENTENCE (DYNAMIC)
+ this ex-player is pushing the league to allow CBD ##UNBOUNDED EVENT (SPECIFIC)
+ Because marijuana is legal in many states ##GENERIC SENTENCE (STATIC)
+ but still illegal federally , ##GENERIC SENTENCE (STATIC)
+ marijuana growers are unable to ship their products to other countries or even other American states ##GENERIC SENTENCE (STATIC)
+ that have legalized the drug . ##PERFECT COERCED STATE (GENERIC)
+So while U.S. cannabis firms have driven product innovation ##PERFECT COERCED STATE (GENERIC)
+ and mastered large-scale grow operations , ##PERFECT COERCED STATE (GENERIC)
+ they restlessly wait ##GENERIC SENTENCE (HABITUAL)
+ for the export curtain to lift . ##UNBOUNDED EVENT (SPECIFIC)
+Instead Canada has emerged as the dominant exporter in the burgeoning global marijuana trade , ##PERFECT COERCED STATE (SPECIFIC)
+ which ArcView Market Research and BDS Analytics estimated at $14.9 billion in sales for 2019 . ##BOUNDED EVENT (SPECIFIC)
+Companies are raising capital ##GENERIC SENTENCE (DYNAMIC)
+ and building international trade ties ##GENERIC SENTENCE (DYNAMIC)
+ despite Canadas unlikely climate ##OTHER
+ to be an agricultural pot haven . ##BASIC STATE
+Canada has a huge advantage ##BASIC STATE
+ because they can fill a gap , ##BASIC STATE
+ said Rezwan Khan , ##BOUNDED EVENT (SPECIFIC)
+vice president of global corporate development for cannabis seed supplier DNA Genetics . ##OTHER
+Best in the World Californias growers have been developing legal marijuana products since 1996 , ##PERFECT COERCED STATE (GENERIC)
+longer than everywhere but Amsterdam . ##OTHER
+Khan describes the state as " the epicenter of cannabis culture . " ##BASIC STATE
+Californias cannabis seeds have been distributed all over the world , ##PERFECT COERCED STATE (GENERIC)
+ and many foreign firms are trying to reproduce the quality of West Coast marijuana . ##GENERIC SENTENCE (DYNAMIC)
+The genetics and sophistication ##OTHER
+ underlying the U.S. cannabis industry ##GENERIC SENTENCE (STATIC)
+ lead to better-quality and higher-potency flowers and innovations in oils , tinctures and edibles . ##GENERIC SENTENCE (DYNAMIC)
+The world wants that technology , ##BASIC STATE
+ said Michael Sassano , ##BOUNDED EVENT (SPECIFIC)
+chief executive of Solaris Farms , ##OTHER
+the largest cannabis hybrid greenhouse in Nevada . ##OTHER
+The Netherlands had a big jump ; ##UNBOUNDED EVENT (SPECIFIC)
+ they could have done anything . ##COERCED STATE (SPECIFIC)
+But the U.S. is the one ##BASIC STATE
+ that turned the industry ##UNBOUNDED EVENT (SPECIFIC)
+ into what it is today , ##BASIC STATE
+ with all the products ##OTHER
+ we make , ##GENERIC SENTENCE (DYNAMIC)
+not Canada . ##OTHER
+Amazon prohibits CBD sales , ##BASIC STATE
+ but it 's still easy to buy on their site ##GENERIC SENTENCE (STATIC)
+ The other draw of American-grown cannabis , ##OTHER
+ according to Denver-based cannabis law expert Bob Hoban , ##BASIC STATE
+ is that foreign customers value the regulatory oversight ##GENERIC SENTENCE (STATIC)
+ that ensures ##GENERIC SENTENCE (DYNAMIC)
+ the product is safe and unadulterated . ##GENERIC SENTENCE (STATIC)
+Its being regulated by a government agency , ##GENERIC SENTENCE (STATIC) 
+ which is not necessarily whats happening around the rest of the world , ##GENERIC SENTENCE (DYNAMIC)
+ Hoban said . ##BOUNDED EVENT (SPECIFIC)
+Hampered growth ##OTHER
+But because federal law prohibits the sale and use of marijuana , ##BASIC STATE
+ growers have not had easy access to the banking system . ##GENERIC SENTENCE (HABITUAL)
+LivWell had to pay cash for its HVAC system , ##BOUNDED EVENT (SPECIFIC)
+ and ##OTHER
+ with sales limited to in-state retailers , ##GENERIC SENTENCE (STATIC)
+ it has not been cost effective to invest in automation for its production line . ##PERFECT COERCED STATE (SPECIFIC)
+Most processing and packaging is done by hand . ##GENERIC SENTENCE (DYNAMIC)
+The patchwork of legalization means ##BASIC STATE
+ cannabis is not always ##GENERIC SENTENCE (STATIC)
+ grown where it thrives , ##GENERIC SENTENCE (DYNAMIC)
+ in warm climates with limited rainfall . ##OTHER
+Its grown where its legal . ##GENERIC SENTENCE (DYNAMIC)
+California , Oregon and Colorado grow most of the countrys authorized marijuana as legally isolated islands . ##GENERALIZING SENTENCE (DYNAMIC)
+That leaves cold Canada as a somewhat odd choice to be the worlds leader in marijuana exports . ##BASIC STATE
+Only 8 percent of Americans say ##GENERIC SENTENCE (STATIC)
+ marijuana should be completely illegal ##COERCED STATE (GENERIC)
+ When Canada legalized marijuana in 2018 , ##BOUNDED EVENT (SPECIFIC)
+ its firms could be listed on the New York Stock Exchange and NASDAQ . ##GENERIC SENTENCE (STATIC)
+So Canadian companies represent a back door for U.S. firms to access capital and export markets , ##GENERIC SENTENCE (STATIC)
+and for smaller firms , ##OTHER
+a potential exit strategy . ##OTHER
+Many U.S. marijuana growers are positioning themselves as attractive acquisition targets for Canadian firms ##GENERIC SENTENCE (DYNAMIC)
+ eyeing the U.S. market . ##GENERIC SENTENCE (DYNAMIC)
+Canadian firms are using their head start ##GENERIC SENTENCE (DYNAMIC)
+ to sign trade deals ##GENERIC SENTENCE (DYNAMIC)
+ and secure licenses ##GENERIC SENTENCE (DYNAMIC)
+ to sell marijuana internationally . ##GENERIC SENTENCE (DYNAMIC)
+While the market remains limited , ##BASIC STATE
+ at least 30 countries ##OTHER
+ including Mexico , Germany and Italy have legalized medical marijuana . ##PERFECT COERCED STATE (SPECIFIC)
+And the numbers are growing ##GENERIC SENTENCE (DYNAMIC)
+ as scientific studies have demonstrated its utility for pain control , nausea and glaucoma . ##PERFECT COERCED STATE (GENERIC)
+Theres more than enough time ##GENERIC SENTENCE (STATIC)
+ for American companies to catch up , ##UNBOUNDED EVENT (GENERIC)
+ said Kris Krane , ##BOUNDED EVENT (SPECIFIC)
+president of 4Front Ventures , ##OTHER
+ which grows and sells marijuana in nine states . ##GENERALIZING SENTENCE (DYNAMIC)
+But the longer that we wait , ##UNBOUNDED EVENT (GENERIC)
+the longer we continue to maintain this unsustainable prohibition , ##UNBOUNDED EVENT (GENERIC)
+ the more difficult its going to be for American companies to catch up . ##COERCED STATE (GENERIC)
+Ready to export ##OTHER
+Changing public sentiments about marijuana in the United States ##OTHER 
+ have many American cannabis firms readying for the day ##UNBOUNDED EVENT (GENERIC)
+ they can legally sell their products elsewhere . ##GENERIC SENTENCE (STATIC)
+If the state borders do break open , ##COERCED STATE (GENERIC)
+ were preparing for that , ##UNBOUNDED EVENT (GENERIC)
+ said Sassano , ##BOUNDED EVENT (SPECIFIC)
+ who also is board chairman at Somai Pharmaceutical , ##BASIC STATE
+a holding company ##OTHER
+ based in Dublin ##BASIC STATE
+ that distributes medical cannabis products to pharmacies across Europe . ##GENERALIZING SENTENCE (DYNAMIC)
+That means an industry ##BASIC STATE
+ that began mainly ##BOUNDED EVENT (SPECIFIC)
+ as small mom-and-pop growers and retailers must now consider its corporate hygiene ##COERCED STATE (GENERIC)
+ and whether its meeting legal requirements to sell in these new markets . ##QUESTION
+LivWell is building large-scale indoor cannabis growing rooms in Colorado and Oregon ##UNBOUNDED EVENT (SPECIFIC)
+ designed ##GENERIC SENTENCE (STATIC)
+to scale up production for interstate or international commerce . ##UNBOUNDED EVENT (GENERIC)
+The new rooms have 30 - to 40-foot-high ceilings and state-of-the-art LED lighting cool enough to sit close to the plants . ##GENERIC SENTENCE (STATIC)
+Then you farm vertically , ##GENERIC SENTENCE (DYNAMIC)
+ said Dean Heizer , ##BOUNDED EVENT (SPECIFIC)
+LivWells chief legal strategist . ##OTHER
+We learned that from the microgreens ##UNBOUNDED EVENT (GENERIC)
+ that people are farming in old cities and in old skyscrapers . ##GENERIC SENTENCE (DYNAMIC)
+If you can cultivate in cubic meters , ##COERCED STATE (GENERIC)
+ you can scale . ##COERCED STATE (GENERIC)
+If youre cultivating in square feet , ##COERCED STATE (GENERIC)
+ you cant . ##COERCED STATE (GENERIC)
+With 11 states plus the District approving recreational use and 33 states ##UNBOUNDED EVENT (GENERIC)
+ legalizing medical marijuana , ##UNBOUNDED EVENT (GENERIC)
+ industry insiders believe ##GENERIC SENTENCE (STATIC)
+ marijuana may be legalized nationally in the near future , ##COERCED STATE (GENERIC)
+ greatly expanding its market . ##UNBOUNDED EVENT (GENERIC)
+In November , ##OTHER
+the House Judiciary Committee passed a bill ##BOUNDED EVENT (SPECIFIC)
+ with more than 50 co-sponsors ##OTHER
+ that would effectively make marijuana legal in the United States . ##COERCED STATE (SPECIFIC)
+Though unlikely to pass Congress immediately , ##BASIC STATE
+ it is seen as a sign of hope for the future . ##BASIC STATE
+Its just a matter of time , ##BASIC STATE
+Krane said . ##BOUNDED EVENT (SPECIFIC)
+How much time is very much a question of debate . ##BASIC STATE
+
+
+***0 5 5 1 5 5 5 1 YES ML YES 4 0 0 0 HUMAN

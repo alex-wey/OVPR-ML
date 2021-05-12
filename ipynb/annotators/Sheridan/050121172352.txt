@@ -1,0 +1,23 @@
+If California voters decide to legalize pot , ##COERCED STATE (GENERIC)
+ a group ##OTHER
+ that advocates for legalization in Colorado and Washington State ##GENERALIZING SENTENCE (DYNAMIC)
+ will face a litmus test . ##COERCED STATE (SPECIFIC)
+Members of a legal marijuana industry ##OTHER*
+ that advocates for legalization in Colorado and Washington State ##GENERALIZING SENTENCE (DYNAMIC)
+ will get a chance to present their case to the Colorado and Washington State Legislature on Tuesday ##COERCED STATE (GENERIC)
+ when they hold an attempt to use the legislation , ##COERCED STATE (GENERIC)*
+ known as Amendment 64 , ##BASIC STATE
+ to qualify as a business-friendly law . ##OTHER*
+The group had a keep it legal stance ##BASIC STATE
+ when the money ##OTHER
+ raised from marijuana sales ##BOUNDED EVENT (GENERIC)
+ was added to the pot budget . ##BOUNDED EVENT (SPECIFIC)
+But ##OTHER
+ since Colorado residents paid only a fraction of a penny for the drug , ##BOUNDED EVENT (GENERIC)
+ backers like the Marijuana Policy Project are starting to count the cost ##UNBOUNDED EVENT (GENERIC)
+ of keeping the pot income tax rate flat . ##UNBOUNDED EVENT (SPECIFIC)
+Without some political support , ##OTHER
+all kinds of medical and recreational operations in Colorado and Washington State will be forced to leave Denver , Colorado Springs , and Gaston to the mountains for Colorado and Washington State , ##COERCED STATE (GENERIC)
+ just like sales tax-exempt types of businesses in the U.S. currently do , ##GENERIC SENTENCE (DYNAMIC)
+ explains Media Matters for America legal director Stephanie Russell . ##BASIC STATE
+***0 5 5 0 0 0 0 0 YES ML YES 0 0 0 0 ALGORITHM

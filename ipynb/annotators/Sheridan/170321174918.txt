@@ -1,0 +1,62 @@
+Its finally here . ##GENERIC SENTENCE (STATIC)
+Its safer than ever . ##GENERIC SENTENCE (STATIC)
+And thats OK . ##BASIC STATE
+Some 1.4 million Americans currently use medical marijuana . ##GENERIC SENTENCE (DYNAMIC)
+A new study by the Boston-based American Civil Liberties Union claims ##BASIC STATE
+ that card-holders will finally be able to begin serving up their newly obtained drug ##GENERIC SENTENCE (STATIC)
+ when it is available . ##GENERIC SENTENCE (STATIC)
+That leaves over 2.7 million still in the dark . ##UNBOUNDED EVENT (GENERIC)
+The ACLU alleges ##BASIC STATE
+ that Americans now get an opportunity to be treated in-person ##UNBOUNDED EVENT (GENERIC)
+ rather than on a computer screen . ##OTHER
+Until recently , ##OTHER
+ weed was available in only one corner of every room in hospitals , ##GENERIC SENTENCE (HABITUAL)
+ ACLU director of communications Kurt McMurry said at a press briefing on Wednesday . ##BOUNDED EVENT (SPECIFIC)
+According to the newly released statistics , ##BASIC STATE
+ 9.3 percent of eligible voters are enrolled in part or all Medicaid programs , ##GENERIC SENTENCE (STATIC)
+ and more than 50 percent are on some kind of Medicare prescription drug plan . ##GENERIC SENTENCE (STATIC)
+At the same time , ##OTHER
+about 46 percent of low-income Americans between the ages of 55 and 64 use marijuana ##GENERIC SENTENCE (DYNAMIC)
+ or are on a prescription drug program . ##GENERIC SENTENCE (STATIC)
+We know ##GENERIC SENTENCE (STATIC)
+ that use of marijuana , ##OTHER
+especially recreational marijuana , ##OTHER
+ is growing in compliance with social safety net laws , ##UNBOUNDED EVENT (GENERIC)
+ McMurry said . ##BOUNDED EVENT (SPECIFIC)
+Being able to use marijuana in place of purchased medicinal marijuana ##GENERIC SENTENCE (STATIC)
+ is a victory in legalizing pot , ##GENERIC SENTENCE (STATIC)
+ and we do expect this practice to begin later this year . ##GENERIC SENTENCE (STATIC)
+According to the ACLU , ##BASIC STATE
+new programs include the State of Connecticut , Maine , Minnesota , and New York . ##GENERIC SENTENCE (STATIC)
+And the documents documents were released by the DOJ in a June 2015 filing at the end of this year . ##BOUNDED EVENT (SPECIFIC)
+As of Tuesday , ##OTHER
+critics had a tough time ##GENERIC SENTENCE (STATIC)
+ getting their hopes up following the feds announcement . ##UNBOUNDED EVENT (GENERIC)
+Even though the feds had no official announcement ##BASIC STATE
+ about how they would open a trial between Massachusetts and Vermont in 2017 , ##COERCED STATE (GENERIC)
+ officials claimed ##BOUNDED EVENT (SPECIFIC)
+ that additional testing would take place in Washington and Pennsylvania . ##COERCED STATE (GENERIC)
+The hopeful reports stem from the brown-bark controversy ##BASIC STATE
+ which erupted in 2016 ##BOUNDED EVENT (SPECIFIC)
+ following the news ##UNBOUNDED EVENT (SPECIFIC)
+ that Vermont had rejected all seven of the federal candidates for governor and Republican nominees to the U.S. Senate and vice-presidential race . ##PERFECT COERCED STATE (SPECIFIC)
+But McMurry , ##OTHER
+the ACLUs press officer , ##OTHER
+says ##BASIC STATE
+ the massive infusion of cash is necessary ##BASIC STATE
+ because the states population is underfunded to allow enough medical pot . ##GENERIC SENTENCE (STATIC)* //2
+The fact ##OTHER
+ that were talking about marijuana is a much larger priority than committing to it , ##UNBOUNDED EVENT (GENERIC) //4
+ he said . ##BOUNDED EVENT (SPECIFIC)
+Its also reason ##BASIC STATE
+ why the fees are increasing from the initial proposals for a trial ##UNBOUNDED EVENT (SPECIFIC)
+ and we believe ##BASIC STATE //3
+ this will have some deleterious effects in the long run . ##BASIC STATE //4
+According to the Associated Press , ##BASIC STATE
+ Massachusetts is on track to hit nearly 500,000 patients ##COERCED STATE (SPECIFIC)
+ using an additional investigatory segment of marijuana a month within the first 12 months of the medications introduction . ##UNBOUNDED EVENT (SPECIFIC) //3
+The Governors Office of Medical Marijuana Plans and Services said ##BOUNDED EVENT (SPECIFIC)
+ the average cost of medical marijuana now is about $34,000 . ##BASIC STATE
+The July 2016 filing from the Department of Public Health said ##BOUNDED EVENT (SPECIFIC)
+ the average annual cost of a medical marijuana plan for Massachusetts is around $50,000 . ##BASIC STATE
+***0 5 5 0 0 0 0 0 YES ML YES 5 3 1 2 ALGORITHM

@@ -1,0 +1,54 @@
+Corey Feldman is trying to set the record straight about his recent run-in with the law in Louisiana . ##UNBOUNDED EVENT (SPECIFIC)
+The star took to Twitter ##BOUNDED EVENT (SPECIFIC)
+ after multiple outlets reported ##BOUNDED EVENT (SPECIFIC)
+ that he was arrested for possession of illegal marijuana . ##BOUNDED EVENT (SPECIFIC)
+The former child-star , ##OTHER
+46 , ##OTHER
+was on his way to a gig with his band ##BOUNDED EVENT (SPECIFIC)
+ when their bus was pulled over for speeding . ##BOUNDED EVENT (SPECIFIC)
+According to The News Star , ##BASIC STATE
+the officer searched the vehicle ##BOUNDED EVENT (SPECIFIC)
+ after detecting the smell of marijuana . ##BOUNDED EVENT (SPECIFIC)
+Feldman and the rest of the people ##OTHER
+ traveling with him ##UNBOUNDED EVENT (SPECIFIC)
+ were arrested and charged with misdemeanor possession of marijuana , ##BOUNDED EVENT (SPECIFIC)
+ driving under a suspension and speeding . ##UNBOUNDED EVENT (GENERIC) //3
+Because the charges werent felonies , ##BASIC STATE
+ he was able to pay the $640 fine rather than posting bond . ##COERCED STATE (SPECIFIC)
+On Sunday , ##OTHER
+the star took to Twitter , ##BOUNDED EVENT (SPECIFIC)
+ where he explained his side of the story in a series of all-caps tweets . ##BOUNDED EVENT (SPECIFIC)
+HI # EVERYBODY & HAPPY 22ND ! ##OTHER
+4 THE RECORD , ##OTHER
+ I WAS NOT ARRESTED OR PUT IN JAIL . ##COERCED STATE (SPECIFIC)
+I RECEIVED A MISDEMEANOR IN LOUISIANA , ##BOUNDED EVENT (SPECIFIC)
+DUE 2 A MEMBER OF MY CREW ##OTHER
+ HAVING MEDICAL MARIJUANA , ##BASIC STATE
+ WITH A LEGAL CA PRESCRIPTION , ##OTHER
+ I HAD NOTHING ON ME , ##BASIC STATE
+ BUT WAS CHARGED ##BOUNDED EVENT (SPECIFIC)
+ BECAUSE ITS MY BUS. ##BASIC STATE
+aLSO 5 OTHERS WERE CHARGED DUE 2 ##BOUNDED EVENT (SPECIFIC)
+ HAVING LEGAL MEDICINES WITHOUT THEIR PARTICULAR BOTTLES . ##BASIC STATE //3
+NO ILLEGAL OR STREET DRUGS WERE FOUND ON THE BUS AT ALL ! ##COERCED STATE (SPECIFIC)
+WHICH IS Y NOBODY SPENT THE NIGHT IN JAIL . ##COERCED STATE (GENERIC) //4
+HOWEVER WE WERE PROMISED ##BOUNDED EVENT (SPECIFIC)
+ THAT THESE CHARGES COULD ALL B DROPPED WITH PROOF OF PROPER SCRIPTS ! ##COERCED STATE (SPECIFIC)
+IT WAS A BIT OF A GOOD OL SHAKEDOWN ! ##BASIC STATE
+AFTER WE PAID THEM IN CASH , ##BOUNDED EVENT (SPECIFIC)
+ THEY ASKED 4 PICS & AUTOGRAPHS , ##BOUNDED EVENT (SPECIFIC)
+ & THEN CALLED THE LOCAL PAPER 2 DO INTERVIEWS ! ##BOUNDED EVENT (SPECIFIC)
+I DO FIND THE TIMING OF ALL THIS IRONIC . ##BASIC STATE //4
+Feldman went on to say ##BOUNDED EVENT (SPECIFIC)
+ that his band is continuing its tour , ##UNBOUNDED EVENT (SPECIFIC)
+ stopping to raise money for Houston next . ##COERCED STATE (SPECIFIC)
+As Us Weekly notes , ##BASIC STATE
+ his statement about the timing of the situation being ironic likely ##BASIC STATE
+ has to do with the fact ##BASIC STATE
+ that he recently spoke out against disgraced Hollywood mogul Harvey Weinstein , ##BOUNDED EVENT (SPECIFIC)
+ propelling him back into national attention . ##UNBOUNDED EVENT (SPECIFIC)
+The star has claimed for years ##PERFECT COERCED STATE (SPECIFIC)
+ that he and his former costar , ##OTHER
+Corey Haim , ##OTHER
+were the victims of pedophiles in Hollywood . ##BASIC STATE
+***0 5 5 0 0 0 0 0 YES ML YES 0 2 5 3 HUMAN

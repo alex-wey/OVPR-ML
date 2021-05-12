@@ -1,0 +1,47 @@
+Seth Rogen last month released the first trailer for his next film , ##BOUNDED EVENT (SPECIFIC)
+" The Interview , " ##OTHER
+ and it 's nothing short of stunning . ##BASIC STATE
+It 's also a turn for Rogen . ##BASIC STATE
+But what did viewers say about it ? ##QUESTION
+Not according to Rogen . ##OTHER
+A lot of people still do n't even know ##GENERIC SENTENCE (STATIC)
+ what he 's talking about , ##QUESTION
+ and that 's no accident . ##BASIC STATE
+" Well , it was kind of funny . ##GENERIC SENTENCE (STATIC)
+I do n't even know ##BASIC STATE
+ who 's doing the suspension wire , " ##QUESTION 
+ he told People magazine about the film . ##BOUNDED EVENT (SPECIFIC)
+" But it is an interesting kind of film . ##BASIC STATE
+It 's like , ##BASIC STATE
+ 'Get out of your house today .'" ##IMPERATIVE
+The latest casting has also confirmed a well-known character ##PERFECT COERCED STATE (SPECIFIC)
+ that the comic actor has filled with a central role in the upcoming " Infamous : Second Son . " ##PERFECT COERCED STATE (SPECIFIC)
+Rogen acknowledged ##BOUNDED EVENT (SPECIFIC)
+ that he was more of a smoking weed in it than with the second draft of the film , ##BASIC STATE
+ but he said this to People magazine ##BOUNDED EVENT (SPECIFIC)
+ via email ##OTHER
+ that " it 's had no affect on my movie . " ##PERFECT COERCED STATE (SPECIFIC)
+Indeed , he 's been busy with the comedy routine side of " 30 Rock , " ##PERFECT COERCED STATE (SPECIFIC)
+a role ##OTHER
+ that he has filled for the last six years . ##PERFECT COERCED STATE (SPECIFIC)
+Rogen took to the chatroom in January ##BOUNDED EVENT (SPECIFIC)
+ to discuss "The Interview , " ##UNBOUNDED EVENT (SPECIFIC)
+and most of the film feels ##BASIC STATE
+ like the kind of movie audience Reelz would enjoy watching . ##COERCED STATE (GENERIC)
+And ##OTHER
+ while he rarely performs in a film , ##GENERALIZING SENTENCE (DYNAMIC)
+ fans of Rogen on the big screen can likely expect plenty of action and dialogue in this film . ##GENERIC SENTENCE (STATIC)
+As far as the film itself , ##OTHER
+Rogen is not going to admit ##COERCED STATE (SPECIFIC)
+ that he was the guy ##BASIC STATE
+ who put Bruce Willis into the role of James Franco in the spoof " 127 Hours " 
+ -- this is usually considered the remaking of a dumb joke . ##GENERIC SENTENCE (HABITUAL)
+Rogen took to his Twitter feed this week ##UNBOUNDED EVENT (SPECIFIC)
+ to debunk his many jokes about the film , ##UNBOUNDED EVENT (SPECIFIC)
+ saying ##BOUNDED EVENT (SPECIFIC)
+ he had n't seen the script yet . ##PERFECT COERCED STATE (SPECIFIC)
+With the cameo from Christopher Walken in the film , ##OTHER
+ Rogen said ##BOUNDED EVENT (SPECIFIC)
+ he would probably play himself in " the movie . " ##COERCED STATE (SPECIFIC)
+
+***0 5 3 2 1 1 1 3 NO NA NO 0 0 0 0 ALGORITHM

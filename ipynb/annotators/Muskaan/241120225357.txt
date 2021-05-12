@@ -1,0 +1,94 @@
+The 66th Annual Primetime Emmys might have lacked in laughs , ##BASIC STATE
+ but it still managed to hit plenty of high notes . ##BOUNDED EVENT (SPECIFIC)
+Monday nights telecast was peppered in jabs and jokes ##BASIC STATE
+ centered on pot ##GENERIC SENTENCE (STATIC)
+ which is legal for medical purposes in the state of California ##GENERIC SENTENCE (STATIC)
+ and perhaps signifies how vast the movement is gaining acceptance across the country . ##COERCED STATE (SPECIFIC)
+Cable is looking at Netflix the way ##GENERIC SENTENCE (DYNAMIC)
+ Justin Bieber looks at One Direction , ##GENERALIZING SENTENCE (DYNAMIC)
+ through a cloud of marijuana smoke , ##OTHER
+ host Seth Meyers said in his opening monologue , ##BOUNDED EVENT (SPECIFIC)
+ mocking the pop princes various alleged encounters with marijuana-centric controversies . ##BOUNDED EVENT (SPECIFIC)
+Haley Delany later praiseD her Louie TV father Louis C.K in a pre-taped video for educating her ##BOUNDED EVENT (SPECIFIC)
+ on how to properly hold a joint , ##OTHER
+ while Jimmy Kimmel took aim at actor Matthew McConaughey for selling his television for a conch shell full of weed . ##BOUNDED EVENT (SPECIFIC)
+Amy Poehler took the marijuana antics one step further ##BOUNDED EVENT (SPECIFIC)
+ by declaring ##BOUNDED EVENT (SPECIFIC)
+ that McConaughey and his True Detective co-star Woody Harrelson are menu items at most marijuana dispensaries . ##GENERIC SENTENCE (STATIC)
+Singer Adam Levine also gave us a small fist pump in support of the legalization of marijuana in the United States . ##BOUNDED EVENT (SPECIFIC)
+But it was Sarah Silvermans weed-promoting antics throughout the evening ##OTHER
+ that garnered the most attention . ##UNBOUNDED EVENT (SPECIFIC)
+This is my pot , ##BASIC STATE
+my liquid pot , ##BASIC STATE
+ she enthused on the red carpet , ##BOUNDED EVENT (SPECIFIC)
+ pulling out her vaporizer pen ##BOUNDED EVENT (SPECIFIC)
+ and later insisting ##BOUNDED EVENT (SPECIFIC)
+ that her purse must-haves are a phone and pot and gum . ##GENERIC SENTENCE (STATIC)
+The comedienne went on ##BOUNDED EVENT (SPECIFIC)
+ to win the award for Outstanding Writing in a Variety Special for her HBO Comedy Special Sarah Silverman : ##BOUNDED EVENT (SPECIFIC)
+ We Are Miracles , ##OTHER
+ kicking off her shoes ##BOUNDED EVENT (SPECIFIC)
+ and running fiercely to the stage ##BOUNDED EVENT (SPECIFIC)
+ where she declared ##BOUNDED EVENT (SPECIFIC)
+ that ##OTHER
+ were all just made of molecules ##GENERIC SENTENCE (STATIC)
+ and were all hurling through space right now . ##UNBOUNDED EVENT (GENERIC)
+But the oddities didnt end there . ##BOUNDED EVENT (GENERIC)
+A distracted Silverman attributed her questionable actions to feeling weird having just watched the Robin Williams tribute , ##BOUNDED EVENT (SPECIFIC)
+ and insisted ##BOUNDED EVENT (SPECIFIC)
+ that she wasnt stoned . ##BASIC STATE
+I dont drink . ##GENERALIZING SENTENCE (DYNAMIC)
+I like to have a puff as a treat at appropriate times , ##BASIC STATE
+ she continued , ##BOUNDED EVENT (SPECIFIC)
+ also noting ##BOUNDED EVENT (SPECIFIC)
+ that ##OTHER
+ she brought some pot-based goods for later in the evening . ##UNBOUNDED EVENT (SPECIFIC)
+However , ##OTHER
+the nonsensical rhetoric was particularly evident after she was asked ##BASIC STATE
+ what her Jewish mother would think of her accepting such an award sans footwear . ##COERCED STATE (SPECIFIC)
+Well my Jewish mom wears overalls with two different color socks ##GENERALIZING SENTENCE (DYNAMIC)
+ so ##OTHER
+ I think ##BASIC STATE
+ shed go , ##COERCED STATE (SPECIFIC)
+think ##BASIC STATE
+ it was cool . ##BASIC STATE
+But dont tell anyone ##IMPERATIVE
+ Im doing this . ##UNBOUNDED EVENT (SPECIFIC)
+They just hurt , ##BASIC STATE
+the shoes just hurt , ##BASIC STATE
+ Silverman rambled . ##BOUNDED EVENT (SPECIFIC)
+Theyre very nice . ##BASIC STATE
+Theyre by Geppetto . ##BASIC STATE
+I remember that ##BASIC STATE
+ because he made Pinocchio ##BOUNDED EVENT (SPECIFIC)
+ and also clearly designed shoes for the Nazi war effort . ##BOUNDED EVENT (SPECIFIC)
+Dont be mad at me . ##IMPERATIVE
+Even when the cameras werent rolling , ##UNBOUNDED EVENT (GENERIC)
+ Silvermans potentially pot-peppered ways went on . ##UNBOUNDED EVENT (GENERIC)
+As she left the Nokia Theater ##BOUNDED EVENT (SPECIFIC)
+ and made her way down the street to the Governors Ball , ##UNBOUNDED EVENT (SPECIFIC)
+ her heels still in her hand , ##BASIC STATE
+ Silverman seemed strung out about missing her purse ##BASIC STATE
+ abruptly stopping in her tracks ##BOUNDED EVENT (SPECIFIC)
+ to try and sort the matter out . ##BOUNDED EVENT (SPECIFIC)
+The pot-themed awards show wasnt ##BASIC STATE
+ lost on audiences either . ##OTHER
+Was this the first Emmys since pot was legalized or something ? ##QUESTION
+one viewer tweeted , ##BOUNDED EVENT (SPECIFIC)
+ others called it something of a stony night ##UNBOUNDED EVENT (GENERIC)
+ while another quipped : ##BOUNDED EVENT (SPECIFIC)
+ lets give it up for the real winner tonight ##IMPERATIVE
+Im talking of course , ##UNBOUNDED EVENT (SPECIFIC)
+ about pot . ##OTHER
+As it stands , ##OTHER
+ 23 states and DC have legislation ##BASIC STATE
+ allowing medical marijuana usage ; ##GENERIC SENTENCE (STATIC)
+with the issue of decriminalizing pot use altogether a growing topic of debate ahead of the 2016 Presidential election . ##BASIC STATE
+But the promotion of pot at the Emmy Awards is likely just the beginning . ##BASIC STATE
+According to multiple reports , ##BASIC STATE
+ the hand-held Haze Vaporizer by Haze Technologies will be featured in the official Oscars 2015 gift bag . ##COERCED STATE (GENERIC)
+While e-cigarettes have previously been nestled in the goodie bag , ##GENERIC SENTENCE (STATIC)
+ this will mark the first time ##COERCED STATE (SPECIFIC)
+ a marijuana-focused vaporizer will be rolled inside . ##GENERIC SENTENCE (STATIC)
+
+***0 5 5 5 5 5 5 1 YES ML YES 4 0 0 0 HUMAN

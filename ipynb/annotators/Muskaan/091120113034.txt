@@ -1,0 +1,78 @@
+A legislator ##OTHER
+ who said ##BOUNDED EVENT (SPECIFIC)
+ he has " never smoked a cigarette or a weed and I 'm somewhat of a teetotaler " today ##PERFECT COERCED STATE (SPECIFIC)
+ urged his colleagues to authorize a study ##BOUNDED EVENT (SPECIFIC)
+ of whether Maryland should become the first state ##COERCED STATE (SPECIFIC)
+ to fully legalize marijuana . ##UNBOUNDED EVENT (SPECIFIC)
+Del. Charles A. Docter ##OTHER
+ ( D-Montgomery ) ##OTHER
+ said ##BOUNDED EVENT (SPECIFIC)
+ that " keeping laws on the books ##GENERIC SENTENCE (STATIC)
+ that are not prosecuted , ##GENERIC SENTENCE (DYNAMIC)
+ or are prosecuted unevenly , ##GENERIC SENTENCE (DYNAMIC)
+ decreases the respect for law and order . " ##GENERIC SENTENCE (DYNAMIC)
+Docter said ##BOUNDED EVENT (SPECIFIC)
+ " kids disrespect " marijuana laws much the way ##GENERIC SENTENCE (STATIC)
+ their grandparents ignored the prohibition of alcohol . ##UNBOUNDED EVENT (GENERIC)
+" A hypocrisy has set in ," ##PERFECT COERCED STATE (SPECIFIC)
+said Docter , ##BOUNDED EVENT (SPECIFIC)
+ citing reports ##BOUNDED EVENT (SPECIFIC)
+ that marijuana " may not be as bad as alcohol . " ##GENERIC SENTENCE (STATIC)
+He said ##BOUNDED EVENT (SPECIFIC)
+ its popularity is increasing and more and more young people through their 30s are becoming " regular instead of occasional users . " ##UNBOUNDED EVENT (GENERIC)
+He noted ##BOUNDED EVENT (SPECIFIC)
+ that President Ford 's son has admitted smoking it ##PERFECT COERCED STATE (SPECIFIC)
+ and one of President Carter 's sons was " busted out of the Navy 
+ for using it . " ##BOUNDED EVENT (SPECIFIC)
+Docter's resolution calls ##BASIC STATE
+ for a nine-member task force to study the " legalization , control and distribution " of marijuana . ##UNBOUNDED EVENT (SPECIFIC)
+It met with criticism within the House Judiciary Committee today , ##BOUNDED EVENT (SPECIFIC)
+ although all of the cityzen witnesses favored it . ##BOUNDED EVENT (SPECIFIC)
+Docter said ##BOUNDED EVENT (SPECIFIC)
+ he is " not necessarily " in favor of legalizing the use of marijuana ##BASIC STATE
+ but he believes ##BASIC STATE
+ the task force should study that possiblity . ##COERCED STATE (SPECIFIC)
+"We should move , ##COERCED STATE (GENERIC)
+ but carefully " in that direction , ##OTHER
+ Docter said . ##BOUNDED EVENT (SPECIFIC)
+A second measure , ##OTHER
+ sponsored by Sen. Clarence M. Mitchell III ##BASIC STATE
+ ( D-Baltimore ) , ##OTHER
+ would decriminalize the use of marijuana ##COERCED STATE (GENERIC)
+ by permitting persons ##GENERIC SENTENCE (STATIC)
+ cited for possession of one ounce or less ##COERCED STATE (GENERIC)
+ to post collateral of no more than $100 . ##UNBOUNDED EVENT (SPECIFIC)
+Similar to parking tickets , ##OTHER
+additional offenses would be treated the same way . ##COERCED STATE (GENERIC)
+Eight states have decriminalized possession of small amounts of marijuana ,  ##COERCED STATE (SPECIFIC)
+ but Docter said ##BOUNDED EVENT (SPECIFIC)
+ reducing the penalty is a " copout " ##GENERIC SENTENCE (STATIC)
+ that does n't solve the problem of forcing users to deal with criminal pushers . ##GENERIC SENTENCE (STATIC)
+It also does not permit states to set minimum standards of quality and a minimum age for users , ##BASIC STATE
+ both of which Docter favors . ##BASIC STATE
+Del. Steven V. Sklar  ##OTHER
+ ( D-Baltimore ) ##OTHER
+ said ##BOUNDED EVENT (SPECIFIC)
+ he opposes legalization or decriminalization , ##BASIC STATE 
+ noting ##BOUNDED EVENT (SPECIFIC)
+ that the pressure for change is coming from people ##GENERIC SENTENCE (DYNAMIC)
+ who have abused the law , ##PERFECT COERCED STATE (GENERIC)
+ "These kids have been violating the law from the beginning . ##PERFECT COERCED STATE (GENERIC)
+Where is the respect ? " ##QUESTION
+Sklar asked . ##BOUNDED EVENT (SPECIFIC)
+State 's Attorney Andrew Sonner of Montgomery County testified ##BOUNDED EVENT (SPECIFIC)
+ that existing laws are enforced unevenly . ##GENERIC SENTENCE (STATIC)
+" Many police officers confiscate the stuff  ##GENERIC SENTENCE (DYNAMIC)
+ but release the person ,"  ##GENERIC SENTENCE (DYNAMIC)
+said Sonner , ##BOUNDED EVENT (SPECIFIC)
+ who has instructed his staff  ##PERFECT COERCED STATE (SPECIFIC)
+ not to prosecute persons ##GENERIC SENTENCE (DYNAMIC)
+ arrested for possessing small amounts of marijuana for their own use . ##GENERIC SENTENCE (STATIC)
+Before adopting that policy , ##BOUNDED EVENT (SPECIFIC)
+Sonner said  ##BOUNDED EVENT (SPECIFIC)
+ the " universal result " of defendants ##OTHER
+ who appeared in Montgomery County courts ##GENERIC SENTENCE (DYNAMIC)
+ was that they were placed on probation ##GENERIC SENTENCE (DYNAMIC)
+ and their criminal records later expunged . ##GENERIC SENTENCE (DYNAMIC)
+
+***0 5 5 4 5 5 5 1 YES ML NO 0 0 0 0 HUMAN

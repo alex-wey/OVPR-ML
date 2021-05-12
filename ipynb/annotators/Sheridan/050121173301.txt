@@ -1,0 +1,24 @@
+James Pastman was arrested this morning in Chicagos Far North Side ##BOUNDED EVENT (SPECIFIC)
+ after police found ##BOUNDED EVENT (SPECIFIC)
+ that he had been growing marijuana in his home . ##PERFECT COERCED STATE (SPECIFIC)
+The legal trouble gets worse for Pastman , ##UNBOUNDED EVENT (SPECIFIC) //4
+50 : ##OTHER
+ his apartment is right above a preschool . ##BASIC STATE
+A dog ##OTHER
+ barking out an open window in the building attracted officers attention . ##BOUNDED EVENT (SPECIFIC)
+Given the cold temperatures , ##OTHER
+ they decided to check on the dogs owner . ##BOUNDED EVENT (SPECIFIC)
+When they entered the building , ##BOUNDED EVENT (SPECIFIC)
+ they immediately detected an overwhelming odor of ganja . ##BOUNDED EVENT (SPECIFIC)
+They knocked on Pastmans door , ##BOUNDED EVENT (SPECIFIC)
+ who admitted ##BOUNDED EVENT (SPECIFIC)
+ that hed been growing pot ##PERFECT COERCED STATE (SPECIFIC)
+ and allowed the officers to enter his home ##BOUNDED EVENT (SPECIFIC)
+ and seize his ( apparently quite elaborate ) ##BOUNDED EVENT (SPECIFIC)
+ irrigation , lighting and ventilation systems , ##OTHER
+as well as a number of cannabis plants . ##OTHER
+Pastman has been charged with felony manufacturing and delivery within 1,000 feet of a school , ##PERFECT COERCED STATE (SPECIFIC)
+ which means ##BASIC STATE
+ his crime is automatically a Class 1 felony , ##BASIC STATE
+ according to Illinois marijuana statutes . ##BASIC STATE
+***0 5 5 4 5 5 5 1 YES ML YES UNCLEAR(2) 0 0 0 HUMAN
