@@ -1,0 +1,9 @@
+beautifulsoup4==4.9.3
+bs4==0.0.1
+nltk==3.5
+numpy==1.19.5
+pandas==1.1.5
+regex==2019.4.14
+requests==2.25.1
+urllib3==1.26.4
+warcio==1.7.4
