@@ -1,5 +1,5 @@
 # About
-Hi there - welcome to the OVPR-ML repository. Over the past year, I have been building a pipeline that captures data focused on marijuana legalization from Common Crawl and Reddit. This data is stored, processed, and fed into the [Grover](https://github.com/rowanz/grover) model to generate synthetic texts. The human and computer-generated texts are annotated by researchers to be used for building a computation model of social and political narratives underlying online discourse.
+Welcome to the OVPR-ML repository. Over the past year, I have been building a data pipeline that processes data focused on marijuana legalization from Common Crawl and Reddit. This data is extracted, transformed, and loaded into the [Grover](https://github.com/rowanz/grover) model to generate synthetic texts. The human and generated texts are annotated by researchers to be used for building a computation model of social and political narratives underlying online discourse.
 
 # Setup
 
@@ -9,14 +9,13 @@ Hi there - welcome to the OVPR-ML repository. Over the past year, I have been bu
 3. Make sure that you adjust the paths in `generate.py` respective to the Grover repository
 
 ## Common Crawl
-1. Download the [CC Index Server](https://github.com/ikreymer/cc-index-server) repository
+1. Download the [CC Index Server](https://github.com/commoncrawl/cc-index-server) repository
 2. Follow the "Usage & Installation"
 3. When scraping Common Crawl, `cd cc-index-server` and run `cdx-server`
 
 ## Reddit
-1. Go to Babak Hemmatian's [Reddit Marijuana Legalization Corpus: Full Data Cleaned (8.5.2020)](https://drive.google.com/drive/u/1/folders/1yx2lmbrbHr0uAA8zLj-TbHaXqOrcNhw6)
-2. Download `author`, `original_comm`, and `subreddit` folders into this repository's `data` folder
-3. You may delete the `author`, `original_comm`, and `subreddit` files that exist in these folders, respectively
+1. Go to Alex Wey's [Reddit Marijuana Legalization Corpus: Full Data Cleaned](https://drive.google.com/drive/u/1/folders/1yx2lmbrbHr0uAA8zLj-TbHaXqOrcNhw6)
+2. Download all folders into this repository's `data` folder
 
 # Codebase
 
